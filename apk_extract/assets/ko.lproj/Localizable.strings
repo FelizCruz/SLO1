@@ -1,0 +1,2521 @@
+/*
+ Localizable.strings
+ Slugterra: Slug it Out!
+ 
+ Created by Jeremy Peterson on 13-01-31.
+ 
+ Main localized strings table for the game.
+ 
+ */
+
+
+/* Common UI */
+
+"dialog_button_ok" = "확인"; // Confirmation button text.
+"dialog_button_yes" = "예"; // Confirmation button text.
+"dialog_button_no" = "아니오"; // Confirmation button text.
+//"button_ok" = "OK"; // Confirmation button text.
+"button_cancel" = "취소"; // Confirmation button text.
+//"button_accept" = "Accept"; // Confirmation button text.
+//"button_exit" = "Exit"; // Confirmation button text.
+//"button_nav_next" = "Next"; // Confirmation button text.
+//"button_nav_back" = "Back"; // Confirmation button text.
+//"button_go_now" = "Go Now!"; // Confirmation button text.
+/* End Common UI */
+
+
+
+/* Top HUD */
+
+"tophud_button_get_more_coins" = "추가 코인 얻기";
+
+/* End Top HUD */
+
+/* Chapter 1 */
+
+//Encounter 1
+"enc_c1e1o1_dialog_1a" = "오호, 동굴 트롤이군. 항상 동굴 트롤을 만나고 싶었지!";
+"enc_c1e1o1_dialog_2a" = "나는 코드 제인이야. 너는 이곳 출신이 아닌 것 같은데?";
+"enc_c1e1o1_dialog_2b" = "아무래도 네게 호신술을 가르쳐야겠구나. 아래 타일 격자를 잘 봐.";
+"enc_c1e1o1_dialog_3a" = "타일을 누른 다음 가까운 타일 쪽으로 밀면서 움직여보도록 해.";
+"enc_c1e1o1_dialog_4a" = "아주 좋아, 그 정도면 됐어.";
+"enc_c1e1o1_dialog_5a" = "좋아, 일라이. 이제 타일을 맞추는 법을 알려줄게.";
+"enc_c1e1o1_dialog_6a" = "여기 3개의 블래스터 타일을 한번 맞춰봐.";
+"enc_c1e1o1_dialog_7a" = "이런, 정말 처음 해보는 블래스터 샷이었어? 나를 정말 맞출 거라곤 생각 못 했는걸.";
+"enc_c1e1o1_dialog_7b" = "다음엔 그렇게 운이 좋지 않을 거야.";
+"enc_c1e1o1_dialog_8a" = "다른 블래스터 타일도 움직여서 맞춰 봐!";
+"enc_c1e1o1_dialog_9a" = "이런 이런, 실력이 꽤 좋은걸... 하지만 나도 블래스터를 잘 다루지. 한번 겨뤄볼까!";
+"enc_c1e1o1_dialog_10a" = "어이쿠, 이런 이런! 어떻게 한 거야? 아 참, 내가 하라고 했지...";
+
+//Encounter 2
+"enc_c1e2o1_dialog_1a" = "그래, 좋았어! 다음 과제는 회복이야.";
+"enc_c1e2o1_dialog_2a" = "회복 타일 3개를 맞추면 체력 게이지를 회복할 수 있어.";
+"enc_c1e2o1_dialog_3a" = "좀 나아졌나? 좋아!";
+"enc_c1e2o1_dialog_4a" = "미안, 내 블래스터가 너무 강했군. 체력을 회복하도록 해.";
+"enc_c1e2o1_dialog_5a" = "이번엔 회복 타일 4개를 맞춰봐.";
+"enc_c1e2o1_dialog_6a" = "한번에 여러 개의 타일을 맞출수록 더 좋아.";
+"enc_c1e2o1_dialog_6b" = "이제 대결에서 얼마나 오래 버틸 수 있는지 한번 볼까.";
+"enc_c1e2o1_dialog_7a" = "아아, 내가 거의 이긴 거였는데.";
+"enc_c1e2o1_dialog_8a" = "이러다가는 되려 내가 배워야 되겠는걸?";
+"enc_c1e2o1_dialog_9a" = "아 맞아. 이건 테스트였지... 합격이야!";
+
+//Encounter 3
+"enc_c1e3o1_dialog_1a" = "설마 그건 인퍼너스 슬러그인가?";
+"enc_c1e3o1_dialog_2a" = "그 친구의 이름은 버피야. 멋진 친구지.";
+"enc_c1e3o1_dialog_3a" = "인퍼너스 슬러그는 강력한 불 크리처로 변신해.";
+"enc_c1e3o1_dialog_4a" = "버피가 변신을 연습하고 싶다는군.";
+"enc_c1e3o1_dialog_5a" = "불 타일을 서로 맞춰서 버피의 공격력을 높여봐!";
+"enc_c1e3o1_dialog_6a" = "계속 해봐! 더 강한 힘이 필요해.";
+"enc_c1e3o1_dialog_7a" = "한번에 5개의 불 타일을 맞추면 버피에게 1레벨이 충전돼.";
+"enc_c1e3o1_dialog_8a" = "버피의 파워업에 성공했으니 슬러그를 눌러서 새로운 공격을 시도해봐!";
+"enc_c1e3o1_dialog_9a" = "아야, 아야, 아야. 알았어. 잘 하는 것 같으니 이번엔 대결이야!";
+"enc_c1e3o1_dialog_10a" = "어이쿠! 다음 번엔 내 바지에 불똥이 튀지 않게 조심해!";
+"enc_c1e3o1_dialog_10b" = "첫 대결을 위한 준비가 끝난 것 같군! 빨리 해보자고!";
+
+/* End Chapter 1 */
+
+/* Slug Seeker Cavern */
+
+"name_cavern_seeker_catch_name" = "슬러그 시커 동굴에서 찾기!";
+
+"name_cavern_seeker_watch_video_name" = "영상을 시청하면 이 동굴을 획득할 수 있습니다!";
+
+"name_cavern_seeker_chest_reward_name" = "상자를 클릭해 보너스를 획득하세요!";
+
+"name_cavern_seeker_lose_booster_name" = "도움이 필요하세요? 부스터를 써서 다시 시도하세요!";
+
+"name_cavern_seeker_lose_name" = "포기하지 말고 보너스를 획득하세요!";
+
+"name_cavern_seeker_win_coins_name" = "축하합니다!  <Coin Variable> 코인을 획득했습니다!";
+
+"name_cavern_seeker_win_slugs_name" = "축하합니다! 새 슬러그를 획득했습니다!";
+
+"name_cavern_seeker_win_characters_name" = "축하합니다! 새 캐릭터를 찾았습니다!";
+
+"name_cavern_seeker_win_boosters_name" = "축하합니다! 부스터를 찾았습니다!";
+
+"name_cavern_seeker_unlocked_name" = "슬러그 시커 동굴이 열렸습니다! 동굴을 탐험해 무료 레어 슬러그를 찾아보세요!";
+
+"main_menu_play_adventure_mode" = "어드벤처 모드";
+
+"name_cavern_slug_seeker_name" = "슬러그 시커";
+
+"name_cavern_seeker_encounter_name" = "인카운터:";
+
+"name_cavern_seeker_play_name" = "지금 플레이!";
+
+/* End Slug Seeker Cavern */
+
+/* Tutorial Popups */
+"tutorial_popup_starting_msg2" = "\"구입 버튼\"을 눌러 새 슬러그를 획득해!";
+"tutorial_popup_starting_msg3" = "슬러그를 슬롯 쪽으로 끌면 장착할 수 있어! 이제 대전 준비 끝!";
+"tutorial_popup_starting_msg4" = "%@ 획득 가능! 지금 확인해봐!"; // %@ will be replaced with the name of a slug.
+"tutorial_popup_starting_msg_coin" = "보너스";
+
+
+/* End Tutorial Popups */
+
+/* Challenge Mode */
+
+/* Gridlock */
+
+//Encounter 1 - Tutorial
+"name_gridlock_challenge" = "그리드락";
+"enc_gridlock_e1_dialog_1a" = "무슨 일이 벌어지고 있는 거야?";
+"enc_gridlock_e1_dialog_2a" = "자, 특별 미션이야. 상대는 공격력은 강하지만 체력이 서서히 줄어들지. 그러니까 살아 남기만 하면 돼!";
+"enc_gridlock_e1_dialog_3a" = "보드 타일 몇 개는 고정된 상태니 조심하도록 해!";
+"enc_gridlock_e1_dialog_4a" = "좋아, 시작하자고!";
+"enc_gridlock_e1_dialog_1b" = "좋았어! 하지만 조심해. 대전은 점점 어려워질 테니까!";
+"enc_gridlock_e1_dialog_2b" = "모든 대전에 승리하면 멋진 보상이 주어져! 도전해봐!";
+
+/* Bombastic */
+
+//Encounter 1 - Tutorial
+"name_bombs_challenge" = "봄바스틱";
+"enc_bombastic_e1_dialog_1a" = "무슨 일이 벌어지고 있는 거야?";
+"enc_bombastic_e1_dialog_2a" = "자, 특별 미션이야. 슬러그가 자동 발사되도록 블래스터가 오버드라이브 상태에 맞춰져 있어. 타일을 많이 맞출수록 샷의 위력이 더욱 높아질 거야!";
+"enc_bombastic_e1_dialog_3a" = "상대는 공격력은 강하지만 체력이 서서히 줄어들지. 그러니까 살아 남기만 하면 돼! 그리고 기억할 것: 폭탄들!";
+"enc_bombastic_e1_dialog_4a" = "좋아, 시작하자고!";
+"enc_bombastic_e1_dialog_1b" = "좋았어! 하지만 조심해. 대전은 점점 어려워질 테니까!";
+"enc_bombastic_e1_dialog_2b" = "모든 대전에 승리하면 멋진 보상이 주어져! 도전해봐!";
+
+
+/* Draino */
+
+//Encounter 1 - Tutorial
+"name_draino_challenge" = "드레이노";
+"enc_draino_e1_dialog_1a" = "무슨 일이 벌어지고 있는 거야?";
+"enc_draino_e1_dialog_2a" = "자, 특별 미션이야. 슬러그 에너지가 점점 떨어지지. 슬러그 충전 상태를 유지하려면 타일을 빠르게 맞춰야 해!";
+"enc_draino_e1_dialog_3a" = "좋아, 시작하자고!";
+"enc_draino_e1_dialog_1b" = "좋았어! 하지만 조심해. 대전은 점점 어려워질 테니까!";
+"enc_draino_e1_dialog_2b" = "모든 대전에 승리하면 멋진 보상이 주어져! 도전해봐!";
+
+
+/* Stunlock */
+
+//Encounter 1 - Tutorial
+"name_stunlock_challenge" = "스턴락";
+"enc_stunlock_e1_dialog_1a" = "무슨 일이 벌어지고 있는 거야?";
+"enc_stunlock_e1_dialog_2a" = "자, 특별 미션이야. 상대는 공격력은 강하지만 체력이 서서히 줄어들지. 그러니까 살아 남기만 하면 돼!";
+"enc_stunlock_e1_dialog_3a" = "좋아, 시작하자고!";
+"enc_stunlock_e1_dialog_1b" = "좋았어! 하지만 조심해. 대전은 점점 어려워질 테니까!";
+"enc_stunlock_e1_dialog_2b" = "모든 대전에 승리하면 멋진 보상이 주어져! 도전해봐!";
+
+/* Sudden Death */
+
+//Encounter 1 - Tutorial
+"name_sudden_death_challenge" = "서든 데스";
+"enc_sudden_e1_dialog_1a" = "무슨 일이 벌어지고 있는 거야?";
+"enc_sudden_e1_dialog_2a" = "자, 특별 미션이야. 절대 공격을 당하면 안돼! 한 번이라도 상대에게 맞으면 대전에 패배하고 말아. 철저히 방어하면서 빈틈을 보이지 않도록 해!";
+
+"enc_sudden_e1_dialog_2a2" = "자, 특별 미션이야. 체력이 거의 없는 상태로 시작하니까 조심해야 해! 최대한 공격을 피하고 회복하면서 진행해야 할 거야!";
+"enc_sudden_e1_dialog_3a" = "블래스터가 오버드라이브로 설정되어 있으니 슬러그가 자동으로 발사돼. 타일을 많이 맞출수록 샷의 위력이 상승하지!";
+"enc_sudden_e1_dialog_4a" = "좋아, 시작하자고!";
+"enc_sudden_e1_dialog_1b" = "좋았어! 하지만 조심해. 대전은 점점 어려워질 테니까!";
+"enc_sudden_e1_dialog_2b" = "모든 대전에 승리하면 멋진 보상이 주어져! 도전해봐!";
+
+
+/* Mixed Bag */
+
+//Encounter 1 - Tutorial
+"name_mixed_bag_challenge" = "믹스 백";
+"name_initiation_challenge" = "시작";
+"enc_mix_e1_dialog_1a" = "무슨 일이 벌어지고 있는 거야?";
+"enc_mix_e1_dialog_2a" = "이번 대전에는 특별한 규칙이 없어. 다만 무지막지하게 어렵지. 준비됐어?";
+"enc_mix_e1_dialog_3a" = "좋아, 시작하자고!";
+"enc_mix_e1_dialog_1b" = "좋았어! 하지만 조심해. 대전은 점점 어려워질 테니까!";
+"enc_mix_e1_dialog_2b" = "모든 대전에 승리하면 멋진 보상이 주어져! 도전해봐!";
+
+/* Challenge Mode end */
+
+/* Equipment Scenes */
+
+// common
+"equip_active" = "사용 중";
+"equip_dialog_insufficient_coins_title" = "'%@' 구입 불가!"; // Error message for purchase of virtual item. %@ will be replaced with the item name.
+"equip_dialog_insufficient_coins_msg" = "'%@' 아이템을 구입하려면 추가 코인이 필요합니다.\n지금 구입할까요?"; // Error message for purchase of virtual item. %@ will be replaced with the item name.
+"equip_dialog_purchase_confirm_title" = "'%@' 아이템을 구입할까요?"; // Confirmation text for purchase of virtual item. %@ will be replaced with the item name.
+"equip_dialog_purchase_confirm_msg" = "'%@' 아이템을 코인 %i개로 구입할까요?"; // Confirmation text for purchase of virtual item. %@ will be replaced with the item name.
+
+// boosters page title
+"equip_boosters_title" = "부스터"; // 부스터 are game upgrades, like power-ups.
+
+// slugs page title
+"equip_slugs_title" = "슬러그"; // Use glossary.
+"equip_slugs_dialog_condition" = "스토리 모드에서 획득"; // Telling the user that a slug is earned through playing story mode.
+"equip_slugs_slug_seeker_condition" = "슬러그 시커 모드에서 획득"; // Telling the user that a slug is earned through playing slug seeker mode.
+"equip_slugs_sale" = "할인"; // Over top of slug when its on a sale
+
+// avatars page title
+"equip_avatars_title" = "캐릭터"; // Used to denote character skins for players to select.
+"equip_avatars_unlock" = "무한 모드에서 적 %i명 격파";
+
+// basic shots page title
+"equip_basic_shots_title" = "커스텀 샷";
+
+// game mods page title
+"equip_gamemods_title" = "모드 설정"; // Game mods modify certain game conditions for both players in a multiplayer match.
+
+/* End Equipment Scenes */
+
+
+
+/* In-App Purchases */
+"iap_coin_small_name" = "코인 5,000개";
+"iap_coin_small_description" = " "; // Do not translate this string, leave as a single space.
+
+"iap_coin_large_name" = "코인 10,000개";
+"iap_coin_large_description" = "25% 보너스";
+
+"iap_coin_huge_name" = "코인 25,000개";
+"iap_coin_huge_description" = "50% 보너스";
+
+"iap_coin_massive_name" = "코인 100,000개";
+"iap_coin_massive_description" = "75% 보너스";
+
+//"iap_slug_midas_name" = "Midas";
+//"iap_slug_midas_description" = "More Coins in Battle";
+
+/* End In-App Purchases */
+
+
+
+/* Chapter Select Scene */
+
+// scene title
+"chapter_select_title" = "캐릭터 선택";
+
+// dialog: player requires 4 slugs to enter a treasure encounter
+"chapter_select_dialog_treasure_slugs_required_title" = "슬러그 4개 필요";
+"chapter_select_dialog_treasure_slugs_required_msg" = "트레저 인카운터를 플레이하려면 슬러그 4개를 장착해야 합니다";
+
+/* End Chapter Select Scene */
+
+
+
+/* Cut Scene */
+
+"cutscene_button_skip" = "건너뛰기"; // Button text for skipping cut scenes.
+//"cutscene_button_ok" = " OK"; // Button text for skipping cut scenes.
+
+/* End Cut Scene */
+
+
+/* Challenge Select Scene */
+"challenge_mode_select" = "챌린지 선택";
+"challenge_number" = "챌린지 %i";
+"challenge_expiration" = "만료";
+"challenge_exit_expired" = "해당 챌린지가 곧 만료됩니다! 정말 종료하시겠어요?";
+"challenge_quit_encounter" = "대전을 포기할까요? 다시 시도하려면 코인이 소비됩니다!";
+"challenge_win_overlay" = "새로운 상자 획득! 모든 대전에서 승리하면 보너스를 드려요!";
+"challenge_reward_screen" = "승리! 보너스를 확인하세요!";
+"challenge_slug_lock" = "슬러그 잠김";
+"challenge_lose_screen" = "포기하지 마세요! 모든 대전에 승리하면 보너스를 얻습니다!";
+/* End Challenge Select Scene */
+
+
+
+/* In-App Purchase Scene */
+
+// store scene title
+"store_title" = "코인 상점";
+
+// currently for 'sale' badge in coin shop
+"store_sale" = "할인";
+
+// restore button
+//"store_restore_label" = "Restore";
+
+// dialog: store access restricted by device settings
+"store_dialog_access_restricted_title" = "인앱 결제 사용 불가";
+"store_dialog_access_restricted_msg" = "기기에서 인앱 결제를 사용할 수 없도록 설정되어 있습니다.";
+
+// dialog: network has been locally disabled in device settings
+"store_dialog_no_network_title" = "네트워크 연결 없음";
+"store_dialog_no_network_msg" = "네트워크 연결을 켠 후 다시 시도하세요.";
+
+// dialog: could not establish connection to the Apple Servers
+"store_dialog_connection_failed_title" = "App Store 연결 실패";
+"store_dialog_connection_failed_msg" = "Store와의 네트워크 연결에 실패했습니다. 네트워크 설정 확인 후 다시 시도하세요.";
+
+// dialog: retrieval of In-App Purchase product info failed
+"store_dialog_update_failed_title" = "제품 정보 불러오기 실패";
+"store_dialog_update_failed_msg" = "서버에서 제품 정보를 불러올 수 없습니다. 다시 시도할까요?";
+
+// dialog: this iTunes account is not authorized for payment
+"store_dialog_payment_not_authorized_title" = "결제 승인 불가";
+"store_dialog_payment_not_authorized_msg" = "현재 사용자의 App Store 계정은 결제가 금지되어 있습니다.";
+
+// dialog: transaction was successfully completed
+"store_dialog_transaction_success_title" = "성공";
+"store_dialog_transaction_success_msg" = "'%@' 구입 완료! ";
+
+// dialog: there was an error during the payment transaction
+"store_dialog_transaction_failed_title" = "이체 오류";
+"store_dialog_transaction_failed_msg" = "이체 실패: %@";
+
+/* end In-App Purchase Scene */
+
+
+
+/* Code Redeem Scene */
+
+// scene title
+"coderedeem_title" = "코드 사용";
+
+"coderedeem_statement" = "공식 슬러그테라 완구에 적힌 프로모션 코드를 이곳에 입력하시면 멋진 게임 콘텐츠가 제공됩니다!";
+
+// code enter box labels
+"coderedeem_codebox_title" = "프로모션 코드 사용"; // "Promo" is short for "promotional". These promotional codes are 6-letter codes packaged with toys.
+"coderedeem_codebox_instructions" = "프로모션 코드를 이곳에 입력하시면 멋진 게임 콘텐츠가 제공됩니다!"; // "Promo" is short for "promotional". These promotional codes are 6-letter codes packaged with toys.
+//"coderedeem_codebox_button_ok" = "OK!";
+"coderedeem_codebox_textfield_placeholder" = "코드 입력";
+
+// prize display box
+"coderedeem_prizebox_congrats" = "축하합니다!";
+"coderedeem_prizebox_you_just_revealed" = "다음을 획득하셨습니다:";
+
+// Unlocking characters in Use Code screen.
+"coderedeem_character" = "%1$d %2$@"; // Do not translate.
+"coderedeem_character_singular" = "캐릭터";
+"coderedeem_character_plural" = "캐릭터";
+"coderedeem_character_description" = "캐릭터";
+"coderedeem_none_title" = "추가 획득 가능한 콘텐츠가 없습니다!";
+"coderedeem_none_message" = "게임 친구에게 프로모션 코드를 선물하세요!";
+
+// Error messages for Use Code screen.
+"coderedeem_fail_network_title" = "네트워크 오류";
+"coderedeem_fail_network_message" = "네트워크 오류가 발생했습니다. 인터넷 연결을 확인하고 다시 시도하세요.";
+"coderedeem_fail_used_title" = "코드 사용 초과";
+"coderedeem_fail_used_message" = "이 코드는 이미 사용되어 다시 사용할 수 없습니다. 코드와 관련한 도움이 필요하시면 interactive.support@dhxmedia.com으로 이메일을 보내주세요.";
+"coderedeem_fail_server_title" = "서버 오류";
+"coderedeem_fail_server_message" = "원격 서버가 요청을 완료할 수 없습니다. 인터넷 연결을 확인하고 다시 시도하세요.";
+"coderedeem_fail_invalid_title" = "유효하지 않은 코드";
+"coderedeem_fail_invalid_message" = "이 코드는 사용할 수 없습니다. 사용 가능한 코드이나 오류가 발생한 것으로 판단될 경우 interactive.support@dhxmedia.com으로 이메일을 보내주세요.";
+
+/* End Code Redeem Scene */
+
+
+
+/* Versus Scene */
+
+"versus_loading" = "불러오는 중...";
+"versus_fight" = "시작!";
+"versus_multiplayer_waiting" = "대기 중...";
+"versus_slugs_replaced_chapter6" = "납치 사건!";
+"versus_slugs_has_been_replaced_chapter6" = "미스터 새터데이가 버피를 납치했어! 어서 구출하도록 해!";
+/* End Versus Scene */
+
+/* Ghoul Scene */
+
+"ghoul_equip_unleash_text" = "강력한 화력의 괴물 슬러그를 장착하도록!";
+"ghoul_slugs_text" = "괴물 슬러그";
+"ghoul_get_now_text" = "지금 획득";
+"ghoul_slugs_only_text" = "괴물 슬러그만";
+"ghoul_slug_only_extended_text" = "괴물 슬러그만!";
+"ghoul_slug_replace_extended_text" = "슬러그 교체 완료!";
+"ghoul_slug_replace_text" = "슬러그 교체 완료!";
+
+/* End Ghoul Scene */
+
+
+
+/* Score Scene */
+
+"score_time_label" = "시간 %i:%02i";
+//"score_button_retry" = "Retry";
+
+/* End Score Scene */
+
+
+
+/* Slug Unlock Sequence */
+
+"slug_unlock_level" = "레벨 %i";
+
+/* End Slug Unlock Sequence */
+
+
+
+/* Main Menu */
+
+"main_menu_play_story_mode" = "스토리 모드";
+"main_menu_play_adventure_mode" = "어드벤처 모드";
+"main_menu_play_challenge_mode" = "챌린지 모드";
+"main_menu_play_multiplayer" = "멀티플레이어";
+
+"main_menu_challenge_mode_locked_title" = "챌린지 모드 잠김!";
+"main_menu_challenge_mode_locked_msg" = "챌린지 모드를 시작하려면 최소 4개의 슬러그가 필요해.";
+
+"main_menu_multiplayer_mode_locked_title" = "멀티플레이어 모드 잠김!";
+"main_menu_multiplayer_mode_locked_msg" = "멀티플레이어 모드를 시작하려면 최소 4개의 슬러그가 필요해.";
+
+"main_menu_adventure_mode_locked_title" = "어드벤처 모드 잠김!";
+"main_menu_adventure_mode_locked_msg" = "어드벤처 모드를 시작하려면 슬러그 최소 4개가 필요해.";
+
+"main_menu_button_play" = "게임 시작!";
+"main_menu_button_use_code" = "코드 사용";
+
+/* End Main Menu */
+
+
+
+/* Pause Menu */
+
+//"pause_menu_button_quit" = "Quit";
+//"pause_menu_button_restart" = "Restart";
+//"pause_menu_button_resume" = "Resume";
+
+"pause_menu_dialog_confirm_quit_title" = "나가기";
+"pause_menu_dialog_confirm_quit_msg" = "게임을 종료할까요?";
+
+"pause_menu_dialog_confirm_restart_title" = "다시 시작";
+"pause_menu_dialog_confirm_restart_msg" = "게임을 다시 시작할까요?";
+
+/* End Pause Menu */
+
+
+
+/* Defeat Scene */
+
+//"defeat_button_retry" = "Retry";
+//"defeat_button_booster" = "Go Now!";
+//"defeat_label_need_boost" = "Need A Boost?";
+
+/* Defeat and Victory Scene THIS NEEDS TO BE IMPLEMENTED IN OTHER LOCALIZATION */
+"defeat_label_booster_msg" = "부스터를 장착하고 어서 다음 라운드로 향하도록!";
+"defeat_label_skin_msg" = "좋아하는 캐릭터로 게임을 즐겨봐!";
+"win_lose_buy_btn_msg" = "지금 획득";
+"win_lose_upgrade_btn_msg" = "지금 업그레이드";
+
+/* End Defeat Scene */
+
+
+
+/* Story End Scene */
+"story_end_button_play_multiplayer" = "멀티플레이어 모드 시작";
+"story_end_title" = "친구들과의 대전!";
+"story_end_msg_1" = "여기서 끝나지 않아!";
+"story_end_msg_2" = "멀티플레이어 모드에서 대전을 즐겨봐!";
+
+/* End Story End Scene */
+
+
+
+
+/* Options Scene */
+
+"options_title" = "옵션";
+
+//"options_button_reset_data" = "Reset Story";
+"options_button_credits" = "제작자 정보";
+
+"options_dialog_reset_data_title" = "계속 진행할까요?";
+"options_dialog_reset_data_msg" = "이대로 진행하면 스토리 모드 진행 상황이 모두 삭제됩니다. 단 보유 코인 또는 획득 아이템은 삭제되지 않습니다. 진행 상황을 정말 삭제할까요?";
+
+/* End Options Scene */
+
+
+
+/* News Scene */
+
+"news_title" = "뉴스";
+
+/* End News Scene */
+
+
+
+/* Endless (Custom Loadout) Scene */
+
+"endless_congrats" = "축하합니다!";
+"endless_local_highscore" = "개인 최고점수 달성!";
+
+"endless_leaderboard_tab_gamecenter" = "Game Center";
+"endless_leaderboard_tab_local" = "현재 기기";
+
+"endless_dialog_leaderboard_title" = "이름을 입력하세요!";
+"endless_dialog_leaderboard_msg" = "기기 리더보드에 저장할 이름을 입력하세요.";
+
+"endless_local_highscore_textfield_placeholder" = "이름 입력";
+
+//"endless_button_quit" = "Quit";
+//"endless_button_replay" = "Replay";
+
+"endless_title" = "챌린지 모드";
+
+"endless_mode" = "무한";
+
+"endless_local_leaderboard_title" = "최고 점수";
+
+"endless_label_results" = "점수: %d  코인: %d";
+
+/* End Endless (Custom Loadout) Scene */
+
+
+/* Challenge Mode */
+
+"encounter_win" = "상자 획득! 모든 대전을 완수하고 보너스를 받아가세요!";
+
+"replay_encounter" = "코인 X개를 사용해 대전을 다시 시작할까요?";
+
+"quit_encounter" = "확실한가요? 나중에 이 대전을 다시 시작하려면 코인이 필요합니다.";
+
+"completed_challenges" = "축하합니다. 모든 챌린지를 클리어하셨습니다! 다음 챌린지를 기대해주세요!";
+
+/* End Challenge Mode */
+
+/* Treasure Select Scene */
+
+//"treasure_select_title" = "Treasure Vault";
+
+/* End Treasure Select Scene */
+
+
+
+/* Busy Layer */
+
+"busy_layer_please_wait" = "잠시 기다리세요...";
+
+/* End Busy Layer */
+
+
+
+/* Game Center */
+
+"game_center_dialog_title" = "Game Center 로그인 필요";
+"game_center_dialog_message" = "Game Center에 로그인하시면 달성 과제, 리더보드 및 멀티플레이어 모드를 이용하실 수 있습니다.";
+"google_play_dialog_title" = "Google Play 로그인 필요";
+"google_play_dialog_message" = "Google Play에 로그인하시면 달성 과제, 리더보드 및 멀티플레이어 모드를 이용하실 수 있습니다.";
+"game_center_dialog_no" = "나중에";
+"game_center_dialog_yes" = "예!";
+
+/* End Game Center */
+
+
+
+/* Multiplayer Screens */
+
+"multiplayer_header_title" = "멀티플레이어";
+
+"multiplayer_end_screen_you_won" = "승리!";
+"multiplayer_end_screen_you_lost" = "패배!";
+"multiplayer_end_screen_label_coins" = "코인: +%i";
+"multiplayer_end_screen_label_points" = "점수: +%i";
+"multiplayer_end_screen_label_rank" = "순위:";
+"multiplayer_end_screen_ok" = "확인";
+"multiplayer_end_screen_label_rank_formatted" = "순위: %d";
+
+"multiplayer_lobby_label_welcome" = "%@님 환영합니다!"; // %@ will be replaced with the player's Game Center name.
+"multiplayer_lobby_label_wins" = "승리 전적";
+//"multiplayer_lobby_button_back" = "Back";
+//"multiplayer_lobby_button_play" = "Play";
+//"multiplayer_lobby_button_leave" = "Leave";
+//"multiplayer_lobby_leave_title" = "";
+"multiplayer_lobby_leave_message" = "현재 모드를 종료하시겠습니까?";
+//"multiplayer_lobby_button_ready" = "Ready";
+"multiplayer_lobby_button_not_ready" = "취소";
+"multiplayer_lobby_message_waiting" = "대전 상대 기다리는 중...";
+"multiplayer_lobby_message_loading" = "게임 불러오는 중...";
+"multiplayer_lobby_message_synchronizing" = "동기화 중...";
+
+"multiplayer_game_message_syncing" = "게임 상태 동기화 중...";
+//"multiplayer_game_label_leave" = "Leave";
+
+"multiplayer_tabpane_games_played" = "게임 횟수: %i";
+"multiplayer_tabpane_games_won" = "승리 전적: %i";
+"multiplayer_tabpane_longest_streak" = "최다 연승: %i";
+"multiplayer_tabpane_current_streak" = "현재 연승: %i";
+"multiplayer_tabpane_header_game_center" = "Game Center";
+"multiplayer_tabpane_header_google_play" = "Google Play";
+"multiplayer_tabpane_header_stats" = "통계";
+"multiplayer_tabpane_no_data" = "데이터 없음";
+
+"multiplayer_remote_state_connecting" = "연결 중...";
+"multiplayer_remote_state_disconnected" = "연결 해제됨";
+"multiplayer_remote_state_getting_ready" = "준비 중";
+"multiplayer_remote_state_ready" = "준비";
+"multiplayer_remote_state_loading_game" = "게임 불러오는 중...";
+"multiplayer_remote_state_loaded_waiting" = "불러오기 완료 후 대기 중";
+"multiplayer_remote_state_choosing_slugs" = "슬러그 선택 중";
+"multiplayer_remote_state_choosing_game_mods" = "모드 선택 중";
+//"multiplayer_remote_state_choosing_emoticon" = "Choosing Emoticon";
+"multiplayer_remote_state_playing_game" = "게임 진행 중";
+"multiplayer_remote_state_viewing_score" = "점수 확인 중";
+
+"multiplayer_interrupt_network_error_formatted" = "네트워크 오류 발생:\n%@"; // The "\n" represents a new line character. Please use it in the translation to separate the two lines of text.
+"multiplayer_interrupt_network_error_unknown" = "네트워크 오류 발생:\n알 수 없는 오류."; // The "\n" represents a new line character. Please use it in the translation to separate the two lines of text.
+"multiplayer_interrupt_disconnected_title" = "플레이어 연결 해제됨";
+"multiplayer_interrupt_disconnected_message" = "'%@' 연결이 해제되었습니다.";
+"multiplayer_interrupt_left_title" = "플레이어 퇴장";
+"multiplayer_interrupt_left_message" = "'%@'님이 게임에서 나가셨습니다.";
+"multiplayer_interrupt_lobby_title" = "플레이어 로비로 복귀";
+"multiplayer_interrupt_lobby_message" = "'%@'님이 멀티플레이어 로비로 돌아갔습니다.";
+"multiplayer_interrupt_laggy_title" = "연결 상태 불량";
+"multiplayer_interrupt_laggy_message" = "상대방과 나의 연결 상태가 좋지 않습니다.\n현재 연결 상태에서는 정상적인 게임 진행이 불가능합니다."; // The "\n" represents a new line character. Please use it in the translation to separate the two lines of text.
+
+/* End Multiplayer Screens */
+
+
+
+/* Credits */
+
+"credits_title_intro" = "제작에 참여한 분들:";
+"credits_title_creative_lead" = "크리에이티브 리드";
+"credits_title_project_manager" = "프로젝트 매니저";
+"credits_title_lead_programmer" = "리드 프로그래머";
+"credits_title_lead_artist" = "리드 아티스트";
+"credits_title_programming" = "프로그래밍";
+"credits_title_art" = "아트";
+"credits_title_level_design" = "레벨 디자인";
+"credits_title_sound_engineering" = "사운드 엔지니어링";
+"credits_title_music" = "음악";
+"credits_title_voice_acting" = "성우";
+"credits_title_special_thanks" = "도움 주신 분들";
+"credits_title_executive_producers" = "제작총괄";
+"credits_title_producer" = "프로듀서";
+"credits_title_head_of_licensing" = "글로벌 라이선싱 및 프로모션 총괄";
+"credits_title_director_of_brand" = "브랜드 개발 부장";
+"credits_title_marketing_manager" = "마케팅 부장";
+"credits_title_director_finance" = "회계 부장";
+"credits_title_general_counsel" = "법률 자문";
+"credits_title_it" = "IT";
+"credits_title_many_thanks" = "도움 주신 분들께 감사의 말씀을 전합니다:";
+
+/* End Credits */
+
+
+/* Slug Events */
+
+"event_name_double_coins" = "더블 더 리치!";
+"event_name_info_double_coins" = "오늘은 모든 대전에서 2배의 코인 보너스를 얻습니다. 지금 바로 게임을 시작하셔서 보너스를 챙겨보세요!";
+
+"event_name_hidden_slugs" = "숨겨진 슬러그 알림!";
+"event_name_info_hidden_slugs" = "챕터 %@에 추가된 새로운 슬러그를 지금 찾아보세요! 대전으로 새로운 슬러그를 획득할 수 있습니다!";
+
+"event_name_booster_sale" = "블래스터에 부스트를 달아 보세요!";
+"event_name_info_booster_sale" = "오늘은 모든 부스터가 할인 판매됩니다. 부스터와 함께 더욱 재미있게 게임을 즐겨보세요!";
+
+"event_name_coin_packs" = "코인 추가 획득!";
+"event_name_info_coin_packs" = "오늘은 코인 팩에 보너스 코인이 지급됩니다. 코인 팩 보너스 혜택을 놓치지 마세요!";
+
+"event_name_rare_slug" = "레어 슬러그 알림!";
+"event_name_info_rare_slug" = "한정 기간 동안 레어 슬러그를 구입할 수 있습니다. 상점에서 지금 만나보세요!";
+
+"event_name_engagement_drive" = "슬러그 마라톤 개최!";
+"event_name_info_engagement_drive" = "이번 주 동안 매일 게임을 플레이하시면 X 보너스를 드립니다. 기회를 놓치지 마세요! 지금 바로 게임 시작!";
+
+"event_name_character_sales" = "새로운 슬러그슬링어 출현! ";
+"event_name_info_character_sales" = "오늘 상점에서는 %@ 할인 판매 중입니다. 새로운 캐릭터와 함께 게임을 즐겨보세요!";
+
+/* End Slug Events */
+
+
+/* Slug Info Box */
+
+// common
+"slug_info_box_level" = "레벨: %i";
+"slug_info_box_power" = "파워: %@";
+
+/* Slug Info */
+
+// burpy
+"slug_info_name_burpy" = "인퍼너스";
+"slug_info_power_burpy" = "불";
+"slug_info_description_burpy" = "강력한 레어 슬러그인 인퍼너스는 폭발 공격으로 상대에게 데미지를 가합니다.";
+
+// frost
+"slug_info_name_frost" = "프로스트 크롤러";
+"slug_info_power_frost" = "얼음";
+"slug_info_description_frost" = "프로스트 크롤러는 글레시에이터 기술로 플레이어를 보호하는 얼음 방패를 만들고 상대에게 냉동 공격을 가합니다.";
+
+//tazer
+"slug_info_name_tazer" = "테이저링";
+"slug_info_power_tazer" = "전기";
+"slug_info_description_tazer" = "테이저링은 테이저볼트 기술로 상대에게 전기 공격을 가해 데미지를 입히고 기절시킵니다.";
+
+//gas
+"slug_info_name_gas" = "플래출로링커스";
+"slug_info_power_gas" = "산";
+"slug_info_description_gas" = "플래출로링커스는 블로프볼 기술로 상대를 공격하며, 기술이 발동하는 순간 악취를 풍기며 데미지를 입히고 상대방의 슬러그를 소모하도록 만듭니다.";
+
+//doc
+"slug_info_name_doc" = "분 닥";
+"slug_info_power_doc" = "빛";
+"slug_info_description_doc" = "분 닥은 메디치 기술을 이용해 비행 중 플레이어를 치료합니다.";
+
+//arachnet
+"slug_info_name_arachnet" = "아라크넷";
+"slug_info_power_arachnet" = "흙";
+"slug_info_description_arachnet" = "유용한 공격용 슬러그인 아라크넷은 상대에게 강력한 데미지를 입히며 상대방 슬러그의 속도를 떨어뜨립니다.";
+
+//enigmo
+"slug_info_name_enigmo" = "이니그모";
+"slug_info_power_enigmo" = "빛";
+"slug_info_description_enigmo" = "이니그모는 전장을 날아다니며 타일을 맞춥니다.";
+
+//fandango
+"slug_info_name_fandango" = "판당고";
+"slug_info_power_fandango" = "빛";
+"slug_info_description_fandango" = "풍부한 천연 슬러그 에너지를 갖춘 판당고는 비행 중 플레이어의 다른 슬러그를 모두 충전합니다.";
+
+//flaringo
+"slug_info_name_flaringo" = "플라링고";
+"slug_info_power_flaringo" = "불";
+"slug_info_description_flaringo" = "플라링고는 블래스트버스트 공격으로 상대방에게 데미지를 가합니다.";
+
+//geoshard
+"slug_info_name_fright" = "호버버그";
+"slug_info_power_fright" = "공기";
+"slug_info_description_fright" = "호버버그는 상대방을 더 빠르게 맞출 수 있도록 도와주는 바람 터널을 만듭니다.";
+
+//rammstone
+"slug_info_name_rammstone" = "램스톤";
+"slug_info_power_rammstone" = "흙";
+"slug_info_description_rammstone" = "램스톤은 배터업 공격을 이용해 방패 또는 같은 레벨의 슬러그를 관통하며 파괴합니다.";
+
+//yang
+"slug_info_name_yang" = "네가세이드";
+"slug_info_power_yang" = "정신";
+"slug_info_description_yang" = "네가세이드는 상대방의 시야를 혼란시켜 적을 교란시킵니다.";
+
+//grenuke
+"slug_info_name_grenuke" = "그레누커";
+"slug_info_power_grenuke" = "불";
+"slug_info_description_grenuke" = "상대방의 보드에 데미지를 가하는 여러 개의 머쉬붐 폭탄을 추가합니다.";
+
+//midas
+"slug_info_name_midas" = "마이다스";
+"slug_info_power_midas" = "빛";
+"slug_info_description_midas" = "마이다스는 전장 이곳 저곳을 비행하며 코인을 생성합니다.";
+
+//aquabeek
+"slug_info_name_aquabeek" = "아쿠아비크";
+"slug_info_power_aquabeek" = "물";
+"slug_info_description_aquabeek" = "아쿠아비크는 아쿠아젯 공격을 이용해 매우 빠른 속도로 상대방을 향해 이동하며 데미지를 가합니다.";
+
+//makobreaker
+"slug_info_name_makobreaker" = "마코 브리커";
+"slug_info_power_makobreaker" = "물";
+"slug_info_description_makobreaker" = "마코 브리커는 블래스터 샷 또는 자신과 부딪히는 낮은 레벨의 슬러그를 흡수하며 점점 강해집니다.";
+
+//xmitter
+"slug_info_name_xmitter" = "엑스미터";
+"slug_info_power_xmitter" = "금속";
+"slug_info_description_xmitter" = "전자기 펄스를 이용해 상대방의 블래스터를 무력화시킵니다.";
+
+//thresher
+"slug_info_name_thresher" = "스래셔";
+"slug_info_power_thresher" = "금속";
+"slug_info_description_thresher" = "스래셔의 공격은 일라이의 체력이 줄어들수록 강해집니다.";
+
+//lock
+"slug_info_name_lock" = "바인드릴";
+"slug_info_power_lock" = "식물";
+"slug_info_description_lock" = "상대방을 포획해 보드 상의 한 지점에 타일을 묶어 놓습니다.";
+
+//panic
+"slug_info_name_panic" = "프라이트가이스트";
+"slug_info_power_panic" = "정신";
+"slug_info_description_panic" = "상대방에게 공포를 유발해 보유 슬러그를 모두 소진시킵니다.";
+
+//refresh
+"slug_info_name_refresh" = "핑";
+"slug_info_power_refresh" = "빛";
+"slug_info_description_refresh" = "플레이어가 보드 타일을 바꾸는 동안 상대방을 공격합니다.";
+
+//reflect
+"slug_info_name_reflect" = "버블리온";
+"slug_info_power_reflect" = "물";
+"slug_info_description_reflect" = "상대의 슬러그를 반사합니다.";
+
+//tormato
+"slug_info_name_tormato" = "토메이토 ";
+"slug_info_power_tormato" = "공기";
+"slug_info_description_tormato" = "상대의 슬러그를 반사하는 바람 방패를 형성합니다.";
+
+//speedstinger
+"slug_info_name_speedstringer" = "스피드 스팅어";
+"slug_info_power_speedstringer" = "금속";
+"slug_info_description_speedstringer" = "상대에게 데미지를 가하는 스피드 샷을 발사합니다.";
+
+//phosphoro
+"slug_info_name_phosphoro" = "포스포로";
+"slug_info_power_phosphoro" = "빛";
+"slug_info_description_phosphoro" = "다른 슬러그를 모두 소량 충전하고 상대에게 데미지를 가합니다.";
+
+//neotox
+"slug_info_name_neotox" = "네오톡스";
+"slug_info_power_neotox" = "산";
+"slug_info_description_neotox" = "상대에게 독 데미지를 입히는 산성 공격을 가합니다.";
+
+//jellyish
+"slug_info_name_jellyish" = "젤리이시";
+"slug_info_power_jellyish" = "물";
+"slug_info_description_jellyish" = "상대에게 데미지를 가하고 속도를 늦춥니다.";
+
+//Armashelt
+"slug_info_name_armashelt" = "아르마셸트";
+"slug_info_power_armashelt" = "캐논볼";
+"slug_info_description_armashelt" = "무거운 중량, 강력한 화력의 슬러그로서 아르마셸트가 상대의 슬러그에 충돌한 후 계속해서 낮은 등급의 발사체로 분산됩니다.";
+
+//Hop Rock
+"slug_info_name_hoprock" = "Hop Rock";
+"slug_info_power_hoprock" = "익스플로더";
+"slug_info_description_hoprock" = "상대방의 보드에 데미지를 가하는 폭탄을 추가합니다.";
+
+//Hypnogrif
+"slug_info_name_hypnogriff" = "히프노그리프";
+"slug_info_power_hypnogriff" = "트랜스";
+"slug_info_description_hypnogriff" = "히프노그리프는 상대를 혼란시켜 자신의 슬러그를 모두 발사하도록 만듭니다.";
+
+//Slicksilver
+"slug_info_name_slicksilver" = "슬릭실버";
+"slug_info_power_slicksilver" = "메탈/마그넷 슬러그";
+"slug_info_description_slicksilver" = "상대방이 슬러그를 발사하지 못하게 막습니다.";
+
+//SpeedStinger
+"slug_info_name_speedstringer" = "스피드 스팅어";
+"slug_info_power_speedstringer" = "리코쳇";
+"slug_info_description_speedstringer" = "스피드 스팅어는 빠르게 움직이며 데미지를 가합니다.";
+
+//Crystalyd
+"slug_info_name_crystalyd" = "크리스탈리드";
+"slug_info_power_crystalyd" = "터널러";
+"slug_info_description_crystalyd" = "크리스탈리드는 상대방의 슬러그를 타격한 후 하위 발사체로 계속 진행합니다.";
+
+//Geoshard
+"slug_info_name_geoshard" = "지오샤드";
+"slug_info_power_geoshard" = "크리스탈라이저 슬러그";
+"slug_info_description_geoshard" = "지오샤드는 목표물을 향해 날아가며 여러 발의 탄환을 동시에 발사합니다.";
+
+//Slyren
+"slug_info_name_slyren" = "슬라이렌";
+"slug_info_power_slyren" = "공기";
+"slug_info_description_slyren" = "슬라이렌은 목표물을 향해 날아가며 극초음파 샷을 발사합니다.";
+
+//Narwhaddle
+"slug_info_name_narwhaddle" = "나르왜들";
+"slug_info_power_narwhaddle" = "얼음";
+"slug_info_description_narwhaddle" = "나와들은 상대방을 얼리면서 다른 슬러그 샷의 속도를 높이는 얼음 바람을 일으킵니다.";
+
+//Firenzar
+"slug_info_name_firenzar" = "피렌자";
+"slug_info_power_firenzar" = "불";
+"slug_info_description_firenzar" = "피렌자는 상대방에게 시간 경과에 따라 데미지를 입히는 불 원을 생성합니다.";
+
+//Thugglet
+"slug_info_name_thugglet" = "써글렛";
+"slug_info_power_thugglet" = "정신";
+"slug_info_description_thugglet" = "써글렛이 상대를 공격하면 상대의 슬러그 파워를 훔칠 수 있습니다.";
+
+//Gazzer
+"slug_info_name_gazzer" = "개저";
+"slug_info_power_gazzer" = "공기";
+"slug_info_description_gazzer" = "개저는 상대방 슬러그의 게이지를 흡수합니다.";
+
+//Lariat
+"slug_info_name_lariat" = "라리엣";
+"slug_info_power_lariat" = "물";
+"slug_info_description_lariat" = "라리엣은 상대의 슬러그 속도를 떨어뜨리는 끈끈한 거미줄을 분사합니다.";
+
+//Hexlet
+"slug_info_name_hexlet" = "헥슬렛";
+"slug_info_power_hexlet" = "정신";
+"slug_info_description_hexlet" = "헥슬렛은 전장을 날아다니며 타일을 맞춥니다.";
+
+/* Fusion Slug Info */
+
+//Negashade & Ping Fusion
+
+"slug_info_name_fuse_yang_refresh" = "섀도우레이";
+"slug_info_power_fuse_yang_refresh" = "정신";
+"slug_info_description_fuse_yang_refresh" = "네가세이드 및 핑: 자신의 보드 타일을 바꾸는 동안 상대의 시야를 가려 혼란시키면서 공격합니다.";
+
+//Doc and Gas Fusion
+"slug_info_name_fuse_doc_gas" = "할로톡시스";
+"slug_info_power_fuse_doc_gas" = "빛과 산성";
+"slug_info_description_fuse_doc_gas" = "분 독과 플래투로 렉스: 플레이어를 치료하며 상대의 슬러그 파워를 소진시킵니다.";
+
+//Burpy & Tazerling Fusion
+"slug_info_name_fuse_burpy_tazer" = "노바 볼트";
+"slug_info_power_fuse_burpy_tazer" = "불 및 전기";
+"slug_info_description_fuse_burpy_tazer" = "버피 및 테이저링: 상대를 공격 후 기절시킵니다.";
+
+//Arachnet & Panic Fusion
+"slug_info_name_fuse_arachnet_panic" = "아라크노슈라우드";
+"slug_info_power_fuse_arachnet_panic" = "흙 및 정신";
+"slug_info_description_fuse_arachnet_panic" = "아라크넷 및 프라이트가이스트: 상대방에게 공포를 유발하고 속도를 늦춥니다.";
+
+//Aquabeek & Fandango Fusion
+"slug_info_name_fuse_aquabeek_fandango" = "아쿠아부스트";
+"slug_info_power_fuse_aquabeek_fandango" = "물과 빛";
+"slug_info_description_fuse_aquabeek_fandango" = "아쿠아비크와 판당고: 플레이어의 슬러그를 충전하며 빠른 속도로 공격합니다.";
+
+//Rammstone & Makobreaker Fusion
+
+"slug_info_name_fuse_rammstone_makobreaker" = "록촘프";
+"slug_info_power_fuse_rammstone_makobreaker" = "흙과 물";
+"slug_info_description_fuse_rammstone_makobreaker" = "방패나 같은 레벨의 슬러그를 관통하며 파괴하고 블래스터 샷을 흡수하며 강해집니다.";
+
+//Xmitter and Vinedrill Fusion
+
+"slug_info_name_fuse_xmitter_vinedrill" = "글리치스네어"; //Glitch is a malfunction equipment and Snare is a trap. For example trap or a net
+"slug_info_power_fuse_xmitter_vinedrill" = "전기 및 식물";
+"slug_info_description_fuse_xmitter_vinedrill" = "상대방의 블래스터를 무력화하고 보드 타일을 옭아맵니다.";
+
+//Flaringo and Phosphoro Fusion
+
+"slug_info_name_fuse_flaringo_phosphoro" = "스파크라에니"; //Spark is the small fiery particle thrown off from a fire and rain is moisture condensed from the atmosphere that falls visibly in separate drops. For Example rainy weather.
+"slug_info_power_fuse_flaringo_phosphoro" = "불과 빛";
+"slug_info_description_fuse_flaringo_phosphoro" = "불 공격을 가하며 플레이어의 슬러그를 소량 충전시킵니다.";
+
+//Frostcrawler and Grenuke Fusion
+
+"slug_info_name_fuse_freeze_grenuke" = "프로스트밤"; // Small white ice crtystals formed on surfaces when the temperature falls below freezing. Bomb is an explosion.
+"slug_info_power_fuse_freeze_grenuke" = "얼음 및 불";
+"slug_info_description_fuse_freeze_grenuke" = "상대방을 얼림과 동시에 상대의 보드에 데미지를 입히는 여러 개의 폭탄을 만들어냅니다.";
+
+//Neotox and Thresher Fusion
+
+"slug_info_name_fuse_neotox_thresher" = "산성 터스크"; // Toxic is poisonous. Tusk is a long pointed tooth, usually found on elephants, walrus or wild boars.
+"slug_info_power_fuse_neotox_thresher" = "식물과 금속";
+"slug_info_description_fuse_neotox_thresher" = "상대방에게 독 데미지를 입히며 일라이가 부상을 입으면 더욱 강해집니다.";
+
+//Tormato and Jellyish Fusion
+
+"slug_info_name_fuse_tormato_jellyish" = "슬라임스톰"; // Slime is a moist, soft, and slippery substance. Storm is a violent disturbance of the atmosphere with strong winds.
+"slug_info_power_fuse_tormato_jellyish" = "공기와 물";
+"slug_info_description_fuse_tormato_jellyish" = "이 퓨전 샷을 이용해 상대방에게 데미지를 입히고 상대의 슬러그 속도를 느리게 하면서 바람 방어막을 생성할 수 있습니다.";
+
+//Narwhaddle and Slyren Fusion
+
+"slug_info_name_fuse_slyren_narwaddle" = "하이퍼플래시 "; // Hyper as in overactive and flash as in a brief shine.
+"slug_info_power_fuse_slyren_narwaddle" = "얼음과 공기";
+"slug_info_description_fuse_slyren_narwaddle" = "다른 슬러그의 속도를 높이면서 여러 발의 극초음속 샷을 발사하는 얼음 블래스트입니다.";
+
+//Hoverbug and Speedstinger Fusion
+
+"slug_info_name_fuse_hoverbug_speedstinger" = "키네틱 스트릭"; //Kenetic as in Kinetic energy and streak as in a motion streak of moving very quickly
+"slug_info_power_fuse_hoverbug_speedstinger" = "금속과 공기";
+"slug_info_description_fuse_hoverbug_speedstinger" = " 스피드 스팅어와 호버버그: 포털을 사용하며 상대에게 데미지를 가합니다.";
+
+//Geoshard and Slicksilver Fusion
+
+"slug_info_name_fuse_geoshard_slicksilver" = "마그나샤드"; //Magna as in magnet and shard as in a small piece of broken glass
+"slug_info_power_fuse_geoshard_slicksilver" = "금속과 흙";
+"slug_info_description_fuse_geoshard_slicksilver" = " 슬릭실버와 지오샤드: 3개의 발사체로 상대에게 데미지를 입히며 상대방의 슬러그를 잠시 동안 무력화합니다.";
+
+
+//Neurotox and Amperling Fusion
+
+"slug_info_name_fuse_ghoul_netox_ghoul_tazerling" = "앰퍼톡스";
+"slug_info_power_fuse_ghoul_netox_ghoul_tazerling" = "다크 섀도우";
+"slug_info_description_fuse_ghoul_netox_ghoul_tazerling" = "상대방을 무방비 기절 상태로 만들며 슬러그 에너지를 소진시킴과 동시에 데미지를 입힙니다.";
+
+//Burpy and Flatulo Rex
+
+"slug_info_name_fuse_ghoul_burpy_ghoul_gas" = "블로프블래스트";
+"slug_info_power_fuse_ghoul_burpy_ghoul_gas" = "불과 독성";
+"slug_info_description_fuse_ghoul_burpy_ghoul_gas" = "슬러그 에너지를 소진시키면서 데미지를 가하고 상대방 보드를 가스 구름으로 뒤덮습니다.";
+
+//Photomo and Aquafreak Fusion
+
+"slug_info_name_fuse_ghoul_phosphoro_ghoul_aquabeek" = "하이드로플레어";
+"slug_info_power_fuse_ghoul_phosphoro_ghoul_aquabeek" = "다크 섀도우";
+"slug_info_description_fuse_ghoul_phosphoro_ghoul_aquabeek" = "상대방에게 데미지를 입히면서 내 슬러그 에너지를 강력하게 만들지만 약간의 슬러그 에너지를 소비합니다.";
+
+//Briardrill and FrostFang Fusion
+
+"slug_info_name_fuse_ghoul_vinedrill_ghoul_frost" = "브리아샤드"; //Briar is a plant with prickly stems and Shard means broke peices or fragments
+"slug_info_power_fuse_ghoul_vinedrill_ghoul_frost" = "바인 앤드 다크 아이스";
+"slug_info_description_fuse_ghoul_vinedrill_ghoul_frost" = "상대방의 보드를 얼려 잠그고 자신의 보드를 일시적으로 멈춥니다.";
+
+//Tempesto and Pyringo Fusion
+
+"slug_info_name_fuse_ghoul_tormato_ghoul_flaringo" = "사이스 웨이브"; // Scythe is a tool used for cutting and a Wave is a ridge of air
+"slug_info_power_fuse_ghoul_tormato_ghoul_flaringo" = "다크 섀도우";
+"slug_info_description_fuse_ghoul_tormato_ghoul_flaringo" = "사이스 웨이브는 강한 데미지를 입히며 토네이도를 일으킵니다. 플레이어 자신도 데미지를 입습니다.";
+
+//Greneater and Attacknet Fusion
+
+"slug_info_name_fuse_ghoul_grenuke_ghoul_arachnet" = "버르 폭탄"; // Burr is a rough sound and Bomb is an explosion
+"slug_info_power_fuse_ghoul_grenuke_ghoul_arachnet" = "다크 섀도우";
+"slug_info_description_fuse_ghoul_grenuke_ghoul_arachnet" = "버르 폭탄은 상대방의 슬러그 샷 속도를 늦추면서 상대방의 보드에 여러 개의 폭탄을 추가합니다. 플레이어의 슬러그는 일정 시간 동안 잠깁니다.";
+
+/* Ghoul Slug Info */
+
+// Ghoul Burpy
+"slug_info_name_ghoul_burpy" = "다크퍼너스";
+"slug_info_power_ghoul_burpy" = "불";
+"slug_info_description_ghoul_burpy" = "불 속성의 강력한 레어 슬러그인 다크퍼너스는 다크파이어로 상대방을 공격하지만 플레이어 캐릭터에게도 일정 피해를 입힙니다.";
+
+// Ghoul Frost
+"slug_info_name_ghoul_frost" = "프로스트팽";
+"slug_info_power_ghoul_frost" = "다크 아이스";
+"slug_info_description_ghoul_frost" = "프로스트팽은 강력한 크립프리즈 공격으로 상대방을 꽁꽁 얼어붙게 만들지만 아이스 월을 만들지는 않습니다.";
+
+// Ghoul Gas
+"slug_info_name_ghoul_gas" = "플래투로 렉스";
+"slug_info_power_ghoul_gas" = "산성 악취";
+"slug_info_description_ghoul_gas" = "플래투로 렉스는 스텐치월 공격을 펼쳐 데미지를 입히는 악취를 발산하며, 상대방의 슬러그를 소진시키는 동시에 플레이어의 보드를 가스 구름으로 가려 위장시킵니다.";
+
+// Ghoul Tazer
+"slug_info_name_ghoul_tazer" = "앰펄링";
+"slug_info_power_ghoul_tazer" = "재퍼";
+"slug_info_description_ghoul_tazer" = "앰펄링은 강력한 앰퍼졸트 공격으로 상대방을 기절시키고 데미지를 가하며 일정 시간 동안 플레이어의 슬러그 소모를 막습니다.";
+
+// Ghoul Aquabeek
+"slug_info_name_ghoul_aquabeek" = "아쿠아프리크";
+"slug_info_power_ghoul_aquabeek" = "다크 워터";
+"slug_info_description_ghoul_aquabeek" = "아쿠아프리크는 매우 빠른 속도로 적을 향해 이동하며 데미지를 가하고 충전 시간을 늘려주는 아쿠아블레이드 공격을 사용합니다.";
+
+// Ghoul Arachnet
+"slug_info_name_ghoul_arachnet" = "어태크넷";
+"slug_info_power_ghoul_arachnet" = "다크 웹";
+"slug_info_description_ghoul_arachnet" = "어태크넷은 콘스트릭터 공격으로 상대방을 옭아매고 데미지를 가하며 슬러그 속도를 떨어뜨리는 한편, 일정 시간 동안 플레이어의 슬러그 소모를 막습니다.";
+
+// Ghoul Flaringo
+"slug_info_name_ghoul_flaringo" = "파이링고";
+"slug_info_power_ghoul_flaringo" = "다크 플레임";
+"slug_info_description_ghoul_flaringo" = "파이링고는 비트시커 공격으로 상대방에게 데미지를 가하지만 플레이어 자신도 일정 데미지를 입습니다.";
+
+
+// Ghoul Grenuke
+"slug_info_name_ghoul_grenuke" = "그레니터";
+"slug_info_power_ghoul_grenuke" = "다크 밤";
+"slug_info_description_ghoul_grenuke" = "그레니터는 여러 개의 스파익스플로더 폭탄을 추가해 상대방의 보드에 데미지를 가하지만 충전에 좀더 오랜 시간이 소요됩니다.";
+
+// Ghoul Jellyish
+"slug_info_name_ghoul_jellyish" = "Jollyfist";
+"slug_info_power_ghoul_jellyish" = "Goo";
+"slug_info_description_ghoul_jellyish" = "Jollyfist uses its Exo-tox move to damage and slow down the opponent.";
+
+// Ghoul Lock
+"slug_info_name_ghoul_lock" = "자르자";
+"slug_info_power_ghoul_lock" = "바인";
+"slug_info_description_ghoul_lock" = "자르자는 상대의 보드를 뾰족한 촉수로 감싸는 쏜래시 공격을 펼칩니다.";
+
+// Ghoul Neotox
+"slug_info_name_ghoul_neotox" = "뉴로톡스";
+"slug_info_power_ghoul_neotox" = "다크 톡신";
+"slug_info_description_ghoul_neotox" = "뉴로톡스는 톡시클리즘 공격으로 상대방에게 독 데미지를 가하는 독성 물질을 만들어내지만 플레이어 자신의 슬러그를 소진시킵니다.";
+
+// Ghoul Panic
+"slug_info_name_ghoul_panic" = "나이트가이스트";
+"slug_info_power_ghoul_panic" = "다크 섀도우";
+"slug_info_description_ghoul_panic" = "나이트가이스트는 상대방에게 공포를 유발해 플레이어의 슬러그를 소진시키며 상대방의 모든 슬러그를 발사하게 만듭니다.";
+
+// Ghoul Phosphoro
+"slug_info_name_ghoul_phosphoro" = "포토모";
+"slug_info_power_ghoul_phosphoro" = "다크 포톤";
+"slug_info_description_ghoul_phosphoro" = "포토모는 비행 중 플레이어 자신의 슬러그를 소모하지만 상대방에게 데미지를 가할 때 강력한 슬러그 에너지 보너스를 제공합니다.";
+
+// Ghoul Rammstone
+"slug_info_name_ghoul_rammstone" = "그림스톤";
+"slug_info_power_ghoul_rammstone" = "록";
+"slug_info_description_ghoul_rammstone" = "그림스톤은 처음 부딪히는 슬러그를 튕겨내면서 플레이어의 타일 중 일부를 잠시 동안 돌로 바꿉니다.";
+
+// Ghoul Thresher
+"slug_info_name_ghoul_thresher" = "스래셔";
+"slug_info_power_ghoul_thresher" = "커팅 앤드 촘핑";
+"slug_info_description_ghoul_thresher" = "일라이가 부상을 입으면 스래셔가 약해집니다.";
+
+// Ghoul Tormato
+"slug_info_name_ghoul_tormato" = "템페스토";
+"slug_info_power_ghoul_tormato" = "다크 섀도우";
+"slug_info_description_ghoul_tormato" = "상대방을 타격할 때 상대방의 슬러그 중 하나를 반사하는 토네이도를 생성합니다.";
+
+// Ghoul Doc
+"slug_info_name_ghoul_doc" = "군 닥";
+"slug_info_power_ghoul_doc" = "다크";
+"slug_info_description_ghoul_doc" = "군 닥은 플레이어에게 데미지를 입히지만 레벨이 낮은 슬러그와 부딪힐 때, 상대방을 타격했을 때 체력 회복도 돕습니다.";
+
+// Ghoul Makobreaker
+"slug_info_name_ghoul_makobreaker" = "메가브레이커";
+"slug_info_power_ghoul_makobreaker" = "다크 워터";
+"slug_info_description_ghoul_makobreaker" = "메가브레이커는 블래스터 샷과 저레벨 슬러그를 먹으며 파워를 올리지만 플레이어에게도 데미지를 입힙니다.";
+
+// Ghoul Yang
+//"slug_info_name_ghoul_yang" = "Negablade";
+//"slug_info_power_ghoul_yang" = "Shadow";
+//"slug_info_description_yang" = "Negablade uses its Darkwraith move to confuse opponents by clouding their vision.";
+
+/* Megamorphs */
+
+//Burpy Megamorph
+"slug_info_name_mega_burpy" = "메가모프 인퍼너스";
+"slug_info_power_mega_burpy" = "불";
+"slug_info_description_mega_burpy" = "궁극 진화형인 메가모프 인퍼너스 전장을 누비며 이곳 저곳에 화염 폭풍을 일으킵니다.";
+
+//Frost Megamorph
+"slug_info_name_mega_frost" = "메가모프 프로스트 크롤러";
+"slug_info_power_mega_frost" = "얼음";
+"slug_info_description_mega_frost" = "궁극 진화형인 메가모프 프로스트 크롤러는 접촉하는 상대방을 잠시 동안 얼리면서 얼음 방어벽을 만듭니다.";
+
+//Tazerling Megamorph
+"slug_info_name_mega_tazer" = "메가모프 테이저링";
+"slug_info_power_mega_tazer" = "전기";
+"slug_info_description_mega_tazer" = "궁극 진화형인 메가모프 테이저링은 강력한 전기 폭풍을 만들면서 전장을 누빕니다. 전기 폭풍의 강력한 데미지는 상대방을 기절시키기도 합니다.";
+
+//Flatulorhinkus Megamorph
+"slug_info_name_mega_gas" = "메가모프 플래출로링커스";
+"slug_info_power_mega_gas" = "산";
+"slug_info_description_mega_gas" = "궁극 진화형인 메가모프 플래출로링커스는 내부 압력을 이용해 전장을 이동하며 상대방에게 데미지를 가하는 독구름을 내뿜습니다.";
+
+//Megamorph Arachnet
+"slug_info_name_mega_arachnet" = "메가모프 아라크넷";
+"slug_info_power_mega_arachnet" = "흙";
+"slug_info_description_mega_arachnet" = "궁극 진화형인 메가모프 아라크넷은 상대방 슬러그의 속도를 크게 떨어뜨리며 강력한 데미지를 입히는 거미줄을 만들어냅니다.";
+
+//Megamorph Tormato
+"slug_info_name_mega_tormato" = "메가모프 토메이토 ";
+"slug_info_power_mega_tormato" = "흙";
+"slug_info_description_mega_tormato" = "궁극 진화형인 메가모프 토메이토는 상대방 슬러그를 튕겨냅니다.";
+
+//Megamorph Grenuke
+"slug_info_name_mega_grenuke" = "메가모프 그레누커";
+"slug_info_power_mega_grenuke" = "불";
+"slug_info_description_mega_grenuke" = "궁극 진화형인 메가모프 그레누커는 빠르게 제거하지 않을 경우 상대방의 보드에 강력한 데미지를 입히는 폭탄을 붙입니다.";
+
+//Megamorph Thresher
+"slug_info_name_mega_thresher" = "메가모프 스레셔";
+"slug_info_power_mega_thresher" = "금속";
+"slug_info_description_mega_thresher" = "궁극 진화형인 메가모프 스레셔는 플레이어가 부상을 입을 경우 더욱 강력한 파워를 얻습니다.";
+
+//Megamorph Boon Doc
+"slug_info_name_mega_doc" = "메가모프 분 닥";
+"slug_info_power_mega_doc" = "빛";
+"slug_info_description_mega_doc" = "궁극 진화형인 메가모프 분 닥은 메디치 기술을 이용해 비행 중 플레이어를 치료합니다.";
+
+
+/* End Slug Info Box */
+
+/* Booster Info */
+
+// blaster_damage
+"booster_info_name_blaster_damage" = "블래스터 데미지";
+"booster_info_description_blaster_damage" = "블래스터 샷의 데미지가 증가합니다.";
+
+"booster_info_name_blaster_velocity" = "블래스터 스피드";
+"booster_info_description_blaster_velocity" = "슬러그와 블래스터 샷의 속도가 증가합니다.";
+
+"booster_info_name_autocharge" = "슬러그 자동 충전기";
+"booster_info_description_autocharge" = "슬러그가 교전 중 자동으로 충전됩니다.";
+
+"booster_info_name_pre_igniter" = "슬러그 프리 이그나이터";
+"booster_info_description_pre_igniter" = "슬러그가 모두 충전된 상태로 게임을 시작합니다.";
+
+"booster_info_name_max_level" = "슬러그 앰플리파이어";
+"booster_info_description_max_level" = "한 게임 동안 레벨 3의 슬러그를 사용합니다.";
+
+/* End Booster Info */
+
+
+/* Game Mod */
+
+"gamemod_info_name_blaster_damage" = "블래스터 데미지";
+"gamemod_info_name_blaster_damage_one" = "블래스터 데미지";
+"gamemod_info_description_blaster_damage" = "모든 기본 샷의 공격력이 2배 증가합니다";
+
+"gamemod_info_name_autocharge" = "자동 충전기";
+"gamemod_info_name_autocharge_one" = "자동 충전기 레벨 1";
+"gamemod_info_name_autocharge_two" = "자동 충전기 레벨 2";
+"gamemod_info_name_autocharge_three" = "자동 충전기 레벨 3";
+"gamemod_info_description_autocharge" = "슬러그가 자동 충전됩니다";
+
+"gamemod_info_name_pre_igniter" = "슬러그 프리 이그나이터";
+"gamemod_info_name_pre_igniter_one" = "슬러그 프리 이그나이터";
+"gamemod_info_description_pre_igniter" = "슬러그가 모두 충전된 상태로 시작합니다.";
+
+"gamemod_info_name_blaster_velocity" = "블래스터 스피드";
+"gamemod_info_name_blaster_velocity_one" = "블래스터 스피드";
+"gamemod_info_description_blaster_velocity" = "모든 샷의 속도가 증가합니다.";
+
+"gamemod_info_name_no_blasters" = "블래스터 없음";
+"gamemod_info_name_no_blasters_one" = "블래스터 없음";
+"gamemod_info_description_no_blasters" = "게임 보드에 블래스터 타일을 넣지 않습니다";
+
+"gamemod_info_name_no_health" = "체력 타일 없음";
+"gamemod_info_name_no_health_one" = "체력 타일 없음";
+"gamemod_info_description_no_health" = "게임 보드에 체력 타일을 넣지 않습니다";
+
+/* End Game Mod */
+
+
+/* Basic Shot Info */
+
+"basic_shot_info_name_basicShot" = "기본 샷";
+"basic_shot_info_name_acidGreen" = "액시드 그린";
+"basic_shot_info_name_lightning" = "라이트닝 볼트";
+"basic_shot_info_name_majorLazer" = "메이저 레이저";
+"basic_shot_info_name_sonicBoom" = "소닉 붐";
+"basic_shot_info_name_snot" = "액시드 스플래쉬";
+"basic_shot_info_name_sparkleBlade" = "스파크 블레이드";
+"basic_shot_info_name_pinkerton" = "버블 블래스트";
+"basic_shot_info_name_blueBird" = "블루 버드";
+"basic_shot_info_name_violentRed" = "레드 로켓";
+"basic_shot_info_name_mellowYellow" = "멜로우 옐로우";
+"basic_shot_info_name_royalPurple" = "퍼플 파워";
+"basic_shot_info_name_oranges" = "오렌지 얼럿";
+"basic_shot_info_name_tealBerry" = "블루 베리";
+
+/* End Basic Shot Info */
+
+
+/* Character Names */
+
+"char_eli_name" = "일라이 셰인";
+
+/* End Character Names */
+
+
+/* Destructible Character Names */
+
+"char_dummy_name" = "더미";
+"char_ghoulstation_name" = "괴물 스테이션";
+"char_trixiecage_name" = "트릭시의 철창";
+"char_door_name" = "";
+
+/* End Destructible Character Names */
+
+
+/* Opponent Names */
+
+"char_arclight_name" = "쇼크와이어";
+"char_guardbig1_name" = "미스터 오렌지";
+"char_bigguard3_name" = "한 델 바";
+"char_billy_name" = "빌리";
+"char_blakk_name" = "닥터 블랙";
+"char_cajun_name" = "자크스";
+"char_fav_name" = "패브";
+"char_fire_name" = "플레임";
+"char_frost_name" = "프로스트";
+"char_gabe_name" = "게이브";
+"char_glasses_name" = "글래시스";
+"char_goon2_name" = "로크";
+"char_goon3_name" = "로드";
+"char_goon4_name" = "분 더 군";
+"char_goon_name" = "시드 더 키드";
+"char_guard_name" = "오메가 오퍼레이터";
+"char_jackbull_name" = "존 불";
+"char_kingofsling_name" = "킹 오브 슬링";
+"char_kord_name" = "코드";
+"char_marcus_name" = "마커스";
+"char_mrsaturday_name" = "미스터 새터데이";
+"char_munch_name" = "먼치";
+"char_nacho_name" = "나초";
+"char_pronto_name" = "프론토";
+"char_robo2_name" = "둠봇 2.0";
+"char_robo_name" = "둠봇 1.0";
+"char_sedo_name" = "세도";
+"char_shadow_name" = "섀도 족";
+"char_shorty_name" = "쇼티";
+"char_trixie_name" = "트릭시 스팅";
+"char_turret_name" = "터렛
+";
+"char_mei_name" = "메이";
+
+// Chapter 6
+"char_voodoo_name" = "후두 부두";
+"char_zombieguard_name" = "좀비 가드";
+"char_securitygun_name" = "오토 캐논";
+"char_zombiechef_name" = "좀비 치프";
+"char_inmate_name" = "스니치";
+"char_inmate2_name" = "데드아이";
+"char_turtle_name" = "터틀톤";
+"char_horn_name" = "미노타우루스";
+"char_spirex_name" = "스피렉스";
+"char_madmax_name" = "맥스 더 매더";
+
+"char_angryblakk_name" = "성난 닥터 블랙";
+"char_dunno_name" = "아이 엠 에러";
+
+/* Chapter 7 */
+"char_guard_mech_name" = "오미크론 스쿼드론";
+"char_boat_pirates_name" = "칼과 찰리";
+"char_pirate1_name" = "메이티 네이트";
+"char_pirate_girl_name" = "캡틴 리들리";
+"char_shark_name" = "군터 샤크";
+"char_pirate2_name" = "아바스터 플룸";
+"char_cannon_name" = "캐노니어 부";
+"char_gator_name" = "게이터";
+"char_fang_name" = "팽";
+"char_watts_name" = "와츠";
+"char_drake_name" = "말볼리오 드레이크";
+"char_eli_mech_name" = "일라이 셰인";
+
+/* Chapter 8*/
+"char_evileli_name" = "앨리어스";
+"char_evilkord_name" = "진";
+"char_eviltrixie_name" = "트랩시";
+"char_mechamole_name" = "메카 몰";
+
+/* Chapter 9*/
+"char_will_name" ="윌 셰인";
+"char_fakeduelist_name" = "방랑하는 도전자";
+"char_shanai_name" = "무패의 고수";
+"char_twist_name" = "트위스트";
+"char_young_blakk_name" = "영 블랙";
+"char_blakk_gat_name" = "닥터 블랙";
+"char_master_name" = "무패의 고수";
+
+/* Chapter 10*/
+"char_scrapheepgang01_name" = "몽고";
+"char_scrapheepgang02_name" = "스트래거스";
+"char_scrapheepgang03_name" = "웰더 월터";
+"char_scrapheepgang04_name" = "릴 스티비";
+"char_bossember_name" = "엠버";
+"char_angrybossember_name" = "앵그리 보스 엠버";
+
+/* Chapter 12*/
+"char_guard2_name" = "오메가 오퍼레이터 ";
+"char_darkbane_soldier1_name" = "다크베인 머그";
+"char_darkbane_soldier2_name" = "다크베인 드렉";
+"char_darkbane_soldier3_name" = "다크베인 하택";
+"char_shadowclanleader_name" = "클랜 프로텍터";
+"char_darkbane_soldier4_name" = "다크베인 그록";
+"char_darkbane_soldier5_name" = "다크베인 스트랙";
+"char_darkbane_prison_guard_name" = "교도소장";
+"char_darkbane_nacho_name" = "다크베인 캡틴";
+
+/* Chapter 13*/
+"char_darkbane_soldier6_name" = "다크베인 블락";
+"char_darkbane_soldier_elite1_name" = "다크베인 엘리트 1";
+"char_darkbane_soldier_elite2_name" = "다크베인 엘리트 2";
+"char_behemoth_name" = "베히모스";
+"char_darkbanebrimstone_name" = "브림스톤";
+"char_angrynacho_name" = "앵그리 나초";
+
+/* Chapter 15*/
+"char_hostile_miner_name" = "앵그리 마이너";
+"char_foreman_name" = "포어맨";
+"char_viggo_minion1_name" = "더 헤비";
+"char_viggo_minion2_name" = "더 래트";
+"char_viggo_name" = "비고 데어";
+"char_viggo1_name" = "더 헤비";
+"char_viggo2_name" = "더 래트";
+
+/* Chapter 16*/
+"char_titan_name" = "타이탄";
+"char_guard3_name" = "밥 가드";
+
+/* Chapter 17*/
+"char_redhook_name" = "레드 훅";
+"char_technician_name" = "기술자";
+
+/* End Opponent Names */
+
+
+
+/***** Game *****/
+
+/* Game Common */
+
+// score screen coin breakdown
+// the amount of coins earned per encounter is broken down into sections:
+// eg. "Victory   10 coins"
+//     "Badges     5 coins"
+//     "Bonus      5 coins"
+"game_coins_breakdown_victory" = "승리";     // story
+"game_coins_breakdown_badges" = "뱃지";       // story, bonus
+"game_coins_breakdown_achievements" = "달성과제"; // story
+"game_coins_breakdown_bonus" = "보너스";         // endless
+"game_coins_breakdown_base" = "기본";           // treasure
+"game_coins_breakdown_damage" = "데미지";       // treasure
+"game_coins_breakdown_destroy" = "파괴";     // treasure
+"game_coins_breakdown_total" = "전체";         // 전체
+
+/* End Game Common */
+
+
+
+/* Tutorials */
+
+"game_tutorial_tip_match" = "매치"; // displayed on a tip box, informing the player to match some number of tiles
+"game_tutorial_tip_move_1" = "타일 1개를 움직여봐!"; // tip telling the player to move 1 tile
+"game_tutorial_tip_move_n" = "타일 %i개를 움직여봐!"; // tip telling player to move more than 1 tile.
+"game_tutorial_tip_survive" = "살아남아야 해!";
+
+/* End Tutorials */
+
+
+
+/* Treasure Game */
+
+//"game_treasure_times_up" = "Time's Up!";
+//"game_treasure_well_done" = "Well Done!";
+
+/* End Treasure Game */
+
+/***** Local Push Notification *****/
+//Haven't logged in for 1 week: 500 coins
+"log_in_1_week" = "슬러그가 선물을 준비했습니다! 로그인 후 무료 코인 획득!";
+//Haven't logged in for 1 week: 800 coins
+"log_in_2_week" = "슬러그가 선물을 준비했습니다! 로그인 후 무료 코인 획득!";
+//Haven't logged in for 1 week: 1500 coins
+"log_in_1_month" = "슬러그가 선물을 준비했습니다! 로그인 후 무료 코인 획득!";
+//Haven't logged in for 1 week: 3000 coins
+"log_in_2_month" = "슬러그가 선물을 준비했습니다! 로그인 후 무료 코인 획득!";
+//Haven't logged in for 1 week: 5000 coins
+"log_in_6_month" = "슬러그가 선물을 준비했습니다! 로그인 후 무료 코인 획득!";
+
+"localpush_reward_popup" = "슬러그로부터 선물을 받았습니다!";
+"localpush_reward_coins" = "코인";
+"localpush_reward_coins" = "개가 무료!!!";
+
+/***** Daily Gifts Notification *****/
+"daily_challenges_now" = "일일 챌린지 도전 가능! 지금 무료 슬러그 획득 찬스에 도전하세요!";
+"daily_gift_coins" = "일일 선물 획득 가능! 로그인 후 무료 코인 획득!";
+"daily_gift_boosters" = "일일 선물 획득 가능! 로그인 후 무료 부스터 획득!";
+"daily_gift_blaster_damage" = "일일 선물 획득 가능! 로그인 후 무료 블래스터 데미지 부스터 획득!";
+"daily_gift_blaster_speed" = "일일 선물 획득 가능! 로그인 후 무료 블래스터 스피드 부스터 획득!";
+"daily_gift_auto_charger" = "일일 선물 획득 가능! 로그인 후 무료 슬러그 오토 차저 획득!";
+"daily_gift_pre_igniter" = "일일 선물 획득 가능! 로그인 후 무료 프리 이그나이터 획득!";
+"slug_gift_coins" = "슬러그가 선물을 준비했습니다! 로그인 후 무료 코인 획득!";
+
+/***** Video Ad Confirmation Box *****/
+"video_ad_title" = "";
+"video_ad_description" = "동영상을 보고 추가 코인을 받아보시겠어요?";
+"video_ad_watch_button" = "예!";
+"video_ad_thank_you" = "축하합니다! 다음을 획득하셨습니다: ";
+"video_ad_150_coins" = "광고 시청 후 코인 150개를 받아가세요!";
+"video_ad_200_coins" = "광고 시청 후 코인 200개를 받아가세요!";
+"video_ad_thank_you" = "축하합니다! ";
+
+/***** SlugSeeker *****/
+
+"name_cavern_slug_seeker_name" = "슬러그 시커";
+
+
+/* Cavern 1 */
+"cv_cavern1_name" = "헤링본 동굴";
+"cv_cavern1_subtitle" = "";
+
+//Encounter 1
+"enc_cv1e1_title" = "인카운터 1";
+"enc_cv1e1_title" = "인카운터: 1";
+
+//Encounter 2
+"enc_cv1e2_title" = "인카운터 2";
+"enc_cv1e2_title" = "인카운터: 2";
+
+//Encounter 3
+"enc_cv1e3_title" = "인카운터 3";
+"enc_cv1e3_title" = "인카운터: 3";
+
+//Encounter 4
+"enc_cv1e4_title" = "인카운터 4";
+"enc_cv1e4_title" = "인카운터: 4";
+
+//Encounter 5
+"enc_cv1e5_title" = "보너스 라운드";
+
+//Encounter 6
+"enc_cv1e6_title" = "인카운터 6";
+"enc_cv1e6_title" = "인카운터: 6";
+
+//Encounter 7
+"enc_cv1e7_title" = "인카운터 7";
+"enc_cv1e7_title" = "인카운터: 7";
+
+//Encounter 8
+"enc_cv1e8_title" = "인카운터 8";
+"enc_cv1e8_title" = "인카운터: 8";
+
+//Encounter 9
+"enc_cv1e9_title" = "인카운터 9";
+"enc_cv1e9_title" = "인카운터: 9";
+
+//Encounter 10
+"enc_cv1e10_title" = "보너스 라운드";
+
+//Encounter 11
+"enc_cv1e11_title" = "인카운터 11";
+"enc_cv1e11_title" = "인카운터: 11";
+
+//Encounter 12
+"enc_cv1e12_title" = "인카운터 12";
+"enc_cv1e12_title" = "인카운터: 12";
+
+//Encounter 13
+"enc_cv1e13_title" = "인카운터 13";
+"enc_cv1e13_title" = "인카운터: 13";
+
+//Encounter 14
+"enc_cv1e14_title" = "인카운터 14";
+"enc_cv1e14_title" = "인카운터: 14";
+
+//Encounter 15
+"enc_cv1e15_title" = "보너스 라운드";
+
+/* End Cavern 1 */
+
+/* Cavern 2 */
+"cv_cavern2_name" = "다크 페리퍼리";
+"cv_cavern2_subtitle" = "";
+
+//Encounter 1
+"enc_cv2e1_title" = "인카운터 1";
+"enc_cv2e1_title" = "인카운터: 1";
+
+//Encounter 2
+"enc_cv2e2_title" = "인카운터 2";
+"enc_cv2e2_title" = "인카운터: 2";
+
+//Encounter 3
+"enc_cv2e3_title" = "인카운터 3";
+"enc_cv2e3_title" = "인카운터: 3";
+
+//Encounter 4
+"enc_cv2e4_title" = "인카운터 4";
+"enc_cv2e4_title" = "인카운터: 4";
+
+//Encounter 5
+"enc_cv2e5_title" = "보너스 라운드";
+
+//Encounter 6
+"enc_cv2e6_title" = "인카운터 6";
+"enc_cv2e6_title" = "인카운터: 6";
+
+//Encounter 7
+"enc_cv2e7_title" = "인카운터 7";
+"enc_cv2e7_title" = "인카운터: 7";
+
+//Encounter 8
+"enc_cv2e8_title" = "인카운터 8";
+"enc_cv2e8_title" = "인카운터: 8";
+
+//Encounter 9
+"enc_cv2e9_title" = "인카운터 9";
+"enc_cv2e9_title" = "인카운터: 9";
+
+//Encounter 10
+"enc_cv2e10_title" = "보너스 라운드";
+
+//Encounter 11
+"enc_cv2e11_title" = "인카운터 11";
+"enc_cv2e11_title" = "인카운터: 11";
+
+//Encounter 12
+"enc_cv2e12_title" = "인카운터 12";
+"enc_cv2e12_title" = "인카운터: 12";
+
+//Encounter 13
+"enc_cv2e13_title" = "인카운터 13";
+"enc_cv2e13_title" = "인카운터: 13";
+
+//Encounter 14
+"enc_cv2e14_title" = "인카운터 14";
+"enc_cv2e14_title" = "인카운터: 14";
+
+//Encounter 15
+"enc_cv2e15_title" = "보너스 라운드";
+
+/* End Cavern 2 */
+
+/* Cavern 3 */
+"cv_cavern3_name" = "심연의 동굴";
+"cv_cavern3_subtitle" = "";
+
+//Encounter 1
+"enc_cv3e1_title" = "인카운터 1";
+"enc_cv3e1_title" = "인카운터: 1";
+
+//Encounter 2
+"enc_cv3e2_title" = "인카운터 2";
+"enc_cv3e2_title" = "인카운터: 2";
+
+//Encounter 3
+"enc_cv3e3_title" = "인카운터 3";
+"enc_cv3e3_title" = "인카운터: 3";
+
+//Encounter 4
+"enc_cv3e4_title" = "인카운터 4";
+"enc_cv3e4_title" = "인카운터: 4";
+
+//Encounter 5
+"enc_cv3e5_title" = "보너스 라운드";
+
+//Encounter 6
+"enc_cv3e6_title" = "인카운터 6";
+"enc_cv3e6_title" = "인카운터: 6";
+
+//Encounter 7
+"enc_cv3e7_title" = "인카운터 7";
+"enc_cv3e7_title" = "인카운터: 7";
+
+//Encounter 8
+"enc_cv3e8_title" = "인카운터 8";
+"enc_cv3e8_title" = "인카운터: 8";
+
+//Encounter 9
+"enc_cv3e9_title" = "인카운터 9";
+"enc_cv3e9_title" = "인카운터: 9";
+
+//Encounter 10
+"enc_cv3e10_title" = "보너스 라운드";
+
+//Encounter 11
+"enc_cv3e11_title" = "인카운터 11";
+"enc_cv3e11_title" = "인카운터: 11";
+
+//Encounter 12
+"enc_cv3e12_title" = "인카운터 12";
+"enc_cv3e12_title" = "인카운터: 12";
+
+//Encounter 13
+"enc_cv3e13_title" = "인카운터 13";
+"enc_cv3e13_title" = "인카운터: 13";
+
+//Encounter 14
+"enc_cv3e14_title" = "인카운터 14";
+"enc_cv3e14_title" = "인카운터: 14";
+
+//Encounter 15
+"enc_cv3e15_title" = "보너스 라운드";
+
+/* End Cavern 3 */
+
+/* Cavern 4 */
+"cv_cavern4_name" = "슬러그마스 스노우댄스";
+"cv_cavern4_name" = "슬러그마스 스노우댄스 동굴";
+"cv_cavern4_subtitle" = "";
+
+//Encounter 1
+"enc_cv4e1_title" = "인카운터 1";
+"enc_cv4e1_title" = "인카운터: 1";
+
+//Encounter 2
+"enc_cv4e2_title" = "인카운터 2";
+"enc_cv4e2_title" = "인카운터: 2";
+
+//Encounter 3
+"enc_cv4e3_title" = "인카운터 3";
+"enc_cv4e3_title" = "인카운터: 3";
+
+//Encounter 4
+"enc_cv4e4_title" = "인카운터 4";
+"enc_cv4e4_title" = "인카운터: 4";
+
+//Encounter 5
+"enc_cv4e5_title" = "보너스 라운드";
+
+//Encounter 6
+"enc_cv4e6_title" = "인카운터 6";
+"enc_cv4e6_title" = "인카운터: 6";
+
+//Encounter 7
+"enc_cv4e7_title" = "인카운터 7";
+"enc_cv4e7_title" = "인카운터: 7";
+
+//Encounter 8
+"enc_cv4e8_title" = "인카운터 8";
+"enc_cv4e8_title" = "인카운터: 8";
+
+//Encounter 9
+"enc_cv4e9_title" = "인카운터 9";
+"enc_cv4e9_title" = "인카운터: 9";
+
+//Encounter 10
+"enc_cv4e10_title" = "보너스 라운드";
+
+//Encounter 11
+"enc_cv4e11_title" = "인카운터 11";
+"enc_cv4e11_title" = "인카운터: 11";
+
+//Encounter 12
+"enc_cv4e12_title" = "인카운터 12";
+"enc_cv4e12_title" = "인카운터: 12";
+
+//Encounter 13
+"enc_cv4e13_title" = "인카운터 13";
+"enc_cv4e13_title" = "인카운터: 13";
+
+//Encounter 14
+"enc_cv4e14_title" = "인카운터 14";
+"enc_cv4e14_title" = "인카운터: 14";
+
+//Encounter 15
+"enc_cv4e15_title" = "보너스 라운드";
+
+/* End Cavern 4 */
+
+
+/* Cavern 5 */
+"cv_cavern5_name" = "도장 그로토";
+"cv_cavern5_subtitle" = "";
+
+//Encounter 1
+"enc_cv5e1_title" = "인카운터 1";
+
+//Encounter 2
+"enc_cv5e2_title" = "인카운터 2";
+
+//Encounter 3
+"enc_cv5e3_title" = "인카운터 3";
+
+//Encounter 4
+"enc_cv5e4_title" = "인카운터 4";
+
+//Encounter 5
+"enc_cv5e5_title" = "보너스 라운드";
+
+//Encounter 6
+"enc_cv5e6_title" = "인카운터 6";
+
+//Encounter 7
+"enc_cv5e7_title" = "인카운터 7";
+
+//Encounter 8
+"enc_cv5e8_title" = "인카운터 8";
+
+//Encounter 9
+"enc_cv5e9_title" = "인카운터 9";
+
+//Encounter 10
+"enc_cv5e10_title" = "보너스 라운드";
+
+//Encounter 11
+"enc_cv5e11_title" = "인카운터 11";
+
+//Encounter 12
+"enc_cv5e12_title" = "인카운터 12";
+
+//Encounter 13
+"enc_cv5e13_title" = "인카운터 13";
+
+//Encounter 14
+"enc_cv5e14_title" = "인카운터 14";
+
+//Encounter 15
+"enc_cv5e15_title" = "보너스 라운드";
+
+/* End Cavern 5 */
+
+/* Cavern 6 */
+"cv_cavern6_name" = "와일드 스포어 동굴";
+"cv_cavern6_subtitle" = "";
+
+//Encounter 1
+"enc_cv6e1_title" = "인카운터 1";
+
+//Encounter 2
+"enc_cv6e2_title" = "인카운터 2";
+
+//Encounter 3
+"enc_cv6e3_title" = "인카운터 3";
+
+//Encounter 4
+"enc_cv6e4_title" = "인카운터 4";
+
+//Encounter 5
+"enc_cv6e5_title" = "보너스 라운드";
+
+//Encounter 6
+"enc_cv6e6_title" = "인카운터 6";
+
+//Encounter 7
+"enc_cv6e7_title" = "인카운터 7";
+
+//Encounter 8
+"enc_cv6e8_title" = "인카운터 8";
+
+//Encounter 9
+"enc_cv6e9_title" = "인카운터 9";
+
+//Encounter 10
+"enc_cv6e10_title" = "보너스 라운드";
+
+//Encounter 11
+"enc_cv6e11_title" = "인카운터 11";
+
+//Encounter 12
+"enc_cv6e12_title" = "인카운터 12";
+
+//Encounter 13
+"enc_cv6e13_title" = "인카운터 13";
+
+//Encounter 14
+"enc_cv6e14_title" = "인카운터 14";
+
+//Encounter 15
+"enc_cv6e15_title" = "보너스 라운드";
+
+/* End Cavern 6 */
+
+/* Cavern 7 */
+"cv_cavern7_name" = "언더토우 동굴";
+"cv_cavern7_subtitle" = "";
+
+//Encounter 1
+"enc_cv7e1_title" = "인카운터 1";
+
+//Encounter 2
+"enc_cv7e2_title" = "인카운터 2";
+
+//Encounter 3
+"enc_cv7e3_title" = "인카운터 3";
+
+//Encounter 4
+"enc_cv7e4_title" = "인카운터 4";
+
+//Encounter 5
+"enc_cv7e5_title" = "보너스 라운드";
+
+//Encounter 6
+"enc_cv7e6_title" = "인카운터 6";
+
+//Encounter 7
+"enc_cv7e7_title" = "인카운터 7";
+
+//Encounter 8
+"enc_cv7e8_title" = "인카운터 8";
+
+//Encounter 9
+"enc_cv7e9_title" = "인카운터 9";
+
+//Encounter 10
+"enc_cv7e10_title" = "보너스 라운드";
+
+//Encounter 11
+"enc_cv76e11_title" = "인카운터 11";
+
+//Encounter 12
+"enc_cv7e12_title" = "인카운터 12";
+
+//Encounter 13
+"enc_cv7e13_title" = "인카운터 13";
+
+//Encounter 14
+"enc_cv7e14_title" = "인카운터 14";
+
+//Encounter 15
+"enc_cv7e15_title" = "보너스 라운드";
+
+/* End Cavern 7 */
+
+
+
+/***** Story *****/
+
+/* Treasure Chapter */
+
+//"ch_treasure_name" = "Treasure";
+//"ch_treasure_subtitle" = "";
+
+// encounters
+//"enc_treasure_large_title" = "Treasure Chamber";
+//"enc_treasure_small_title" = "Treasure Den";
+
+/* End Treasure Chapter */
+
+/* Chapter 1 */
+"ch_chapter1_name" = "챕터 1";
+"ch_chapter1_subtitle" = "훈련";
+
+//Encounter 1
+"enc_c1e1_title" = "동굴트롤";
+
+//Encounter 2
+"enc_c1e2_title" = "힐링";
+
+//Encounter 3
+"enc_c1e3_title" = "슬러그슬링어";
+
+//Encounter 4
+"enc_c1e4_title" = "위대한 프론토";
+
+/* End Chapter 1 */
+
+
+
+/* Chapter 2 */
+
+"ch_chapter2_name" = "챕터 2";
+"ch_chapter2_subtitle" = "토너먼트";
+
+//Encounter 1
+"enc_c2e1_title" = "1라운드";
+
+//Encounter 2
+"enc_c2e2_title" = "캐치 콜드";
+
+//Encounter 3
+"enc_c2e3_title" = "조명, 카메라, 액션!";
+
+//Encounter 4
+"enc_c2e4_title" = "라이트닝 로드";
+
+//Encounter 5
+"enc_c2e5_title" = "광대와 왕";
+
+//Encounter 6
+"enc_c2e6_title" = "준준결승";
+
+//Encounter 7
+"enc_c2e7_title" = "모든 것이 3배";
+
+
+
+//Encounter 8
+"enc_c2e8_title" = "경고!";
+
+//Encounter 9
+"enc_c2e9_title" = "보너스 라운드";
+
+//Encounter 10
+"enc_c2e10_title" = "간주";
+
+//Encounter 11
+"enc_c2e11_title" = "황소";
+
+/* End Chapter 2 */
+
+
+
+/* Chapter 3 */
+"ch_chapter3_name" = "챕터 3";
+"ch_chapter3_subtitle" = "훌리갱";
+
+//Encounter 1
+"enc_c3e1_title" = "납치 사건";
+
+//Encounter 2
+"enc_c3e2_title" = "성난 패배자들";
+
+
+
+//Encounter 3
+"enc_c3e3_title" = "먼지 협곡";
+
+//Encounter 4
+"enc_c3e4_title" = "용병";
+
+//Encounter 5
+"enc_c3e5_title" = "몰 믹스업";
+
+//Encounter 6
+"enc_c3e6_title" = "왕국의 도래";
+
+//Encounter 7
+"enc_c3e7_title" = "깨진 유리조각";
+
+//Encounter 8
+"enc_c3e8_title" = "준비";
+
+//Encounter 9
+"enc_c3e9_title" = "훌리갱";
+
+
+
+//Encounter 10
+"enc_c3e10_title" = "보너스 라운드";
+
+//Encounter 11
+"enc_c3e11_title" = "명령 체계";
+
+
+/* End Chapter 3 */
+
+
+
+/* Chapter 4 */
+
+"ch_chapter4_name" = "챕터 4";
+"ch_chapter4_subtitle" = "화염을 뚫고";
+
+//Encounter 1
+"enc_c4e1_title" = "섀도 족";
+
+//Encounter 2
+"enc_c4e2_title" = "재시합";
+
+//Encounter 3
+"enc_c4e3_title" = "버거 타임";
+
+//Encounter 4
+"enc_c4e4_title" = "Doombot 1.0";
+
+//Encounter 5
+"enc_c4e5_title" = "용암 구덩이";
+
+//Encounter 6
+"enc_c4e6_title" = "화력";
+
+//Encounter 7
+"enc_c4e7_title" = "바리케이드";
+
+//Encounter 8
+"enc_c4e8_title" = "다크 워터의 그림자";
+
+//Encounter 9
+"enc_c4e9_title" = "슬픈 날";
+
+//Encounter 10
+"enc_c4e10_title" = "오른손잡이";
+
+//Encounter 11
+"enc_c4e11_title" = "보너스 라운드";
+
+/* End Chapter 4 */
+
+
+
+/* Chapter 5 */
+
+"ch_chapter5_name" = "챕터 5";
+"ch_chapter5_subtitle" = "블랙 워터";
+
+//Encounter 1
+"enc_c5e1_title" = "치유의 손";
+
+//Encounter 2
+"enc_c5e2_title" = "최고가 응찰자";
+
+//Encounter 3
+"enc_c5e3_title" = "끝없는 충돌";
+
+//Encounter 4
+"enc_c5e4_title" = "새로운 모습으로";
+
+//Encounter 5
+"enc_c5e5_title" = "경고";
+
+//Encounter 6
+"enc_c5e6_title" = "갱단의 수호자";
+
+
+
+//Encounter 7
+"enc_c5e7_title" = "크런치 먼치";
+
+//Encounter 8
+"enc_c5e8_title" = "로크와 열쇠";
+
+
+//Encounter 9
+"enc_c5e9_title" = "몬스터";
+
+//Encounter 10
+"enc_c5e10_title" = "정전";
+
+
+/* End Chapter 5 */
+
+
+
+/* Chapter 6 */
+
+"ch_chapter6_name" = "챕터 6";
+"ch_chapter6_subtitle" = "심판의 날";
+
+//Encounter 1
+"enc_c6e1_title" = "속임수";
+
+//Encounter 2
+"enc_c6e2_title" = "보너스 라운드";
+
+//Encounter 3
+"enc_c6e3_title" = "탈옥";
+
+//Encounter 4
+"enc_c6e4_title" = "침입자";
+
+//Encounter 5
+"enc_c6e5_title" = "저녁식사";
+
+//Encounter 6
+"enc_c6e6_title" = "반발";
+
+//Encounter 7
+"enc_c6e7_title" = "복수";
+
+//Encounter 8
+"enc_c6e8_title" = "크리처 피처";
+
+
+
+//Encounter 9
+"enc_c6e9_title" = "광기";
+
+//Encounter 10
+"enc_c6e10_title" = "불의 심판";
+
+/* End Chapter 6 */
+
+/* Chapter 7 */
+
+"ch_chapter7_name" = "챕터 7";
+"ch_chapter7_subtitle" = "배를 세워라";
+
+//Encounter 1
+"enc_c7e1_title" = "플룸";
+
+//Encounter 2
+"enc_c7e2_title" = "해적들!";
+
+//Encounter 3
+"enc_c7e3_title" = "빅토리 스윙";
+
+//Encounter 4
+"enc_c7e4_title" = "톱 마스트";
+
+//Encounter 5
+"enc_c7e5_title" = "첫 번째 캡틴";
+
+//Encounter 6
+"enc_c7e6_title" = "바다의 상어";
+
+//Encounter 7
+"enc_c7e7_title" = "캐논볼";
+
+//Encounter 8
+"enc_c7e8_title" = "보너스 라운드";
+
+//Encounter 9
+"enc_c7e9_title" = "부둣가";
+
+//Encounter 10
+"enc_c7e10_title" = "캡틴 말볼리오 드레이크";
+
+
+
+/* End Chapter 7 */
+
+/* Chapter 8 */
+
+"ch_chapter8_name" = "챕터 8";
+"ch_chapter8_subtitle" = "새로운 왕";
+
+//Encounter 1
+"enc_c8e1_title" = "메시지";
+
+//Encounter 2
+"enc_c8e2_title" = "정보";
+
+//Encounter 3
+"enc_c8e3_title" = "카붐과 카블람";
+
+//Encounter 4
+"enc_c8e4_title" = "몰 왕국";
+
+//Encounter 5
+"enc_c8e5_title" = "셰임 갱";
+
+//Encounter 6
+"enc_c8e6_title" = "트릭스터";
+
+//Encounter 7
+"enc_c8e7_title" = "셰임의 수치";
+
+//Encounter 8
+"enc_c8e8_title" = "보너스 라운드";
+
+//Encounter 9
+"enc_c8e9_title" = "모두의 왕";
+
+//Encounter 10
+"enc_c8e10_title" = "몰 파워";
+
+/* End Chapter 8 */
+
+/* Chapter 9 */
+
+"ch_chapter9_name" = "챕터 9";
+"ch_chapter9_subtitle" = "천하무적";
+
+//Encounter 1 - The Trips
+"enc_c9e1_title" = "3인의 도전자";
+
+//Encounter 2
+"enc_c9e2_title" = "보너스 라운드";
+
+//Encounter 3 - Sid the Kid
+"enc_c9e3_title" = "가치없는 것";
+
+//Encounter 4 - King of Sling
+"enc_c9e4_title" = "왕 또는 주인";
+
+//Encounter 5 - Trixie
+"enc_c9e5_title" = "소중한 친구들";
+
+//Encounter 6 - Fake Duelist
+"enc_c9e6_title" = "의문의 남자";
+
+//Encounter 7 - Unbeatable Master
+"enc_c9e7_title" = "시험";
+
+//Encounter 8 - Young Dr. Blakk
+"enc_c9e8_title" = "오래 전의 일";
+
+//Encounter 9 - Twist
+"enc_c9e9_title" = "뒤틀림";
+
+//Encounter 10 - Dr. Blakk
+"enc_c9e10_title" = "마스터를 따라";
+
+/* End Chapter 9 */
+
+/* Chapter 10 */
+
+"ch_chapter10_name" = "챕터 10";
+"ch_chapter10_subtitle" = "숨겨진 저장소";
+
+//Encounter 1 - Broken Auto-Cannon
+"enc_c10e1_title" = "고철 더미";
+
+//Encounter 2 - Doombot 1.0 & Doombot 2.0
+"enc_c10e2_title" = "봇들의 반격";
+
+//Encounter 3 - Mecha-Mole
+"enc_c10e3_title" = "기계 몬스터";
+
+//Encounter 4 - Tough Guy Gang Member #1 -
+"enc_c10e4_title" = "갱단의 등장";
+
+//Encounter 5 - Tough Guy Gang Member #2 - Welder
+"enc_c10e5_title" = "적군 지역";
+
+//Encounter 6 - Tough Guy Gang Member #3 - Neckbrace
+"enc_c10e6_title" = "고철의 가치";
+
+//Encounter 7 - Tough Guy Gang Member #4 - Troll
+"enc_c10e7_title" = "최고의 터프 가이";
+
+//Encounter 8 - Boss Ember
+"enc_c10e8_title" = "빅 보스";
+
+//Encounter 9
+"enc_c10e9_title" = "보너스 라운드";
+
+//Encounter 10 - Angry Boss Ember
+"enc_c10e10_title" = "빅 빅 보스";
+
+/* End Chapter 10 */
+
+/* Chapter 11 */
+
+"ch_chapter11_name" = "챕터 11";
+"ch_chapter11_subtitle" = "러스티 버클 브롤러";
+
+//Encounter 1 - Glasses
+"enc_c11e1_title" = "땅콩";
+
+//Encounter 2 - Shorty
+"enc_c11e2_title" = "자르기";
+
+//Encounter 3 - Billy
+"enc_c11e3_title" = "빌리의 식단";
+
+//Encounter 4 - Jeen
+"enc_c11e4_title" = "벤치 프레스";
+
+//Encounter 5 - Trapsie
+"enc_c11e5_title" = "올가미";
+
+//Encounter 6 - Alias
+"enc_c11e6_title" = "최고의 멋쟁이";
+
+//Encounter 7 - Welder Walter and Lil Stevie
+"enc_c11e7_title" = "악당의 이력서";
+
+//Encounter 8 - Mongo
+"enc_c11e8_title" = "자진 출동";
+
+//Encounter 9 - Straggus
+"enc_c11e9_title" = "흐릿한 전구";
+
+//Encounter 10 - Billy, Alias and Straggus
+"enc_c11e10_title" = "우정의 힘";
+
+/* End Chapter 11 */
+
+/* Chapter 12 */
+
+"ch_chapter12_name" = "챕터 12";
+"ch_chapter12_subtitle" = "칠흑같은 어둠";
+
+//Encounter 1 - Blakk Soldier & John Bull
+"enc_c12e1_title" = "코너에 몰리다";
+
+//Encounter 2 - Nacho
+"enc_c12e2_title" = "고소공포증";
+
+//Encounter 3 - Darkbane Soldier 1
+"enc_c12e3_title" = "파이어볼";
+
+//Encounter 4 - Darkbane Soldier 2
+"enc_c12e4_title" = "우어어어어어어어억!";
+
+//Encounter 5 - Darkbane Soldier 3
+"enc_c12e5_title" = "이어지는 파이어볼!";
+
+//Encounter 6 - Shadow Clan Protector
+"enc_c12e6_title" = "수호자들";
+
+//Encounter 7 - Prison Door
+"enc_c12e7_title" = "어려운 선택";
+
+//Encounter 8 - Prison Guards
+"enc_c12e8_title" = "경보를 울려라";
+
+//Encounter 9 - Prison Warden
+"enc_c12e9_title" = "감옥에서 쓰는 시";
+
+//Encounter 10 - Darkbane Nacho
+"enc_c12e10_title" = "오른손잡이";
+
+/* End Chapter 12 */
+
+
+/* Chapter 13 */
+
+"ch_chapter13_name" = "챕터 13";
+"ch_chapter13_subtitle" = "불 그리고 브림스톤";
+
+//Encounter 1 - Darkbane 1
+"enc_c13e1_title" = "어둠 속에서";
+
+//Encounter 2 - Darkbane 2
+"enc_c13e2_title" = "파이어볼의 심판";
+
+//Encounter 3 - Darkbane 3
+"enc_c13e3_title" = "건틀릿";
+
+//Encounter 4 - Prison Warden
+"enc_c13e4_title" = "최악의 시";
+
+//Encounter 5 - Bonus Round - Brimstone's Throne
+"enc_c13e5_title" = "보너스 라운드";
+
+//Encounter 6 - Darkbane Elite 1 & 2
+"enc_c13e6_title" = "엘리트";
+
+//Encounter 7 - Darkbane Nacho
+"enc_c13e7_title" = "다크 매직";
+
+//Encounter 8 - Angry Nacho
+"enc_c13e8_title" = "비밀";
+
+//Encounter 9 - Behemoth
+"enc_c13e9_title" = "고집불통";
+
+//Encounter 10 - Brimstone
+"enc_c13e10_title" = "숙명";
+
+/* End Chapter 13 */
+
+
+/* Chapter 14 */
+
+"ch_chapter14_name" = "챕터 14";
+"ch_chapter14_subtitle" = "꿈에서의 만남";
+
+//Encounter 1 - Pronto, Kord and Trixie
+"enc_c14e1_title" = "다운 타임";
+
+//Encounter 2 - Dr.Blakk
+"enc_c14e2_title" = "기억상실증";
+
+//Encounter 3 - Spirex
+"enc_c14e3_title" = "거미줄";
+
+//Encounter 4 - Eli
+"enc_c14e4_title" = "페이스 투 페이스";
+
+//Encounter 5 - Young Blakk
+"enc_c14e5_title" = "잊혀지지 않은 과거";
+
+//Encounter 6 - Behemoth
+"enc_c14e6_title" = "거구의 남자";
+
+//Encounter 7 - Angry Blakk
+"enc_c14e7_title" = "템퍼 템퍼";
+
+//Encounter 8 - Unbeatable Master
+"enc_c14e8_title" = "진정한 지혜";
+
+//Encounter 9 - Gat Blakk
+"enc_c14e9_title" = "갯 어택";
+
+//Encounter 10 - Will Shane
+"enc_c14e10_title" = "재회";
+
+/* End Chapter 14 */
+
+/* Chapter 15 */
+
+"ch_chapter15_name" = "챕터 15";
+"ch_chapter15_subtitle" = "블랙으로의 귀환";
+
+//Encounter 1 - Dr.Blakk
+"enc_c15e1_title" = "오래 전에";
+
+//Encounter 2 -
+"enc_c15e2_title" = "고난의 시간";
+
+//Encounter 3 -
+"enc_c15e3_title" = "파업";
+
+//Encounter 4 -
+"enc_c15e4_title" = "변화의 시간";
+
+//Encounter 5 - Will Shane
+"enc_c15e5_title" = "잘못된 선택";
+
+//Encounter 6 -
+"enc_c15e6_title" = "강탈";
+
+//Encounter 7 - Will Shane
+"enc_c15e7_title" = "전진";
+
+//Encounter 8 - Behemoth
+"enc_c15e8_title" = "어둠의 지식";
+
+//Encounter 9 - Bonus
+"enc_c15e9_title" = "보너스 라운드";
+
+//Encounter 10 - Will Shane
+"enc_c15e10_title" = "숙명";
+
+//Encounter 11 - Dr.Blakk
+"enc_c15e11_title" = "퍼즐의 조각";
+
+/* End Chapter 15 */
+
+/* Chapter 16 */
+
+"ch_chapter16_name" = "챕터 16";
+"ch_chapter16_subtitle" = "섀도우 크로싱";
+
+//Encounter 1 - Blakk Guard
+"enc_c16e1_title" = "알파 포스";
+
+//Encounter 2 - Doombot
+"enc_c16e2_title" = "배틀 보트";
+
+//Encounter 3 - Elite Blakk Guard
+"enc_c16e3_title" = "델타 포스";
+
+//Encounter 4 - Locke and Lode
+"enc_c16e4_title" = "디버전";
+
+//Encounter 5 - Darkbane Hartag and Darkbane Drek
+"enc_c16e5_title" = "내 적의 친구들";
+
+//Encounter 6 - Darkbane Prison Warden
+"enc_c16e6_title" = "밝은 불";
+
+//Encounter 7 - Nacho
+"enc_c16e7_title" = "동맹";
+
+//Encounter 8 - Bonus
+"enc_c16e8_title" = "보너스 라운드";
+
+//Encounter 9 - Titan
+"enc_c16e9_title" = "캔 오프너";
+
+//Encounter 10 - Nacho
+"enc_c16e10_title" = "길 준비";
+
+/* End Chapter 16 */
+
+/* Chapter 17 */
+
+"ch_chapter17_name" = "챕터 17";
+"ch_chapter17_subtitle" = "칠흑같은 어둠";
+
+//Encounter 1 - Red Hook
+"enc_c17e1_title" = "화력";
+
+//Encounter 2 - Elite Blakk Guard
+"enc_c17e2_title" = "새로운 동맹";
+
+//Encounter 3 - Nacho
+"enc_c17e3_title" = "어둠의 대리인";
+
+//Encounter 4 - Technician
+"enc_c17e4_title" = "다크 사이언스";
+
+//Encounter 5 - Bonus
+"enc_c17e5_title" = "거대한 오염";
+
+//Encounter 6 - Elite Blakk Guard
+"enc_c17e6_title" = "성채의 중심부";
+
+//Encounter 7 - Dr. Blakk
+"enc_c17e7_title" = "옛 친구들";
+
+//Encounter 8 - Darkbane
+"enc_c17e8_title" = "문이 열리다 1";
+
+//Encounter 8 - Darkbane
+"enc_c17e9_title" = "문이 열리다 2";
+
+//Encounter 9 - Dr. Blakk
+"enc_c17e10_title" = "칠흑같은 어둠";
+
+//Encounter 10 - Bonus
+"enc_c17e11_title" = "눈부신 빛";
+
+/* End Chapter 17 */

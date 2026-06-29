@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>game_mods/pre_igniter/graphic.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,2},{105,105}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{105,105}}</string>
+                <key>sourceSize</key>
+                <string>{105,105}</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>2</integer>
+            <key>realTextureFileName</key>
+            <string>ss_pre_igniter.pvr.ccz</string>
+            <key>size</key>
+            <string>{128,128}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:08c5cb2ed23adc6668b85db4dbe42986:3caf3ff768d0b7f53439d76d972dee96:425126782a6c1aa117d1af06d2846a97$</string>
+            <key>textureFileName</key>
+            <string>ss_pre_igniter.pvr.ccz</string>
+        </dict>
+    </dict>
+</plist>

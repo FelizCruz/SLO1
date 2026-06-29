@@ -1,0 +1,138 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "additionalProperties": true,
+  "properties": {
+    "actor": {
+      "enum": [
+        "ai",
+        "human",
+        "mixed"
+      ]
+    },
+    "attention": {
+      "type": "array"
+    },
+    "created_at": {
+      "type": "string"
+    },
+    "decisions": {
+      "type": "array"
+    },
+    "depth": {
+      "enum": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    "files": {
+      "items": {
+        "type": "string"
+      },
+      "type": "array"
+    },
+    "id": {
+      "minLength": 8,
+      "type": "string"
+    },
+    "outcome": {
+      "type": "string"
+    },
+    "preview": {
+      "maxLength": 100,
+      "type": "string"
+    },
+    "rationale": {
+      "type": "string"
+    },
+    "refs": {
+      "items": {
+        "additionalProperties": true,
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "rel": {
+            "enum": [
+              "affects",
+              "blocked-by",
+              "extends",
+              "implements",
+              "supersedes"
+            ]
+          }
+        },
+        "required": [
+          "rel",
+          "id"
+        ],
+        "type": "object"
+      },
+      "type": "array"
+    },
+    "scope": {
+      "type": "string"
+    },
+    "status": {
+      "enum": [
+        "active",
+        "archived",
+        "resolved",
+        "superseded"
+      ]
+    },
+    "summary": {
+      "type": "string"
+    },
+    "tags": {
+      "items": {
+        "type": "string"
+      },
+      "type": "array"
+    },
+    "title": {
+      "type": "string"
+    },
+    "tool": {
+      "type": "string"
+    },
+    "type": {
+      "enum": [
+        "attention",
+        "bugfix",
+        "decision",
+        "design_change",
+        "implementation",
+        "investigation",
+        "maintenance",
+        "refactor",
+        "rejected_approach"
+      ]
+    },
+    "updated_at": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "v": {
+      "const": 1
+    }
+  },
+  "required": [
+    "created_at",
+    "depth",
+    "id",
+    "preview",
+    "scope",
+    "status",
+    "summary",
+    "title",
+    "tool",
+    "type",
+    "v"
+  ],
+  "title": "AI Context Logbook Entry",
+  "type": "object"
+}

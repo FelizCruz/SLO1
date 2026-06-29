@@ -1,0 +1,18 @@
+name: SlugterraMVP
+options:
+  bundleIdPrefix: com.example
+targets:
+  SlugterraMVP:
+    type: application
+    platform: iOS
+    deploymentTarget: "14.0"
+    sources: [SlugterraMVP/Sources]
+    info:
+      path: SlugterraMVP/Info.plist
+      properties:
+        UILaunchStoryboardName: LaunchScreen
+        UIRequiredDeviceCapabilities: [armv7]
+        UISupportedInterfaceOrientations: [UIInterfaceOrientationLandscapeRight, UIInterfaceOrientationLandscapeLeft]
+    settings:
+      base:
+        TARGETED_DEVICE_FAMILY: "1,2" # iPhone & iPad

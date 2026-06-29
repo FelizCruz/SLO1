@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>location/slugseeker_04/bg.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,2},{500,375}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{500,375}}</string>
+                <key>sourceSize</key>
+                <string>{500,375}</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>2</integer>
+            <key>realTextureFileName</key>
+            <string>ss_slugseeker_04.pvr.ccz</string>
+            <key>size</key>
+            <string>{512,512}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:c081fe89c39d70428eb7ff604402c8c8:ad2dda9c49a2226733954d2e92de9753:82b77df3d055d6c04b9ad2e019f70686$</string>
+            <key>textureFileName</key>
+            <string>ss_slugseeker_04.pvr.ccz</string>
+        </dict>
+    </dict>
+</plist>

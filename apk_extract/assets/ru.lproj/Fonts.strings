@@ -1,0 +1,17 @@
+/*
+ Fonts.strings
+ Slugterra: Slug it Out!
+ 
+ Created by Dennis Leong on 13-06-04.
+
+ This file lists the fonts to be used for localized languages. The
+ string text isn't supposed to be translated. Instead, replace the
+ text with the name of the font to use for the desired language.
+
+ In general, there is no need to change this unless you are using
+ a language with very different character set than what's used for
+ English.
+ 
+ */
+
+"font_general" = "Cuprum-Bold";

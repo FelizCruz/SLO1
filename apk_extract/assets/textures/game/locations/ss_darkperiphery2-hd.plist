@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>location/darkperiphery2/bg.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,2},{1000,750}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{1000,750}}</string>
+                <key>sourceSize</key>
+                <string>{1000,750}</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>2</integer>
+            <key>realTextureFileName</key>
+            <string>ss_darkperiphery2-hd.pvr.ccz</string>
+            <key>size</key>
+            <string>{1024,1024}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:2d7689aa5b1ef18b5fb0c6231f1e35c3:939c82493d45a15683840c4faae242c8:45d0df3ce490116673108ca86cd433a6$</string>
+            <key>textureFileName</key>
+            <string>ss_darkperiphery2-hd.pvr.ccz</string>
+        </dict>
+    </dict>
+</plist>

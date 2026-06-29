@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>location/trashheap3/bg.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,2},{490,368}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{490,368}}</string>
+                <key>sourceSize</key>
+                <string>{490,368}</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>2</integer>
+            <key>realTextureFileName</key>
+            <string>ss_trashheap3.pvr.ccz</string>
+            <key>size</key>
+            <string>{512,512}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:d8746b84877f93b9309b61b6032cc3f3:e90cdff46b49eea8b787360bbb64595b:6283fafe3e6e5d914aae189d98dcee29$</string>
+            <key>textureFileName</key>
+            <string>ss_trashheap3.pvr.ccz</string>
+        </dict>
+    </dict>
+</plist>

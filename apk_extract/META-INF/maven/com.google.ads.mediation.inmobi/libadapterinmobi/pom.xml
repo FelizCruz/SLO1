@@ -1,0 +1,52 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>com.google.ads.mediation.inmobi</groupId>
+	<artifactId>libadapterinmobi</artifactId>
+	<version>4.5.1</version>
+	<packaging>jar</packaging>
+	<name>Admob Adapter</name>
+	<description>Admob Adapter v-4.5.1</description>
+
+    <parent>
+        <groupId>com.inmobi</groupId>
+        <artifactId>inmobi-master-pom</artifactId>
+        <version>1.0.4</version>
+    </parent>
+	<!-- adb uninstall com.inmobi.sample.test -->
+
+<scm>
+        <connection>scm:git:https://github.corp.inmobi.com/tse/admob-adapter.git</connection>
+        <url>scm:git:https://github.corp.inmobi.com/tse/admob-adapter.git</url>
+        <developerConnection>scm:git:https://github.corp.inmobi.com/tse/admob-adapter.git</developerConnection>
+        <tag>4.5.1</tag>
+    </scm>
+	<dependencies>
+		<dependency>
+			<groupId>com.inmobi.vihaan</groupId>
+			<artifactId>InMobi</artifactId>
+			<version>4.5.1</version>
+		</dependency>
+
+		<dependency>
+			<groupId>com.google.android.gms</groupId>
+			<artifactId>google-play-services</artifactId>
+			<version>4.5</version> 
+		</dependency>
+
+		<dependency>
+			<groupId>com.google.android</groupId>
+			<artifactId>android</artifactId>
+			<version>4.2.0</version>
+		</dependency>
+
+
+	</dependencies>
+
+
+
+	<build>
+		<finalName>${project.artifactId}</finalName>
+		<sourceDirectory>src</sourceDirectory>
+	</build>
+
+</project>

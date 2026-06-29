@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>location/interior/bg.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,2},{980,735}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{980,735}}</string>
+                <key>sourceSize</key>
+                <string>{980,735}</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>2</integer>
+            <key>realTextureFileName</key>
+            <string>ss_interior-hd.pvr.ccz</string>
+            <key>size</key>
+            <string>{1024,1024}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:04464c8a183a947f3735ad527e25b875:f22d26b39f10d60b024b3e4d673321c8:9f588d7ecd5bfc250b888967c1552f08$</string>
+            <key>textureFileName</key>
+            <string>ss_interior-hd.pvr.ccz</string>
+        </dict>
+    </dict>
+</plist>

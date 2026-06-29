@@ -1,0 +1,1156 @@
+/*
+ Dialogue.strings
+ slugpuzzle
+ 
+ Created by Dennis Leong on 2014-07-15.
+ 
+ */
+
+/* Cavern 1 */
+
+//Cavern 1
+"name_cavern1_name" = "Herringbone Cavern";
+//Encounter 1
+"enc_cv1e1o1_dialog_1a" = "";
+//Encounter 2
+"enc_cv1e2o1_dialog_1a" = "";
+//Encounter 3
+"enc_cv1e3o1_dialog_1a" = "";
+//Encounter 4
+"enc_cv1e4o1_dialog_1a" = "";
+//Encounter 6
+"enc_cv1e6o1_dialog_1a" = "";
+//Encounter 7
+"enc_cv1e7o1_dialog_1a" = "";
+//Encounter 8
+"enc_cv1e8o1_dialog_1a" = "";
+//Encounter 9
+"enc_cv1e9o1_dialog_1a" = "";
+//Encounter 11
+"enc_cv1e11o1_dialog_1a" = "";
+//Encounter 12
+"enc_cv1e12o1_dialog_1a" = "";
+//Encounter 13
+"enc_cv1e13o1_dialog_1a" = "";
+//Encounter 14
+"enc_cv1e14o1_dialog_1a" = "";
+
+/* End Cavern 1 */
+
+/* Cavern 2 */
+
+//Cavern 2
+"name_cavern2_name" = "Alentours sombres";
+//Encounter 1
+"enc_cv2e1o1_dialog_1a" = "";
+//Encounter 2
+"enc_cv2e2o1_dialog_1a" = "";
+//Encounter 3
+"enc_cv2e3o1_dialog_1a" = "";
+//Encounter 4
+"enc_cv2e4o1_dialog_1a" = "";
+//Encounter 6
+"enc_cv2e6o1_dialog_1a" = "";
+//Encounter 7
+"enc_cv2e7o1_dialog_1a" = "";
+//Encounter 8
+"enc_cv2e8o1_dialog_1a" = "";
+//Encounter 9
+"enc_cv2e9o1_dialog_1a" = "";
+//Encounter 11
+"enc_cv2e11o1_dialog_1a" = "";
+//Encounter 12
+"enc_cv2e12o1_dialog_1a" = "";
+//Encounter 13
+"enc_cv2e13o1_dialog_1a" = "";
+//Encounter 14
+"enc_cv2e14o1_dialog_1a" = "";
+
+/* End Cavern 2 */
+
+/* Cavern 3 */
+
+//Cavern 3
+"name_cavern3_name" = "Deep Caverns";
+//Encounter 1
+"enc_cv3e1o1_dialog_1a" = "";
+//Encounter 2
+"enc_cv3e2o1_dialog_1a" = "";
+//Encounter 3
+"enc_cv3e3o1_dialog_1a" = "";
+//Encounter 4
+"enc_cv3e4o1_dialog_1a" = "";
+//Encounter 6
+"enc_cv3e6o1_dialog_1a" = "";
+//Encounter 7
+"enc_cv3e7o1_dialog_1a" = "";
+//Encounter 8
+"enc_cv3e8o1_dialog_1a" = "";
+//Encounter 9
+"enc_cv3e9o1_dialog_1a" = "";
+//Encounter 11
+"enc_cv3e11o1_dialog_1a" = "";
+//Encounter 12
+"enc_cv3e12o1_dialog_1a" = "";
+//Encounter 13
+"enc_cv3e13o1_dialog_1a" = "";
+//Encounter 14
+"enc_cv3e14o1_dialog_1a" = "";
+
+/* End Cavern 3 */
+
+/* Cavern 4 */
+
+//Cavern 4
+"name_cavern4_name" = "Caverne des Neiges de Slugmas";
+//Encounter 1
+"enc_cv4e1o1_dialog_1a" = "";
+//Encounter 2
+"enc_cv4e2o1_dialog_1a" = "";
+//Encounter 3
+"enc_cv4e3o1_dialog_1a" = "";
+//Encounter 4
+"enc_cv4e4o1_dialog_1a" = "";
+//Encounter 6
+"enc_cv4e6o1_dialog_1a" = "";
+//Encounter 7
+"enc_cv4e7o1_dialog_1a" = "";
+//Encounter 8
+"enc_cv4e8o1_dialog_1a" = "";
+//Encounter 9
+"enc_cv4e9o1_dialog_1a" = "";
+//Encounter 11
+"enc_cv4e11o1_dialog_1a" = "";
+//Encounter 12
+"enc_cv4e12o1_dialog_1a" = "";
+//Encounter 13
+"enc_cv4e13o1_dialog_1a" = "";
+//Encounter 14
+"enc_cv4e14o1_dialog_1a" = "";
+
+/* End Cavern 4 */
+
+/* Cavern 5 */
+
+//Cavern 5
+"name_cavern5_name" = "La Grotte Dojang";
+//Encounter 1
+"enc_cv5e1o1_dialog_1a" = "";
+//Encounter 2
+"enc_cv5e2o1_dialog_1a" = "";
+//Encounter 3
+"enc_cv5e3o1_dialog_1a" = "";
+//Encounter 4
+"enc_cv5e4o1_dialog_1a" = "";
+//Encounter 6
+"enc_cv5e6o1_dialog_1a" = "";
+//Encounter 7
+"enc_cv5e7o1_dialog_1a" = "";
+//Encounter 8
+"enc_cv5e8o1_dialog_1a" = "";
+//Encounter 9
+"enc_cv5e9o1_dialog_1a" = "";
+//Encounter 11
+"enc_cv5e11o1_dialog_1a" = "";
+//Encounter 12
+"enc_cv5e12o1_dialog_1a" = "";
+//Encounter 13
+"enc_cv5e13o1_dialog_1a" = "";
+//Encounter 14
+"enc_cv5e14o1_dialog_1a" = "";
+
+/* End Cavern 5 */
+
+/* Cavern 6 */
+
+/*Cavern 6*/
+"name_cavern6_name" = "";
+//Encounter 1
+"enc_cv6e1o1_dialog_1a" = "";
+//Encounter 2
+"enc_cv6e2o1_dialog_1a" = "";
+//Encounter 3
+"enc_cv6e3o1_dialog_1a" = "";
+//Encounter 4
+"enc_cv6e4o1_dialog_1a" = "";
+//Encounter 6
+"enc_cv6e6o1_dialog_1a" = "";
+//Encounter 7
+"enc_cv6e7o1_dialog_1a" = "";
+//Encounter 8
+"enc_cv6e8o1_dialog_1a" = "";
+//Encounter 9
+"enc_cv6e9o1_dialog_1a" = "";
+//Encounter 11
+"enc_cv6e11o1_dialog_1a" = "";
+//Encounter 12
+"enc_cv6e12o1_dialog_1a" = "";
+//Encounter 13
+"enc_cv6e13o1_dialog_1a" = "";
+//Encounter 14
+"enc_cv6e14o1_dialog_1a" = "";
+
+/* End Cavern 6 */
+
+/* Cavern 7 */
+
+/*Cavern 7*/
+"name_cavern7_name" = "";
+//Encounter 1
+"enc_cv7e1o1_dialog_1a" = "";
+//Encounter 2
+"enc_cv7e2o1_dialog_1a" = "";
+//Encounter 3
+"enc_cv7e3o1_dialog_1a" = "";
+//Encounter 4
+"enc_cv7e4o1_dialog_1a" = "";
+//Encounter 6
+"enc_cv7e6o1_dialog_1a" = "";
+//Encounter 7
+"enc_cv7e7o1_dialog_1a" = "";
+//Encounter 8
+"enc_cv7e8o1_dialog_1a" = "";
+//Encounter 9
+"enc_cv7e9o1_dialog_1a" = "";
+//Encounter 11
+"enc_cv7e11o1_dialog_1a" = "";
+//Encounter 12
+"enc_cv7e12o1_dialog_1a" = "";
+//Encounter 13
+"enc_cv7e13o1_dialog_1a" = "";
+//Encounter 14
+"enc_cv7e14o1_dialog_1a" = "";
+
+/* End Cavern 7 */
+
+
+/* Chapter 1 */
+
+//Encounter 4
+"enc_c1e4o1_dialog_1a" = "";
+"enc_c1e4o1_dialog_2a" = "";
+"enc_c1e4o1_dialog_3a" = "";
+"enc_c1e4o1_dialog_4a" = "";
+
+/* End Chapter 1 */
+
+/* Chapter 2 */
+
+
+//Encounter 1
+"enc_c2e1o1_dialog_1a" = "";
+"enc_c2e1o1_dialog_2a" = "";
+"enc_c2e1o1_dialog_3a" = "";
+"enc_c2e1o1_dialog_4a" = "";
+
+//Encounter 2
+"enc_c2e2o1_dialog_1a" = "";
+"enc_c2e2o1_dialog_2a" = "";
+"enc_c2e2o1_dialog_3a" = "";
+"enc_c2e2o1_dialog_4a" = "";
+
+//Encounter 3
+"enc_c2e3o1_dialog_1a" = "";
+"enc_c2e3o1_dialog_2a" = "";
+"enc_c2e3o1_dialog_3a" = "";
+"enc_c2e3o1_dialog_4a" = "";
+"enc_c2e3o1_dialog_5a" = "";
+
+//Encounter 4
+"enc_c2e4o1_dialog_1a" = "";
+"enc_c2e4o1_dialog_2a" = "";
+"enc_c2e4o1_dialog_3a" = "";
+"enc_c2e4o1_dialog_4a" = "";
+
+//Encounter 5
+"enc_c2e5o1_dialog_1a" = "";
+"enc_c2e5o1_dialog_2a" = "";
+"enc_c2e5o1_dialog_3a" = "";
+
+//Encounter 6
+"enc_c2e6o1_dialog_1a" = "";
+"enc_c2e6o1_dialog_2a" = "";
+
+//Encounter 7
+"enc_c2e7o1_dialog_1a" = "";
+"enc_c2e7o1_dialog_2a" = "";
+
+"enc_c2e7o2_dialog_1a" = "";
+"enc_c2e7o2_dialog_2a" = "";
+
+"enc_c2e7o3_dialog_1a" = "";
+"enc_c2e7o3_dialog_2a" = "";
+"enc_c2e7o3_dialog_3a" = "";
+"enc_c2e7o3_dialog_3b" = "";
+
+//Encounter 8
+"enc_c2e8o1_dialog_1a" = "";
+"enc_c2e8o1_dialog_1b" = "";
+"enc_c2e8o1_dialog_2a" = "";
+"enc_c2e8o1_dialog_3a" = "";
+"enc_c2e8o1_dialog_4a" = "";
+
+//Encounter 9
+
+//Encounter 10
+"enc_c2e10o1_dialog_1a" = "";
+"enc_c2e10o1_dialog_1b" = "";
+"enc_c2e10o1_dialog_2a" = "";
+"enc_c2e10o1_dialog_3a" = "";
+
+//Encounter 11
+"enc_c2e11o1_dialog_1a" = "";
+"enc_c2e11o1_dialog_2a" = "";
+"enc_c2e11o1_dialog_3a" = "";
+"enc_c2e11o1_dialog_4a" = "";
+
+/* End Chapter 2 */
+
+
+
+/* Chapter 3 */
+
+//Encounter 1
+"enc_c3e1o1_dialog_1a" = "";
+"enc_c3e1o1_dialog_2a" = "";
+"enc_c3e1o1_dialog_3a" = "";
+
+//Encounter 2
+"enc_c3e2o1_dialog_1a" = "";
+
+"enc_c3e2o2_dialog_1a" = "";
+"enc_c3e2o2_dialog_2a" = "";
+
+"enc_c3e2o3_dialog_1a" = "";
+"enc_c3e2o3_dialog_2a" = "";
+"enc_c3e2o3_dialog_3a" = "";
+
+//Encounter 3
+"enc_c3e3o1_dialog_1a" = "";
+"enc_c3e3o1_dialog_1b" = "";
+"enc_c3e3o1_dialog_2a" = "";
+
+//Encounter 4
+"enc_c3e4o1_dialog_1a" = "";
+"enc_c3e4o1_dialog_2a" = "";
+"enc_c3e4o1_dialog_2b" = "";
+"enc_c3e4o1_dialog_3a" = "";
+
+//Encounter 5
+"enc_c3e5o1_dialog_1a" = "";
+"enc_c3e5o1_dialog_2a" = "";
+
+//Encounter 6
+"enc_c3e6o1_dialog_1a" = "";
+"enc_c3e6o1_dialog_2a" = "";
+"enc_c3e6o1_dialog_3a" = "";
+
+//Encounter 7
+"enc_c3e7o1_dialog_1a" = "";
+"enc_c3e7o1_dialog_2a" = "";
+"enc_c3e7o1_dialog_3a" = "";
+"enc_c3e7o1_dialog_4a" = "";
+"enc_c3e7o1_dialog_5a" = "";
+
+//Encounter 8
+"enc_c3e8o1_dialog_1a" = "";
+"enc_c3e8o1_dialog_2a" = "";
+"enc_c3e8o1_dialog_3a" = "";
+"enc_c3e8o1_dialog_4a" = "";
+
+//Encounter 9
+"enc_c3e9o1_dialog_1a" = "";
+"enc_c3e9o1_dialog_2a" = "";
+"enc_c3e9o1_dialog_3a" = "";
+"enc_c3e9o1_dialog_4a" = "";
+
+"enc_c3e9o2_dialog_1a" = "";
+
+"enc_c3e9o3_dialog_1a" = "";
+"enc_c3e9o3_dialog_2a" = "";
+
+//Encounter 10
+
+//Encounter 11
+"enc_c3e11o1_dialog_1a" = "";
+"enc_c3e11o1_dialog_2a" = "";
+"enc_c3e11o1_dialog_3a" = "";
+"enc_c3e11o1_dialog_4a" = "";
+
+"enc_c3e11o2_dialog_1a" = "";
+"enc_c3e11o2_dialog_2a" = "";
+"enc_c3e11o2_dialog_3a" = "";
+"enc_c3e11o2_dialog_4a" = "";
+
+/* End Chapter 3 */
+
+
+
+/* Chapter 4 */
+
+
+//Encounter 1
+"enc_c4e1o1_dialog_1a" = "";
+"enc_c4e1o1_dialog_2a" = "";
+"enc_c4e1o1_dialog_3a" = "";
+"enc_c4e1o1_dialog_4a" = "";
+
+//Encounter 2
+"enc_c4e2o1_dialog_1a" = "";
+"enc_c4e2o1_dialog_2a" = "";
+"enc_c4e2o1_dialog_3a" = "";
+
+//Encounter 3
+"enc_c4e3o1_dialog_1a" = "";
+"enc_c4e3o1_dialog_2a" = "";
+"enc_c4e3o1_dialog_3a" = "";
+
+//Encounter 4
+"enc_c4e4o1_dialog_1a" = "";
+"enc_c4e4o1_dialog_2a" = "";
+"enc_c4e4o1_dialog_3a" = "";
+"enc_c4e4o1_dialog_4a" = "";
+
+//Encounter 5
+"enc_c4e5o1_dialog_1a" = "";
+"enc_c4e5o1_dialog_2a" = "";
+"enc_c4e5o1_dialog_3a" = "";
+
+//Encounter 6
+"enc_c4e6o1_dialog_1a" = "";
+"enc_c4e6o1_dialog_2a" = "";
+"enc_c4e6o1_dialog_3a" = "";
+"enc_c4e6o1_dialog_4a" = "";
+
+//Encounter 7
+"enc_c4e7o1_dialog_1a" = "";
+"enc_c4e7o1_dialog_2a" = "";
+"enc_c4e7o1_dialog_3a" = "";
+"enc_c4e7o1_dialog_4a" = "";
+"enc_c4e7o1_dialog_4b" = "";
+
+//Encounter 8
+"enc_c4e8o1_dialog_1a" = "";
+"enc_c4e8o1_dialog_2a" = "";
+"enc_c4e8o1_dialog_3a" = "";
+"enc_c4e8o1_dialog_4a" = "";
+
+//Encounter 9
+"enc_c4e9o1_dialog_1a" = "";
+"enc_c4e9o1_dialog_2a" = "";
+"enc_c4e9o1_dialog_3a" = "";
+"enc_c4e9o1_dialog_4a" = "";
+"enc_c4e9o1_dialog_5a" = "";
+
+//Encounter 10
+"enc_c4e10o1_dialog_1a" = "";
+"enc_c4e10o1_dialog_2a" = "";
+"enc_c4e10o1_dialog_3a" = "";
+"enc_c4e10o1_dialog_4a" = "";
+"enc_c4e10o1_dialog_5a" = "";
+"enc_c4e10o1_dialog_5b" = "";
+"enc_c4e10o1_dialog_6a" = "";
+
+//Encounter 11
+
+/* End Chapter 4 */
+
+
+
+/* Chapter 5 */
+
+
+//Encounter 1
+"enc_c5e1o1_dialog_1a" = "";
+"enc_c5e1o1_dialog_2a" = "";
+"enc_c5e1o1_dialog_3a" = "";
+"enc_c5e1o1_dialog_4a" = "";
+
+//Encounter 2
+"enc_c5e2o1_dialog_1a" = "";
+"enc_c5e2o1_dialog_2a" = "";
+"enc_c5e2o1_dialog_3a" = "";
+"enc_c5e2o1_dialog_4a" = "";
+
+//Encounter 3
+"enc_c5e3o1_dialog_1a" = "";
+"enc_c5e3o1_dialog_2a" = "";
+"enc_c5e3o1_dialog_3a" = "";
+"enc_c5e3o1_dialog_4a" = "";
+
+//Encounter 4
+"enc_c5e4o1_dialog_1a" = "";
+"enc_c5e4o1_dialog_2a" = "";
+"enc_c5e4o1_dialog_3a" = "";
+"enc_c5e4o1_dialog_4a" = "";
+"enc_c5e4o1_dialog_4b" = "";
+
+//Encounter 5
+"enc_c5e5o1_dialog_1a" = "";
+"enc_c5e5o1_dialog_2a" = "";
+"enc_c5e5o1_dialog_3a" = "";
+
+//Encounter 6
+"enc_c5e6o1_dialog_1a" = "";
+"enc_c5e6o1_dialog_2a" = "";
+
+"enc_c5e6o2_dialog_1a" = "";
+"enc_c5e6o2_dialog_2a" = "";
+"enc_c5e6o2_dialog_3a" = "";
+
+"enc_c5e6o3_dialog_1a" = "";
+"enc_c5e6o3_dialog_2a" = "";
+"enc_c5e6o3_dialog_3a" = "";
+
+//Encounter 7
+"enc_c5e7o1_dialog_1a" = "";
+"enc_c5e7o1_dialog_2a" = "";
+"enc_c5e7o1_dialog_3a" = "";
+"enc_c5e7o1_dialog_4a" = "";
+
+//Encounter 8
+"enc_c5e8o1_dialog_1a" = "";
+"enc_c5e8o1_dialog_1b" = "";
+"enc_c5e8o1_dialog_2a" = "";
+"enc_c5e8o1_dialog_3a" = "";
+
+"enc_c5e8o2_dialog_1a" = "";
+"enc_c5e8o2_dialog_2a" = "";
+"enc_c5e8o2_dialog_3a" = "";
+
+//Encounter 9
+"enc_c5e9o1_dialog_1a" = "";
+"enc_c5e9o1_dialog_1b" = "";
+"enc_c5e9o1_dialog_1c" = "";
+"enc_c5e9o1_dialog_2a" = "";
+"enc_c5e9o1_dialog_2b" = "";
+"enc_c5e9o1_dialog_3a" = "";
+
+//Encounter 10
+"enc_c5e10o1_dialog_1a" = "";
+"enc_c5e10o1_dialog_1b" = "";
+"enc_c5e10o1_dialog_2a" = "";
+"enc_c5e10o1_dialog_3a" = "";
+
+"enc_c5e10o2_dialog_1a" = "";
+"enc_c5e10o2_dialog_2a" = "";
+
+/* End Chapter 5 */
+
+
+
+/* Chapter 6 */
+
+
+//Encounter 1
+"enc_c6e1o1_dialog_1a" = "";
+"enc_c6e1o1_dialog_2a" = "";
+"enc_c6e1o1_dialog_3a" = "";
+
+//Encounter 2
+
+//Encounter 3
+"enc_c6e3o1_dialog_1a" = "";
+"enc_c6e3o1_dialog_2a" = "";
+"enc_c6e3o1_dialog_3a" = "";
+"enc_c6e3o1_dialog_4a" = "";
+"enc_c6e3o1_dialog_5a" = "";
+
+//Encounter 4
+"enc_c6e4o1_dialog_1a" = "";
+"enc_c6e4o1_dialog_2a" = "";
+
+//Encounter 5
+"enc_c6e5o1_dialog_1a" = "";
+"enc_c6e5o1_dialog_2a" = "";
+"enc_c6e5o1_dialog_3a" = "";
+"enc_c6e5o1_dialog_4a" = "";
+
+//Encounter 6
+"enc_c6e6o1_dialog_1a" = "";
+"enc_c6e6o1_dialog_2a" = "";
+
+//Encounter 7
+"enc_c6e7o1_dialog_1a" = "";
+"enc_c6e7o1_dialog_1b" = "";
+
+//Encounter 8
+"enc_c6e8o1_dialog_1a" ="";
+"enc_c6e8o1_dialog_2a" = "";
+"enc_c6e8o1_dialog_3a" = "";
+
+"enc_c6e8o2_dialog_1a" = "";
+
+"enc_c6e8o3_dialog_1a" = "";
+"enc_c6e8o3_dialog_2a" = "";
+
+//Encounter 9
+"enc_c6e9o1_dialog_1a" = "";
+
+//Encounter 10
+"enc_c6e10o1_dialog_1a" = "";
+"enc_c6e10o1_dialog_1b" = "";
+"enc_c6e10o1_dialog_2a" = "";
+"enc_c6e10o1_dialog_3a" = "";
+
+/* End Chapter 6 */
+
+/* Chapter 7 */
+
+
+//Encounter 1
+"enc_c7e1o1_dialog_1a" = "";
+"enc_c7e1o1_dialog_1b" = "";
+"enc_c7e1o1_dialog_2a" = "";
+
+//Encounter 2
+"enc_c7e2o1_dialog_1a" = "";
+"enc_c7e2o1_dialog_2a" = "";
+"enc_c7e2o1_dialog_2b" = "";
+"enc_c7e2o1_dialog_3a" = "";
+
+//Encounter 3
+"enc_c7e3o1_dialog_1a" = "";
+"enc_c7e3o1_dialog_2a" = "";
+"enc_c7e3o1_dialog_3a" = "";
+"enc_c7e3o1_dialog_4a" = "";
+
+//Encounter 4
+"enc_c7e4o1_dialog_1a" = "";
+
+//Encounter 5
+"enc_c7e5o1_dialog_1a" = "";
+"enc_c7e5o1_dialog_1b" = "";
+"enc_c7e5o1_dialog_2a" = "";
+
+//Encounter 6
+"enc_c7e6o1_dialog_1a" = "";
+"enc_c7e6o1_dialog_2a" = "";
+
+//Encounter 7
+"enc_c7e7o1_dialog_1a" = "";
+"enc_c7e7o1_dialog_2a" = "" ;
+"enc_c7e7o1_dialog_3a" = "";
+
+//Encounter 8
+
+//Encounter 9
+"enc_c7e9o1_dialog_1a" = "";
+"enc_c7e9o1_dialog_1b" = "";
+"enc_c7e9o1_dialog_2a" = "";
+
+//Encounter 10
+"enc_c7e10o1_dialog_1a" = "";
+"enc_c7e10o1_dialog_2a" = "";
+"enc_c7e10o1_dialog_3a" = "";
+
+"enc_c7e10o2_dialog_1a" = "";
+
+"enc_c7e10o3_dialog_1a" = "" ;
+"enc_c7e10o3_dialog_1b" = "";
+"enc_c7e10o3_dialog_2a" = "" ;
+
+/* End Chapter 7 */
+
+/* Chapter 8 */
+
+
+//Encounter 1
+"enc_c8e1o1_dialog_1a" = "";
+"enc_c8e1o1_dialog_1b" = "";
+
+//Encounter 2
+"enc_c8e2o1_dialog_1a" = "";
+"enc_c8e2o1_dialog_1b" = "";
+"enc_c8e2o1_dialog_2a" = "";
+
+//Encounter 3
+"enc_c8e3o1_dialog_1a" = "";
+"enc_c8e3o2_dialog_1a" = "";
+
+//Encounter 4
+"enc_c8e4o1_dialog_1a" = "";
+"enc_c8e4o1_dialog_2a" = "";
+"enc_c8e4o2_dialog_1a" = "";
+"enc_c8e4o2_dialog_2a" = "";
+
+//Encounter 5
+"enc_c8e5o1_dialog_1a" = "";
+
+//Encounter 6
+"enc_c8e6o1_dialog_1a" = "";
+"enc_c8e6o1_dialog_2a" = "";
+
+//Encounter 7
+"enc_c8e7o1_dialog_1a" = "";
+"enc_c8e7o1_dialog_1b" = "";
+
+//Encounter 8
+
+//Encounter 9
+"enc_c8e9o1_dialog_1a" = "";
+"enc_c8e9o1_dialog_1b" = "";
+
+//Encounter 10
+"enc_c8e10o1_dialog_1a" = "";
+"enc_c8e10o1_dialog_2a" = "";
+
+/* End Chapter 8 */
+
+/* Chapter 9 */
+
+
+//Encounter 1 - The Trips
+"enc_c9e1o1_dialog_1a" = "";
+"enc_c9e1o2_dialog_1a" = "";
+"enc_c9e1o3_dialog_1a" = "";
+
+//Encounter 2
+
+//Encounter 3 - Sid the Kid
+"enc_c9e3o1_dialog_1a" = "";
+"enc_c9e3o1_dialog_2a" = "";
+
+//Encounter 4 - King of Sling
+"enc_c9e4o1_dialog_1a" = "";
+"enc_c9e4o1_dialog_2a" = "";
+
+//Encounter 5 - Trixie
+"enc_c9e5o1_dialog_1a" = "";
+"enc_c9e5o1_dialog_2a" = "";
+
+//Encounter 6 - Fake Duelist
+"enc_c9e6o1_dialog_1a" = "";
+"enc_c9e6o1_dialog_1b" = "";
+
+//Encounter 7 - Unbeatable Master
+"enc_c9e7o1_dialog_1a" = "";
+"enc_c9e7o1_dialog_1b" = "";
+
+//Encounter 8 - Young Dr. Blakk
+"enc_c9e8o1_dialog_1a" = "";
+"enc_c9e8o1_dialog_2a" = "";
+"enc_c9e8o1_dialog_2b" = "";
+
+//Encounter 9 - Twist
+"enc_c9e9o1_dialog_1a" = "";
+"enc_c9e9o1_dialog_2a" = "";
+"enc_c9e9o1_dialog_3a" = "";
+
+//Encounter 10 - Dr. Blakk
+"enc_c9e10o1_dialog_1a" = "";
+"enc_c9e10o1_dialog_2a" = "";
+"enc_c9e10o1_dialog_3a" = "";
+
+/* End Chapter 9 */
+
+/* Chapter 10 */
+
+
+//Encounter 1 - Broken Auto-Cannon
+"enc_c10e1o1_dialog_1a" = "";
+"enc_c10e1o1_dialog_1b" = "";
+
+//Encounter 2 - Doombot 1.0 & Doombot 2.0
+"enc_c10e2o1_dialog_1a" = "";
+"enc_c10e2o1_dialog_2a" = "";
+"enc_c10e2o1_dialog_2b" = "";
+"enc_c10e2o2_dialog_1a" = "";
+"enc_c10e2o2_dialog_1b" = "";
+
+//Encounter 3 - Mecha-Mole
+"enc_c10e3o1_dialog_1a" = "";
+"enc_c10e3o1_dialog_1b" = "";
+
+//Encounter 4 - Tough Guy Gang Member #1 -
+"enc_c10e4o1_dialog_1a" = "";
+"enc_c10e4o1_dialog_1b" = "";
+"enc_c10e4o1_dialog_2a" = "";
+
+//Encounter 5 - Tough Guy Gang Member #2 - Welder
+"enc_c10e5o1_dialog_1a" = "";
+"enc_c10e5o1_dialog_2a" = "";
+"enc_c10e5o1_dialog_3a" = "";
+
+//Encounter 6 - Tough Guy Gang Member #3 - Neckbrace
+"enc_c10e6o1_dialog_1a" = "";
+"enc_c10e6o1_dialog_1b" = "";
+
+//Encounter 7 - Tough Guy Gang Member #4 - Troll
+"enc_c10e7o1_dialog_1a" = "";
+"enc_c10e7o1_dialog_2a" = "";
+
+//Encounter 8 - Boss Ember
+"enc_c10e8o1_dialog_1a" = "";
+"enc_c10e8o1_dialog_1b" = "";
+
+//Encounter 9
+
+//Encounter 10 - Angry Boss Ember
+"enc_c10e10o1_dialog_1a" = "";
+"enc_c10e10o1_dialog_2a" = "";
+
+/* End Chapter 10 */
+
+/* Chapter 11 */
+
+//Encounter 1 - Glasses
+"enc_c11e1o1_dialog_1a" = "";
+
+//Encounter 2 - Shorty
+"enc_c11e2o1_dialog_1a" = "";
+
+//Encounter 3 - Billy
+"enc_c11e3o1_dialog_1a" = "";
+"enc_c11e3o1_dialog_1b" = "";
+"enc_c11e3o1_dialog_2a" = "";
+
+//Encounter 4 - Jeen
+"enc_c11e4o1_dialog_1a" = "";
+"enc_c11e4o1_dialog_1b" = "";
+"enc_c11e4o1_dialog_1c" = "";
+
+//Encounter 5 - Trapsie
+"enc_c11e5o1_dialog_1a" = "";
+
+//Encounter 6 - Alias
+"enc_c11e6o1_dialog_1a" = "";
+
+//Encounter 7 - Welder Walter & Lil Stevie
+"enc_c11e7o1_dialog_1a" = "";
+"enc_c11e7o1_dialog_1b" = "";
+"enc_c11e7o1_dialog_2a" = "";
+
+//Encounter 8 - Mongo
+"enc_c11e8o1_dialog_1a" = "";
+"enc_c11e8o1_dialog_2a" = "";
+
+//Encounter 9 - Straggus
+"enc_c11e9o1_dialog_1a" = "";
+
+//Encounter 10 - Billy, Alias & Straggus
+"enc_c11e10o1_dialog_1a" = "";
+"enc_c11e10o1_dialog_1b" = "";
+"enc_c11e10o2_dialog_2a" = "";
+"enc_c11e10o3_dialog_3a" = "";
+"enc_c11e10o3_dialog_4a" = "";
+"enc_c11e10o3_dialog_5a" = "";
+
+/* End Chapter 11 */
+
+/* Chapter 12 */
+
+
+//Encounter 1 - Blakk Soldier & John Bull
+"enc_c12e1o1_dialog_1a" = "";
+"enc_c12e1o1_dialog_2a" = "";
+"enc_c12e1o1_dialog_1b" = "";
+"enc_c12e1o1_dialog_3a" = "";
+
+//Encounter 2 - Nacho
+"enc_c12e2o1_dialog_1a" = "";
+"enc_c12e2o1_dialog_2a" = "";
+"enc_c12e2o1_dialog_3a" = "";
+"enc_c12e2o2_dialog_4a" = "";
+
+//Encounter 3 - Darkbane Soldier 1
+"enc_c12e3o1_dialog_1a" = "";
+"enc_c12e3o1_dialog_1b" = "";
+"enc_c12e3o1_dialog_2a" = "";
+
+//Encounter 4 - Darkbane Soldier 2
+"enc_c12e4o1_dialog_1a" = "";
+
+//Encounter 5 - Darkbane Soldier 3
+"enc_c12e5o1_dialog_1a" = "";
+"enc_c12e5o1_dialog_2b" = "";
+
+//Encounter 6 - Shadow Clan Protector
+"enc_c12e6o1_dialog_1a" = "";
+"enc_c12e6o1_dialog_2a" = "";
+"enc_c12e6o1_dialog_3a" = "";
+"enc_c12e6o1_dialog_4a" = "";
+"enc_c12e6o1_dialog_3b" = "";
+
+//Encounter 7 - Prison Door
+"enc_c12e7o1_dialog_1a" = "";
+
+//Encounter 8 - Prison Guards
+"enc_c12e8o1_dialog_1a" = "";
+"enc_c12e8o1_dialog_2a" = "";
+"enc_c12e8o1_dialog_3a" = "";
+
+//Encounter 9 - Prison Warden
+"enc_c12e9o1_dialog_1a" = "";
+"enc_c12e9o1_dialog_2a" = "";
+"enc_c12e9o1_dialog_1b" = "";
+"enc_c12e9o1_dialog_2b" = "";
+
+//Encounter 10 - Darkbane Nacho
+"enc_c12e10o1_dialog_1a" = "";
+"enc_c12e10o1_dialog_2a" = "";
+"enc_c12e10o1_dialog_3a" = "";
+"enc_c12e10o1_dialog_3b" = "";
+
+/* End Chapter 12 */
+
+/* Chapter 13 */
+
+
+//Encounter 1 - Darkbane 1
+"enc_c13e1o1_dialog_1a" = "";
+
+//Encounter 2 - Darkbane 2
+"enc_c13e2o1_dialog_1a" = "";
+
+//Encounter 3 - Darkbane 3
+"enc_c13e3o1_dialog_1a" = "";
+
+//Encounter 4 - Prison Warden
+"enc_c13e4o1_dialog_1a" = "";
+"enc_c13e4o1_dialog_2a" = "";
+"enc_c13e4o1_dialog_1b" = "";
+"enc_c13e4o1_dialog_2b" = "";
+
+//Encounter 5 - Bonus Round - Brimstone's Throne
+
+//Encounter 6 - Darkbane Elite 1 & 2
+"enc_c13e6o1_dialog_1a" = "";
+"enc_c13e6o1_dialog_2a" = "";
+"enc_c13e6o1_dialog_3a" = "";
+
+//Encounter 7 - Darkbane Nacho
+"enc_c13e7o1_dialog_1a" = "";
+"enc_c13e7o1_dialog_2a" = "";
+
+//Encounter 8 - Angry Nacho
+"enc_c13e8o1_dialog_1a" = "";
+"enc_c13e8o1_dialog_2a" = "";
+"enc_c13e8o1_dialog_1b" = "";
+
+//Encounter 9 - Behemoth
+"enc_c13e9o1_dialog_1a" = "";
+"enc_c13e9o1_dialog_2a" = "";
+"enc_c13e9o1_dialog_3a" = "";
+
+//Encounter 10 - Brimstone
+"enc_c13e10o1_dialog_1a" = "";
+"enc_c13e10o1_dialog_2a" = "";
+"enc_c13e10o1_dialog_1b" = "";
+"enc_c13e10o1_dialog_3a" = "";
+"enc_c13e10o1_dialog_4a" = "";
+
+/* End Chapter 13 */
+
+/* Chapter 14 */
+
+
+//Encounter 1 - Pronto, Kord and Trixie
+"enc_c14e1o1_dialog_1a" = "";
+"enc_c14e1o1_dialog_1b" = "";
+"enc_c14e1o2_dialog_2a" = "";
+"enc_c14e1o2_dialog_2b" = "";
+"enc_c14e1o3_dialog_3a" = "";
+"enc_c14e1o3_dialog_3b" = "";
+
+//Encounter 2 - Dr.Blakk
+"enc_c14e2o1_dialog_1a" = "";
+"enc_c14e2o1_dialog_1b" = "";
+
+//Encounter 3 - Spirex
+"enc_c14e3o1_dialog_1a" = "";
+
+//Encounter 4 - Eli
+"enc_c14e4o1_dialog_1a" = "";
+"enc_c14e4o1_dialog_2a" = "";
+
+//Encounter 5 - Young Blakk
+"enc_c14e5o1_dialog_1a" = "";
+
+//Encounter 6 - Behemoth
+"enc_c14e6o1_dialog_1a" = "";
+"enc_c14e6o1_dialog_2a" = "";
+
+//Encounter 7 - Angry Blakk
+"enc_c14e7o1_dialog_1a" = "";
+"enc_c14e7o1_dialog_2a" = "";
+
+//Encounter 8 - Unbeatable Master
+"enc_c14e8o1_dialog_1a" = "";
+"enc_c14e8o1_dialog_2a" = "";
+"enc_c14e8o1_dialog_2b" = "";
+
+//Encounter 9 - Gat Blakk
+"enc_c14e9o1_dialog_1a" = "";
+"enc_c14e9o1_dialog_2a" = "";
+
+//Encounter 10 - Will Shane
+"enc_c14e10o1_dialog_1a" = "";
+"enc_c14e10o1_dialog_2a" = "";
+"enc_c14e10o1_dialog_3a" = "";
+"enc_c14e10o1_dialog_3b" = "";
+"enc_c14e10o1_dialog_3c" = "";
+
+/* End Chapter 14 */
+
+/* Chapter 15 */
+
+
+//Encounter 1 - Dr.Blakk
+"enc_c15e1o1_dialog_1a" = "";
+"enc_c15e1o2_dialog_1a" = "";
+"enc_c15e1o1_dialog_2a" = "";
+
+//Encounter 2 - Angry Miner
+"enc_c15e2o1_dialog_1a" = "";
+"enc_c15e2o2_dialog_1b" = "";
+
+//Encounter 3 - Foreman
+"enc_c15e3o1_dialog_1a" = "";
+"enc_c15e3o2_dialog_1a" = "";
+
+//Encounter 4 - The Heavy, The Rat
+"enc_c15e4o1_dialog_1a" = "";
+"enc_c15e4o1_dialog_2a" = "";
+
+//Encounter 5 - Young Will Shane
+"enc_c15e5o1_dialog_1a" = "";
+"enc_c15e5o2_dialog_1a" = "";
+"enc_c15e5o2_dialog_1b" = "";
+
+//Encounter 6 - Viggo, Dare, The Rat
+"enc_c15e6o1_dialog_1a" = "";
+"enc_c15e6o1_dialog_1b" = "";
+"enc_c15e6o2_dialog_1a" = "";
+"enc_c15e6o3_dialog_1a" = "";
+"enc_c15e6o3_dialog_1b" = "";
+
+//Encounter 7 - Will Shane
+"enc_c15e7o1_dialog_1a" = "";
+"enc_c15e7o2_dialog_2a" = "";
+"enc_c15e7o1_dialog_3a" = "";
+"enc_c15e7o2_dialog_3a" = "";
+"enc_c15e7o1_dialog_4a" = "";
+"enc_c15e7o2_dialog_4a" = "";
+
+//Encounter 8 - Brimestone
+"enc_c15e8o1_dialog_1a" = "";
+"enc_c15e8o1_dialog_2a" = "";
+"enc_c15e8o1_dialog_2b" = "";
+
+//Encounter 10 - Will Shane
+"enc_c15e10o1_dialog_1a" = "";
+"enc_c15e10o2_dialog_2a" = "";
+"enc_c15e10o1_dialog_3a" = "Qu'as-tu fait ?";
+"enc_c15e10o2_dialog_3a" = "";
+
+//Encounter 11 - Dr.Blakk
+"enc_c15e11o1_dialog_1a" = "";
+"enc_c15e11o1_dialog_2a" = "";
+"enc_c15e11o1_dialog_3a" = "";
+"enc_c15e11o1_dialog_3b" = "";
+"enc_c15e11o1_dialog_3c" = "";
+
+/* End Chapter 15 */
+
+/* Chapter 16 */
+
+
+//Encounter 1 - Delta Operator
+"enc_c16e1o1_dialog_1a" = "";
+"enc_c16e1o1_dialog_2a" = "";
+"enc_c16e1o2_dialog_1a" = "";
+
+//Encounter 2 - Doombot 1.0
+"enc_c16e2o1_dialog_1a" = "10011011010101001";
+
+//Encounter 3 - Mr. Orange
+"enc_c16e3o1_dialog_1a" = "";
+
+//Encounter 4 - Locke and Load
+"enc_c16e4o1_dialog_1a" = "";
+"enc_c16e4o1_dialog_2a" = "";
+"enc_c16e4o2_dialog_1a" = "";
+"enc_c16e4o2_dialog_2a" = "";
+
+//Encounter 5 - Darkbane Drek and Darkbane Hartag
+"enc_c16e5o1_dialog_1a" = "";
+"enc_c16e5o2_dialog_1a" = "";
+"enc_c16e5o2_dialog_1b" = "";
+
+//Encounter 6 - Prison Warden
+"enc_c16e6o1_dialog_1a" = "";
+"enc_c16e6o1_dialog_1b" = "";
+"enc_c16e6o2_dialog_1a" = "";
+"enc_c16e6o3_dialog_1a" = "";
+
+//Encounter 7 - Nacho
+"enc_c16e7o1_dialog_1a" = "";
+"enc_c16e7o2_dialog_2a" = "";
+
+//Encounter 8 - Bonus Round - Prison Wagon
+
+//Encounter 9 - Titan
+"enc_c16e10o1_dialog_1a" = "";
+
+//Encounter 10 - Angry Nacho
+"enc_c16e11o1_dialog_1a" = "";
+"enc_c16e11o1_dialog_2a" = "";
+"enc_c16e11o1_dialog_3a"= "";
+"enc_c16e11o1_dialog_3b" = "";
+"enc_c16e11o1_dialog_3c" = "";
+
+/* End Chapter 16 */
+
+/* Chapter 17 */
+
+
+//Encounter 1 - Red Hook
+"enc_c17e1o1_dialog_1a" = "";
+"enc_c17e1o2_dialog_1a" = "";
+"enc_c17e1o3_dialog_1a" = "";
+"enc_c17e1o1_dialog_2a" = "";
+"enc_c17e1o2_dialog_2a" = "";
+"enc_c17e1o1_dialog_3a" = "";
+"enc_c17e1o2_dialog_3a" = "";
+"enc_c17e1o3_dialog_3a" = "";
+
+//Encounter 2 - Darkbane Guards
+"enc_c17e2o1_dialog_1a" = "";
+"enc_c17e2o2_dialog_1a" = "";
+"enc_c17e2o3_dialog_1a" = "";
+
+//Encounter 3 - Nacho
+"enc_c17e3o1_dialog_1a" = "";
+"enc_c17e3o2_dialog_1a" = "";
+
+//Encounter 4 - Technician
+"enc_c17e4o1_dialog_1a" = "";
+
+//Encounter 5 - Bonus Round
+
+//Encounter 6 - Elite Guard
+"enc_c17e6o1_dialog_1a" = "";
+"enc_c17e6o2_dialog_1a" = "";
+
+//Encounter 7 - Dr Blakk
+"enc_c17e7o1_dialog_1a" = "";
+"enc_c17e7o1_dialog_2a" = "";
+"enc_c17e7o1_dialog_3a" = "";
+
+//Encounter 8 - Darkbane Elite
+"enc_c17e8o1_dialog_1a" = "";
+"enc_c17e8o1_dialog_2a" = "";
+"enc_c17e8o1_dialog_3a" = "";
+"enc_c17e8o1_dialog_4a" = "";
+
+//Encounter 9 - Dr. Blakk
+"enc_c17e9o1_dialog_1a" = "";
+"enc_c17e9o1_dialog_2a" = "";
+"enc_c17e9o1_dialog_3a" = "";
+"enc_c17e9o1_dialog_4a" = "";
+
+//Encounter 10 - Bonus Round
+
+/* End Chapter 17 */
+

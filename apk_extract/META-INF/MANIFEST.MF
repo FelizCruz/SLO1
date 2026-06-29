@@ -1,0 +1,4828 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: res/drawable-hdpi/common_signin_btn_icon_disabled_focus_dark.9.p
+ ng
+SHA1-Digest: 0ky7hJW6fNsa6m2tmjhllqHXHfg=
+
+Name: assets/textures/characters/ss_turtle.plist
+SHA1-Digest: ObMrV0Q64wQUXoGSMETb9bk1eOU=
+
+Name: assets/textures/portraits/ss_sedo.plist
+SHA1-Digest: 3n95i7Sl3RvGfRo6FMRErwK35js=
+
+Name: assets/fonts/malgunbd.ttf
+SHA1-Digest: D9CdsucONdTvjbhsXLRobPm9zNo=
+
+Name: assets/textures/scenes/ss_title-hd.plist
+SHA1-Digest: AQOfeR5ctWRmFJ/pHPV8Swt+BOk=
+
+Name: assets/textures/blocks/ss_fuse_slyren_narwaddle-hd.plist
+SHA1-Digest: P0rjZRXhjp9fP3gOc41OPVOVCsc=
+
+Name: assets/textures/blocks/ss_phosphoro-hd.plist
+SHA1-Digest: Xt6G8lE79uVHlKW19pGR5FwXZ44=
+
+Name: assets/es.lproj/AppiraterLocalizable.strings
+SHA1-Digest: LmA/k6wJVltmImIpxmSpS4UqW5g=
+
+Name: assets/textures/portraits/ss_guard1_guard2-hd.plist
+SHA1-Digest: RiY8P0awZk/UqONWCRBo8CLSkIM=
+
+Name: assets/textures/blocks/ss_doc.plist
+SHA1-Digest: Yq5Qiu67OsrRrZfc9lMkxw4lhuw=
+
+Name: assets/textures/portraits/ss_mei.plist
+SHA1-Digest: 3abl9oAIfk2ibDyd9lFYE7Avpzc=
+
+Name: assets/textures/blocks/ss_doc-hd.plist
+SHA1-Digest: ZGqfZNk/bxhifRBj8ZsbRhqLsdI=
+
+Name: assets/en.lproj/ss_title_logo-hd.plist
+SHA1-Digest: A0bMF7G6+I5cKEjdyiACGDxJK5w=
+
+Name: assets/textures/abilities/ss_yang-hd.plist
+SHA1-Digest: kYP4O8RpgzpQfxIX6ma30tAvwKk=
+
+Name: assets/textures/blocks/ss_gas.plist
+SHA1-Digest: kL22b6Czc5LIUfi/NjY/gCHr+w8=
+
+Name: assets/textures/scenes/ss_encounter_select_pvrtc.plist
+SHA1-Digest: q/NhWlnCM/dNBYiSK6vYp8yReq0=
+
+Name: assets/textures/game/locations/ss_undertowcavern1.plist
+SHA1-Digest: S823Qa9tPvn60+MtZ35/IQXISSk=
+
+Name: assets/textures/portraits/ss_nacho-hd.plist
+SHA1-Digest: ek3u3vIJL9kT0WbqmqtER9kmUBc=
+
+Name: assets/textures/abilities/ss_fuse_burpy_tazer-hd.plist
+SHA1-Digest: ttr6ZxVBPXJX9jJ6ZL0xJxyur+c=
+
+Name: assets/textures/game/locations/ss_slugseeker_02-hd.plist
+SHA1-Digest: hJZtc5lpervvNPDLhlZIFDd6UWE=
+
+Name: lib/armeabi/libAudioToolbox.so
+SHA1-Digest: 5/EC2/YquBHwsVcMx3B527K9JoY=
+
+Name: assets/textures/characters/ss_glasses-hd.plist
+SHA1-Digest: pYs02QvPgkawuCyOvS6jT7r7sTg=
+
+Name: assets/textures/portraits/ss_darkbanesoldierelite2.plist
+SHA1-Digest: mXIBO7vR0MCDvHj2zKKwER+Jsos=
+
+Name: com.apportable.system/fonts/DroidSansHebrew-Bold.ttf
+SHA1-Digest: bnHHY3zVhU5icp9deYBYiLskRlM=
+
+Name: assets/textures/scenes/ss_slugseeker_cavern_select0-hd.plist
+SHA1-Digest: +oBX28kKbI/B70jGPohxPTVCq70=
+
+Name: lib/armeabi/libicu.so
+SHA1-Digest: 82B9n4hIIJgTG7AwVY1d8zXnlTU=
+
+Name: assets/textures/blocks/ss_mega_frost-hd.plist
+SHA1-Digest: aoc5fgGKWZHGKoeHA7v6Y4wHVBc=
+
+Name: assets/textures/blocks/ss_refresh.plist
+SHA1-Digest: +Wd5kuT/7u1pF5eCEwtE0ZwKShw=
+
+Name: assets/textures/portraits/ss_hooligang_uniform-hd.plist
+SHA1-Digest: r2/ytJ+KZN4iz2HHyBdCz63+jEM=
+
+Name: assets/el.lproj/Localizable.strings
+SHA1-Digest: TFbvj1xKKWwr1SyndMMwgxCHar4=
+
+Name: assets/textures/characters/ss_pronto.plist
+SHA1-Digest: fVT84La2TGL1qwZsNL69Dp5Rcqg=
+
+Name: assets/textures/game/locations/ss_interior.plist
+SHA1-Digest: OUR8t3SIdqVYDhLFS+rkUPGkAeo=
+
+Name: assets/textures/characters/ss_eli.plist
+SHA1-Digest: aBGOSjBkiqccqQzjofcutSsGSYo=
+
+Name: lib/armeabi/libcxx.so
+SHA1-Digest: 4Y3hufKaF/A/MNFUkDAtHuXkT/I=
+
+Name: assets/textures/characters/ss_horn.plist
+SHA1-Digest: iM3c5mdpH6KrscRgQcFJvYxSn1I=
+
+Name: assets/textures/game/locations/ss_blakk_exterior-hd.plist
+SHA1-Digest: gx0tb/kHrKFiiMdJaLOUOY732YM=
+
+Name: assets/de.lproj/Localizable copy.strings
+SHA1-Digest: kI8dcYM+Hd+EN1LgjIGGHEDy9b4=
+
+Name: assets/textures/portraits/ss_fakeduelist.plist
+SHA1-Digest: xOgt96SH1U4qsmkkqbUNbkHbkz8=
+
+Name: assets/textures/scenes/ss_equipment-hd.plist
+SHA1-Digest: d+9PNBygtl0Up6QH94ll8gSHc1k=
+
+Name: assets/fr.lproj/Dialogue.strings
+SHA1-Digest: GgkdNi0R+7YGODINo6PZA92Fb6s=
+
+Name: assets/textures/game/locations/ss_shrooms.plist
+SHA1-Digest: k/VYbeDzGvexPLDB4m3DS49UXfo=
+
+Name: assets/pt-BR.lproj/ss_title_logo.plist
+SHA1-Digest: rW/2FvKlJqOiX/FiKtGlqjR5sWY=
+
+Name: assets/textures/game/locations/ss_scorched-hd.plist
+SHA1-Digest: yLmTFSLYVofwW/2Lbp2ONAxxfm0=
+
+Name: assets/textures/blocks/ss_midas-hd.plist
+SHA1-Digest: SHcs1gEMdj41c+Eyw7G/HHYqg/M=
+
+Name: assets/particles/coin_purchase_particles.plist
+SHA1-Digest: rFU5HhdqAN8GU6CF4+4HnCKy5DE=
+
+Name: assets/textures/portraits/ss_hostile_miner.plist
+SHA1-Digest: tq6KzGCj1bVeDaWIWs8hPLghJ4s=
+
+Name: assets/textures/game/locations/ss_deepcavern-hd.plist
+SHA1-Digest: G93kwnuvhGL6p1hWgdxzTgCPi80=
+
+Name: assets/textures/characters/ss_darkbane_prison_guard-hd.plist
+SHA1-Digest: f9L7udHAJTox8uKu75r6e6pcYoQ=
+
+Name: res/drawable-xxhdpi/common_signin_btn_text_focus_light.9.png
+SHA1-Digest: re+zLFhPUMSpBod/+8AnbiOF95E=
+
+Name: assets/textures/scenes/ss_versus-hd.plist
+SHA1-Digest: PnER4KAplC9n7yj0lDluL01V248=
+
+Name: res/drawable/common_signin_btn_text_dark.xml
+SHA1-Digest: TOXKWaLgRXMv5YaI2cph4uS86+I=
+
+Name: res/drawable-xxhdpi/common_signin_btn_icon_disabled_focus_dark.9
+ .png
+SHA1-Digest: 5te3wznPBVYtZMjVj49FYN5YlRA=
+
+Name: assets/textures/game/locations/ss_chapter17_redhook.plist
+SHA1-Digest: c42EQDv3APvtbe2caYPksZX9RdQ=
+
+Name: assets/textures/game/locations/ss_dream_white.plist
+SHA1-Digest: Wit52IhdcuROH1ZMUa9T5vg4wUo=
+
+Name: assets/textures/interface/ss_common-hd.plist
+SHA1-Digest: +BPwGX7qs3MDYU3sKjh2l5/suVQ=
+
+Name: assets/textures/abilities/ss_flaringo-hd.plist
+SHA1-Digest: 5F0m6MiSMX7m4Zdqgxu5/uAuR4g=
+
+Name: assets/textures/portraits/ss_lockeload_uniform-hd.plist
+SHA1-Digest: 7eqZLIpHLZy7n+SRaChwkXqOP+I=
+
+Name: assets/textures/scenes/ss_title.plist
+SHA1-Digest: cC6+SLjtt5aVPu53Bgq37e7JJEw=
+
+Name: assets/textures/characters/ss_gator.plist
+SHA1-Digest: BkEfIRK4FUfbJ2r1QriiDS7ERaY=
+
+Name: assets/particles/icewall_hit_small.plist
+SHA1-Digest: JkJw/l+PgMX2RuvVjmJ6fVFvQmo=
+
+Name: assets/zh.lproj/AppiraterLocalizable.strings
+SHA1-Digest: aA0ZPTmwyuVvqlBonZWZf4IM+48=
+
+Name: res/drawable-xxhdpi/icon.png
+SHA1-Digest: 0BxeYyBOqw2LDI45qLKKiBKuCmQ=
+
+Name: assets/textures/abilities/ss_ghoul_rammstone-hd.plist
+SHA1-Digest: IxUVMk8a1uCxqPdC6Dzs3Zg5jbs=
+
+Name: assets/textures/destructible_objects/ss_door-hd.plist
+SHA1-Digest: W7UdTuNlLi60DIUD4Ix5Ebfx7XY=
+
+Name: assets/textures/portraits/ss_munch-hd.plist
+SHA1-Digest: P/oFH59du+IxbrrfG/1PfsnLu/o=
+
+Name: assets/textures/scenes/ss_equipment.plist
+SHA1-Digest: GqY4aQ4n+78lr/4Pu81w2fm+oPM=
+
+Name: assets/it.lproj/Dialogue.strings
+SHA1-Digest: 9qLVSWnRkq7Hauk/8kdjlB/2MhQ=
+
+Name: assets/textures/game/locations/ss_scorched.plist
+SHA1-Digest: 0a/aU/SMwtAq17JkWXR968j78tA=
+
+Name: assets/textures/game/locations/ss_prisoncells.plist
+SHA1-Digest: YJiZNDlzLCE+0sdhodrJor2Z8A4=
+
+Name: assets/textures/blocks/ss_reflect.plist
+SHA1-Digest: F+RP358XIqL4J1N6X/DIBCqn49I=
+
+Name: ATTRIBUTION.txt
+SHA1-Digest: /GmspRPic4LDH6AAlTMxTEJtaj4=
+
+Name: assets/textures/basic_shots/ss_sonicBoom-hd.plist
+SHA1-Digest: FCrmAkTCW9m4SQjT+vLNUhEDWmE=
+
+Name: assets/textures/abilities/ss_ghoul_yang-hd.plist
+SHA1-Digest: hzGsQm40xidN5/oc2V629hpakHo=
+
+Name: assets/fr.lproj/InfoPlist.strings
+SHA1-Digest: sj/NDiPYrm4XXaw7u2xX48bEpSQ=
+
+Name: assets/textures/abilities/ss_fuse_enigmo_xmitter-hd.plist
+SHA1-Digest: kUmCmgI5ipNXzZ1Ui9/d6DuCRJc=
+
+Name: assets/textures/game/locations/ss_trashheap1-hd.plist
+SHA1-Digest: q5xzLs+nWLuXAWap8ghVVXIp/HM=
+
+Name: res/drawable-xhdpi/common_signin_btn_icon_focus_dark.9.png
+SHA1-Digest: QvCsDHmHTCeFtKK23z0HRetpRJI=
+
+Name: assets/textures/blocks/ss_jellyish.plist
+SHA1-Digest: hXIxbIHfQIfCM5ZNr1dMH3RVYrU=
+
+Name: assets/textures/game/locations/ss_blakk-hd.plist
+SHA1-Digest: z/STnKoHUiADzoq5hz+FW1ucCNo=
+
+Name: assets/textures/slug_seeker/cavern2/ss_cavern2-hd.plist
+SHA1-Digest: HYlMpU02H2juSxKG/lr4oeIAE4s=
+
+Name: assets/textures/characters/ss_angrybossember.plist
+SHA1-Digest: hmSs/6jVuIN7kBlTzWyzGZApVOs=
+
+Name: assets/textures/abilities/ss_armashelt-hd.plist
+SHA1-Digest: 3QPk3qxyV6dHemJg79UWJRJdAzs=
+
+Name: assets/textures/blocks/ss_fandango.plist
+SHA1-Digest: 424YpvAESFUK/vN2NkdE9bsfuDE=
+
+Name: assets/ru.lproj/Fonts.strings
+SHA1-Digest: xoFu2lbZREMC/NxqSQTuLvcuGKk=
+
+Name: assets/textures/portraits/ss_darkbane_prison_guard.plist
+SHA1-Digest: dKzm4e0aC0L70Bvi7aY/uzYPwuA=
+
+Name: res/drawable-xxhdpi/common_signin_btn_text_focus_dark.9.png
+SHA1-Digest: +YXDOKcowsglHKYLvgWRriKCdQI=
+
+Name: assets/particles/rock_explode_particle.plist
+SHA1-Digest: /mmgfP70UxCRaZdrV6Jj+9hTSYk=
+
+Name: assets/textures/interface/ss_topHUD-hd.plist
+SHA1-Digest: mTgwMtq4q0SHYtYDA0Hj65F4nkw=
+
+Name: assets/textures/characters/ss_horn-hd.plist
+SHA1-Digest: Z9dRBK4xgXMSI3ebRG160LQlTvU=
+
+Name: assets/textures/game/locations/ss_treasure_cave.plist
+SHA1-Digest: mNgTT65nwJNLaXjJFlifLkOktqg=
+
+Name: assets/textures/portraits/ss_jackbull.plist
+SHA1-Digest: Bz2/2hqfoqn3sdTXd9CNv5ZOwjs=
+
+Name: assets/textures/portraits/ss_eliprison.plist
+SHA1-Digest: QHtUgNwNxWDE/hMlStxAkOLyGA0=
+
+Name: assets/textures/portraits/ss_gangleaders-hd.plist
+SHA1-Digest: iWvVnO+QAGYFnhaG41PGdU+KpFE=
+
+Name: assets/textures/portraits/ss_dummy-hd.plist
+SHA1-Digest: a0N7L7DJYUm2nIfu5XE3v10duIk=
+
+Name: assets/textures/game/locations/ss_windmill.plist
+SHA1-Digest: TCY1stMYkWcGGwwJ2IKVlzNc1fg=
+
+Name: assets/textures/portraits/ss_gator.plist
+SHA1-Digest: APctYbgVG0oZ/y4AkPiPxZ91Blg=
+
+Name: assets/textures/abilities/ss_neotox.plist
+SHA1-Digest: xxm4ymIe4LBZDhqRwE1kOgYWt6A=
+
+Name: assets/particles/challengeMode/orbs.plist
+SHA1-Digest: gptTu2+NdFRqpSJAzVXWfOdBwas=
+
+Name: assets/textures/portraits/ss_bonus_darkbane_throne-hd.plist
+SHA1-Digest: Hn+J8hkqDxFK0u7y9ere6C1Cywk=
+
+Name: res/drawable-hdpi/common_signin_btn_icon_pressed_light.9.png
+SHA1-Digest: w/L+nKDDWadDlwiDybC+JmpbqaI=
+
+Name: assets/particles/win_confetti.plist
+SHA1-Digest: v9Bb1+NPKFKBe45fZfapqkVOOGU=
+
+Name: assets/textures/game/locations/ss_darkperiphery2.plist
+SHA1-Digest: cbZAKF18SKqi5Ax93af9RirJIzE=
+
+Name: assets/textures/abilities/ss_hexlet.plist
+SHA1-Digest: neRDeequkgH8u0KdefeFh0+/vXU=
+
+Name: assets/ar.lproj/Fonts.strings
+SHA1-Digest: oGKXAjzS10dcdUF6NclsbgzyXj4=
+
+Name: assets/textures/characters/ss_hostile_miner.plist
+SHA1-Digest: 0A6ChdOY9RHOVCbOnyqu+n0k3ik=
+
+Name: assets/tr.lproj/Localizable.strings
+SHA1-Digest: np+tmI7b2XddqbOhyBsvk1LoGhI=
+
+Name: assets/textures/portraits/ss_guardbig1.plist
+SHA1-Digest: QXEsWakeReUBbLAqxUUlqJQzL30=
+
+Name: assets/textures/characters/ss_turtle-hd.plist
+SHA1-Digest: rQqGRBln5gfYRWdWB06By7VY+cI=
+
+Name: assets/textures/abilities/ss_gazzer.plist
+SHA1-Digest: oyNs+GmVfMMutQTQRPdF4WsKgGo=
+
+Name: assets/textures/abilities/ss_fuse_arachnet_panic.plist
+SHA1-Digest: GcIo45Zb5Gro1KNDBFc9cYa7t3M=
+
+Name: assets/textures/destructible_objects/ss_darkbaneprisondoor.plist
+SHA1-Digest: JxtuKlRMJb5hEzPs+tE4cqIpnU0=
+
+Name: assets/textures/portraits/ss_redhook_twist.plist
+SHA1-Digest: KSztX3UGzDb4JXbTY/PJZR89vvo=
+
+Name: assets/textures/slug_seeker/cavern7/ss_cavern7.plist
+SHA1-Digest: 52IdwuOd5RzJQtMVxujQB/pWy8w=
+
+Name: assets/textures/characters/ss_viggo_minion2-hd.plist
+SHA1-Digest: sslNieSRZ3M87Pgw763z2rvAKts=
+
+Name: assets/textures/game/locations/ss_chapter17_redhook-hd.plist
+SHA1-Digest: GHLYvc+r4aDo6K+m8WTXAZMihnw=
+
+Name: assets/textures/abilities/ss_lariat.plist
+SHA1-Digest: pgKlaW1P6JvI4/8Rr2fgk7j0OH8=
+
+Name: assets/textures/basic_shots/ss_basicShot-hd.plist
+SHA1-Digest: +tJQkeaimhsQaftfzoZUUt5QIAY=
+
+Name: assets/textures/abilities/ss_tormato-hd.plist
+SHA1-Digest: 0iYoROX1wPsQjBqHwaPfbAHWdHI=
+
+Name: assets/textures/scenes/ss_store-hd.plist
+SHA1-Digest: DRZyefU3y37RZnv7sNycQUnFC8E=
+
+Name: assets/textures/portraits/ss_guard_darkbane_soldier-hd.plist
+SHA1-Digest: pSNQotmaeB+kuryAYfPIJ4YkUdw=
+
+Name: assets/textures/game/locations/ss_slugseeker_01.plist
+SHA1-Digest: IMrJK77L1vEPdz+SHoGuLwBgtFA=
+
+Name: assets/textures/characters/ss_angrynacho.plist
+SHA1-Digest: my8dEk9d63G1XDJZbaTLTUAx4fw=
+
+Name: assets/ko.lproj/ss_title_logo-hd.plist
+SHA1-Digest: 9Fz5Xd7EUQLrc0CDdbBCdazsg5Y=
+
+Name: assets/textures/abilities/ss_slicksilver.plist
+SHA1-Digest: UIeKGzJkIiLQg7/CJ97p/eYbblk=
+
+Name: assets/textures/characters/ss_madmax-hd.plist
+SHA1-Digest: Gn/ddo1KUQH4D4otnm1uUpjRkMQ=
+
+Name: assets/textures/characters/ss_pirate_girl-hd.plist
+SHA1-Digest: 7GtyOiX1cWbJe+15JGNcv/N+8qo=
+
+Name: assets/textures/game/locations/ss_exterior.plist
+SHA1-Digest: cqOcEXTw3kpLwTjYtgB2wkcRJj8=
+
+Name: assets/textures/game/locations/ss_shrooms2.plist
+SHA1-Digest: Qlw31oSeDzziO7tNc0tz+GfL0fs=
+
+Name: assets/particles/coin_hit_particles.plist
+SHA1-Digest: hkiPOl0GCoLY/LLi0CaDVa/7Cz0=
+
+Name: assets/textures/game_mods/ss_blaster_velocity.plist
+SHA1-Digest: IChcOdy43PCQX4aQCpHbnMd7SIs=
+
+Name: lib/armeabi/libAudioUnit.so
+SHA1-Digest: mcqc8OdEF3Jdbgsxh1m6kRH0OHs=
+
+Name: assets/textures/abilities/ss_fuse_ghoul_phosphoro_ghoul_aquabeek
+ -hd.plist
+SHA1-Digest: cIeXcPh0TobVE8YtS8rEwhdjtWU=
+
+Name: res/drawable-xhdpi/common_signin_btn_icon_disabled_dark.9.png
+SHA1-Digest: 1Hnpvj2UzKDvPZv175SFBfp0Gn8=
+
+Name: assets/textures/abilities/ss_lariat-hd.plist
+SHA1-Digest: /Si7GFyz7acNRHPUOMlnI1kHFJc=
+
+Name: assets/textures/blocks/ss_burpy.plist
+SHA1-Digest: 8AE2GNKAuIspZZMLyq7jZC4aNRs=
+
+Name: assets/textures/blocks/ss_lariat-hd.plist
+SHA1-Digest: M8bKO7pDkILkfEwVlXzurP/gQ4s=
+
+Name: assets/textures/portraits/ss_scrapheepgang03-hd.plist
+SHA1-Digest: P5xbRzK7svbPDTV1H8ZkFCwMkTM=
+
+Name: assets/textures/portraits/ss_marcus.plist
+SHA1-Digest: Tvq/zKAB9MjbSKxygcpcPg2vYEQ=
+
+Name: assets/textures/characters/ss_mechamole-hd.plist
+SHA1-Digest: +yuzTJzeV3Z5Ugt10PmZv0sAxzs=
+
+Name: assets/textures/characters/ss_goon2_uniform-hd.plist
+SHA1-Digest: I/K8RtLmmV6wgIhec5crc2wm9l4=
+
+Name: res/drawable-hdpi/common_signin_btn_text_pressed_dark.9.png
+SHA1-Digest: VBdIt82ioiZO0Qmr7/J+8sPnop8=
+
+Name: assets/textures/blocks/ss_mega_grenuke-hd.plist
+SHA1-Digest: LgspzK+9OhczJ3dEv1ZY4kFdF9A=
+
+Name: assets/textures/blocks/ss_flaringo.plist
+SHA1-Digest: hLGLckuFKTeRW3cu2mSL7VFhJ68=
+
+Name: assets/textures/portraits/ss_gabe-hd.plist
+SHA1-Digest: 0F1O9130X6QewcKZiGkpp9hkKz0=
+
+Name: assets/textures/portraits/ss_evilkord.plist
+SHA1-Digest: U1yVtk+cWlEcr/8KRgWzJNlBsIs=
+
+Name: assets/textures/slugs/ss_sluglevels0.plist
+SHA1-Digest: cOUeTXcjsA2HzWYrt7lHBKaJQb0=
+
+Name: assets/textures/characters/ss_darkbane_soldier2.plist
+SHA1-Digest: UfmAGsEEEzUCjEbHNd8QaFNtuzM=
+
+Name: assets/textures/game/locations/ss_darkbaneportal-hd.plist
+SHA1-Digest: GjAm3d0rcLdPHWeMJsWizXplruM=
+
+Name: assets/textures/characters/ss_viggo.plist
+SHA1-Digest: ly4wBLammBs8QAUkz3pYDAI09Kk=
+
+Name: assets/textures/portraits/ss_technician.plist
+SHA1-Digest: nXU4J72n3RyBB3pqnYmwFF//9BI=
+
+Name: assets/textures/game/locations/ss_entrance-hd.plist
+SHA1-Digest: iqwpUC/GYSmJexF0JA1qAA1QQAs=
+
+Name: res/drawable-xxhdpi/common_signin_btn_icon_normal_light.9.png
+SHA1-Digest: FkxxTiMZkZMXGXmeMfd02TtKL64=
+
+Name: assets/textures/portraits/ss_madmax-hd.plist
+SHA1-Digest: 2K5Tw3Nl0Q55l6gSRYOl/tjpoiU=
+
+Name: assets/textures/portraits/ss_pirate2.plist
+SHA1-Digest: RWMv2zp9JPX/vk9iWU1Qmvm0pqE=
+
+Name: res/drawable-mdpi/ic_plusone_small_off_client.png
+SHA1-Digest: lOwgiwPxI8R2+0EZBBOzp3VD+bg=
+
+Name: assets/textures/slugs/ss_slugs_small-hd.plist
+SHA1-Digest: L082+lztUjAVfGnpw7Onr/B7ack=
+
+Name: assets/textures/characters/ss_goon4-hd.plist
+SHA1-Digest: O1U3w7SchHdfCBJUPBvXJ6CtoLk=
+
+Name: assets/textures/abilities/ss_slyren.plist
+SHA1-Digest: rtgdlQRMAaolkk7GA0VRcnXhjNs=
+
+Name: assets/textures/game/locations/ss_village.plist
+SHA1-Digest: ISKjbwM+HmcIaPYjguPSRiME7ks=
+
+Name: res/drawable/icon.png
+SHA1-Digest: 7PlE5A95M08isrP2EDy77v1YLJg=
+
+Name: assets/textures/characters/ss_fang.plist
+SHA1-Digest: 1D/C5+torgA9R4h7LV97uye1aMM=
+
+Name: assets/ko.lproj/ss_title_logo.plist
+SHA1-Digest: R4awTDiXIzPEZxfcBu+Uvnnu+/w=
+
+Name: assets/textures/characters/ss_shark-hd.plist
+SHA1-Digest: ujA7JP9sfRC2bD3jo2ffLsUpWTs=
+
+Name: lib/armeabi/libOpenAL.so
+SHA1-Digest: ob5vMZ9Irl7SlY4BVWC2a7e2uW0=
+
+Name: assets/textures/scenes/ss_winlose-hd.plist
+SHA1-Digest: ggbke+aqxvwRUv+Hv+cpOgz/j5Y=
+
+Name: assets/textures/blocks/ss_fuse_rammstone_makobreaker-hd.plist
+SHA1-Digest: yNNROt6+QsFv86+KzMA1CfiXl38=
+
+Name: assets/zh-Hans-CN.lproj/ss_title_logo-hd.plist
+SHA1-Digest: d9Eg4aAqgsro1B4/a3dhzDcBGXE=
+
+Name: assets/textures/scenes/ss_winlose_bg.plist
+SHA1-Digest: JrrSRoAy/Bl0crVERIOq3oewQMM=
+
+Name: assets/textures/portraits/ss_trixie-hd.plist
+SHA1-Digest: 8tCRSwfwuMOF6ZCwsdYa1NVA4hI=
+
+Name: lib/armeabi/libssl_1_01k.so
+SHA1-Digest: d2cg1BIVyPnyI0eZwfnEAYIUqmo=
+
+Name: assets/textures/game/locations/ss_throne.plist
+SHA1-Digest: wCV6kxK53kA2H87J+QYJeXbFMuM=
+
+Name: assets/textures/abilities/ss_mega_doc.plist
+SHA1-Digest: Npw80ZeS44684qn4bhkOXwTOv44=
+
+Name: assets/Icon-Small-50.png
+SHA1-Digest: q2NO/0t5fbHBFQ9ZWaYqohLL/Qc=
+
+Name: assets/zh.lproj/InfoPlist.strings
+SHA1-Digest: sj/NDiPYrm4XXaw7u2xX48bEpSQ=
+
+Name: assets/textures/characters/ss_scrapheepgang01.plist
+SHA1-Digest: iricyZni7fj2vnRZ4/AJVxXHuLs=
+
+Name: assets/textures/blocks/ss_arachnet.plist
+SHA1-Digest: /3+spXH+objylQIULd4CPeyQ5fU=
+
+Name: assets/textures/destructible_objects/ss_ship.plist
+SHA1-Digest: 7zMZvCBViwJSx29H8I7OmAfbxQM=
+
+Name: assets/textures/game/locations/ss_bridge-hd.plist
+SHA1-Digest: KEsn953eeRHYFZe9fKRvY4wetbk=
+
+Name: assets/textures/abilities/ss_hypnogriff.plist
+SHA1-Digest: PAiLzfluXN8+RPdaU0tnw9vrTUw=
+
+Name: res/drawable-xhdpi/common_signin_btn_icon_normal_dark.9.png
+SHA1-Digest: vGictS/UYFmX8tbz7DG/BKWlA1A=
+
+Name: assets/textures/portraits/ss_munch_uniform-hd.plist
+SHA1-Digest: NCz7faY7SZyxq0TvkHpJrS3euwk=
+
+Name: assets/fonts/SimSun.ttf
+SHA1-Digest: dH57ke/tzcyM4LUmuI1Idx5aczQ=
+
+Name: assets/textures/characters/ss_cajun.plist
+SHA1-Digest: 2tQQNvGOcj08mdPolVXTm3YSOu0=
+
+Name: assets/textures/blocks/ss_fuse_hoverbug_speedstinger.plist
+SHA1-Digest: l6VQVPZ9l8vy1F/joomygcWRLoM=
+
+Name: assets/textures/portraits/ss_darkbanesoldierelite1and2-hd.plist
+SHA1-Digest: ClKj1x/3/SE+DCODJEE8k4zJA84=
+
+Name: res/drawable-hdpi/notify_panel_notification_icon_bg.png
+SHA1-Digest: QkKvlylhRTpR1HxxoAZMe0tB4/Q=
+
+Name: res/drawable-hdpi/ic_launcher.png
+SHA1-Digest: sUVrVO6ltUAlvNmUdlyf8+a+Hb0=
+
+Name: assets/textures/scenes/ss_chapter_select-hd.plist
+SHA1-Digest: hPPSlUU1mRLemKYuFpFCNV0ExR8=
+
+Name: assets/zh.lproj/ss_title_logo.plist
+SHA1-Digest: g+sPoRjHQ7hJvGyetue+mzyrIrY=
+
+Name: assets/textures/scenes/ss_challenge_select.plist
+SHA1-Digest: W4KQBvWVllvYh+76MAMYktnKiRY=
+
+Name: assets/textures/portraits/ss_scrapheepgang04.plist
+SHA1-Digest: 9pU0jGxO5DF+N3Kpxx2gd2Mxl1c=
+
+Name: assets/en.lproj/Localizable.strings
+SHA1-Digest: Nn3t+EzYWq+y/H+xf3rVzOXLddQ=
+
+Name: assets/textures/game/locations/ss_barrels-hd.plist
+SHA1-Digest: nWZh9Nuc5hly069Liw1ZKCYZbuY=
+
+Name: res/color/common_signin_btn_text_dark.xml
+SHA1-Digest: yMSyXimH3u5y05k8Z0weWaoIxcA=
+
+Name: assets/textures/game/locations/ss_chapter16_panel02-hd.plist
+SHA1-Digest: L6Vxqf3II9M9ZUYnn67Pt9RTJAQ=
+
+Name: assets/textures/abilities/ss_vine_drill.plist
+SHA1-Digest: uLfgNmJF970DnsBdONpWLyYdBag=
+
+Name: assets/textures/portraits/ss_mrsaturday_uniform-hd.plist
+SHA1-Digest: FSG7lVlNwb+ymzLO+BEwHsqSnas=
+
+Name: assets/textures/characters/ss_robo-hd.plist
+SHA1-Digest: ZlPzK3RJSFbCQXM5H0AUTyZICx0=
+
+Name: assets/textures/blocks/ss_panic-hd.plist
+SHA1-Digest: dkr0MpgmojiyU2/gPsom0ckEQbw=
+
+Name: assets/textures/portraits/ss_pronto-hd.plist
+SHA1-Digest: /rx2xPBhpTwFUFLCwti5+8+Cg8c=
+
+Name: assets/textures/portraits/ss_boonthegoonjohnbull.plist
+SHA1-Digest: BSB3uB1Q3Td0QJ85Rr3hiu88Rkk=
+
+Name: assets/textures/abilities/ss_fuse_ghoul_vinedrill_ghoul_frost.pl
+ ist
+SHA1-Digest: Q7rQ2Qn5FCBLm3pPr7c6L3u0jHk=
+
+Name: assets/textures/boosters/ss_boosters-hd.plist
+SHA1-Digest: 0O8ieYZhDWUyrqT6GLy1jJpULE8=
+
+Name: assets/textures/abilities/ss_fright-hd.plist
+SHA1-Digest: BGaVtSYEdbZnhqW7T6GzviKAT68=
+
+Name: assets/textures/abilities/ss_xmitter.plist
+SHA1-Digest: jDDe1hXGeMw2u4OqOC3VHVUaQ18=
+
+Name: assets/textures/blocks/ss_bomb.plist
+SHA1-Digest: yR5ie8D+g/jEbIYKIWn3ilUARPE=
+
+Name: assets/textures/portraits/ss_darkbane_soldier2.plist
+SHA1-Digest: QJWEsC6Zj7FpJLjcElydEMwCFPM=
+
+Name: assets/textures/game/locations/ss_slugseeker_04.plist
+SHA1-Digest: KNCNPzyhrVIB0rXrdFjrDLvjsFs=
+
+Name: assets/textures/abilities/ss_fuse_geoshard_slicksilver.plist
+SHA1-Digest: 8WLD+YUYLs7MO6VMGr0OGpRfCs8=
+
+Name: assets/textures/characters/ss_eli-hd.plist
+SHA1-Digest: Q8c0BqUYJusxeYjeSPBaLL34spI=
+
+Name: assets/textures/basic_shots/ss_snot-hd.plist
+SHA1-Digest: 0jOyUHwtNuhwdBjqk2vviASs33o=
+
+Name: assets/textures/portraits/ss_kingofsling-hd.plist
+SHA1-Digest: QByDshm6YqPjMjQXkl+B3K+Afiw=
+
+Name: assets/textures/characters/ss_securitygun-hd.plist
+SHA1-Digest: VKUh1mYSi9/T70GAyJgAT9hFas0=
+
+Name: assets/textures/blocks/ss_rammstone-hd.plist
+SHA1-Digest: ti2tORCVCHuJauROcKlndib2Svg=
+
+Name: assets/textures/characters/ss_goon-hd.plist
+SHA1-Digest: FhvPXMwTzlxChY75BJD7qROVPDQ=
+
+Name: assets/textures/portraits/ss_goon2-hd.plist
+SHA1-Digest: 1GV0T5dzUl+GR2f2MbfLVxy1Vls=
+
+Name: assets/textures/portraits/ss_bossember-hd.plist
+SHA1-Digest: JZmxm8o5gi21tcpI2GQ/t4yHj8k=
+
+Name: assets/textures/characters/ss_goon2.plist
+SHA1-Digest: z1VgPDoy2w7DkCXWNbnzfw/OQ5E=
+
+Name: AndroidManifest.xml
+SHA1-Digest: owQww/TTQpOr0Olg9Y2jOYVpYaQ=
+
+Name: assets/textures/portraits/ss_angrynacho-hd.plist
+SHA1-Digest: f/CSTW17Q7uDTKWkhxjHTgbhdBs=
+
+Name: assets/textures/portraits/ss_mrsaturday_uniform.plist
+SHA1-Digest: QhsjZyo6tXZonC4mdnjidJW3bfg=
+
+Name: assets/textures/blocks/ss_tazer-hd.plist
+SHA1-Digest: jK1h7HPZ/IptLEaZDcJjRzEXsOk=
+
+Name: assets/textures/game/locations/ss_chapter16_panel01.plist
+SHA1-Digest: aQOfGVvH5PYYJs819XMZ3Yz3e3A=
+
+Name: lib/armeabi/libFoundation.so
+SHA1-Digest: jpgMiKDZJ67zwuxZ/S8NHfMQpRE=
+
+Name: assets/Default@2x.png
+SHA1-Digest: 8eFELC9Ny35BdyEw62NZQfEm7t4=
+
+Name: assets/tr.lproj/InfoPlist.strings
+SHA1-Digest: sj/NDiPYrm4XXaw7u2xX48bEpSQ=
+
+Name: assets/textures/blocks/ss_hoprock.plist
+SHA1-Digest: ATvTygE23ssmp7atwf1pqpXUzio=
+
+Name: assets/textures/abilities/ss_ghoul_lock-hd.plist
+SHA1-Digest: pgjZyqP5wf8NN9xn+GufqQl02hM=
+
+Name: assets/textures/game/locations/ss_slugseeker_09.plist
+SHA1-Digest: HpkMtfKZ3PTC1r5DCRrTOog/GJ4=
+
+Name: assets/textures/characters/ss_viggo_minion1-hd.plist
+SHA1-Digest: 3vXo5g0BJQ5M6nyzyjr5G5u5rL0=
+
+Name: assets/textures/game/locations/ss_chapter16_panel03-hd.plist
+SHA1-Digest: e1u4ROH2cdGsAuhRBLpLwY5FvAA=
+
+Name: assets/textures/portraits/ss_endless-hd.plist
+SHA1-Digest: XoP2gcjGEYNsQMBCC8mdzolSjoo=
+
+Name: assets/textures/abilities/ss_doc.plist
+SHA1-Digest: pWaIcR5ZpS5BSPhZlw+F9FpugCo=
+
+Name: assets/textures/characters/ss_angryblakk-hd.plist
+SHA1-Digest: 73k9VUEEKCALo/4KmRRYtYlgiOA=
+
+Name: assets/ar.lproj/Localizable.strings
+SHA1-Digest: OIykQaY/r1EM2v34eK1GuV6IqF4=
+
+Name: assets/pt-PT.lproj/AppiraterLocalizable.strings
+SHA1-Digest: q82v22xN9X/HSoVnY+FoSdd0ogw=
+
+Name: assets/textures/game/locations/ss_entrance.plist
+SHA1-Digest: 036gCPD5tV/Ok0DWfTY/yKP4LDo=
+
+Name: assets/textures/abilities/ss_ghoul_thresher.plist
+SHA1-Digest: n1jcJxQzv4fPBAFtNZKzQIUUrfc=
+
+Name: assets/textures/portraits/ss_bonus_darkenergydrill.plist
+SHA1-Digest: CuUBsV+CTglC3XKzzORNiDpIyeY=
+
+Name: assets/textures/portraits/ss_securitygun-hd.plist
+SHA1-Digest: RhU9Wb+lPfI315FYdbS7QHs3s6I=
+
+Name: assets/textures/blocks/ss_ghoul_phosphoro.plist
+SHA1-Digest: O0ul48U90m+VSdVJe3aj7MZ46o0=
+
+Name: assets/textures/characters/ss_goon4.plist
+SHA1-Digest: naLldfMS8bttWdjYbGu8ba1q3P4=
+
+Name: assets/textures/abilities/ss_fright.plist
+SHA1-Digest: OCP4edM87FWUeMd0DtUoRUwak8Y=
+
+Name: assets/pt-BR.lproj/ss_title_logo-hd.plist
+SHA1-Digest: UNIO1wd3mW+jpOy2K4c/mGF3ecs=
+
+Name: assets/textures/game/locations/ss_shrooms-hd.plist
+SHA1-Digest: QYQCc9VKmJToj+lF49GkY9ayjx8=
+
+Name: assets/textures/portraits/ss_redhook_twist-hd.plist
+SHA1-Digest: Bi2mSp7ssOeJ2fCGUdGlvQnbExM=
+
+Name: assets/textures/blocks/ss_fuse_ghoul_vinedrill_ghoul_frost.plist
+SHA1-Digest: vMBXr86tSaHG+Wf13nPkSWnZEvs=
+
+Name: assets/textures/portraits/ss_eli-hd.plist
+SHA1-Digest: +RAwIGjldsDupfquxv96F9bA/ic=
+
+Name: assets/textures/interface/ss_topHUD.plist
+SHA1-Digest: Y2y197d0zfiAs5MsvjglKh4rOjw=
+
+Name: assets/textures/portraits/ss_shorty.plist
+SHA1-Digest: ILRM9aItEYa7mtuJYMcIiS+YOwY=
+
+Name: assets/textures/characters/ss_nacho_uniform-hd.plist
+SHA1-Digest: gI2PTEyhaPEVIS1aAVmcryqkUq0=
+
+Name: assets/textures/game/locations/ss_darkbanethrone.plist
+SHA1-Digest: SJRMc006reR2Alr089azBXRsGno=
+
+Name: assets/textures/abilities/ss_fireball-hd.plist
+SHA1-Digest: BMpIp8fzGPkidSrTHDdUIvzTZuo=
+
+Name: assets/textures/game/locations/ss_mine.plist
+SHA1-Digest: uubMUD/l40Jkl7XjLBLHEuBc/iA=
+
+Name: assets/textures/portraits/ss_thug1_thug2.plist
+SHA1-Digest: OKnv+wDXyoLN04qZ15miMsfiSb4=
+
+Name: assets/textures/game/locations/ss_interior-hd.plist
+SHA1-Digest: tKYizRTOb36EsU8NsNgBvGxY7AU=
+
+Name: assets/textures/blocks/ss_fright-hd.plist
+SHA1-Digest: 7z7X9fFodWatrwjcLqmYdjurMRM=
+
+Name: assets/textures/game/locations/ss_prison_bonus-hd.plist
+SHA1-Digest: jWrYikBwy57lqYLVg3OYVeh9QeQ=
+
+Name: assets/textures/scenes/ss_mp_score_pvrtc-hd.plist
+SHA1-Digest: bFkLMZZucz8xmObIp2naQcZ2TkQ=
+
+Name: assets/pt.lproj/InfoPlist.strings
+SHA1-Digest: dyJGjrgcvKXqlDiF9g7cFDvVxQ4=
+
+Name: assets/textures/portraits/ss_horn.plist
+SHA1-Digest: gfHlBY3M4vBCFVlgH6mcI3PWn+c=
+
+Name: assets/textures/abilities/ss_rammstone.plist
+SHA1-Digest: N7wInbwIXGOE7E/eZimXpUqgbvo=
+
+Name: assets/textures/game/locations/ss_watership.plist
+SHA1-Digest: bS/ZE2yNUdbi23RU4GQI/xVVYPA=
+
+Name: assets/textures/game/locations/ss_top_mast.plist
+SHA1-Digest: qZiFlapLGdgAhtZZHk3TUlr639g=
+
+Name: assets/textures/game/locations/ss_watership-hd.plist
+SHA1-Digest: bdQGOfCrJ+Ex3VYb+Mqzby7KVHw=
+
+Name: assets/textures/blocks/ss_ghoul_flaringo.plist
+SHA1-Digest: LKhBIzpz1tAd/EmKRPlSh9EA0W8=
+
+Name: assets/textures/blocks/ss_ghoul_tazer.plist
+SHA1-Digest: MIrypN9FuQTDeZyKvJJCWVWCLaE=
+
+Name: assets/textures/characters/ss_goon3_uniform-hd.plist
+SHA1-Digest: lXtWcEu2QUe++jEPm9pyEBtiMrY=
+
+Name: assets/textures/game/locations/ss_slugseeker_06.plist
+SHA1-Digest: 0ZdASReBLWL2DVb/zui8HwLjBO4=
+
+Name: assets/textures/blocks/ss_aquabeek-hd.plist
+SHA1-Digest: fG2IiQyYgiYIosZxpGy5sRel4tw=
+
+Name: assets/textures/characters/ss_bossember.plist
+SHA1-Digest: Gyyr4yLV7YOpCpWILeAEezsruCU=
+
+Name: assets/textures/portraits/ss_jackbullguard2.plist
+SHA1-Digest: e8XFsdJF54EM3wIi1Lm0lJP/6tM=
+
+Name: assets/textures/game_mods/ss_no_blasters-hd.plist
+SHA1-Digest: vvPVWZONrvML5h8kfj3v/PLekHw=
+
+Name: assets/textures/slugs/ss_slugs3-hd.plist
+SHA1-Digest: nS5QSEMAp95G1qk5JGLlmYNJ8F8=
+
+Name: assets/textures/characters/ss_inmate2-hd.plist
+SHA1-Digest: MuP+okNILuxCTJMZEHTIsdKuiKs=
+
+Name: assets/textures/portraits/ss_guard1_guard2.plist
+SHA1-Digest: zeG1fqNXkhq2gpN2i04eC4hyhMY=
+
+Name: assets/textures/characters/ss_kingofsling-hd.plist
+SHA1-Digest: 6zbFTRoEoTkvZA4UMbzhssN9aQ0=
+
+Name: assets/textures/scenes/ss_chapter_select.plist
+SHA1-Digest: 7QWL8lQnxVZsUmScOqSKPTUH0no=
+
+Name: assets/textures/characters/ss_glasses_uniform.plist
+SHA1-Digest: o7nPFMmuGbuomaw8QC1jRaAsLBE=
+
+Name: assets/textures/game/locations/ss_bonus_drill-hd.plist
+SHA1-Digest: nIEWFN40EkOycpwlUUi7LoCRAS8=
+
+Name: assets/textures/characters/ss_sedo.plist
+SHA1-Digest: rSqk+SButLDRONXl9fRWUAmYoPU=
+
+Name: assets/textures/characters/ss_goon3-hd.plist
+SHA1-Digest: Z9egfFcOwOLUM6+PYt93i/PSQjo=
+
+Name: assets/textures/portraits/ss_darkbaneprisondoor-hd.plist
+SHA1-Digest: ZKXRDW92wsKJdh/2iYjvZ4Gw/dI=
+
+Name: assets/textures/abilities/ss_fuse_freeze_grenuke.plist
+SHA1-Digest: BSg9H7W8NuVvuRinezekaoG0Tyk=
+
+Name: assets/textures/blocks/ss_hypnogriff.plist
+SHA1-Digest: DppfBFyxLe/12RH6NDNkVkHlmnI=
+
+Name: assets/textures/portraits/ss_drake.plist
+SHA1-Digest: wCABSuk5B9J6WSrkd7yoNTuSotw=
+
+Name: assets/textures/blocks/ss_frost-hd.plist
+SHA1-Digest: ODwvV64QzTufT0Df2fbEuYAbp4o=
+
+Name: assets/textures/game/locations/ss_chapter16_panel03.plist
+SHA1-Digest: 4swrjoEuj4IZtcI7z1C5PiCs5gc=
+
+Name: assets/textures/portraits/ss_arclight.plist
+SHA1-Digest: uTV0PV+446rrJ7Xa35lVOgfHT6w=
+
+Name: assets/textures/characters/ss_fang-hd.plist
+SHA1-Digest: jQbmb+E3Bjd8HfD/T/XXIEPy19M=
+
+Name: assets/textures/blocks/ss_gazzer.plist
+SHA1-Digest: 6fx2HmoABibQltvy44w/xWTJpaw=
+
+Name: assets/textures/scenes/ss_code_unlock.plist
+SHA1-Digest: 5A4zjmH/SjiOEMHzwxXRLpQAR7g=
+
+Name: assets/textures/game/locations/ss_bonus_drill.plist
+SHA1-Digest: kmim9lHuPHHxNTS3xKBrSqIQbqc=
+
+Name: assets/textures/game/locations/ss_deepcavern3.plist
+SHA1-Digest: r9HFZTYBMqoD7yb0hOKclk/XePY=
+
+Name: assets/textures/blocks/ss_ghoul_frost.plist
+SHA1-Digest: z3tTwMXR7I+dTgqzczlK+57AcHg=
+
+Name: assets/textures/game/locations/ss_bluffs-hd.plist
+SHA1-Digest: pldxmd4fUVDJpFcZG380ACzGCx4=
+
+Name: assets/textures/blocks/ss_hexlet-hd.plist
+SHA1-Digest: n0O+ceWa3oWZkD4hgOHuD1Ko1TU=
+
+Name: res/drawable-mdpi/common_signin_btn_icon_pressed_light.9.png
+SHA1-Digest: ppRAUb4e8AfMY+hiTgUxYeX8bDw=
+
+Name: assets/textures/abilities/ss_aquabeek.plist
+SHA1-Digest: et+h7b7UUAJpx5R3cMQ02XSMfEk=
+
+Name: assets/textures/game/locations/ss_ghoulstation.plist
+SHA1-Digest: NIYkaSaXRcSZJY+tkmt/usbKya4=
+
+Name: assets/textures/slugs/ss_fuse_slyren_narwaddle0-hd.plist
+SHA1-Digest: l6NfVDgvJKV2Dn0L9Asr/XMBG7E=
+
+Name: assets/particles/coinpack_FX1.plist
+SHA1-Digest: MOs7fxZbmRTQDsOavoO0gjQgktk=
+
+Name: assets/textures/abilities/ss_fuse_hoverbug_speedstinger.plist
+SHA1-Digest: wXNul/rJGFTQSoAu4C6xQI88g50=
+
+Name: assets/textures/abilities/ss_mega_tazer-hd.plist
+SHA1-Digest: IAYFfWNbhBiBpVkLJb4tXgpDPqY=
+
+Name: assets/textures/abilities/ss_ghoul_tormato-hd.plist
+SHA1-Digest: +qN0GEaOT/kZWzi7ptEGAHIto9o=
+
+Name: assets/textures/characters/ss_jackbull.plist
+SHA1-Digest: JA/HWGO3DVcEFKANr2j0D7kiW8Q=
+
+Name: assets/textures/blocks/ss_mega_arachnet.plist
+SHA1-Digest: VJctw5XWXA6O+lEMmM7pxseYALw=
+
+Name: assets/textures/blocks/ss_rammstone.plist
+SHA1-Digest: S4dyBU/7wxjOL4blu70hx1b3xtA=
+
+Name: assets/textures/abilities/ss_fuse_ghoul_phosphoro_ghoul_aquabeek
+ .plist
+SHA1-Digest: 52+5bCj9XmRODEsRJnRdYscHOck=
+
+Name: assets/textures/portraits/ss_mechamole-hd.plist
+SHA1-Digest: r5wnExJzJ+WMYeacVos6cy7ezis=
+
+Name: res/drawable-mdpi/ic_plusone_medium_off_client.png
+SHA1-Digest: HHc+sqWu5XtWgMQhN1F5cAwzeew=
+
+Name: res/layout/download.xml
+SHA1-Digest: Q4xB/eHPf4KwuP7CGbhcdo5Yg8Q=
+
+Name: assets/textures/destructible_objects/ss_dummy.plist
+SHA1-Digest: 1I9QU/o0trxzYMg0MRwrZv+WFCA=
+
+Name: assets/textures/characters/ss_munch_uniform-hd.plist
+SHA1-Digest: KUoXYE3PdrlTq6FnGMNG8FmwA7M=
+
+Name: assets/textures/blocks/ss_frost.plist
+SHA1-Digest: NIV6UqJ7LfcTBxZydNLZ9tzTgGA=
+
+Name: assets/textures/portraits/ss_shanai-hd.plist
+SHA1-Digest: QQ4K4qnxyP+S5ai4yhSxWZXhhUI=
+
+Name: assets/textures/scenes/ss_endless_select.plist
+SHA1-Digest: KlXjPb2U4AaFvD/uRmap1YBmH4E=
+
+Name: assets/textures/slug_seeker/cavern3/ss_cavern3.plist
+SHA1-Digest: XBh8kTM//hPk8pxwOqLu1aQF984=
+
+Name: assets/textures/portraits/ss_eli.plist
+SHA1-Digest: h4Lf6WcIL+hejfXOrrUM7RFHnxo=
+
+Name: assets/textures/blocks/ss_speedstringer-hd.plist
+SHA1-Digest: FKMKz2HNObrTivXmHqQ7mnX2qv8=
+
+Name: assets/textures/portraits/ss_will-hd.plist
+SHA1-Digest: sgMdXyUyjZGf2BtE8QzKFr2kga0=
+
+Name: res/drawable-mdpi/common_signin_btn_text_normal_light.9.png
+SHA1-Digest: CFcKGCNCXdElgRyG3GU1cR7Lpck=
+
+Name: assets/textures/abilities/ss_ghoul_phosphoro.plist
+SHA1-Digest: XHsT6zdu1MMbnhHwEY6Besb36TM=
+
+Name: assets/particles/dummy_gear.plist
+SHA1-Digest: Si+bbVKZU1TbT3bljk5A3IQKAMk=
+
+Name: assets/textures/portraits/ss_viggo_minion2.plist
+SHA1-Digest: BvLfakQsvSCDQi2iD6K8ESBp1i0=
+
+Name: assets/textures/game_mods/ss_autocharge_three.plist
+SHA1-Digest: rQe5V+JLjPqZ6AuhESONRIFIPQ0=
+
+Name: assets/particles/yang_trail_particle.plist
+SHA1-Digest: upzqEZbvS8hkuBzprCMoFaO6J68=
+
+Name: assets/textures/abilities/ss_ghoul_grenuke.plist
+SHA1-Digest: Tck9rc90KNublztZd3KJ0SsFCAs=
+
+Name: assets/textures/game/locations/ss_dream_green-hd.plist
+SHA1-Digest: zUvMFPv/mdwzvKRMx7nrexZnXxY=
+
+Name: assets/textures/characters/ss_gator-hd.plist
+SHA1-Digest: CpHO1YB1/0pvz3PSZJkQxDBM90I=
+
+Name: res/drawable-xxhdpi/common_signin_btn_text_pressed_light.9.png
+SHA1-Digest: zXl4gOYVm22pGbkGC4i82wLIMyg=
+
+Name: assets/textures/portraits/ss_gabe.plist
+SHA1-Digest: 7hzaAWrlUFkWqg/o+wphp/esnWo=
+
+Name: assets/it.lproj/AppiraterLocalizable.strings
+SHA1-Digest: Jn2MqZ4ni2yNMxisEDgFTuybhMo=
+
+Name: assets/textures/portraits/ss_bonus_wagon-hd.plist
+SHA1-Digest: NDKLTgNLJmYt/ThVjAC9MXjEPfc=
+
+Name: assets/textures/portraits/ss_fav-hd.plist
+SHA1-Digest: Lvr0ZPPDZJVfJADiAy3pWOCcTM0=
+
+Name: assets/textures/blocks/ss_mega_tazer-hd.plist
+SHA1-Digest: UviVf9HU1Je6+UgYOA4ccH7SeUY=
+
+Name: assets/textures/destructible_objects/ss_ghoulstation-hd.plist
+SHA1-Digest: zr9wfPcCV0PUwiSab6cwTiOhmMo=
+
+Name: assets/textures/abilities/ss_hexlet-hd.plist
+SHA1-Digest: EPCmXqxF+9aoiUuLyUU04Re+8rw=
+
+Name: assets/textures/abilities/ss_fuse_ghoul_tormato_ghoul_flaringo-h
+ d.plist
+SHA1-Digest: fY5+SgS1tUdAmP6I+xuswyfQ5wo=
+
+Name: assets/textures/abilities/ss_fuse_neotox_thresher.plist
+SHA1-Digest: KT2HhStx6Zwj09k0wrGcKm542QA=
+
+Name: assets/ko.lproj/AppiraterLocalizable.strings
+SHA1-Digest: LQ2mjZCG6NsG4fniqOrH+YcMZQM=
+
+Name: assets/textures/characters/ss_guard-hd.plist
+SHA1-Digest: C/GG40xByCSxOjdqHVCIUUGzI7A=
+
+Name: assets/textures/blocks/ss_fuse_ghoul_grenuke_ghoul_arachnet.plis
+ t
+SHA1-Digest: CHpT5LVfhhmYphqN4iA1yraFlTA=
+
+Name: assets/textures/portraits/ss_shadowclanleader-hd.plist
+SHA1-Digest: FOCMDAI4k6D0JlJgsDc8uQJsfzs=
+
+Name: assets/particles/cage_trixie_particles.plist
+SHA1-Digest: 68XsiLyw2dv47SAen7HusLsb8Ig=
+
+Name: assets/textures/scenes/ss_slugseeker_reward0.plist
+SHA1-Digest: CO0R/FtXgMIf9Zbhhs3ZOr8QhSM=
+
+Name: assets/textures/characters/ss_behemoth.plist
+SHA1-Digest: wzH5As35Pv100BsuHV8HVuBOesI=
+
+Name: assets/textures/game_mods/ss_no_blasters.plist
+SHA1-Digest: vkZ+2uthdNoD7L7xYjWlkwVnJko=
+
+Name: assets/Icon-Small-50@2x.png
+SHA1-Digest: niFoXmUNjrPbc5DJClQgQaB/Y3s=
+
+Name: assets/textures/blocks/ss_ghoul_thresher.plist
+SHA1-Digest: nVrp2C1FlNfMUQbnDQkv30Cmnl0=
+
+Name: assets/textures/portraits/ss_scrapheepgang04-hd.plist
+SHA1-Digest: ZJ7/RjZnecWEtV99RA5yqVEjexY=
+
+Name: assets/textures/blocks/ss_ghoul_lock-hd.plist
+SHA1-Digest: o7lDKy8T0JeYgJih5PjG/WCZyPU=
+
+Name: assets/ko.lproj/InfoPlist.strings
+SHA1-Digest: sj/NDiPYrm4XXaw7u2xX48bEpSQ=
+
+Name: assets/textures/abilities/ss_fandango-hd.plist
+SHA1-Digest: Kogk5A4tbrRBf8/P3l/6GqZ7uoU=
+
+Name: assets/textures/portraits/ss_pirate2-hd.plist
+SHA1-Digest: 1EL/gImDsqt01Vhg8Hp7e8etYqU=
+
+Name: lib/armeabi/libCFNetwork.so
+SHA1-Digest: eXbBr5aMEp7VS6V9w4FclMZRXfo=
+
+Name: assets/textures/portraits/ss_bonus_ghoulstation-hd.plist
+SHA1-Digest: A7PFBYkXx6H6UP/SzYdwaFdhOWU=
+
+Name: assets/textures/scenes/ss_score_unlock-hd.plist
+SHA1-Digest: YouspftLIuC2k8tdcIqDPt9/j28=
+
+Name: assets/textures/abilities/ss_mega_tormato.plist
+SHA1-Digest: WnBGFRGrZNTJdDLxSXEALHr8U0I=
+
+Name: assets/textures/game/ss_game-hd.plist
+SHA1-Digest: 5idKegCSu/cIDfk6yqvauFh5Iuo=
+
+Name: assets/textures/game/locations/ss_gate-hd.plist
+SHA1-Digest: 0FZR7XxOTegDbZ0j4gmXdgVRLb4=
+
+Name: assets/textures/blocks/ss_fuse_ghoul_grenuke_ghoul_arachnet-hd.p
+ list
+SHA1-Digest: v4uJOyeXQqQwpQ8yQgqLsbYg5Y4=
+
+Name: assets/textures/destructible_objects/ss_dummy-hd.plist
+SHA1-Digest: ECpTA8G1mZVKT0Am85OA3MbMeoU=
+
+Name: assets/textures/portraits/ss_viggos_minion1.plist
+SHA1-Digest: j6zs9db3vDXkwU2m5wRUYxyPQBY=
+
+Name: assets/textures/portraits/ss_bonus_cage-hd.plist
+SHA1-Digest: 5DrYPyAklY+0Tox0fQOpMsUyytA=
+
+Name: assets/textures/abilities/ss_fuse_geoshard_slicksilver-hd.plist
+SHA1-Digest: SmUUwGeJ0QER8j8L2WaMj1SmRbs=
+
+Name: assets/textures/abilities/ss_gas-hd.plist
+SHA1-Digest: wfIPl4d3COjndubEboExSsfaom8=
+
+Name: assets/textures/blocks/ss_fuse_neotox_thresher.plist
+SHA1-Digest: 2A1Atf3Gs2A0jv9PVO9LTEFRLDk=
+
+Name: classes.dex
+SHA1-Digest: BLM6Hhv0ro/cB/OGuCzRiHK6ygU=
+
+Name: assets/textures/characters/ss_redhook-hd.plist
+SHA1-Digest: D3olW6EtqeJABWe2na/GlQr/Zak=
+
+Name: assets/textures/characters/ss_scrapheepgang03.plist
+SHA1-Digest: SWXFtA5znIYXq2NLuiaIiBMAkC0=
+
+Name: assets/textures/abilities/ss_ghoul_thresher-hd.plist
+SHA1-Digest: IUDxIrGgToPiojBhw6MghJ7lffY=
+
+Name: assets/textures/game/locations/ss_trashheap3.plist
+SHA1-Digest: OHf1Jidw/+x5gAF9E0pKWNNNyEY=
+
+Name: assets/textures/grid_effects/ss_freeze.plist
+SHA1-Digest: oN7Ilc4oNPtDeoPQzWefhaHdHGg=
+
+Name: assets/textures/portraits/ss_hostile_miner-hd.plist
+SHA1-Digest: fJGDHfFubjWl1WKqJburge6nX2w=
+
+Name: assets/textures/abilities/ss_speedstinger-hd.plist
+SHA1-Digest: EGDFdbx8o7QDBLfxMcLWxR1yYbw=
+
+Name: assets/textures/characters/ss_goon2_uniform.plist
+SHA1-Digest: DJYJ197coeXMUxKDl18O8V0an6o=
+
+Name: assets/textures/blocks/ss_rock-hd.plist
+SHA1-Digest: bllTPj5R63F/e0D/XHtgkS8zNc8=
+
+Name: assets/zh.lproj/Localizable.strings
+SHA1-Digest: pSht9trzYMitGarCrXU+rjSDWMY=
+
+Name: assets/textures/characters/ss_cajun_uniform-hd.plist
+SHA1-Digest: mfOYx2hiQpg4axNGslzmgVDMppo=
+
+Name: assets/pt-PT.lproj/Fonts.strings
+SHA1-Digest: oGKXAjzS10dcdUF6NclsbgzyXj4=
+
+Name: assets/textures/portraits/ss_behemoth-hd.plist
+SHA1-Digest: FusvvuHWObOHGiePOcls8Gxk5Pg=
+
+Name: res/drawable-mdpi/common_signin_btn_icon_normal_light.9.png
+SHA1-Digest: he0SlIYzLlZChBg6d38hheLzBns=
+
+Name: assets/zh.lproj/Dialogue.strings
+SHA1-Digest: 3YwcRncoUggdKgTahsxdr8wl9ak=
+
+Name: assets/textures/game/locations/ss_dream_red.plist
+SHA1-Digest: OtJtNQ79aPseG26rCO6OiQZhvC0=
+
+Name: assets/textures/portraits/ss_mechamole.plist
+SHA1-Digest: JDR0hmWH/T/0cuU50j2sCW2GaFo=
+
+Name: assets/textures/characters/ss_goon.plist
+SHA1-Digest: 1s+u7/LDOSHmpCGSWSHDtaTsz5s=
+
+Name: assets/textures/scenes/ss_modal_iap_ad.plist
+SHA1-Digest: ONfi2UFThp4GuSTmwFPJ6rUY6Oo=
+
+Name: assets/es.lproj/Localizable.strings
+SHA1-Digest: b5VVBNEJjMaCgz6iRd21uk+Ades=
+
+Name: assets/textures/game_mods/ss_autocharge_two.plist
+SHA1-Digest: awbK6Ys+gTLR14GGCcERlTeWXx0=
+
+Name: assets/textures/scenes/ss_score_unlock.plist
+SHA1-Digest: 8g+l3C+wnJejl2aQALDd6LF5vTU=
+
+Name: assets/textures/portraits/ss_viggo_minion1-hd.plist
+SHA1-Digest: BwS2US43JDor0ZchkA8s20SvIhU=
+
+Name: assets/textures/portraits/ss_bonus_cage.plist
+SHA1-Digest: j+o9X9jj1QSKaGQYKW+M300Iz/M=
+
+Name: assets/textures/portraits/ss_zombieguard.plist
+SHA1-Digest: B824zPAUZlUveQCiPbnsLFkToXk=
+
+Name: assets/particles/ghoulstation_glass_break.plist
+SHA1-Digest: uQ3eFEczdVcofkLE2CnIeHQ6y3g=
+
+Name: res/drawable-mdpi/icon.png
+SHA1-Digest: N+vPGgEjB+zJXU4o2ssLQAdwiTc=
+
+Name: assets/textures/abilities/ss_fuse_rammstone_makobreaker-hd.plist
+SHA1-Digest: 9NzeW6stVTgJ1S6/ST/V1ahl0Y4=
+
+Name: assets/particles/doc_gate_particle.plist
+SHA1-Digest: tBMaQQa7Jw5FEz4C6wgmqFqrVto=
+
+Name: assets/textures/destructible_objects/ss_darkbaneprisondoor-hd.pl
+ ist
+SHA1-Digest: FUo1x3H/s0BxhuJwf5Vba1r19RA=
+
+Name: assets/textures/abilities/ss_fuse_arachnet_panic-hd.plist
+SHA1-Digest: FXexcm/iB6gn8NNyuc7L8o6PzVg=
+
+Name: assets/textures/portraits/ss_darkbane_soldier_elite1.plist
+SHA1-Digest: 9xeNP3yTFkyJmtzOFTWCsgUpb54=
+
+Name: assets/particles/yang_gate_particle.plist
+SHA1-Digest: QhyKTBYrkAJQUK4Nc71/tZF3PPk=
+
+Name: assets/textures/abilities/ss_frost_ghouled.plist
+SHA1-Digest: 4wPKYUdbcQdHu6SKL73evBU8z+U=
+
+Name: assets/textures/portraits/ss_sedo-hd.plist
+SHA1-Digest: a8YjTTJPzHY0WIGvC7TTiApSMA8=
+
+Name: assets/textures/blocks/ss_mega_gas.plist
+SHA1-Digest: +uDuOShcws/7FP48MDfrjEKLne8=
+
+Name: assets/textures/scenes/ss_winlose_bg-hd.plist
+SHA1-Digest: 7B4SqJBS+1jLjZIcuMCxww45JMI=
+
+Name: assets/textures/portraits/ss_glasses-hd.plist
+SHA1-Digest: ropXzmH08hRkb8UimCtsTD+M+Jk=
+
+Name: assets/textures/game/locations/ss_chapter16_panel01-hd.plist
+SHA1-Digest: b8zZYeZhA1ahrs7oqgORJY45pxM=
+
+Name: assets/textures/abilities/ss_ghoul_burpy-hd.plist
+SHA1-Digest: AbKKn3bmbIXz3z8UI/rw47h3f7Q=
+
+Name: assets/fr.lproj/AppiraterLocalizable.strings
+SHA1-Digest: WmyQZf+q2dS1bjJOCSZhM0i4Li8=
+
+Name: res/color/common_signin_btn_text_light.xml
+SHA1-Digest: kXQ1kepXbDrbLeF1TddQBPoYCVc=
+
+Name: assets/textures/portraits/ss_chest_large.plist
+SHA1-Digest: HU4+uElyVqaAArC/Qp883+DZkus=
+
+Name: assets/textures/characters/ss_bossember-hd.plist
+SHA1-Digest: Rm6CaIg//LZoioQ860RhzNUZ1EI=
+
+Name: assets/textures/game/ss_tutorial.plist
+SHA1-Digest: iUAyCJVMe6vhRHZCbmqyryPPEyg=
+
+Name: assets/textures/abilities/ss_makobreaker-hd.plist
+SHA1-Digest: GrZ8YsZ7z5CTZzLgB9lOhQxYkR8=
+
+Name: assets/textures/abilities/ss_midas.plist
+SHA1-Digest: bBEWrrCZS7aH9sLircdvnIhqzBc=
+
+Name: assets/textures/portraits/ss_mrsaturday.plist
+SHA1-Digest: soK9V/7/rXmO1+Jg8oxA3t5htYE=
+
+Name: assets/ar.lproj/Dialogue.strings
+SHA1-Digest: wYcvQk6/T30hKV8hxKumZAurPXk=
+
+Name: assets/textures/portraits/ss_darkbane_soldier_elite1-hd.plist
+SHA1-Digest: I0hALnNYPFB1894JoboQH3CFZNM=
+
+Name: assets/textures/abilities/ss_fuse_xmitter_vinedrill.plist
+SHA1-Digest: XcfRuqpH1EVK42O/FPJFw6vZuWE=
+
+Name: assets/textures/abilities/ss_refresh-hd.plist
+SHA1-Digest: UENHX+2B9mHz3YKJnR4I6RdWetE=
+
+Name: assets/textures/game/locations/ss_blakk_exterior.plist
+SHA1-Digest: EjiHHVGzH4HX1b39N3xwbElC1g0=
+
+Name: assets/particles/enigmo_explode_particle.plist
+SHA1-Digest: /mmgfP70UxCRaZdrV6Jj+9hTSYk=
+
+Name: assets/textures/blocks/ss_ghoul_grenuke.plist
+SHA1-Digest: /V3ZtH3W41lE7Dw/l09dhiK0rbU=
+
+Name: assets/textures/characters/ss_darkbane_soldier_elite1-hd.plist
+SHA1-Digest: HfC1M9uHuei88Yx8+A4N4aIavmQ=
+
+Name: assets/particles/enigmo_trail_particle.plist
+SHA1-Digest: gQ4ll9+xOr7BsUnjJf1GsQqoAZ4=
+
+Name: assets/textures/game/locations/ss_herringbone3.plist
+SHA1-Digest: orqM3VvmtfIf8jQVGtCnpVUtS3A=
+
+Name: res/drawable-xhdpi/common_signin_btn_text_normal_dark.9.png
+SHA1-Digest: dV3F0Sz7MxTs+Trhe4uXp7Q7aSs=
+
+Name: assets/textures/abilities/ss_thresher.plist
+SHA1-Digest: TpZ64nsl5Ja2r3peakL4GB/Ngiw=
+
+Name: assets/textures/scenes/ss_slugseeker_reward.plist
+SHA1-Digest: 8P4H0AGlgNa6kWgFnIgTpk5IANk=
+
+Name: assets/textures/portraits/ss_darkbane_soldier1-hd.plist
+SHA1-Digest: mKI5kqzwt0/ghzM5N/kSPBYulUI=
+
+Name: assets/textures/characters/ss_goon3_uniform.plist
+SHA1-Digest: qhlgsKO+1uD5V+n1oz1oZKgysdk=
+
+Name: assets/textures/portraits/ss_hooligang-hd.plist
+SHA1-Digest: Z5tGR8E1XXSJlqZxTPEz0qrlmeQ=
+
+Name: assets/textures/portraits/ss_guard-hd.plist
+SHA1-Digest: mmntymTO09USiMJHFwUwyeteddw=
+
+Name: assets/textures/abilities/ss_arachnet.plist
+SHA1-Digest: 0RI7Dcu6Jb7KYX2CUjXtmgeYnAY=
+
+Name: assets/textures/characters/ss_darkbane_nacho.plist
+SHA1-Digest: hJn79sb+9Pwlk7EgvJgnlmb4Jxs=
+
+Name: assets/textures/portraits/ss_pirate1-hd.plist
+SHA1-Digest: 0mm3E12AxZi09SnchLA0lfRGVIw=
+
+Name: assets/textures/characters/ss_fire.plist
+SHA1-Digest: R+2J7/wSQebHD5YWl9kxT8gRWwY=
+
+Name: res/drawable-xxhdpi/common_signin_btn_icon_pressed_light.9.png
+SHA1-Digest: UsY+c7jSRS1f1aEh0HgE8187rLI=
+
+Name: assets/textures/characters/ss_inmate2.plist
+SHA1-Digest: 1HGKNork/vq+QLzqRQjHFDA6e3g=
+
+Name: assets/textures/game/locations/ss_dream_tournment_black-hd.plist
+SHA1-Digest: sBuzDn/KR+sbui06Ptx4yBTN710=
+
+Name: assets/textures/interface/ss_ui_16-hd.plist
+SHA1-Digest: VokIoZ38d6m8JLlXp3aTGm9730U=
+
+Name: assets/textures/characters/ss_young_blakk.plist
+SHA1-Digest: oYGohuh6Am42L3x9LnuzUs19PSw=
+
+Name: assets/textures/portraits/ss_fav.plist
+SHA1-Digest: ZCnT9qi3a9U/4NNjQY9QCaJwG2g=
+
+Name: res/drawable-xhdpi/common_signin_btn_text_pressed_light.9.png
+SHA1-Digest: zXl4gOYVm22pGbkGC4i82wLIMyg=
+
+Name: assets/zh-Hans-CN.lproj/InfoPlist.strings
+SHA1-Digest: sj/NDiPYrm4XXaw7u2xX48bEpSQ=
+
+Name: assets/textures/destructible_objects/ss_chest_small-hd.plist
+SHA1-Digest: Pk/CKn7kTjdXBzt1LWSrcALmXa4=
+
+Name: assets/textures/abilities/ss_jellyish-hd.plist
+SHA1-Digest: obXjTxSmBnXhCXal7zwLEOe0N5E=
+
+Name: assets/textures/abilities/ss_ghoul_makobreaker-hd.plist
+SHA1-Digest: 4/srr9kISlHd4RMSd56zkG6Pdnw=
+
+Name: assets/particles/enigmo_gate_particle.plist
+SHA1-Digest: /mmgfP70UxCRaZdrV6Jj+9hTSYk=
+
+Name: assets/textures/abilities/ss_firenzar.plist
+SHA1-Digest: w0iXWzBVPyUh5gWz57DdtXa7UXU=
+
+Name: assets/textures/abilities/ss_crystalyd-hd.plist
+SHA1-Digest: 6SqS2NPy0MtuxUEvQib4S5fpHk8=
+
+Name: assets/textures/blocks/ss_slyren.plist
+SHA1-Digest: ciuW/iWcokBiFLiLg2Jy0EznO8A=
+
+Name: assets/textures/abilities/ss_narwhaddle.plist
+SHA1-Digest: zGv4s40A9YAKIXudrmqpUsAWM5A=
+
+Name: assets/textures/abilities/ss_vine_drill-hd.plist
+SHA1-Digest: V0okmwGCSUQhw0e+NWRS8aHW96o=
+
+Name: assets/textures/abilities/ss_ghoul_frost-hd.plist
+SHA1-Digest: BvGOcFAqowrUCbnjJPOnEgvN8YE=
+
+Name: assets/textures/basic_shots/ss_sparkleBlade-hd.plist
+SHA1-Digest: EAnw3TXbqJdXq1o8njxV/NGuxAw=
+
+Name: assets/textures/portraits/ss_foreman-hd.plist
+SHA1-Digest: D0USTGzKH+tfKUSv+hctEE5pE1A=
+
+Name: assets/textures/destructible_objects/ss_trixiecage-hd.plist
+SHA1-Digest: qVl7ZOPHNLLqkfILji6y8dBmLAM=
+
+Name: assets/textures/blocks/ss_ghoul_thresher-hd.plist
+SHA1-Digest: M6GZGZbWNbx4XS3B3CARsqjE0PE=
+
+Name: assets/textures/scenes/ss_endless_select-hd.plist
+SHA1-Digest: 9RbBj2HGeTn3V4ps3ByAciSg9Qc=
+
+Name: assets/textures/abilities/ss_fireball_frost-hd.plist
+SHA1-Digest: HBaw8k70V9a5TeggHWq3Rw1SzN0=
+
+Name: assets/textures/abilities/ss_slyren-hd.plist
+SHA1-Digest: HSZWDIM1APAXpPPo1gzdfAwZgrI=
+
+Name: assets/textures/scenes/ss_versus_pvrtc-hd.plist
+SHA1-Digest: Dyf2d047WYqrb1wpdy52ijRQhJc=
+
+Name: assets/es-MX.lproj/ss_title_logo.plist
+SHA1-Digest: jKmqJKlMCqpzmRsXHGh1e0IS1w8=
+
+Name: assets/textures/portraits/ss_trixie.plist
+SHA1-Digest: zaIU0s/ujGDWmfnq9nMfd1L2u8M=
+
+Name: assets/textures/slug_seeker/spikes/ss_spikes.plist
+SHA1-Digest: xas++rxZ5v3gYukRBT56Sk3VOUQ=
+
+Name: assets/textures/portraits/ss_darkbane_soldier3.plist
+SHA1-Digest: y9VyKZiW0FPPZaPOCmP2kNXmlqc=
+
+Name: assets/textures/abilities/ss_enigmo-hd.plist
+SHA1-Digest: xMRLxooHuLWXhV5TenYt6nT4BpY=
+
+Name: assets/zh.lproj/ss_title_logo-hd.plist
+SHA1-Digest: d9Eg4aAqgsro1B4/a3dhzDcBGXE=
+
+Name: assets/KimberleyPro.ttf
+SHA1-Digest: 0GZqMNs0j3/n2McjzYiN2/kbxFw=
+
+Name: res/drawable-xxhdpi/ic_plusone_tall_off_client.png
+SHA1-Digest: nnQrYOSge8+DJ/aZ1dVTUztprv8=
+
+Name: assets/ko.lproj/Dialogue.strings
+SHA1-Digest: 8noNFxDXkbPLZsBqNRPFJ9auH/o=
+
+Name: assets/en.lproj/Fonts.strings
+SHA1-Digest: oGKXAjzS10dcdUF6NclsbgzyXj4=
+
+Name: assets/textures/characters/ss_nacho-hd.plist
+SHA1-Digest: BDFrkIquFFZP834gQYEU2fulTGw=
+
+Name: res/drawable-mdpi/common_signin_btn_text_disabled_focus_dark.9.p
+ ng
+SHA1-Digest: 29jlpwaYo8yADFvg53lRNdVbvt0=
+
+Name: assets/textures/characters/ss_shorty_uniform.plist
+SHA1-Digest: Lu+GhCRRETx1BBj2rtsTr8zwgFs=
+
+Name: assets/Arial-Unicode-MS.ttf
+SHA1-Digest: IjBLhUbVlOPxhGI2RWOQk2Z94r0=
+
+Name: res/drawable-xhdpi/common_signin_btn_text_pressed_dark.9.png
+SHA1-Digest: bENWi8ZugwD88Ech+3ZELNcC/Kw=
+
+Name: assets/textures/boosters/ss_boosters.plist
+SHA1-Digest: d5SJJi+ZcNTQhXodxcNfQZAjRSQ=
+
+Name: assets/textures/blocks/ss_geoshard-hd.plist
+SHA1-Digest: RSII7i0MRODX4j6p5wD09tLL1kM=
+
+Name: assets/textures/slugs/ss_slugs0.plist
+SHA1-Digest: Ht+9dNeAeP8bPAbykKlRmsXVte4=
+
+Name: assets/textures/blocks/ss_fuse_hoverbug_speedstinger-hd.plist
+SHA1-Digest: wgD/0jTxyBlNvlTF9i3u9ZWXID4=
+
+Name: assets/zh-Hans.lproj/Fonts.strings
+SHA1-Digest: oGKXAjzS10dcdUF6NclsbgzyXj4=
+
+Name: assets/textures/characters/ss_angrynacho-hd.plist
+SHA1-Digest: gQ6CFFAF+hIhQpSI44yAKt6jJ18=
+
+Name: assets/textures/abilities/ss_mega_frost-hd.plist
+SHA1-Digest: VjLaki7HsG8bmMiez3EY1I/Mg6o=
+
+Name: assets/textures/scenes/ss_score.plist
+SHA1-Digest: Z//wNmd8rdyKNNh/ep1XSwGQzus=
+
+Name: assets/textures/characters/ss_redhook.plist
+SHA1-Digest: cA3S+ly97pNSMgBzHs6hwmm4Us8=
+
+Name: assets/textures/characters/ss_guard2-hd.plist
+SHA1-Digest: ZS/V4WInUEJnX3eboLOozx/TDic=
+
+Name: assets/textures/basic_shots/ss_basic_shots_ui-hd.plist
+SHA1-Digest: UGqHp6nQqiVDo/VY0zIVrsFYcUk=
+
+Name: assets/textures/game/locations/ss_darkbanechasm.plist
+SHA1-Digest: oIsOpUl944ocXBsOW5OR2vgfCYo=
+
+Name: assets/textures/abilities/ss_frost.plist
+SHA1-Digest: tEtMm4H0jGsEonBcN/IB6lMkvuw=
+
+Name: assets/textures/blocks/ss_slicksilver.plist
+SHA1-Digest: W11owKuaarhDD4hSIvh/tbBd1Bg=
+
+Name: assets/textures/game/locations/ss_darkbanethronebonus.plist
+SHA1-Digest: u+g3vDYV9qlHxpGxenaF3FesZ/0=
+
+Name: assets/textures/game/locations/ss_tracks-hd.plist
+SHA1-Digest: 6c/olrC7o/XEPCUotPkmgJ/7DWo=
+
+Name: assets/textures/portraits/ss_blakk.plist
+SHA1-Digest: xV9utbxWZN3LrQVy//tUCKYOpbM=
+
+Name: assets/textures/abilities/ss_fuse_tazer_fright.plist
+SHA1-Digest: LbmUljv1tTw/1UrEB6o6yX//KVg=
+
+Name: assets/textures/game/locations/ss_ghouling_lab-hd.plist
+SHA1-Digest: Fo6VmWL1/0LpfsCFnXLCfjiY6BY=
+
+Name: assets/textures/characters/ss_billy_uniform-hd.plist
+SHA1-Digest: imWkgrUMDKRBlUVbBHj7+F48s58=
+
+Name: res/drawable-xhdpi/common_signin_btn_text_disabled_focus_dark.9.
+ png
+SHA1-Digest: /ps9lLPOdDdwDt2YyGRRyGkRCMw=
+
+Name: assets/textures/portraits/ss_darkbane_prison_guard-hd.plist
+SHA1-Digest: 23fTeOn1cJhPS+wBNNIbaoNxEkQ=
+
+Name: assets/textures/portraits/ss_darkbanesoldierelite1and2.plist
+SHA1-Digest: d344ashwts0FlwEvV/HjesXsbLA=
+
+Name: assets/textures/characters/ss_titan-hd.plist
+SHA1-Digest: 6SILXudtsPJd940edFF/w0IlM5w=
+
+Name: assets/textures/characters/ss_pirate_2-hd.plist
+SHA1-Digest: hXR3Tv0XvDMPqDDbFmtYmYzHuS8=
+
+Name: res/drawable-xhdpi/common_signin_btn_icon_disabled_light.9.png
+SHA1-Digest: 1Hnpvj2UzKDvPZv175SFBfp0Gn8=
+
+Name: assets/textures/slug_seeker/cavern1/ss_cavern1-hd.plist
+SHA1-Digest: zkSWqvF6Y+UI/J18n+rGWqxlEoU=
+
+Name: assets/textures/abilities/ss_gas_ghouled-hd.plist
+SHA1-Digest: vF2UsU/T0l4b8V5deutaxQ5Rpcg=
+
+Name: assets/textures/game/locations/ss_slugseeker_03-hd.plist
+SHA1-Digest: h6gg4HoNfwrqpwuVNcnYmjdDuj4=
+
+Name: assets/textures/game/locations/ss_slugseeker_08-hd.plist
+SHA1-Digest: Tdj0puRnqy5g5vzLOYWyFyHqHVI=
+
+Name: assets/textures/characters/ss_marcus-hd.plist
+SHA1-Digest: N7hSJsNGLlfTpe8NOBvUuAdz3aY=
+
+Name: assets/textures/slug_seeker/cavern4/ss_cavern4.plist
+SHA1-Digest: 5SYXQp1jdEnffFh/okFA6NO7EZ4=
+
+Name: assets/textures/scenes/ss_code_unlock-hd.plist
+SHA1-Digest: l2P9Y1wjkSFFNnbwMTLnVad29Q4=
+
+Name: assets/textures/portraits/ss_angrynacho.plist
+SHA1-Digest: D5+9o6za6AP64r8Duf5F/C7PYzs=
+
+Name: assets/textures/blocks/ss_fuse_tazer_fright.plist
+SHA1-Digest: IApQxFdPn+t0oAwtkS9USUcktbs=
+
+Name: assets/textures/blocks/ss_bomb-hd.plist
+SHA1-Digest: JqtWI5NVVTCbVAYAvFvVrUpVMgs=
+
+Name: assets/particles/particle_sale.plist
+SHA1-Digest: XyBXTv9W/GVfQNhRFubOt3Soin4=
+
+Name: assets/textures/abilities/ss_ghoul_burpy.plist
+SHA1-Digest: QnTfVsmukxTPWnP8C/NkNVV2uC0=
+
+Name: assets/textures/abilities/ss_panic-hd.plist
+SHA1-Digest: 89x80msQvs1wuVHG9OvcrYuoBwg=
+
+Name: assets/textures/abilities/ss_panic.plist
+SHA1-Digest: EoUqroCY+UecvIYqZp9GBzkr+Hs=
+
+Name: assets/textures/portraits/ss_watts.plist
+SHA1-Digest: /f39+dCFejxcZw+cjqcm0tRuNQ4=
+
+Name: assets/textures/scenes/ss_equipment_pvrtc-hd.plist
+SHA1-Digest: Zkoj8NbLUXjbyk/WdxGrZAtyNhc=
+
+Name: assets/fr.lproj/Localizable.strings
+SHA1-Digest: k4Mw5ys1osYxwk6p5u3cyUNX08k=
+
+Name: assets/de.lproj/InfoPlist.strings
+SHA1-Digest: sj/NDiPYrm4XXaw7u2xX48bEpSQ=
+
+Name: assets/textures/portraits/ss_bonus_windmill-hd.plist
+SHA1-Digest: DedWOfGp+UrIIDQ3wBKkNZXkqcY=
+
+Name: assets/textures/portraits/ss_nachoangry-hd.plist
+SHA1-Digest: 8PAp/Mq9H20K+/iobl84SDVIQ6s=
+
+Name: assets/textures/blocks/ss_tormato-hd.plist
+SHA1-Digest: SCdDMlUfNZBYleUmXKCYj3sRThE=
+
+Name: assets/textures/blocks/ss_fuse_aquabeek_fandango-hd.plist
+SHA1-Digest: pwJXYd4DoxT2CxrVUqUC6CSAAFI=
+
+Name: assets/textures/abilities/ss_fireball_gas.plist
+SHA1-Digest: loi0GvIhoCKNl92r4xyc7wfXGkM=
+
+Name: assets/textures/characters/ss_munch-hd.plist
+SHA1-Digest: ZbejZObdmkqGQVeMlVCoLMLwLxk=
+
+Name: assets/textures/portraits/ss_will.plist
+SHA1-Digest: hMc/Y91cJMDsb7NMuK7/nL7NZ1Y=
+
+Name: assets/particles/particle_sale_gradient.plist
+SHA1-Digest: uHjJ8pcM0mvCNQek4UZPcltRRFY=
+
+Name: assets/textures/basic_shots/ss_sparkleBlade.plist
+SHA1-Digest: F8NuhrRNkjLIStQTBHM5suOKHZk=
+
+Name: assets/textures/game/locations/ss_water-hd.plist
+SHA1-Digest: FbrP4y9RPC89DVivx4EduVk4JVU=
+
+Name: assets/textures/game/locations/ss_slugseeker_06-hd.plist
+SHA1-Digest: nZjnicg7rRRihcbUgBGzyLSnN6A=
+
+Name: assets/textures/characters/ss_zombieguard.plist
+SHA1-Digest: WnH3T7lrjyUrXm2XSfg8XAeDSJs=
+
+Name: assets/textures/portraits/ss_soldier_mech-hd.plist
+SHA1-Digest: VnVKBPaxh6hiWux8k/CWPtWE/YA=
+
+Name: assets/textures/characters/ss_guardbig3-hd.plist
+SHA1-Digest: fxwCR4A5JUJsObokUhT8C1bZ/Uo=
+
+Name: res/drawable-hdpi/common_signin_btn_text_disabled_focus_light.9.
+ png
+SHA1-Digest: YmWnuLFTsxsuwRBtvQiQ6Y6KnsI=
+
+Name: assets/textures/portraits/ss_darkbane_soldier_elite2.plist
+SHA1-Digest: yUKgu9NeVure7bXqQLw5aYhX7DU=
+
+Name: assets/Default-Landscape~ipad.png
+SHA1-Digest: iXEdFM/W0uwVmL+mJ3TXFvi4utk=
+
+Name: assets/textures/scenes/ss_score_pvrtc.plist
+SHA1-Digest: AFOOTqiC7AX0bdZfK5eWChvuKUE=
+
+Name: assets/textures/game_mods/ss_autocharge_two-hd.plist
+SHA1-Digest: +MlyiqcUarMZebXoNkmV5mbeJSU=
+
+Name: assets/textures/characters/ss_viggo-hd.plist
+SHA1-Digest: Q1dq9yQBv82mpUNdZvcr3InPK+g=
+
+Name: assets/textures/characters/ss_evilkord.plist
+SHA1-Digest: Otzx290hYyi7bHzWCFf4bBTbapc=
+
+Name: assets/particles/game_purchase_particles.plist
+SHA1-Digest: lxlLvFrGsSo1rdDuJNdbB9GhkGI=
+
+Name: assets/textures/interface/ss_carousel_pvrtc-hd.plist
+SHA1-Digest: qjANNexCXDpnLsKnon2F2FUSpzY=
+
+Name: assets/textures/slug_seeker/cavern7/ss_cavern7-hd.plist
+SHA1-Digest: 0rYYAMRPaihuNgAheur0wtjZpuE=
+
+Name: assets/textures/portraits/ss_guardbig1-hd.plist
+SHA1-Digest: Bny670YbuHemM0nPSfKE5xsmHC8=
+
+Name: assets/textures/abilities/ss_speedstringer-hd.plist
+SHA1-Digest: ASYbxIUgIVTC7ngI7VDVKyZYFDI=
+
+Name: assets/textures/blocks/ss_flaringo-hd.plist
+SHA1-Digest: 0ZmcDemezoiNtNl2n9Ecgg2yfc4=
+
+Name: res/drawable-xxhdpi/common_signin_btn_icon_disabled_dark.9.png
+SHA1-Digest: 1Hnpvj2UzKDvPZv175SFBfp0Gn8=
+
+Name: assets/textures/game/ss_game_ui-hd.plist
+SHA1-Digest: ZGeQUaD9a30bF/RXTXL96X0/2Ks=
+
+Name: assets/textures/game/locations/ss_darkperiphery1-hd.plist
+SHA1-Digest: PozJs+/eF9tosaXZ740vQIj4xm4=
+
+Name: res/drawable-mdpi/ic_plusone_standard_off_client.png
+SHA1-Digest: xWYT0qzRVNaGybBaBeMKbeGgkgE=
+
+Name: assets/particles/icebreak_wall_particles.plist
+SHA1-Digest: +7axq70quab3DXBxSKgi9mGQKmI=
+
+Name: assets/textures/blocks/ss_thugglet.plist
+SHA1-Digest: YJLVoo6qOmmMmvaTxByfhvvwiSk=
+
+Name: assets/textures/abilities/ss_neotox-hd.plist
+SHA1-Digest: BUyH1dHXzFkk0JFRk34MRZyGVwI=
+
+Name: assets/textures/blocks/ss_xmitter.plist
+SHA1-Digest: qKlupJ5OA1CYvG5VbUocnEhC7fk=
+
+Name: assets/textures/abilities/ss_yang_ghoul-hd.plist
+SHA1-Digest: j0ww8tozP8w8krUXmC2qXf37A9c=
+
+Name: assets/textures/blocks/ss_ghoul_jellyish.plist
+SHA1-Digest: 4DZyYeYmv0ZDha1+pf0qtk994Pg=
+
+Name: assets/textures/destructible_objects/ss_chest_small.plist
+SHA1-Digest: Gla8BdG4L0z686QgRwqQJPPqZBo=
+
+Name: assets/textures/characters/ss_twist-hd.plist
+SHA1-Digest: ZDb+lkrUtsS+6YPcd2CdHL0TAxM=
+
+Name: assets/textures/characters/ss_shadow_clan_leader.plist
+SHA1-Digest: 5edrIbcoVjZw4tHyWIW4lSuxKIA=
+
+Name: assets/textures/game/locations/ss_stadium-hd.plist
+SHA1-Digest: JbSAn2PFUMn5XJXm5t3I8LvC8DE=
+
+Name: assets/textures/portraits/ss_inmate2.plist
+SHA1-Digest: 6KX/CfH5qeFdFa+BPmRQZuXTzTg=
+
+Name: assets/textures/abilities/ss_fuse_tormato_jellyish.plist
+SHA1-Digest: T8n5opm02bnNgZJbXGlhMcTXvZw=
+
+Name: assets/textures/portraits/ss_jackbullguard2-hd.plist
+SHA1-Digest: /2DIkPm9heBZ02EOn+Dska6IUbU=
+
+Name: assets/textures/blocks/ss_ghoul_panic-hd.plist
+SHA1-Digest: IsCoepVo+iIamvk16jKD2fAXKic=
+
+Name: assets/textures/abilities/ss_fireball_tazer-hd.plist
+SHA1-Digest: Bac8XRgmDmyfj0wEoZM/8AcZkuE=
+
+Name: assets/es-MX.lproj/InfoPlist.strings
+SHA1-Digest: Rn/tSZBJoofMgdATvNmu33ed1Hc=
+
+Name: assets/Icon-Small@2x.png
+SHA1-Digest: pf8d1sAebzB51o7JZp0GFF9tv2o=
+
+Name: res/drawable-mdpi/common_signin_btn_text_pressed_dark.9.png
+SHA1-Digest: MQsj73rqoxGdFvNYEPkKJZPqXBU=
+
+Name: assets/textures/blocks/ss_crystalyd-hd.plist
+SHA1-Digest: YDKh3rJ4a2WsL9yAuwPLNEOLS+Y=
+
+Name: assets/textures/characters/ss_gabe.plist
+SHA1-Digest: st/SCx2iojRZfLmWX77shBo36tk=
+
+Name: res/drawable-xhdpi/common_signin_btn_icon_pressed_dark.9.png
+SHA1-Digest: VuHJWuT/6iilvSab3F78/jbS8VQ=
+
+Name: assets/textures/portraits/ss_pronto.plist
+SHA1-Digest: H7Stzynas7K0r2IVR91Gl8NWd74=
+
+Name: res/drawable-mdpi/common_signin_btn_icon_normal_dark.9.png
+SHA1-Digest: 5yTFZLZtCPpeiVFtQvpG2K4xDdE=
+
+Name: assets/textures/blocks/ss_ghoul_tormato-hd.plist
+SHA1-Digest: iEmfxkAORV89HsdChBqn/agRBDI=
+
+Name: assets/Icon@2x.png
+SHA1-Digest: jK2WLHdpXymtGDSwFGG2Wkk53II=
+
+Name: res/drawable-mdpi/common_signin_btn_icon_focus_dark.9.png
+SHA1-Digest: sa6MQEFa8whxq6hug+zvczJa8Ss=
+
+Name: assets/Icon-Small-40@2x.png
+SHA1-Digest: M2QQWWdtE5NqCKXdD5etY/cdaCE=
+
+Name: assets/textures/characters/ss_shanai.plist
+SHA1-Digest: qcABpfIWk91F6wAH6mp+myIOZEc=
+
+Name: assets/textures/abilities/ss_lock.plist
+SHA1-Digest: hnNWFAgjpgZz78/duWLJ3FzBj3k=
+
+Name: assets/es-MX.lproj/Localizable.strings
+SHA1-Digest: 6NHib9A8AZSC6WYmpFNLY0c2tr8=
+
+Name: assets/textures/scenes/ss_versus_pvrtc.plist
+SHA1-Digest: 0s9B98bP+oqS3Z5DlbkvdNvK1uA=
+
+Name: assets/textures/portraits/ss_redhook.plist
+SHA1-Digest: LX+fc8fuMuJuTb0ThJ5L6ZOZY3E=
+
+Name: res/drawable-xxhdpi/common_signin_btn_icon_pressed_dark.9.png
+SHA1-Digest: VuHJWuT/6iilvSab3F78/jbS8VQ=
+
+Name: assets/textures/portraits/ss_horn-hd.plist
+SHA1-Digest: +o05q+n0vIjOevnnu5iN13wcrCw=
+
+Name: assets/textures/scenes/ss_mp_score_pvrtc.plist
+SHA1-Digest: v4vPeFvFQPRtfMgUhB7e7VwEX2g=
+
+Name: assets/textures/portraits/ss_cajun-hd.plist
+SHA1-Digest: Fn1sUZvgw+nTjGdJUVyqTDho9LY=
+
+Name: assets/textures/abilities/ss_ghoul_lock.plist
+SHA1-Digest: 9sQaXX1YhgehTWWQzysBREuZL0g=
+
+Name: lib/armeabi/libv.so
+SHA1-Digest: 9oBt9lo4MAYduNk9WL1HdoIRuUM=
+
+Name: assets/textures/scenes/ss_credits.plist
+SHA1-Digest: Gw61IhjF2vMULlP5jG42CRwDOME=
+
+Name: assets/textures/portraits/ss_darkbane_solder2_darkbane_soldier3.
+ plist
+SHA1-Digest: T6c1dYuxRuOubSca/naxPlEg2fQ=
+
+Name: assets/textures/blocks/ss_midas.plist
+SHA1-Digest: n0KfqjiNeKNSAl6sM86lmugEOEA=
+
+Name: assets/textures/characters/ss_billy_uniform.plist
+SHA1-Digest: F2CHqv5ltBOGuc1mbVSp6OpgDiU=
+
+Name: assets/textures/game/locations/ss_ghoulinglab.plist
+SHA1-Digest: xOwhe7weR1oHi3wH9Db/lkSoVBU=
+
+Name: assets/textures/characters/ss_fakeduelist-hd.plist
+SHA1-Digest: jUGHH+IoC9r5ygQYYhOVdhcSgug=
+
+Name: assets/textures/slug_seeker/cavern5/ss_cavern5-hd.plist
+SHA1-Digest: PA1HpYQZSRMvP8uLFgZ+WI2YKms=
+
+Name: assets/textures/characters/ss_pirate_2.plist
+SHA1-Digest: khhXhp+i9SieYeXRH/Y3WnTWdmY=
+
+Name: assets/textures/abilities/ss_flaringo.plist
+SHA1-Digest: GhT19LYcc4m1uv/CtT7ABOzL//o=
+
+Name: assets/textures/blocks/ss_phosphoro.plist
+SHA1-Digest: KXwBCxc82w5XD9Wz68dY/iyHRnY=
+
+Name: assets/textures/game/locations/ss_herringbone2-hd.plist
+SHA1-Digest: 0XFNdi5iNT0zMQcSLxXq13rWDMA=
+
+Name: assets/Icon-Small.png
+SHA1-Digest: Dig16CpN28yVP+7plEwEBeHkab4=
+
+Name: res/drawable-hdpi/common_signin_btn_icon_focus_dark.9.png
+SHA1-Digest: vo5IER5aYP04fs9WVhNf8ZG8h6g=
+
+Name: assets/textures/basic_shots/ss_lightning-hd.plist
+SHA1-Digest: XdUOVTLthGsVrbAbs4bvtxAXHrQ=
+
+Name: assets/textures/game/locations/ss_dream_white-hd.plist
+SHA1-Digest: DES/1bEkpFxTEKizmfElztSASNs=
+
+Name: assets/textures/game/locations/ss_darkbaneground.plist
+SHA1-Digest: UzaGxlM2TIjM0PX5Afh/0C2wZk8=
+
+Name: assets/textures/abilities/ss_burpy-hd.plist
+SHA1-Digest: t+ZAX0GO4ykO7yq4GAlkE1BLSVQ=
+
+Name: assets/textures/abilities/ss_ghoul_arachnet.plist
+SHA1-Digest: rWbkZ/yTKaUXz7VdnDeUV8rknE0=
+
+Name: assets/Icon-Small-40.png
+SHA1-Digest: zuKU/2sL6gYLz8SzX8KMoaFll50=
+
+Name: assets/textures/game/locations/ss_barrels.plist
+SHA1-Digest: riEwQjGPPmdSO7RqSMDFVnVMjNk=
+
+Name: assets/textures/skins/ss_skins_purchase2-hd.plist
+SHA1-Digest: 7wfXyvmYJPPXtoB/IXiedR5tWvg=
+
+Name: assets/textures/portraits/ss_darkbanesoldierelite1.plist
+SHA1-Digest: 4pa+tUiUAdThEMLetlyLEx+CnJ4=
+
+Name: assets/textures/portraits/ss_spirex.plist
+SHA1-Digest: L8h72FQj8frjN3OsdT9K0YExbic=
+
+Name: assets/tr.lproj/ss_title_logo.plist
+SHA1-Digest: 1R2CXnkXq2GAl3E/PnwwgiHS/Tg=
+
+Name: lib/armeabi/libAudioFile.so
+SHA1-Digest: Hz3f9VxdU0W0A9uyxZeH07PXjEA=
+
+Name: assets/textures/blocks/ss_tormato.plist
+SHA1-Digest: 04FymRqnr/s/bG/ee/xsnYgf2HE=
+
+Name: assets/Icon-72.png
+SHA1-Digest: EE9GhNr3SrG0JhsAY3F3NrhI0O4=
+
+Name: assets/en.lproj/ss_title_logo.plist
+SHA1-Digest: AskfzPFK4/JC6PT6g2d98Nig0OU=
+
+Name: assets/textures/characters/ss_scrapheepgang02.plist
+SHA1-Digest: 8LMklBj7TgYYvGUojgK15lgqtr0=
+
+Name: assets/textures/portraits/ss_cannons-hd.plist
+SHA1-Digest: 5u073nJYPKBMhgRGurug0st8IJg=
+
+Name: res/drawable-mdpi/notify_panel_notification_icon_bg.png
+SHA1-Digest: CbiOmu2xHaCO/6a1W1iVByfqK/A=
+
+Name: assets/particles/fandango_explode_particle.plist
+SHA1-Digest: JWb5fnViKOUNP2RHbBcGs9Ej6FQ=
+
+Name: assets/textures/portraits/ss_shadow-hd.plist
+SHA1-Digest: kPq1A+pwkD6QW9XC6TCkv+wplik=
+
+Name: assets/textures/game/locations/ss_island-hd.plist
+SHA1-Digest: 2zN1I1W6WZbC5XHG8LYpzzsv3JM=
+
+Name: assets/particles/particle_sparkles.plist
+SHA1-Digest: brfaKLtk2xc+SdafeKtIqMdskVM=
+
+Name: assets/pt.lproj/AppiraterLocalizable.strings
+SHA1-Digest: q82v22xN9X/HSoVnY+FoSdd0ogw=
+
+Name: assets/textures/portraits/ss_madmax.plist
+SHA1-Digest: 7TCpDYthfnFKojEGAYtBIeiFZ3Q=
+
+Name: assets/textures/abilities/ss_fuse_tormato_jellyis-hd.plist
+SHA1-Digest: asTqTRO2OHhX/EUX0YJ3TGP4rrU=
+
+Name: assets/textures/blocks/ss_fuse_doc_gas-hd.plist
+SHA1-Digest: 0MUkOojBXR7vtSSv26GeSnu5LR8=
+
+Name: assets/textures/blocks/ss_fuse_xmitter_vinedrill.plist
+SHA1-Digest: nxzHPKkbYUA35qog5StI2NZvZ3k=
+
+Name: assets/textures/characters/ss_drake.plist
+SHA1-Digest: HaIz00MYbpQKPPN00NlApbTXKHI=
+
+Name: res/drawable-mdpi/common_signin_btn_icon_disabled_light.9.png
+SHA1-Digest: UUeGKfmWgJl/rutroPXP57LpkoU=
+
+Name: assets/textures/blocks/ss_ghoul_tazer-hd.plist
+SHA1-Digest: hatOz5gfySViA4sugOK2LelSNBU=
+
+Name: assets/textures/portraits/ss_zombiechef.plist
+SHA1-Digest: G/p2On0D+XPeKYNG9TA5AYNG+Z4=
+
+Name: assets/textures/portraits/ss_scrapheepgang02-hd.plist
+SHA1-Digest: XtFzzx1YlQNfypRHWQpjwtgZ/AQ=
+
+Name: assets/textures/blocks/ss_enigmo.plist
+SHA1-Digest: Baq3YbXbQ6Oj2OtnqdrkzF+mmOc=
+
+Name: assets/particles/chest_open_confetti_particles.plist
+SHA1-Digest: gX3jijX3ZSJtJxa3sibU44g4OSU=
+
+Name: assets/ar.lproj/ss_title_logo-hd.plist
+SHA1-Digest: X4eBRGpXEI+N4QwFqer5Olfzuzk=
+
+Name: assets/textures/abilities/ss_phosphoro-hd.plist
+SHA1-Digest: 0Hfk1ItzWk9X0WDBYc2RSQfjljg=
+
+Name: assets/textures/characters/ss_arclight.plist
+SHA1-Digest: cuBdyNW4dT8Wft2flhnS/NHqUQs=
+
+Name: assets/textures/abilities/ss_fuse_slyren_narwaddle.plist
+SHA1-Digest: yI4JRbdr/YYxrniqkPBsANRt13I=
+
+Name: assets/textures/portraits/ss_blakk_gat-hd.plist
+SHA1-Digest: +fnC63iI03xTSelNIh22Rp8oJao=
+
+Name: assets/textures/characters/ss_scrapheepgang04.plist
+SHA1-Digest: gKB82iBVMibC8K1OhZ2WfV82orE=
+
+Name: assets/textures/characters/ss_spirex-hd.plist
+SHA1-Digest: htcSeC2bcUSfhVazR8f8hfmlVtU=
+
+Name: assets/textures/scenes/ss_loadout.plist
+SHA1-Digest: cLWG3TZhnRTTQiEUFKnk9YcSFOc=
+
+Name: res/drawable-mdpi/common_signin_btn_icon_pressed_dark.9.png
+SHA1-Digest: IkOjI29UDeEmriO620NWQRYQBQM=
+
+Name: res/drawable-xhdpi/common_signin_btn_text_normal_light.9.png
+SHA1-Digest: rk4+RrLhcP6lThhrsLhux6sOaW0=
+
+Name: assets/es.lproj/Dialogue.strings
+SHA1-Digest: PDrTQVrNUMF+Ec3tktvZ18TvBdM=
+
+Name: assets/textures/destructible_objects/ss_darkenergydrill-hd.plist
+SHA1-Digest: kJ/+iYZoUcpVqX84SJz8kyDDGW4=
+
+Name: assets/textures/portraits/ss_bonus_trashheap-hd.plist
+SHA1-Digest: LpYQP1cSA3MNF4K4Ylj8LGZjgbs=
+
+Name: assets/textures/abilities/ss_arachnet-hd.plist
+SHA1-Digest: SoQwbP9a5im8jtzsL0G/ySobOiA=
+
+Name: assets/textures/characters/ss_kord.plist
+SHA1-Digest: NjL+znwirk+xTPe93/Pkp+YcQjs=
+
+Name: assets/textures/scenes/ss_versus.plist
+SHA1-Digest: rC2jCTTrFjjRrkqAZ1x+jZrhmow=
+
+Name: res/drawable-xhdpi/ic_plusone_small_off_client.png
+SHA1-Digest: LtV8CfoAmgWuTGWNZXeWeNDR1hY=
+
+Name: assets/textures/characters/ss_cannon.plist
+SHA1-Digest: aL/6by7aBqKJ0phZPbdCH6QGtac=
+
+Name: com.apportable.system/icu/icu.dat
+SHA1-Digest: YE4e767Ztlk3a+pcagnlu5yRbRw=
+
+Name: assets/textures/abilities/ss_fuse_rammstone_makobreaker.plist
+SHA1-Digest: inHH1wJw2ZipyyLGvZNkABPAdmg=
+
+Name: assets/textures/game/locations/ss_darkperiphery1.plist
+SHA1-Digest: tWGeQ1a6M3NQiaQ2dDWcID3Oj8A=
+
+Name: assets/textures/characters/ss_zombiechef.plist
+SHA1-Digest: nn69ZujfvyweZTCYn3gxvikrrfs=
+
+Name: assets/es.lproj/ss_title_logo.plist
+SHA1-Digest: 7tc8XFWhMCoY9hRxKDczfZPmhTk=
+
+Name: assets/textures/portraits/ss_angrybossember.plist
+SHA1-Digest: J7nLsMDEcCTgsDKLhIlygzUFtf4=
+
+Name: assets/textures/portraits/ss_scrapheap_3_4-hd.plist
+SHA1-Digest: psapGcnTceVeyBj4WHUjCGSgot0=
+
+Name: assets/textures/characters/ss_inmate-hd.plist
+SHA1-Digest: s205Hju5eHRnhQaexgWLZ0mzbvg=
+
+Name: assets/textures/game/locations/ss_trashheap2.plist
+SHA1-Digest: 3yQoEPzFwrdz+khQP4WT0ui2ZkY=
+
+Name: assets/textures/scenes/ss_challenge_reward-hd.plist
+SHA1-Digest: 9zDD7oT2fo4wP2+6WR82GOoP6lI=
+
+Name: assets/particles/match_explode_generic.plist
+SHA1-Digest: aoS27H6HUAHth0JlWEUdIY71HHc=
+
+Name: assets/textures/interface/ss_ui-hd.plist
+SHA1-Digest: pWzPqCDRN8XIkAIeFO/XgQuOmIs=
+
+Name: assets/textures/portraits/ss_dummy.plist
+SHA1-Digest: KBMsD+oN+maDNJ10S4ARPPxhMdA=
+
+Name: assets/fr.lproj/ss_title_logo.plist
+SHA1-Digest: h6ODyu/m7lsS+xSRQfDtKn+p218=
+
+Name: assets/textures/game/locations/ss_deepcavern3-hd.plist
+SHA1-Digest: uEWr7GIA6cffzlZtBPHniMXSmuk=
+
+Name: res/drawable-hdpi/common_signin_btn_text_disabled_light.9.png
+SHA1-Digest: 1nB29gilkMG21U2c1UzWz5vtjpc=
+
+Name: assets/textures/abilities/ss_burpy.plist
+SHA1-Digest: eyKZ4TUFJoZqjnL3sBoiJTEOF4g=
+
+Name: assets/textures/blocks/ss_thresher.plist
+SHA1-Digest: pD2ATUT6u7KLEgnpvmx6sYWanek=
+
+Name: assets/textures/characters/ss_securitygun.plist
+SHA1-Digest: Or0itsef7r2G7RKWhRuhA2l35gU=
+
+Name: assets/textures/abilities/ss_gazzer-hd.plist
+SHA1-Digest: X7yH+BXCO/4g+kdGJ0tJBi4/QdI=
+
+Name: assets/textures/characters/ss_scrapheepgang01-hd.plist
+SHA1-Digest: ZyqO9hm9brj/lFVRg64Z+Lndb1o=
+
+Name: assets/textures/portraits/ss_chest_large-hd.plist
+SHA1-Digest: OwCLN8rWPnxjwkfKBs1STkysw1Y=
+
+Name: assets/textures/blocks/ss_crystalyd.plist
+SHA1-Digest: 3p1w3D06YbPpPw7Pep6dc4C84OM=
+
+Name: assets/textures/slug_seeker/cavern6/ss_cavern6.plist
+SHA1-Digest: 2qD8QcN+tOE7yd0+35nda+yIIs0=
+
+Name: assets/es-MX.lproj/AppiraterLocalizable.strings
+SHA1-Digest: LmA/k6wJVltmImIpxmSpS4UqW5g=
+
+Name: assets/textures/slugs/ss_slugs2-hd.plist
+SHA1-Digest: 0gsrwMfIuw9tvxWu2eneVsIj6f4=
+
+Name: assets/textures/blocks/ss_fuse_ghoul_phosphoro_ghoul_aquabeek.pl
+ ist
+SHA1-Digest: 78jK0TDfAAaX5GxWT3QFTQKy6GA=
+
+Name: assets/textures/portraits/ss_robo_uniform-hd.plist
+SHA1-Digest: Y2rDg3pRJ4szo0SurxunGL/V8GU=
+
+Name: assets/textures/game/locations/ss_darkbaneportal.plist
+SHA1-Digest: 7mBYNIztseH2u7XfRlGsfBlVu+E=
+
+Name: assets/textures/blocks/ss_fuse_xmitter_vinedrill-hd.plist
+SHA1-Digest: 2ryiqCPyTwtPRKtUKSn+3/fIySM=
+
+Name: assets/textures/game/locations/ss_thronenochair-hd.plist
+SHA1-Digest: 7qCXQvTGSJtyDVZfaFil15mKPw0=
+
+Name: assets/particles/slugseeker_card_particles.plist
+SHA1-Digest: Qjn9HubJH3VccBakhBYDBT1xWg8=
+
+Name: assets/textures/abilities/ss_ghoul_frost.plist
+SHA1-Digest: NsQ7CJpb/ABgcsI/1YpAIT8HSUw=
+
+Name: assets/textures/abilities/ss_fuse_ghoul_grenuke_ghoul_arachnet.p
+ list
+SHA1-Digest: ub3quF4rpuhkYhan6nwp7obnfvk=
+
+Name: assets/textures/game/locations/ss_herringbone1.plist
+SHA1-Digest: uTdVUPpAC7T5ez12+Y/tCaUIc3I=
+
+Name: assets/textures/blocks/ss_fuse_slyren_narwaddle.plist
+SHA1-Digest: T6qXKWKpArEoOuE+tsx4qaRyDTg=
+
+Name: assets/textures/blocks/ss_fuse_yang_refresh-hd.plist
+SHA1-Digest: slmMeg0tVmEGloD9N7bY3xc2kkw=
+
+Name: assets/textures/characters/ss_behemoth-hd.plist
+SHA1-Digest: Yi/5hHVLv61RCHknO9uM4mz9CHY=
+
+Name: assets/fonts/HanWangHeiLight.ttf
+SHA1-Digest: DYPKSMxVwFXi/KNO7lysscpLh2I=
+
+Name: assets/textures/game/locations/ss_dirt-hd.plist
+SHA1-Digest: qoMvJcxNxaVaD6kauhKCJes8G8w=
+
+Name: assets/textures/game/locations/ss_docks.plist
+SHA1-Digest: Hw5MhlTx4g4yu71IEeSHSzyvnzU=
+
+Name: assets/textures/game/locations/ss_water.plist
+SHA1-Digest: oI+jq9LgQZE4E+wSfg/lECOFFjI=
+
+Name: org/apache/commons/codec/binary/package.html
+SHA1-Digest: SjDb+egZhfry8Q2jv0BXoFgIImw=
+
+Name: assets/textures/portraits/ss_darkbane_brimstone.plist
+SHA1-Digest: EP+u09qJvAWS3Oquysm7O271Ktk=
+
+Name: assets/textures/portraits/ss_goon3-hd.plist
+SHA1-Digest: uxdfgHm59pVWBe8nk0PECfgV11g=
+
+Name: assets/textures/scenes/ss_encounter_select-hd.plist
+SHA1-Digest: 74/9rxt/phDTbIBYE3MzHDq8ICU=
+
+Name: assets/textures/game/locations/ss_desert.plist
+SHA1-Digest: 3XnflYaB4He9HuS57bYnpuYZmjU=
+
+Name: assets/particles/xmitter_explode_particle.plist
+SHA1-Digest: pMmmPXQJv30i2aYlyuUFi9AlLYM=
+
+Name: assets/textures/characters/ss_foreman-hd.plist
+SHA1-Digest: eRJWsp1DUTCZ+ek0OJ9SvNs1QXs=
+
+Name: assets/textures/game/ss_game.plist
+SHA1-Digest: 2fA3wym/MYW+U7lJX34FYyxzJiI=
+
+Name: assets/textures/game/locations/ss_herringbone2.plist
+SHA1-Digest: LZFkkDVDg21Gotc5QoVTJAaWeew=
+
+Name: lib/armeabi/libcrypto_1_01k.so
+SHA1-Digest: PSD8cIInggwYLsAbRuvJcGC5sr0=
+
+Name: assets/textures/game/locations/ss_bluffs.plist
+SHA1-Digest: Nj/EH6a/S/yGXB9NNibCcRMXA+s=
+
+Name: assets/fr.lproj/ss_title_logo-hd.plist
+SHA1-Digest: BkWZ2JsPCJt3LnKo2lu3mfcVAog=
+
+Name: assets/textures/portraits/ss_jack_uniform-hd.plist
+SHA1-Digest: /iN8hfwMhVmp43zp10dI9MLa6wg=
+
+Name: assets/textures/scenes/ss_mp_lobby.plist
+SHA1-Digest: qs/HWDzcOAXIfoZ33djGXDtjUWU=
+
+Name: assets/es.lproj/ss_title_logo-hd.plist
+SHA1-Digest: J4Z6RW0mUGCj5c7+x/qsq/pUuqc=
+
+Name: assets/textures/blocks/ss_fandango-hd.plist
+SHA1-Digest: ogq3fsKtNIQ6yBJyaiNqNrj1MuU=
+
+Name: assets/particles/loadout_swap.plist
+SHA1-Digest: R7lGCD40G87/nrtiHGAcwEg12Aw=
+
+Name: assets/textures/characters/ss_mei.plist
+SHA1-Digest: N5kFg07mO2kXMxIG5j+uW138G4w=
+
+Name: assets/textures/portraits/ss_arclight-hd.plist
+SHA1-Digest: 7x1j92eQzfGlRSX5TiJ3MZ42HeE=
+
+Name: assets/textures/game/locations/ss_darkbanehallway-hd.plist
+SHA1-Digest: Ox85sLpy2JiMnl5Xpewk6bTZC0w=
+
+Name: res/drawable-xhdpi/common_signin_btn_icon_normal_light.9.png
+SHA1-Digest: FkxxTiMZkZMXGXmeMfd02TtKL64=
+
+Name: assets/textures/game/locations/ss_top_mast-hd.plist
+SHA1-Digest: +Vf6g1+i9ya8zRuF7Slz985v+qY=
+
+Name: assets/it.lproj/ss_title_logo-hd.plist
+SHA1-Digest: HsyY6zmNJ0Gv4IPxRGPDcbq5QAU=
+
+Name: assets/ru.lproj/ss_title_logo.plist
+SHA1-Digest: 1R2CXnkXq2GAl3E/PnwwgiHS/Tg=
+
+Name: assets/textures/characters/ss_trixie-hd.plist
+SHA1-Digest: BVQ8sy8i3x2NdQwR0kUzQgMUy/g=
+
+Name: res/drawable-xxhdpi/common_signin_btn_text_disabled_light.9.png
+SHA1-Digest: UbXqMwM30HBljuHn+la04UPzB1Y=
+
+Name: assets/textures/abilities/ss_mega_gas.plist
+SHA1-Digest: g55HMyAloeOkP7wPPu/o4GhRQT0=
+
+Name: assets/textures/characters/ss_eli_mech.plist
+SHA1-Digest: 253RO2F3Q26p04DGjAVmg5vuxgk=
+
+Name: assets/textures/game/locations/ss_trashheap2-hd.plist
+SHA1-Digest: 0sPfl3LwUL7TYBeEhgEQvTofqQE=
+
+Name: assets/textures/characters/ss_blakk.plist
+SHA1-Digest: QJBqxIN9FkdUiaVbLZpxstMiGGM=
+
+Name: assets/textures/characters/ss_scrapheepgang04-hd.plist
+SHA1-Digest: QN7+DU5qQXHccjzuMRRj+pqSNb0=
+
+Name: assets/textures/portraits/ss_angryblakk-hd.plist
+SHA1-Digest: GULO8GsYb6XfoThXwIzBw2NsMv0=
+
+Name: assets/textures/portraits/ss_shadowclanleader.plist
+SHA1-Digest: jfnbgzF8Ol1ErpyPlCPv37Aeyvg=
+
+Name: assets/textures/characters/ss_darkbane_nacho-hd.plist
+SHA1-Digest: E4i4R1PDlIHshYhnHnkWvgINNoY=
+
+Name: assets/textures/game/locations/ss_dream_tournment_normal.plist
+SHA1-Digest: 0VNKtAGRI/GcVyQIlzlPD7JO6Sc=
+
+Name: assets/particles/ghoulstation_base_break.plist
+SHA1-Digest: 6L3kMBAZx+k2d6radG0V4DokXDs=
+
+Name: assets/textures/abilities/ss_lock-hd.plist
+SHA1-Digest: Ea0EyqGHqZ5vMDF1GCY0DtClvzY=
+
+Name: org/apache/commons/codec/digest/package.html
+SHA1-Digest: Yf7liq6nK/rwiTLDmaxdmvEBFPs=
+
+Name: assets/particles/ghoulstation_explode.plist
+SHA1-Digest: P7+46i8Hf2dRvR+0FuW+nB8gaZc=
+
+Name: assets/textures/portraits/ss_robo_uniform.plist
+SHA1-Digest: 5klMWqCmTbS3ZhAj8uw5B8bdlU0=
+
+Name: assets/textures/blocks/ss_ghoul_phosphoro-hd.plist
+SHA1-Digest: W1tzcigJ+dWZvg9LOLT25hi1SHk=
+
+Name: assets/textures/portraits/ss_young_blakk.plist
+SHA1-Digest: venbpk+lpjXIKcqtr2M7ClXySeU=
+
+Name: assets/textures/blocks/ss_panic.plist
+SHA1-Digest: mzZoh/w0Pb9k3Ilp+/lNJgtxRfY=
+
+Name: assets/it.lproj/Fonts.strings
+SHA1-Digest: oGKXAjzS10dcdUF6NclsbgzyXj4=
+
+Name: assets/textures/scenes/ss_sluginfobox.plist
+SHA1-Digest: 49lvbT9FwnlhLrKF1eglaEOyoyg=
+
+Name: assets/textures/characters/ss_sedo-hd.plist
+SHA1-Digest: WW8tOjW1PAxeFKdXOGOZ5eHFOpk=
+
+Name: assets/textures/slug_seeker/cavern3/ss_cavern3-hd.plist
+SHA1-Digest: QeKuRKl4GYjnHqC8DDCRIe6V4n0=
+
+Name: assets/textures/blocks/ss_firenzar.plist
+SHA1-Digest: x1lRYneDB2WOWEk0uAm1GdXWJnw=
+
+Name: assets/textures/abilities/ss_fuse_shockwave.plist
+SHA1-Digest: AedqorfnINx6gjF8rnjVKYQTTYk=
+
+Name: assets/textures/blocks/ss_ghoul_grenuke-hd.plist
+SHA1-Digest: fvQdqJtPq4LJOEsLGpkoZ1lHAso=
+
+Name: assets/textures/abilities/ss_fireball_tazer.plist
+SHA1-Digest: 5Wk2BqSVaMv+dhIjvdcMjZIU8bY=
+
+Name: assets/textures/characters/ss_watts.plist
+SHA1-Digest: sbQCRgLqHhQ8OuMvJHOakTZrmPQ=
+
+Name: res/drawable-xxhdpi/common_signin_btn_text_disabled_focus_light.
+ 9.png
+SHA1-Digest: /ps9lLPOdDdwDt2YyGRRyGkRCMw=
+
+Name: assets/textures/blocks/ss_mega_thresher-hd.plist
+SHA1-Digest: m+EpS6lHtYB9Qb+5vrP3bsd30Lg=
+
+Name: assets/textures/blocks/ss_narwhaddle.plist
+SHA1-Digest: Zs6qd9PJlKZhFtAD9TO68cVdlGk=
+
+Name: org/apache/commons/codec/package.html
+SHA1-Digest: UUrM9ExPCzFtOWiJTpQsCRRUlao=
+
+Name: assets/Icon-76.png
+SHA1-Digest: qJkBuh8XP1OrCaKo/IlY3Wqoqlc=
+
+Name: assets/textures/portraits/ss_bonus_darkbanestatue-hd.plist
+SHA1-Digest: RhsPBzGeeJ5XZsuPT3rdJ+WUmVU=
+
+Name: assets/textures/abilities/ss_ghoul_aquabeek.plist
+SHA1-Digest: CuzENO2pGLzC42KzTI21oeYmMOg=
+
+Name: assets/particles/challengeMode/twinkle.plist
+SHA1-Digest: fNjqVVMimkrxSyldZgEqm/JIeBM=
+
+Name: assets/textures/portraits/ss_darkbanebrimstone.plist
+SHA1-Digest: LHSpj3p1Gb0Htvc3ud2dLyPMxTA=
+
+Name: assets/textures/basic_shots/ss_lightning.plist
+SHA1-Digest: ys1nlQ97rwbwOObyKnh2kUF+mPM=
+
+Name: assets/textures/characters/ss_boat_pirates-hd.plist
+SHA1-Digest: YcHwW/WgNj8ZQ95hoiIoF1xR72A=
+
+Name: assets/textures/portraits/ss_fang.plist
+SHA1-Digest: LOq5cQAgfjeoGyMf4vEafG0wkcE=
+
+Name: assets/textures/characters/ss_mei-hd.plist
+SHA1-Digest: CzITMUtGzW/h1p127PPxit/C3zY=
+
+Name: assets/textures/blocks/ss_fuse_geoshard_slicksilver.plist
+SHA1-Digest: zGk2r4Yl1foVVZkcw+cuHU6pc9w=
+
+Name: assets/textures/portraits/ss_behemoth.plist
+SHA1-Digest: I4tUv7UzQNAo6ejANXkqC2PWtsw=
+
+Name: assets/textures/portraits/ss_nachoangry.plist
+SHA1-Digest: BJEbM6FB7OY1TldlLjbe8FzXxrY=
+
+Name: assets/textures/basic_shots/ss_majorLazer-hd.plist
+SHA1-Digest: Hw/d/ZjR63WYDmNaOg8i+DG3vSs=
+
+Name: assets/particles/chest_inner_glow_particles.plist
+SHA1-Digest: PmSW5ijh9ju8pQU9e4ZNnzyDPVo=
+
+Name: assets/fonts/Arial-Unicode-MS.ttf
+SHA1-Digest: IjBLhUbVlOPxhGI2RWOQk2Z94r0=
+
+Name: assets/textures/abilities/ss_fireball_frost.plist
+SHA1-Digest: HwdOMORwRGx56Z5frFClwK0Xs+s=
+
+Name: assets/textures/game/locations/ss_prison_bonus.plist
+SHA1-Digest: hc1LOR/NzKVhNiFG2kWbFUMGW+Q=
+
+Name: assets/textures/portraits/ss_thug1_thug2-hd.plist
+SHA1-Digest: GGUmGolNl9lD7WnKLkPDW+D5+b0=
+
+Name: assets/particles/icebreak_char_particles.plist
+SHA1-Digest: 0ToE+T3oDZ4BCRiaVtliT3ky0ZQ=
+
+Name: assets/textures/blocks/ss_hexlet.plist
+SHA1-Digest: PhYkzRvkcz/tTY9nUvEhIPDbeNg=
+
+Name: assets/textures/characters/ss_shorty-hd.plist
+SHA1-Digest: shgau2h1ZBQ2U6wJOF1/3eAv42Q=
+
+Name: assets/textures/characters/ss_guard3-hd.plist
+SHA1-Digest: wtUK2M11kBEF6iGecDamnt+xWbY=
+
+Name: assets/textures/characters/ss_foreman.plist
+SHA1-Digest: MEd0cLgRIVJcB8FcLc7Q+ys38YY=
+
+Name: assets/textures/game_mods/ss_blaster_velocity-hd.plist
+SHA1-Digest: y0kkHGx2oeMwrwjtSUMZhZbzhZQ=
+
+Name: assets/textures/abilities/ss_yang.plist
+SHA1-Digest: Znk2BjMLYQV9a+qSAAD6OID0itE=
+
+Name: assets/textures/scenes/ss_credits-hd.plist
+SHA1-Digest: ZNm5LMobtpTunef5QCnGfgKM6jw=
+
+Name: res/drawable/common_signin_btn_icon_light.xml
+SHA1-Digest: OJXPXV0IBjRZCIij8GQ2hGfxnyc=
+
+Name: assets/particles/doc_explode_particle.plist
+SHA1-Digest: tBMaQQa7Jw5FEz4C6wgmqFqrVto=
+
+Name: assets/textures/characters/ss_guard_mech.plist
+SHA1-Digest: o7fkrrhEp4h7gCjI/WRau40/3vU=
+
+Name: assets/textures/characters/ss_guardbig2-hd.plist
+SHA1-Digest: /LftErIBG8vpxhPd/eNyA+9at1s=
+
+Name: assets/textures/characters/ss_jack_uniform.plist
+SHA1-Digest: 1SMqtHNIbTU+mQkZYEcHRdC5dAQ=
+
+Name: assets/textures/portraits/ss_endless.plist
+SHA1-Digest: bpT9vft0l3YjhKVfuyXEpDAqBLo=
+
+Name: assets/textures/portraits/ss_watts-hd.plist
+SHA1-Digest: iRQWrfM+4Sn5LuHUqEBUloPzZJM=
+
+Name: assets/zh-Hans.lproj/ss_title_logo-hd.plist
+SHA1-Digest: d9Eg4aAqgsro1B4/a3dhzDcBGXE=
+
+Name: res/drawable-xxhdpi/common_signin_btn_text_normal_dark.9.png
+SHA1-Digest: dV3F0Sz7MxTs+Trhe4uXp7Q7aSs=
+
+Name: assets/particles/challengeMode/chainBreak.plist
+SHA1-Digest: LniXB2qIwGyIojxW0KpLjianGjw=
+
+Name: assets/textures/characters/ss_arclight-hd.plist
+SHA1-Digest: r2UzZMyrIKoy9cJBDfAeFqdqqcg=
+
+Name: assets/textures/portraits/ss_bonus_windmill.plist
+SHA1-Digest: l6775hnd/QExPjZFWnuHgTI7zkI=
+
+Name: assets/textures/portraits/ss_munch_uniform.plist
+SHA1-Digest: 5UbObMGZF0/Uu0vAL53bRDYgV78=
+
+Name: assets/ru.lproj/ss_title_logo-hd.plist
+SHA1-Digest: nJVI9n9ytL5lsVV5CQ0knpGZZc0=
+
+Name: assets/textures/abilities/ss_grenuke-hd.plist
+SHA1-Digest: EzM30ea+SRYtwKkdFQy1RAqsyDY=
+
+Name: assets/textures/blocks/ss_mega_frost.plist
+SHA1-Digest: 9+bGSACeyJj7iJqoPd6WlWP7a84=
+
+Name: assets/textures/portraits/ss_bonus_ghoulstation.plist
+SHA1-Digest: BLGWrIW81BvO92vTTkydKUcJr5s=
+
+Name: assets/textures/game/locations/ss_darkbanechasmbottom.plist
+SHA1-Digest: qD4pXLg3nGDTv/SkrX2MXO4mB50=
+
+Name: assets/textures/blocks/ss_mega_tormato.plist
+SHA1-Digest: ElU7tPLwtwSKBfb+xowd7dA/6vM=
+
+Name: assets/textures/abilities/ss_fuse_ghoul_burpy_ghoul_gas.plist
+SHA1-Digest: cD15Qs9eMVQOeMWe0dfLD5NSkwc=
+
+Name: assets/textures/blocks/ss_fuse_ghoul_tormato_ghoul_flaringo.plis
+ t
+SHA1-Digest: Y4a76ozvA7uSamdFOv7boNQpUak=
+
+Name: assets/particles/cavern_card_heavy_dust_particles.plist
+SHA1-Digest: eXGdy4fVCxX1T0xNJHkw2dF+tEE=
+
+Name: assets/textures/portraits/ss_shark_mech-hd.plist
+SHA1-Digest: XxuEsgTwOLtyfH5aSI1Uatv+7Gg=
+
+Name: assets/textures/slug_seeker/spikes/ss_spikes-hd.plist
+SHA1-Digest: 0a69FOAuZ8POjISflg6JNDyvoIE=
+
+Name: res/drawable-xhdpi/ic_plusone_standard_off_client.png
+SHA1-Digest: NEAofQuoLcRt99gbmL+/kRTDnUE=
+
+Name: assets/textures/portraits/ss_chest_small-hd.plist
+SHA1-Digest: WVyMjDkZH5LQ46r0HNcwvqr5yG0=
+
+Name: assets/textures/portraits/ss_blakk_gat.plist
+SHA1-Digest: U4ve2xWeTXk5WuNzRB057cNc7jI=
+
+Name: lib/armeabi/libCoreGraphics.so
+SHA1-Digest: FM+3c0VTPCTTosRzhRvrtx0NilQ=
+
+Name: assets/textures/characters/ss_goon3.plist
+SHA1-Digest: Z9zPIBlAYJE52anEGOAG86lEJnQ=
+
+Name: assets/textures/abilities/ss_fuse_flaringo_phosphoro-hd.plist
+SHA1-Digest: mRbUvxnLElk6fFN9vYaTLPWA8M0=
+
+Name: assets/textures/blocks/ss_ghoul_lock.plist
+SHA1-Digest: uTg925K/e0lF45LnDJOXyrMY05g=
+
+Name: assets/textures/abilities/ss_ghoul_flaringo-hd.plist
+SHA1-Digest: ajocE8yIEe8XGBj66UOOWgkD26A=
+
+Name: assets/textures/portraits/ss_doombots-hd.plist
+SHA1-Digest: +NDwhvWKID0gLzo9wB+A9WGDGtw=
+
+Name: assets/textures/portraits/ss_eviltrixie.plist
+SHA1-Digest: XD3sNJQ1CCN8Rl57NWnmiwK6WSk=
+
+Name: assets/textures/blocks/ss_ghoul_flaringo-hd.plist
+SHA1-Digest: nstn2EY7f0BHRZOWCN6HqmHZl7o=
+
+Name: assets/textures/portraits/ss_eli_mech-hd.plist
+SHA1-Digest: Yfl98t23IxTbC85qyfviMoiNR9w=
+
+Name: assets/textures/portraits/ss_zombiechef-hd.plist
+SHA1-Digest: a50+lfwKcMH/prV6yFQv3dwMj88=
+
+Name: assets/pt-PT.lproj/Localizable.strings
+SHA1-Digest: 2BOpMosFkVggJpCLCzfw9k7rydk=
+
+Name: assets/textures/characters/ss_mrsaturday.plist
+SHA1-Digest: 2dsfrGqaz7HNHxv4ueUZnlciVZY=
+
+Name: assets/textures/portraits/ss_darkbane_soldier1.plist
+SHA1-Digest: wBYrzWb3vZKPbR8I1QLklJqpais=
+
+Name: assets/textures/characters/ss_blakk_gat.plist
+SHA1-Digest: lJed04yLMwpKZtXO7K6YRXtO9wg=
+
+Name: res/layout/status_bar_ongoing_event_progress_bar.xml
+SHA1-Digest: RaQDdBMbBDxVedx9MjX9Vsdf7Yo=
+
+Name: assets/textures/blocks/ss_yang.plist
+SHA1-Digest: ViK5zbBWQ3ZUXNnmFsMm2OFs9BI=
+
+Name: assets/textures/portraits/ss_goon-hd.plist
+SHA1-Digest: ZC8k6pCdrmN9/ZMAb0ZBgCNF66w=
+
+Name: assets/textures/game/locations/ss_arena.plist
+SHA1-Digest: uZeBKl/hLWOT8jB8OHMeyrYC+90=
+
+Name: assets/textures/interface/ss_ui.plist
+SHA1-Digest: hGc4EhFVOGDLC71SZcl2D6h1PVE=
+
+Name: res/drawable-xhdpi/common_signin_btn_icon_focus_light.9.png
+SHA1-Digest: THnQ9r/oTuPB60ajOYXvK1GrUsE=
+
+Name: assets/textures/blocks/ss_fuse_tormato_jellyish.plist
+SHA1-Digest: pwGDL+lIK05Wev1MU3IZHQHc76M=
+
+Name: assets/particles/cavern_screen_snowflake_particles.plist
+SHA1-Digest: TO5qyGphIUJapYwvoY5uXiA0zdI=
+
+Name: assets/textures/abilities/ss_tazer.plist
+SHA1-Digest: lbXvJ5FIq4VKdleRp/jj6SqaqPs=
+
+Name: res/drawable-xxhdpi/common_signin_btn_text_pressed_dark.9.png
+SHA1-Digest: bENWi8ZugwD88Ech+3ZELNcC/Kw=
+
+Name: res/drawable-hdpi/ic_plusone_tall_off_client.png
+SHA1-Digest: mKmFlpzPqO2eN1UQWWTrY/HvgmA=
+
+Name: assets/textures/abilities/ss_ghoul_tazer.plist
+SHA1-Digest: WWMNgT3QtLICh5V90IzBFoJLFAI=
+
+Name: assets/textures/characters/ss_munch.plist
+SHA1-Digest: htwvJuV3NhTHbyDypw36wGa8VqM=
+
+Name: assets/es-MX.lproj/Fonts.strings
+SHA1-Digest: oGKXAjzS10dcdUF6NclsbgzyXj4=
+
+Name: assets/textures/characters/ss_billy.plist
+SHA1-Digest: vXgkvBXoQ1cc793Ghml+2Xc33No=
+
+Name: assets/de.lproj/Fonts.strings
+SHA1-Digest: oGKXAjzS10dcdUF6NclsbgzyXj4=
+
+Name: assets/textures/slugs/ss_slugs0-hd.plist
+SHA1-Digest: HoIpFYIJLIH+jzmm+5Qp/qLbZ8g=
+
+Name: assets/textures/game/locations/ss_chapter16_panel02.plist
+SHA1-Digest: UBT73OXkUyHjzd6D8C9z3RgJiC4=
+
+Name: assets/textures/reward_packs/ss_reward_packs.plist
+SHA1-Digest: nuC1OPAYhkgCWltxbOHkT9/8IIk=
+
+Name: assets/textures/game/locations/ss_gate.plist
+SHA1-Digest: hnSgLomOBkxOQU2YFoq7WSmjUy8=
+
+Name: assets/textures/portraits/ss_billy.plist
+SHA1-Digest: HW6Zt3cklzT8V9mWne0Jbz0lFFs=
+
+Name: assets/textures/portraits/ss_young_blakk-hd.plist
+SHA1-Digest: sQxU+wul1DZB4/cSh2OT4YJEkSw=
+
+Name: assets/textures/abilities/ss_speedstringer.plist
+SHA1-Digest: OO9vAXCHpiQ1HZ7fsykJGuFfNis=
+
+Name: assets/textures/portraits/ss_shorty-hd.plist
+SHA1-Digest: gFaVCaa4mojwPBqGXQf2Sey7tJA=
+
+Name: assets/textures/characters/ss_twist.plist
+SHA1-Digest: AdqzKW65cVVeB3HITLMzCp5eWY4=
+
+Name: assets/textures/portraits/ss_sedo_uniform-hd.plist
+SHA1-Digest: 72sbqTqUwR2jnZMrUB22vsYW2fM=
+
+Name: assets/textures/portraits/ss_eli_mech.plist
+SHA1-Digest: MCr3yUtmgkbcJTEOfbjqVp6ubVU=
+
+Name: assets/textures/scenes/ss_mp_lobby_pvrtc-hd.plist
+SHA1-Digest: fjV9V91zGt8UWAFtP56ls9OV/RQ=
+
+Name: assets/textures/scenes/ss_slugseeker_cavern_select-hd.plist
+SHA1-Digest: 5xCAw5i6Tj/RAK96S+ovsQD2fTo=
+
+Name: assets/textures/slug_seeker/cavern6/ss_cavern6-hd.plist
+SHA1-Digest: Eq8M1J8GupHq2XuMUvUA0/t2DCo=
+
+Name: assets/textures/game/locations/ss_slugseeker_05.plist
+SHA1-Digest: nGnFJ4EMn9PVK05tgbEMrwyZyxQ=
+
+Name: assets/textures/game/locations/ss_windmill-hd.plist
+SHA1-Digest: x9eoARBwTmY2rO77KvlTOxmhjiM=
+
+Name: assets/textures/scenes/ss_chest-hd.plist
+SHA1-Digest: a+wIUvuvcKI/dxhGn72PHU1q+eQ=
+
+Name: assets/textures/scenes/ss_slugseeker_cavern_select.plist
+SHA1-Digest: a3pjLqNz1D3104dvhUJlq4oUcY0=
+
+Name: assets/textures/portraits/ss_sedo_uniform.plist
+SHA1-Digest: qMdASsPGgpSdMcvXTw5oGXlajxc=
+
+Name: assets/particles/cavern_screen_sparkle_particles.plist
+SHA1-Digest: tBgWC2TjuHv6t/cfZo8qrD1VkWk=
+
+Name: assets/textures/blocks/ss_mega_tormato-hd.plist
+SHA1-Digest: B9+mEI09qnWGtQlKPMKooStp3WE=
+
+Name: assets/textures/portraits/ss_twist.plist
+SHA1-Digest: IjaBeSJL5mUKCtX9m0DZFhTxEPI=
+
+Name: assets/textures/abilities/ss_hoprock.plist
+SHA1-Digest: 2+vnHDm54KNl4ou3Q9BfiO+FGzQ=
+
+Name: assets/textures/abilities/ss_fuse_enigmo_xmitter.plist
+SHA1-Digest: 357RhUPzvtW+gkEmvYItzk18urE=
+
+Name: assets/textures/game/locations/ss_trashheap1.plist
+SHA1-Digest: SX+sSz+LP1/1xfmvdEISrTO/Vw8=
+
+Name: assets/SimSun.ttf
+SHA1-Digest: dH57ke/tzcyM4LUmuI1Idx5aczQ=
+
+Name: assets/textures/characters/ss_will-hd.plist
+SHA1-Digest: bq+5vxXhODBmf8ByteyHKTXh5rc=
+
+Name: assets/textures/portraits/ss_inmate.plist
+SHA1-Digest: 51WfzCRC3z/QXcwHk7XdVBJX6/E=
+
+Name: assets/ru.lproj/Localizable.strings
+SHA1-Digest: l29G2k/vZOJcta9rfd3fw+lkLvk=
+
+Name: assets/textures/characters/ss_angrybossember-hd.plist
+SHA1-Digest: 2VcD1qHbreuSGc2SMVTKcBbRORY=
+
+Name: assets/textures/destructible_objects/ss_trixiecage.plist
+SHA1-Digest: UUYL2JFBgyOO9M9+vV2yZy3GdAo=
+
+Name: assets/textures/portraits/ss_guardbig1_guardbig2.plist
+SHA1-Digest: qOOh3AMv1wd164GggvKvjhsUhsQ=
+
+Name: assets/textures/characters/ss_blakk_gat-hd.plist
+SHA1-Digest: s1VjtOTLfL2ZmDnrXGyDehne/Us=
+
+Name: assets/textures/portraits/ss_hooligang.plist
+SHA1-Digest: drxVAdZuChN4luslmKNZfP2IBww=
+
+Name: assets/textures/portraits/ss_securitygun.plist
+SHA1-Digest: 9ZPG2x3QLK+sKkAq+iY+H7TNYp0=
+
+Name: assets/textures/portraits/ss_darkbanesoldierelite1-hd.plist
+SHA1-Digest: 4rxrDEOITFHF6eFB4P+ROwr/8/g=
+
+Name: assets/textures/blocks/ss_mega_doc-hd.plist
+SHA1-Digest: 53rcmfkBE+vThPVPF5vwh89d5yI=
+
+Name: assets/textures/portraits/ss_voodoo.plist
+SHA1-Digest: m3EOCksWiGcpJ0Wd27pQVDuGdNY=
+
+Name: assets/textures/abilities/ss_fireball_gas-hd.plist
+SHA1-Digest: beE4CG6xYslrbTI5QEJLVbHijVI=
+
+Name: assets/textures/interface/ss_carousel_pvrtc.plist
+SHA1-Digest: 7YkSBWlEnVW6IEbeYxYeB9XJvV4=
+
+Name: assets/textures/abilities/ss_gas_ghouled.plist
+SHA1-Digest: VnULcQiXNyWj7xk3W7/dHORqGzQ=
+
+Name: res/drawable-hdpi/common_signin_btn_icon_normal_light.9.png
+SHA1-Digest: WqQF3y/vDvl0c3tlpCQMUlAGR90=
+
+Name: assets/textures/abilities/ss_fuse_ghoul_grenuke_ghoul_arachnet-h
+ d.plist
+SHA1-Digest: Qq5H/x4GR8UzRA5yZyz9BYBXPZ4=
+
+Name: assets/es.lproj/InfoPlist.strings
+SHA1-Digest: sj/NDiPYrm4XXaw7u2xX48bEpSQ=
+
+Name: assets/textures/abilities/ss_fuse_slyren_narwaddle-hd.plist
+SHA1-Digest: JP0Bj5xA6rVhHTUpsmoB9lZEq1U=
+
+Name: assets/textures/portraits/ss_prisondoor-hd.plist
+SHA1-Digest: +I4u2FYLlUTHGaoygIg6SMQPRrI=
+
+Name: assets/textures/portraits/ss_guard_darkbane_soldier.plist
+SHA1-Digest: PPB3LV3yfLntRGTlJCirWy6guRE=
+
+Name: com.apportable.system/fonts/DroidSansThai.ttf
+SHA1-Digest: eS8rnuLcsv6twXUA/PwTGlsc2vQ=
+
+Name: assets/textures/game/locations/ss_arena-hd.plist
+SHA1-Digest: BP8NG8L2nKgKymV/rcqlwO2Robo=
+
+Name: assets/textures/game/locations/ss_exterior-hd.plist
+SHA1-Digest: Y9uBwDAk7sKtctsk/EppBPoCf7A=
+
+Name: assets/textures/portraits/ss_munch.plist
+SHA1-Digest: c4380O/qFvOwnf1DYxwJj8ByQgc=
+
+Name: assets/textures/characters/ss_technician-hd.plist
+SHA1-Digest: q4Y56FciEkqlpwYZbuBmZeGTN+A=
+
+Name: assets/textures/characters/ss_gabe-hd.plist
+SHA1-Digest: wmcWi2Dg3dSgTIHB0naBb6GCXcA=
+
+Name: assets/textures/game/locations/ss_darkbaneprison.plist
+SHA1-Digest: Qehum+EWrEf2Zf2/ubZpj7ZEdZQ=
+
+Name: assets/particles/cavern_card_snowflake_particles.plist
+SHA1-Digest: HwzrACP3mAkdw8VyfIo7swYL5yg=
+
+Name: assets/particles/xmitter_gate_particle.plist
+SHA1-Digest: aDWRU6vHjkIN3v50kS7ZgZTYbzY=
+
+Name: assets/textures/portraits/ss_frost.plist
+SHA1-Digest: tTe0YJLDvdBnXNbTMOkbisU7hgI=
+
+Name: assets/textures/abilities/ss_tazer-hd.plist
+SHA1-Digest: 8H68jyVKGImp7QIKUh6mCpXZPi0=
+
+Name: assets/textures/game/locations/ss_thronenochair.plist
+SHA1-Digest: t76g9IZcNiX1PiWBQgcpCcsu1Qw=
+
+Name: assets/textures/portraits/ss_robo-hd.plist
+SHA1-Digest: GBk8WHmMUC/2YbApxdpPqCL+8EE=
+
+Name: assets/textures/portraits/ss_darkbane_nacho.plist
+SHA1-Digest: pADawggDi22aXxBNyERD87nd95c=
+
+Name: assets/textures/portraits/ss_darkbanebrimstone-hd.plist
+SHA1-Digest: O4ywwpF9EABohRfcAArUw0q2WqA=
+
+Name: res/drawable-mdpi/common_signin_btn_text_disabled_focus_light.9.
+ png
+SHA1-Digest: 29jlpwaYo8yADFvg53lRNdVbvt0=
+
+Name: assets/textures/portraits/ss_viggo-hd.plist
+SHA1-Digest: w5WiW9e6qNsy/XDc4QCg2fFyq8Q=
+
+Name: assets/textures/abilities/ss_ghoul_panic-hd.plist
+SHA1-Digest: cLko6oUqjkLZQoXeWIeuet7Hpx4=
+
+Name: assets/textures/portraits/ss_eliprison-hd.plist
+SHA1-Digest: aaYrJ4XiZ5fcg3UCOwIQCiycyLA=
+
+Name: assets/textures/game/locations/ss_docks-hd.plist
+SHA1-Digest: bJBRN/+YtO1ilnLMGpY1v7J7W8M=
+
+Name: assets/particles/cavern_screen_firework_particles.plist
+SHA1-Digest: 1RB7JjTqQrFpm75BAwuvl8Z+OJo=
+
+Name: assets/textures/portraits/ss_angrybossember-hd.plist
+SHA1-Digest: Xz3vgXNofLwxyPXw5wxnWDaagws=
+
+Name: assets/textures/portraits/ss_evileli-hd.plist
+SHA1-Digest: MlFqlz28eN8WZHgCc9cn5Q6Lkt8=
+
+Name: assets/textures/scenes/ss_encounter_select.plist
+SHA1-Digest: hz3n8UQpEIH0xQbRd2ct+zQOCho=
+
+Name: assets/textures/slug_seeker/cavern5/ss_cavern5.plist
+SHA1-Digest: TurgPwW/vBONgRrRCjwfBNkE9z4=
+
+Name: assets/textures/characters/ss_testdummy.plist
+SHA1-Digest: WbEegRRojuH9K9QRcLMZYA9VVm0=
+
+Name: assets/textures/abilities/ss_fireball.plist
+SHA1-Digest: MCtjT2wvbcWpYFhsQAkZpNYjwGY=
+
+Name: assets/textures/blocks/ss_mega_burpy-hd.plist
+SHA1-Digest: a4n+ssxBwK6MYV3fqNPLgO0XZEQ=
+
+Name: assets/pt-PT.lproj/ss_title_logo-hd.plist
+SHA1-Digest: UNIO1wd3mW+jpOy2K4c/mGF3ecs=
+
+Name: assets/textures/game/locations/ss_jungle.plist
+SHA1-Digest: uPwwOc8+25KjmOz/4VA3/6cafPI=
+
+Name: assets/es.lproj/Fonts.strings
+SHA1-Digest: oGKXAjzS10dcdUF6NclsbgzyXj4=
+
+Name: assets/textures/destructible_objects/ss_chest_large-hd.plist
+SHA1-Digest: MxlmDBBn95I+KFuJypLve0oeCKo=
+
+Name: assets/textures/characters/ss_darkbane_soldier1.plist
+SHA1-Digest: Ad4nYP0uLXsocBo+vTUiR+Wam2E=
+
+Name: assets/textures/blocks/ss_burpy-hd.plist
+SHA1-Digest: JWDDsdh7zqrq/F0pcM9yc/hG0Nk=
+
+Name: assets/textures/blocks/ss_fuse_burpy_tazer.plist
+SHA1-Digest: AZJZWFb2w3npRSkmmUJC0YDGqD8=
+
+Name: res/drawable-hdpi/common_signin_btn_text_disabled_dark.9.png
+SHA1-Digest: 1nB29gilkMG21U2c1UzWz5vtjpc=
+
+Name: assets/textures/portraits/ss_twist-hd.plist
+SHA1-Digest: 6hQlu4/6KYuUbMj3e5sJMBzyuCw=
+
+Name: assets/textures/game/locations/ss_darkbanechasm-hd.plist
+SHA1-Digest: WTv+N8PmThLMy20+/4b2YyUDuTQ=
+
+Name: res/drawable-hdpi/common_signin_btn_text_pressed_light.9.png
+SHA1-Digest: Wx/93xRl4fEGrkADqVPH6ShswfU=
+
+Name: assets/textures/characters/ss_mrsaturday_uniform-hd.plist
+SHA1-Digest: V47BkJc7P2xvAH38hPR0wYYEjIE=
+
+Name: assets/textures/blocks/ss_thresher-hd.plist
+SHA1-Digest: toExMU4PzaYi57fkGN+z2pq0LV4=
+
+Name: assets/textures/characters/ss_billy-hd.plist
+SHA1-Digest: YeJ3khcg2D3oXc+EDOKgs5X2lSU=
+
+Name: assets/textures/characters/ss_shadow_clan_leader-hd.plist
+SHA1-Digest: YZ10i+az2XdnMEotCgARDx+szv8=
+
+Name: assets/textures/characters/ss_mrsaturday_uniform.plist
+SHA1-Digest: eUskJOX9c5pWl0qhemP/WuL2w34=
+
+Name: assets/textures/characters/ss_shadow.plist
+SHA1-Digest: bs5PaVQrwQ7V9DNF4bAPvXPzadk=
+
+Name: assets/textures/scenes/ss_score_pvrtc-hd.plist
+SHA1-Digest: ySMQolemWMPFnWiMSSdT3abJdFI=
+
+Name: assets/textures/slugs/ss_sluglevels0-hd.plist
+SHA1-Digest: bXQMhrxXQmqRpRiKG0LLSKwA778=
+
+Name: assets/textures/game/locations/ss_darkbaneground-hd.plist
+SHA1-Digest: rlxnTnw5FPKyJ18kPSCmb/IAi2U=
+
+Name: assets/textures/portraits/ss_elemental-hd.plist
+SHA1-Digest: 7OcozX38ZNasBbA9QdQaLSMhjH4=
+
+Name: assets/textures/abilities/ss_ghoul_rammstone.plist
+SHA1-Digest: R5WfrUYsVQfd1yLtQTq1GzqWMbE=
+
+Name: assets/textures/abilities/ss_enigmo.plist
+SHA1-Digest: lQJTEyoJwLdeYR01pfCMWG+JO5Q=
+
+Name: assets/textures/slug_seeker/cavern1/ss_cavern1.plist
+SHA1-Digest: Y+XIk31OSzyp6Ra7NBEIIQiIVj0=
+
+Name: assets/textures/destructible_objects/ss_windmill-hd.plist
+SHA1-Digest: bDuNQSdH2N5ewGIodPfWPRMmntM=
+
+Name: assets/particles/chainBreak.plist
+SHA1-Digest: vjsitmZEnPP2S8UBdKSHkzbrxQc=
+
+Name: assets/textures/game/locations/ss_undertowcavern2-hd.plist
+SHA1-Digest: x+IkGr8COPkb9iBW2TvnVeNMQNY=
+
+Name: assets/textures/game/locations/ss_bridge.plist
+SHA1-Digest: k6J4dRyh9N8ooXI+fz51HTLpsKA=
+
+Name: res/drawable-xhdpi/common_signin_btn_icon_disabled_focus_dark.9.
+ png
+SHA1-Digest: 5te3wznPBVYtZMjVj49FYN5YlRA=
+
+Name: assets/particles/chest_open_particles.plist
+SHA1-Digest: aOPmuSadl8NOCTnsbZ8EMdhFCL8=
+
+Name: assets/textures/scenes/ss_adventure_select-hd.plist
+SHA1-Digest: 8FATf3IF4CWLXHuSzm/Ezl+6yU8=
+
+Name: assets/textures/blocks/ss_fuse_freeze_grenuke.plist
+SHA1-Digest: K1KLfBbs5K7HvvyBhoFunauzqFM=
+
+Name: assets/textures/blocks/ss_ghoul_tormato.plist
+SHA1-Digest: ECS0GnKn2DaDVqm/ii3QRD/oN+U=
+
+Name: assets/textures/characters/ss_darkbane_soldier3-hd.plist
+SHA1-Digest: 0Nq22midgnAqF3GZcvpkTcEiyYE=
+
+Name: assets/textures/destructible_objects/ss_chest_large.plist
+SHA1-Digest: 4+I8V4B0UsTcDCwkiNLRqjZjVPM=
+
+Name: assets/textures/characters/ss_kord-hd.plist
+SHA1-Digest: bN6/ST0vCmDPjC44tteHzvvHr7I=
+
+Name: assets/textures/blocks/ss_yang-hd.plist
+SHA1-Digest: GgPEMN1L/pCgEGTC8Env2YPgSjA=
+
+Name: assets/textures/game/locations/ss_deepcavern1-hd.plist
+SHA1-Digest: 53DxjwnORESZVoDVQnW5xiXiK0g=
+
+Name: assets/textures/blocks/ss_mega_burpy.plist
+SHA1-Digest: 5gMPm87JOOVPb2Ee5Exyild2upM=
+
+Name: assets/textures/characters/ss_nacho_uniform.plist
+SHA1-Digest: GbSmJEdZQLCXNlXIXQkmECaz4UQ=
+
+Name: assets/textures/abilities/ss_phosphoro.plist
+SHA1-Digest: jTyEF69MPItJsO2X965yjRx+jDA=
+
+Name: assets/textures/portraits/ss_kingofsling.plist
+SHA1-Digest: z9R5NRzeA+aC7K8SdkMd5uX6A7s=
+
+Name: assets/textures/characters/ss_pirate_1.plist
+SHA1-Digest: lloe7r7q97fN2VaNeYyMly7wf0I=
+
+Name: assets/textures/portraits/ss_frost-hd.plist
+SHA1-Digest: DyojUfoWUajzrG1dlay5kEnaBHo=
+
+Name: assets/textures/game/locations/ss_chapter17_blakk01.plist
+SHA1-Digest: yqr0OgsStQH/2AzXqYLCfeU3H/0=
+
+Name: assets/textures/abilities/ss_fuse_tazer_fright-hd.plist
+SHA1-Digest: 5HD+nvFsnHShyYMIxYHZAwab4g0=
+
+Name: assets/textures/characters/ss_shark.plist
+SHA1-Digest: 36hb0GXcw9Q3e74xPjErOj1+bSk=
+
+Name: assets/textures/portraits/ss_drake-hd.plist
+SHA1-Digest: +7ze6pXZpVTLvrK5Qfx7nsYQPfs=
+
+Name: assets/textures/blocks/ss_fright.plist
+SHA1-Digest: 9w8CQ+0HurdCDotd+L0XODjXH7Y=
+
+Name: assets/textures/game/ss_game_ui.plist
+SHA1-Digest: xnURd1q5bym3W7sQY1aPFEQq0HM=
+
+Name: assets/textures/portraits/ss_darkbane_soldier2-hd.plist
+SHA1-Digest: QkjJdOibsCF4IKs+8+OxiLOzK7M=
+
+Name: assets/textures/abilities/ss_reflect.plist
+SHA1-Digest: GdEhNiBQOYQMvgPvZJoMcnH6ZkQ=
+
+Name: manifest
+SHA1-Digest: mMPMo8V6pVtuzWe7ZFR440kXloo=
+
+Name: assets/tr.lproj/AppiraterLocalizable.strings
+SHA1-Digest: K15mRNcdlcyNQMQD12fni2QXGWw=
+
+Name: lib/armeabi/libSystem.so
+SHA1-Digest: cPk2yVaQYWE5Xa5xHfJr/QydMME=
+
+Name: assets/textures/destructible_objects/ss_trash-hd.plist
+SHA1-Digest: qDu6DYfiezPnP0CBntBj1lyW73k=
+
+Name: assets/textures/abilities/ss_ghoul_yang.plist
+SHA1-Digest: XqJK8fIM/WWsdbsxWLJJmBLON5k=
+
+Name: assets/textures/portraits/ss_pirate1.plist
+SHA1-Digest: SvWbm9gvGjWkoWX/q2Y/8a8+qr0=
+
+Name: assets/textures/portraits/ss_fang_watts_drake-hd.plist
+SHA1-Digest: UjanRagOKrNzcQxpNByxSY52Opo=
+
+Name: assets/textures/portraits/ss_cajun_uniform-hd.plist
+SHA1-Digest: sGwE9tEdooQZAqoLlRKLgUOcunM=
+
+Name: assets/textures/abilities/ss_ghoul_grenuke-hd.plist
+SHA1-Digest: anF7Sg8hWN7W8pQdgOLlHO3bKtg=
+
+Name: META-INF/maven/com.google.ads.mediation.inmobi/libadapterinmobi/
+ pom.properties
+SHA1-Digest: yzHFWmlKJcsX9sruW04r+91iulE=
+
+Name: assets/textures/grid_effects/ss_blackout-hd.plist
+SHA1-Digest: MbzPiAGejV3PLNzUn7hUfXU0Be4=
+
+Name: assets/textures/portraits/ss_spirex-hd.plist
+SHA1-Digest: DnkyTu8PPbYSaEO4eqszzImH9nE=
+
+Name: assets/textures/abilities/ss_fuse_doc_gas.plist
+SHA1-Digest: tO3MIgheYqpm9Nd7Dd6y9BJ3tDU=
+
+Name: assets/textures/characters/ss_angryblakk.plist
+SHA1-Digest: NQXSjeHeIR+v/EAa9nPYjZZHRD8=
+
+Name: assets/textures/game/locations/ss_treasure_cave-hd.plist
+SHA1-Digest: wmgtSmcVCmHnyf1p3z2PrD+Ud20=
+
+Name: assets/ar.lproj/InfoPlist.strings
+SHA1-Digest: G0WT61FFqe5CBAciky88j9ap77c=
+
+Name: assets/textures/characters/ss_hostile_miner-hd.plist
+SHA1-Digest: W+2uHubtCTQ4ttrOVDW4gvK+4NI=
+
+Name: res/drawable-xhdpi/ic_plusone_medium_off_client.png
+SHA1-Digest: pxNZ8SkEfPjyfAiSKNlW4SZk60Q=
+
+Name: assets/textures/blocks/ss_tazer.plist
+SHA1-Digest: CcQx3VzsdKsqrFNoanOB7ZEacXM=
+
+Name: assets/textures/game/locations/ss_trashheap3-hd.plist
+SHA1-Digest: X68cw0Nkajilqe7TIOcLRY4s23Y=
+
+Name: assets/textures/abilities/ss_hypnogriff-hd.plist
+SHA1-Digest: Ux3BprwNnE+r8lpVZTx8/0BGFOY=
+
+Name: assets/textures/characters/ss_pirate_1-hd.plist
+SHA1-Digest: Oz6WKpvJZtV7gzRJjU9Zpr+/tiA=
+
+Name: res/drawable-xhdpi/common_signin_btn_text_focus_dark.9.png
+SHA1-Digest: +YXDOKcowsglHKYLvgWRriKCdQI=
+
+Name: assets/textures/game/locations/ss_slugseeker_09-hd.plist
+SHA1-Digest: KFd8ofNvYYkh1Nqhl3UfX2z1Vrg=
+
+Name: assets/textures/scenes/ss_options-hd.plist
+SHA1-Digest: Q+uH3FKVqAU/DjKENFBSa6SmcZ4=
+
+Name: assets/textures/characters/ss_fav-hd.plist
+SHA1-Digest: vS4LpzZdlra6By9Zk20xBNTRfsg=
+
+Name: assets/textures/abilities/ss_mega_arachnet.plist
+SHA1-Digest: 2rzHl+VJ++Uv9G79XWy48LXvK/Y=
+
+Name: assets/textures/portraits/ss_billy-hd.plist
+SHA1-Digest: ndWUhzQZKtzMLSm96BJGqgZlnMQ=
+
+Name: assets/Info.plist
+SHA1-Digest: wyYkgVDkAUlkQUFKpTrEa++JoOY=
+
+Name: res/drawable-xxhdpi/common_signin_btn_icon_focus_dark.9.png
+SHA1-Digest: QvCsDHmHTCeFtKK23z0HRetpRJI=
+
+Name: assets/textures/blocks/ss_ghoul_yang.plist
+SHA1-Digest: Ttmelby99GClWFOobqpAfjQK66k=
+
+Name: assets/textures/characters/ss_scrapheepgang02-hd.plist
+SHA1-Digest: 2MsmuqdImX+tdX91VrzCO8QR7QQ=
+
+Name: assets/textures/portraits/ss_angryblakk.plist
+SHA1-Digest: +sPa+qGTHFeiHpKW8+u+8R0szMk=
+
+Name: assets/textures/characters/ss_darkbane_prison_guard.plist
+SHA1-Digest: YjG5lQE1wQJlSjXgFNtsbF3pnSw=
+
+Name: assets/textures/abilities/ss_thugglet.plist
+SHA1-Digest: Es28ZjqyKm5k0uGw7xOUFhI+R14=
+
+Name: assets/textures/slugs/ss_slugs_small.plist
+SHA1-Digest: IBSU9eSy9Kmgj5BbGczNd8oZEpI=
+
+Name: assets/textures/portraits/ss_bonus_trashheap.plist
+SHA1-Digest: B6tncF1CCwNq3+nCSjr6qUKo/xY=
+
+Name: assets/textures/portraits/ss_darkbane_soldier3-hd.plist
+SHA1-Digest: o0jhiBCPO0lQobrSrGiw5afCpAc=
+
+Name: assets/textures/scenes/ss_news.plist
+SHA1-Digest: 3RP+aDhbJ16fn21ULLfh5dgriMc=
+
+Name: assets/el.lproj/InfoPlist.strings
+SHA1-Digest: sj/NDiPYrm4XXaw7u2xX48bEpSQ=
+
+Name: assets/textures/blocks/ss_xmitter-hd.plist
+SHA1-Digest: zcvx5skLoAPCzcIYf/QLtQHtncU=
+
+Name: assets/textures/game/ss_game_pvrtc-hd.plist
+SHA1-Digest: yfQBQVMTWnuVYxaH4cNhevkUFeE=
+
+Name: assets/textures/characters/ss_cannon-hd.plist
+SHA1-Digest: OpPn3QzsqPB5TQ4TW5/lnA0N48U=
+
+Name: assets/textures/game/locations/ss_darkbanethronebonus-hd.plist
+SHA1-Digest: R9kr5YKvvnre99sNlvb/s3tIDSo=
+
+Name: assets/textures/game_mods/ss_autocharge_one.plist
+SHA1-Digest: KHDFB1LT+js3mmJPLKyTt6Iljb0=
+
+Name: assets/textures/characters/ss_shadow-hd.plist
+SHA1-Digest: 06lH9t99paFIMWeZXqAp8zqGLhg=
+
+Name: assets/textures/destructible_objects/ss_ghoulstation.plist
+SHA1-Digest: uxkK3ysZBWQu6XggLl+A/Ax7r2M=
+
+Name: assets/textures/game/locations/ss_tracks.plist
+SHA1-Digest: EUwcBIQy2ZOCdLrMaBOk7OknIGQ=
+
+Name: assets/textures/blocks/ss_grenuke.plist
+SHA1-Digest: kSkLQwmgYmeUL0kTJbB2uq5dcv4=
+
+Name: assets/textures/abilities/ss_mega_gas-hd.plist
+SHA1-Digest: cCCiqRd0tvMQVURgXLUMHGhCD20=
+
+Name: assets/textures/blocks/ss_armashelt-hd.plist
+SHA1-Digest: oiMTvfLFLQHKBYB8rbfCqLsFjVQ=
+
+Name: assets/textures/blocks/ss_ghoul_doc-hd.plist
+SHA1-Digest: HdQxpbKJq5l4AciDxob74rvlsjU=
+
+Name: assets/fonts/KimberleyPro.ttf
+SHA1-Digest: 0GZqMNs0j3/n2McjzYiN2/kbxFw=
+
+Name: lib/armeabi/libGraphicsServices.so
+SHA1-Digest: nxRjcJ8W1r4hw4sOhtk54C7gGW0=
+
+Name: assets/pt-PT.lproj/Dialogue.strings
+SHA1-Digest: otH/8iW/8TKpLTl1jWI/3AcWUgs=
+
+Name: assets/textures/portraits/ss_bonus_ship-hd.plist
+SHA1-Digest: HWaFiczOFDldmVDmD/UPsjGzsRg=
+
+Name: assets/Icon-76@2x.png
+SHA1-Digest: GDp0zPClfqaLY48wsxWYY1t3NGU=
+
+Name: assets/textures/abilities/ss_slicksilver-hd.plist
+SHA1-Digest: quzWO+uafYGSsw9Gfo284nDj1AY=
+
+Name: assets/textures/blocks/ss_ghoul_doc.plist
+SHA1-Digest: 9e0MhMP9n7uoRtxoLewXg30IDJw=
+
+Name: assets/textures/game/locations/ss_village-hd.plist
+SHA1-Digest: YU/EtPY52wlC/29O24OZfWgw1go=
+
+Name: assets/textures/abilities/ss_mega_frost.plist
+SHA1-Digest: uFPJSPRfV56mT0CYdjqBFTnEyY0=
+
+Name: assets/textures/portraits/ss_jack_uniform.plist
+SHA1-Digest: DeJXmVguVAou/Bgxk3ncBm1qE9Q=
+
+Name: assets/textures/interface/ss_leaderboard-hd.plist
+SHA1-Digest: FzTBbwpE2x0VVEHPFxRyIIYQHEM=
+
+Name: assets/textures/abilities/ss_geoshard-hd.plist
+SHA1-Digest: PJ+WLAvkLWtN8gXzamuNgNej1fs=
+
+Name: assets/textures/characters/ss_blakk-hd.plist
+SHA1-Digest: wYq8CNKJOWhIzpSV5fJK/h7fgQ0=
+
+Name: assets/textures/characters/ss_eli_mech-hd.plist
+SHA1-Digest: yHYW7G4Zk5TZQ7hMtG9b0B4iW1E=
+
+Name: assets/pt.lproj/ss_title_logo-hd.plist
+SHA1-Digest: UNIO1wd3mW+jpOy2K4c/mGF3ecs=
+
+Name: assets/textures/game_mods/ss_game_mods_ui.plist
+SHA1-Digest: 6iTYIXPIzNrNpd+uJgzGkn6cV5g=
+
+Name: assets/textures/portraits/ss_scrapheap_3_4.plist
+SHA1-Digest: g0SwdW1uKX/7N/4PSgmmA9ZZ/Yo=
+
+Name: assets/de.lproj/Localizable.strings
+SHA1-Digest: Nn3t+EzYWq+y/H+xf3rVzOXLddQ=
+
+Name: com.apportable.system/fonts/DroidNaskh-Regular-SystemUI.ttf
+SHA1-Digest: /YLqFkhUkwWAbuSlqkVAGnVHze0=
+
+Name: lib/armeabi/libxml2.so
+SHA1-Digest: nJKMW++FwsTAUGz51tTHVKXKMRw=
+
+Name: assets/textures/abilities/ss_ghoul_jellyish.plist
+SHA1-Digest: K2ehUlaSEVhUVIuPIyoDGAYhiYU=
+
+Name: assets/textures/grid_effects/ss_blackout.plist
+SHA1-Digest: 01Uf6JVkDl14p681c9GouyflivA=
+
+Name: assets/textures/game/locations/ss_dream_red-hd.plist
+SHA1-Digest: JYlHhNJBBHN1peuxUXpZ3Pv1FDU=
+
+Name: assets/textures/blocks/ss_fuse_ghoul_phosphoro_ghoul_aquabeek-hd
+ .plist
+SHA1-Digest: gfkbMHHecpLZuhoquknKkOwERr8=
+
+Name: assets/textures/abilities/ss_frost-hd.plist
+SHA1-Digest: wOCka6ja3Z4Zo1I8AwYYn2IUdAo=
+
+Name: assets/textures/characters/ss_marcus.plist
+SHA1-Digest: z7Vr8gsoeBjTCA4e2Q9YAMhLv6E=
+
+Name: assets/textures/abilities/ss_mega_arachnet-hd.plist
+SHA1-Digest: RqQ6ZSQU+sZgZ+8ToeQ1IykkcQI=
+
+Name: assets/textures/blocks/ss_lock.plist
+SHA1-Digest: 4uJZZWxkPn9gzu1DEXDb8BmYqh8=
+
+Name: assets/textures/portraits/ss_triplets.plist
+SHA1-Digest: fvng4/+ofBJapjwKI5ufxJKU6dA=
+
+Name: assets/zh-Hans.lproj/AppiraterLocalizable.strings
+SHA1-Digest: UojOM1RPXgENLuXzOL2h1SI7Hes=
+
+Name: assets/textures/game/locations/ss_undertowcavern1-hd.plist
+SHA1-Digest: oi33EECVDisdrGZ613G/JZj5QZY=
+
+Name: assets/textures/blocks/ss_ghoul_gas.plist
+SHA1-Digest: rKZPDAx6aSDNNxx05l7kS+epl8k=
+
+Name: res/drawable-mdpi/common_signin_btn_icon_focus_light.9.png
+SHA1-Digest: KUWcrP9v7FORu4ojRjzVSn0JZio=
+
+Name: assets/textures/characters/ss_kingofsling.plist
+SHA1-Digest: 53hLsJcjkkGCp2kHKoMosCEIIOE=
+
+Name: assets/textures/portraits/ss_guard.plist
+SHA1-Digest: /DjKkTQKf1OZ5t/i80SERUu8Ppw=
+
+Name: assets/textures/characters/ss_robo.plist
+SHA1-Digest: L/czcXbOkYm2e7C2LZyHhNpnnR4=
+
+Name: res/drawable-xxhdpi/common_signin_btn_text_disabled_dark.9.png
+SHA1-Digest: UbXqMwM30HBljuHn+la04UPzB1Y=
+
+Name: assets/textures/characters/ss_zombiechef-hd.plist
+SHA1-Digest: i/Fnjn7y8v2G+z+L7p50S1G/cuw=
+
+Name: assets/el.lproj/Dialogue.strings
+SHA1-Digest: IfzxSmocJd2IAi0FaLvjWoTwYi0=
+
+Name: assets/textures/portraits/ss_titan-hd.plist
+SHA1-Digest: U+IpFua/F7MlF0QVmiG7eSIOOh0=
+
+Name: assets/textures/characters/ss_sedo_uniform.plist
+SHA1-Digest: FJjVwTIFO/Y6WJTqCNLaLIRLdz4=
+
+Name: res/drawable-mdpi/common_signin_btn_icon_disabled_dark.9.png
+SHA1-Digest: UUeGKfmWgJl/rutroPXP57LpkoU=
+
+Name: assets/textures/slugs/ss_sluglevels1-hd.plist
+SHA1-Digest: aqfl2iMt8T3j+dlp9Utv6+xbc1o=
+
+Name: assets/it.lproj/Localizable.strings
+SHA1-Digest: YNgGK2/Q7KyorgcDTLj6lm37zXA=
+
+Name: lib/armeabi/libBridgeKit.so
+SHA1-Digest: Gr8RlgLqfoCegOeQq7xcxtXAEdo=
+
+Name: assets/textures/blocks/ss_reflect-hd.plist
+SHA1-Digest: ql+bBlPnFoIW+P5TshJSgn8dU6s=
+
+Name: assets/textures/portraits/ss_inmate2-hd.plist
+SHA1-Digest: 7Ho8ulyT5qwAQKPFcDV/gN8lavM=
+
+Name: assets/textures/game/locations/ss_undertowcavern2.plist
+SHA1-Digest: LH+KoKkC24ToTrgDMTiW4d+ZSnI=
+
+Name: assets/textures/blocks/ss_ghoul_neotox-hd.plist
+SHA1-Digest: p8EFewQRtLuVXgNfPpEyG7kTg2o=
+
+Name: assets/textures/characters/ss_darkbane_soldier2-hd.plist
+SHA1-Digest: 1YmmpSNCsjaiAQnoGNgdE0IOxIE=
+
+Name: res/drawable-hdpi/common_signin_btn_text_focus_light.9.png
+SHA1-Digest: cyroPBwNNxlz5xXq1uSZsOxhnH0=
+
+Name: assets/textures/characters/ss_scrapheepgang03-hd.plist
+SHA1-Digest: vd30trDasylgx/nHQW2MKQz011I=
+
+Name: assets/textures/game/locations/ss_slugseeker_05-hd.plist
+SHA1-Digest: tSprkoQQVFKgWiL8v1rQepB2ntk=
+
+Name: assets/textures/scenes/ss_mp_lobby_pvrtc.plist
+SHA1-Digest: IZcEUYn7dM7EOnDcdzsDXu21GC4=
+
+Name: assets/textures/characters/ss_voodoo-hd.plist
+SHA1-Digest: cualZTwBxecbNpp94AEf90/HgUA=
+
+Name: assets/textures/game/locations/ss_slugseeker_07.plist
+SHA1-Digest: rfGRlRaQu2vw5pL+U13We0hd7vk=
+
+Name: assets/textures/portraits/ss_fang-hd.plist
+SHA1-Digest: hoRoWSlcoK4Atdpg7iMabB1lSjw=
+
+Name: assets/textures/portraits/ss_fire.plist
+SHA1-Digest: KFLPcF9jVWOrAV3U/tedLASCFSc=
+
+Name: assets/textures/portraits/ss_eviltrixie-hd.plist
+SHA1-Digest: h6VWSkAzlO7NIWMY/LnsS8VTcvQ=
+
+Name: assets/pt.lproj/ss_title_logo.plist
+SHA1-Digest: rW/2FvKlJqOiX/FiKtGlqjR5sWY=
+
+Name: assets/textures/portraits/ss_viggos_minion1-hd.plist
+SHA1-Digest: G0sJaW+Pz0LfCT5qFN/vqPmmowU=
+
+Name: assets/textures/characters/ss_glasses_uniform-hd.plist
+SHA1-Digest: pnoZT0WqUolRAxe7BfjVQIcUZJw=
+
+Name: res/drawable-xxhdpi/common_signin_btn_text_normal_light.9.png
+SHA1-Digest: rk4+RrLhcP6lThhrsLhux6sOaW0=
+
+Name: assets/textures/blocks/ss_ghoul_aquabeek-hd.plist
+SHA1-Digest: lOiN2jNnNLNOiLsO6bZkn/jOoQg=
+
+Name: assets/textures/abilities/ss_yang_ghoul.plist
+SHA1-Digest: 8Xa15UtqH11Kc+XxNyCFDcE21vU=
+
+Name: lib/armeabi/libsqlite_3_7_5.so
+SHA1-Digest: n92aivoufMg+lQLbYqvlappHipk=
+
+Name: assets/textures/game/locations/ss_herringbone1-hd.plist
+SHA1-Digest: 3HRpyr8bq2CCgW273lnC4F7b0ek=
+
+Name: assets/textures/abilities/ss_ghoul_arachnet-hd.plist
+SHA1-Digest: HwOG6Mg9mE9ZVS89UAk0AIWNDHo=
+
+Name: assets/textures/game_mods/ss_blaster_damage-hd.plist
+SHA1-Digest: VZB2/qDwaY3FshNi+fY3yQQWvW8=
+
+Name: assets/textures/characters/ss_turret-hd.plist
+SHA1-Digest: UTZUC2B4R9OBBEsNRrFUjxCVWWk=
+
+Name: assets/textures/portraits/ss_viggo_minion1.plist
+SHA1-Digest: O62lOoeTtH1cA/N/1Yo47OdIqg8=
+
+Name: assets/textures/characters/ss_turret.plist
+SHA1-Digest: YAy3+2OXawm2gnGaZV0v0O642eA=
+
+Name: assets/textures/game/locations/ss_tournament-hd.plist
+SHA1-Digest: j8Jh8VpcZbLAjwPG+ZpqR/azTI0=
+
+Name: assets/textures/abilities/ss_ghoul_panic.plist
+SHA1-Digest: jFfPxIl0w93Qdc1WKxvJhKkzLj8=
+
+Name: res/drawable-hdpi/common_signin_btn_icon_pressed_dark.9.png
+SHA1-Digest: 3+x2t/WZmDnWpRsGihxGb1wjfKk=
+
+Name: org/apache/commons/codec/net/package.html
+SHA1-Digest: HvSk26/kAAaosw/HdduDEJ0T05I=
+
+Name: assets/textures/skins/ss_skins_purchase3-hd.plist
+SHA1-Digest: t1ZlxEZJdwa+oT7E8NAlYr5pHr8=
+
+Name: assets/textures/characters/ss_will.plist
+SHA1-Digest: PW9b0/3YTJVy4fBo1nPqVjS5ULs=
+
+Name: assets/textures/game/locations/ss_island.plist
+SHA1-Digest: MXpOCCbgH6mYacnNl6pvsAdlMcg=
+
+Name: lib/armeabi/libSecurity.so
+SHA1-Digest: Jou3lfklyFM/CDjJPouJ0F39JuA=
+
+Name: assets/textures/portraits/ss_darkbane_soldier_elite2-hd.plist
+SHA1-Digest: 67RljUJvrYukSTOT1j3ZFRJWmfQ=
+
+Name: assets/textures/abilities/ss_fuse_freeze_grenuke-hd.plist
+SHA1-Digest: VWW4VyCW7s3f9oX+QfjQsrEKuq8=
+
+Name: assets/textures/characters/ss_shorty_uniform-hd.plist
+SHA1-Digest: +LiItE3/DsVJGHC6IXNDNvkkV2M=
+
+Name: assets/textures/characters/ss_jack_uniform-hd.plist
+SHA1-Digest: mbx7/BaKsk2shGoOwysdLLPCFxk=
+
+Name: assets/textures/blocks/ss_slyren-hd.plist
+SHA1-Digest: +3q5aCliomazxdX1e2Mg2tZWPdk=
+
+Name: assets/textures/characters/ss_frost.plist
+SHA1-Digest: TTaBIqCaOMAKqPvTxi+8R+cvvgI=
+
+Name: assets/particles/yang_char_status.plist
+SHA1-Digest: 0a93kv4a8wyb1WBHOUI7uH8tQ2Y=
+
+Name: res/drawable-xhdpi/icon.png
+SHA1-Digest: JsUk8qlfSt+prm+LFM/aB8DYaPY=
+
+Name: assets/textures/scenes/ss_winlose.plist
+SHA1-Digest: iWSKRlZGr3FDkZo0S3ZCKY2z/Xs=
+
+Name: assets/textures/blocks/ss_speedstringer.plist
+SHA1-Digest: POMjrWcDxlGHPyBC2Tr16od3YK0=
+
+Name: assets/textures/characters/ss_shorty.plist
+SHA1-Digest: AwRURR4uMEY37mJgFkjBEorwba8=
+
+Name: assets/textures/game/locations/ss_mine-hd.plist
+SHA1-Digest: M1k2K3cb1JY3AAE/cXcOMigHIYY=
+
+Name: assets/textures/abilities/ss_armashelt.plist
+SHA1-Digest: NAHeBXnf352l1Dd8JsiU8difKrU=
+
+Name: assets/textures/blocks/ss_fuse_tormato_jellyish-hd.plist
+SHA1-Digest: eF6CriU9IjgrbGonZlH0wtBy2x8=
+
+Name: assets/textures/abilities/ss_refresh.plist
+SHA1-Digest: 7auqZSmOSprXEJSeblPA2mvz/CM=
+
+Name: assets/textures/blocks/ss_fuse_burpy_tazer-hd.plist
+SHA1-Digest: EOZq8XSekeNvVPZlMF0a4kdFNfk=
+
+Name: assets/textures/blocks/ss_arachnet-hd.plist
+SHA1-Digest: FL/AlbzRlCMMKuPff58JySC69mg=
+
+Name: assets/textures/blocks/ss_hypnogriff-hd.plist
+SHA1-Digest: I+sPDU1g+7U9jnuEJEkK2WBALnE=
+
+Name: assets/textures/portraits/ss_shanegang-hd.plist
+SHA1-Digest: z0rZtuu9fmLmFxZaX8sGuMesCmg=
+
+Name: assets/textures/skins/ss_skins_purchase0-hd.plist
+SHA1-Digest: ZOOskjYqY6kxEhXbMP21FcP5KRA=
+
+Name: org/apache/commons/codec/overview.html
+SHA1-Digest: 6FXmtL02xUIWZi/2zxL9pPpdMds=
+
+Name: assets/textures/characters/ss_cajun_uniform.plist
+SHA1-Digest: gb5W5yCYpWrLfe8T7qABiXhbqyk=
+
+Name: assets/MPAdBrowserController.nib
+SHA1-Digest: 3RpSbKcD55BOfLPVD7U5gfTaMl4=
+
+Name: assets/particles/match_trail_generic.plist
+SHA1-Digest: xhHifrFU6ylld5a5Gu2ra9Dcwy4=
+
+Name: res/drawable-xxhdpi/ic_plusone_small_off_client.png
+SHA1-Digest: QITJ8CHL6O6NtaNSW5zIXy1Z3PY=
+
+Name: assets/textures/scenes/ss_sluginfobox-hd.plist
+SHA1-Digest: 7C6lrmCq89KzLE3KVyhqBI7mriU=
+
+Name: assets/textures/portraits/ss_kord.plist
+SHA1-Digest: /c9rk+vH5i24Ccw5Elb9hJzX05c=
+
+Name: assets/textures/abilities/ss_thugglet-hd.plist
+SHA1-Digest: 7+GR6Nf1gc/nmBJbfK0cswH9ZF8=
+
+Name: assets/textures/blocks/ss_fuse_ghoul_burpy_ghoul_gas-hd.plist
+SHA1-Digest: /1mzljDnPcyNWRDSN4BvHeZIIaQ=
+
+Name: res/drawable-hdpi/ic_plusone_standard_off_client.png
+SHA1-Digest: 3M2Hwey0trjQpX8kpVoQgSeehjY=
+
+Name: assets/particles/portal_trail_particle.plist
+SHA1-Digest: upzqEZbvS8hkuBzprCMoFaO6J68=
+
+Name: assets/textures/abilities/ss_fuse_shockwave-hd.plist
+SHA1-Digest: eKF67MT94pDWK6/LTAqYw2KB1ts=
+
+Name: assets/textures/blocks/ss_refresh-hd.plist
+SHA1-Digest: J44KQ+3QxTiVGnrBXtTvLFZMOCo=
+
+Name: assets/textures/portraits/ss_zombieguard-hd.plist
+SHA1-Digest: 9dfuQia+Gc/4/n8Svq2W9gWDXr8=
+
+Name: res/drawable-xhdpi/common_signin_btn_text_disabled_focus_light.9
+ .png
+SHA1-Digest: /ps9lLPOdDdwDt2YyGRRyGkRCMw=
+
+Name: assets/it.lproj/ss_title_logo.plist
+SHA1-Digest: LEt3GLW7WiYoLEOFDHNNElEhylU=
+
+Name: assets/textures/characters/ss_cajun-hd.plist
+SHA1-Digest: SVIP5yIHnxIZujM9UYrmfFg1c6Y=
+
+Name: assets/textures/abilities/ss_fuse_hoverbug_speedstinger-hd.plist
+SHA1-Digest: KhwtJxrlsANOC9s5lrulgkuc1zk=
+
+Name: assets/textures/portraits/ss_three_prison-hd.plist
+SHA1-Digest: JNjaVsdbnfbfiy+5XpTUTaQtjz0=
+
+Name: res/drawable-hdpi/common_signin_btn_icon_normal_dark.9.png
+SHA1-Digest: uRAyDpH07H9tazGPj+pquxEo+4U=
+
+Name: assets/textures/abilities/ss_ghoul_neotox-hd.plist
+SHA1-Digest: wi8Ng10fdUCOsaTFGjVNV8DqBSE=
+
+Name: assets/textures/blocks/ss_ghoul_arachnet-hd.plist
+SHA1-Digest: mi747PRbXkUe3PC8KiPViKr9gwM=
+
+Name: assets/particles/heal_receive_particle.plist
+SHA1-Digest: /rWw6zTghAylg+dUppvtqtbXJUk=
+
+Name: assets/textures/scenes/ss_mp_lobby-hd.plist
+SHA1-Digest: +PiSMxNf7nybxg9ZP0gKAv5+g8A=
+
+Name: assets/textures/portraits/ss_fang_watts_drake.plist
+SHA1-Digest: r/VMbyjIIfyko96GCrFvRiih8rM=
+
+Name: assets/particles/fandango_trail_particle.plist
+SHA1-Digest: N1OWeydYoqobN2kXU9hvLepMp6Q=
+
+Name: assets/textures/game/ss_game_pvrtc.plist
+SHA1-Digest: 7l3tl74/XwwLUtTiYIG+k744lmQ=
+
+Name: assets/textures/basic_shots/ss_basicShot.plist
+SHA1-Digest: +KZsBkXcM32Fxc+lhTzZO2/yVjs=
+
+Name: lib/armeabi/libCoreFoundation.so
+SHA1-Digest: /KjnhUuwMsQc8SrG2VXaZ3CMQCo=
+
+Name: assets/Default.png
+SHA1-Digest: r3fuyqTwSRi9xX7hvIISDbhn7jo=
+
+Name: assets/textures/scenes/ss_challenge_reward.plist
+SHA1-Digest: M/GHW1SqnAi7Sv8cw44mNmp70Lg=
+
+Name: assets/textures/game/locations/ss_construction.plist
+SHA1-Digest: uITqqtuBcFlnE9SEq0XhEfnFUJY=
+
+Name: assets/zh-Hans.lproj/Dialogue.strings
+SHA1-Digest: 3YwcRncoUggdKgTahsxdr8wl9ak=
+
+Name: assets/textures/game/locations/ss_deepcavern2.plist
+SHA1-Digest: aVlGX2nDqj3plebv7AT83seXqvE=
+
+Name: assets/textures/abilities/ss_ghoul_aquabeek-hd.plist
+SHA1-Digest: Q3h4Og/039+tNqmtGG9obeia0v0=
+
+Name: assets/textures/blocks/ss_rock.plist
+SHA1-Digest: X7KGUWN1nSnEk8ivZM8MVd0txW8=
+
+Name: assets/textures/abilities/ss_mega_tazer.plist
+SHA1-Digest: XGjxal+JM2KUj8phbs7d+rLwo/k=
+
+Name: assets/textures/blocks/ss_armashelt.plist
+SHA1-Digest: xq3cpTByzLnErycAeeRrffabHUg=
+
+Name: res/drawable-xhdpi/common_signin_btn_text_disabled_dark.9.png
+SHA1-Digest: UbXqMwM30HBljuHn+la04UPzB1Y=
+
+Name: assets/textures/portraits/ss_soldier_mech.plist
+SHA1-Digest: TZRGEwby2gT2qnMVbOS65r+hF/Y=
+
+Name: assets/textures/portraits/ss_scrapheepgang01-hd.plist
+SHA1-Digest: Ma+YiBjZkO/3wu572N7fjgzHUmg=
+
+Name: org/apache/commons/codec/language/package.html
+SHA1-Digest: tJM1fjeYTcbuKzn5l8l9hj6oNyI=
+
+Name: assets/textures/portraits/ss_shark_mech.plist
+SHA1-Digest: oHghLR1cpZ7V1LPE2orYLDJq8wQ=
+
+Name: assets/textures/scenes/ss_chest.plist
+SHA1-Digest: Fr+OGvTtN089++E7dlTiZnaPx3g=
+
+Name: assets/textures/abilities/ss_ghoul_doc.plist
+SHA1-Digest: t4+9qCy44exyQ/vr6Qk4fHxPLtg=
+
+Name: assets/textures/abilities/ss_ghoul_neotox.plist
+SHA1-Digest: 3BV6KKAKLy+z1jEj0b3MYjVvww0=
+
+Name: assets/textures/blocks/ss_slicksilver-hd.plist
+SHA1-Digest: /beogwptJJRR8oqZSUiAGi85Ma4=
+
+Name: assets/textures/skins/ss_skins_purchase0.plist
+SHA1-Digest: JOiojdqTccPBiuLNJtTEnuJKgPg=
+
+Name: assets/textures/portraits/ss_darkbane_solder2_darkbane_soldier3-
+ hd.plist
+SHA1-Digest: Fax4gB5PX16HiLz3FbGlwkskKXs=
+
+Name: assets/textures/game/locations/ss_darkbanecitadel.plist
+SHA1-Digest: gDkSilRHQfPIDF/KaqPjtiVXsF8=
+
+Name: assets/pt-PT.lproj/ss_title_logo.plist
+SHA1-Digest: rW/2FvKlJqOiX/FiKtGlqjR5sWY=
+
+Name: assets/textures/destructible_objects/ss_ship-hd.plist
+SHA1-Digest: jJdEaTe6aAqWy7IHJ9I79aN1mcg=
+
+Name: assets/textures/blocks/ss_fuse_arachnet_panic-hd.plist
+SHA1-Digest: /NxQZg+0IUvmJEmOsXLtwrWYFGA=
+
+Name: assets/particles/xmitter_trail_particle.plist
+SHA1-Digest: jIzAGN/V9wtPXTV/gcEVQ3SWPt8=
+
+Name: assets/textures/portraits/ss_redhook-hd.plist
+SHA1-Digest: Oib2JRaZKypKlJTQddwISchAT2k=
+
+Name: assets/textures/blocks/ss_aquabeek.plist
+SHA1-Digest: 33ppQmOeqW9kiaaEImeH5J2kZqc=
+
+Name: assets/textures/characters/ss_zombieguard-hd.plist
+SHA1-Digest: 1jGD6MpGujhuieUiPKps2WJG4V4=
+
+Name: assets/textures/abilities/ss_fuse_ghoul_burpy_ghoul_gas-hd.plist
+SHA1-Digest: wQDLxpYeFBCKLCrZghgyUzK3kVE=
+
+Name: res/drawable-xxhdpi/common_signin_btn_text_disabled_focus_dark.9
+ .png
+SHA1-Digest: /ps9lLPOdDdwDt2YyGRRyGkRCMw=
+
+Name: assets/en.lproj/AppiraterLocalizable.strings
+SHA1-Digest: aA0ZPTmwyuVvqlBonZWZf4IM+48=
+
+Name: assets/textures/blocks/ss_grenuke-hd.plist
+SHA1-Digest: nhAAcwRr52k5QXFbIe+GBOsqA2c=
+
+Name: assets/textures/destructible_objects/ss_darkbanethrone.plist
+SHA1-Digest: ynDYB5Dof1Dek9kDNru0UwBZh/8=
+
+Name: assets/textures/scenes/ss_challenge_select-hd.plist
+SHA1-Digest: E1VuXKl7zT7ywRwzi28Zajgi+Dc=
+
+Name: assets/textures/portraits/ss_turret.plist
+SHA1-Digest: HC/L1qWfFz1kJfGUNki905JozVc=
+
+Name: assets/textures/characters/ss_nacho.plist
+SHA1-Digest: xcVrrHQYglILbgyV6J4vgRIzBaM=
+
+Name: assets/textures/portraits/ss_lockeload-hd.plist
+SHA1-Digest: E6iHIwIPPZLR/3rMeW3gzM18uB4=
+
+Name: assets/textures/blocks/ss_lock-hd.plist
+SHA1-Digest: DT6MirNvzcon0+D5D0HchWsV9ZI=
+
+Name: res/drawable-mdpi/ic_plusone_tall_off_client.png
+SHA1-Digest: AD2aFw6TcqHuDE1AdYky7h+et9s=
+
+Name: assets/textures/portraits/ss_two_pirates_ship-hd.plist
+SHA1-Digest: ExayJaYjvtPPxUCZ/v/wnsyoaRY=
+
+Name: assets/textures/characters/ss_mrsaturday-hd.plist
+SHA1-Digest: bl47gmNoW0/jIo79saBWzLsxBqs=
+
+Name: assets/textures/abilities/ss_mega_grenuke-hd.plist
+SHA1-Digest: Op/L4bAF1wBjFNUlOVAe1Ep6yYM=
+
+Name: assets/textures/abilities/ss_xmitter-hd.plist
+SHA1-Digest: GlEgAA/cah4KiEbUyI7x3CdJg4M=
+
+Name: assets/textures/blocks/ss_fuse_geoshard_slicksilver-hd.plist
+SHA1-Digest: FvRRwmGnEMlHMYQ3vMwWxiX2DdU=
+
+Name: assets/textures/destructible_objects/ss_door.plist
+SHA1-Digest: HOAafVH0VyX2tujeoltb928NCBI=
+
+Name: assets/textures/characters/ss_pirate_girl.plist
+SHA1-Digest: LN3nWjwwjrzATF0NtsKP2BasPxE=
+
+Name: assets/textures/characters/ss_drake-hd.plist
+SHA1-Digest: BNrl80rUM+DhHrwDLeKkcGpa6qk=
+
+Name: res/drawable-xxhdpi/common_signin_btn_icon_disabled_focus_light.
+ 9.png
+SHA1-Digest: 5te3wznPBVYtZMjVj49FYN5YlRA=
+
+Name: res/drawable-xxhdpi/common_signin_btn_icon_normal_dark.9.png
+SHA1-Digest: vGictS/UYFmX8tbz7DG/BKWlA1A=
+
+Name: assets/textures/characters/ss_viggo_minion2.plist
+SHA1-Digest: XA5un4emZGnHlWdIwSDUmKdCtR4=
+
+Name: assets/textures/abilities/ss_ghoul_flaringo.plist
+SHA1-Digest: Ox209u7BbSiIiZEBH6YXg0O24xU=
+
+Name: assets/textures/abilities/ss_mega_burpy-hd.plist
+SHA1-Digest: urg5aA0dRVaQfeRjfVGfvI73QE0=
+
+Name: assets/en.lproj/Dialogue.strings
+SHA1-Digest: Hw3NKbMjXSs2mnP40cub4nDTHAc=
+
+Name: assets/textures/scenes/ss_equipment_pvrtc.plist
+SHA1-Digest: AeWroyFyHJ10WjYFgionKq+g1yE=
+
+Name: assets/textures/blocks/ss_enigmo-hd.plist
+SHA1-Digest: 6zCgpkWulqISgVw3HOLucF55KWU=
+
+Name: assets/textures/characters/ss_eviltrixie-hd.plist
+SHA1-Digest: K48PPGHH0GpxtQtq5EWGiwc4UI0=
+
+Name: assets/particles/doc_trail_particle.plist
+SHA1-Digest: v/IyQhLNlKZwVbPg3EuYMbTeK0Q=
+
+Name: assets/textures/abilities/ss_firenzar-hd.plist
+SHA1-Digest: Cd/R36Qnvf/Z8Sj8fTb+MPbm7NA=
+
+Name: assets/textures/abilities/ss_doc-hd.plist
+SHA1-Digest: 2Dz9NS00M3wkR1ZvFxjQJTuUIlA=
+
+Name: assets/textures/portraits/ss_nacho.plist
+SHA1-Digest: l0mFn45onGJh0ExBR59W6T1xmao=
+
+Name: assets/textures/slug_seeker/cavern4/ss_cavern4-hd.plist
+SHA1-Digest: wDFMBc539Y8Ejds2g1Xh1z77h4g=
+
+Name: assets/textures/destructible_objects/ss_prisondoor-hd.plist
+SHA1-Digest: /osw1degqK1/bwuUREDeUP2oqgI=
+
+Name: assets/textures/abilities/ss_tormato.plist
+SHA1-Digest: hTgtA58XBMHTaiMuZKobW+k22G4=
+
+Name: resources.arsc
+SHA1-Digest: RGbWKs9uO2Kr6DVJ+hIILG9EWec=
+
+Name: assets/textures/portraits/ss_scrapheepgang02.plist
+SHA1-Digest: 1H9nP8OPdZ1voT+6KF6/3MiLNqY=
+
+Name: assets/textures/game/locations/ss_darkbanechasmbottom-hd.plist
+SHA1-Digest: wsZfjoSHq7iTQF1k5zZqibGbvxc=
+
+Name: assets/textures/game/locations/ss_deepcavern1.plist
+SHA1-Digest: Qtm6J8FCLH7xQBJBNDkdB86s3Gk=
+
+Name: assets/textures/characters/ss_darkbane_brimstone.plist
+SHA1-Digest: fP0KtsTjMRlM2Aav1sZfpA0xchI=
+
+Name: assets/textures/characters/ss_inmate.plist
+SHA1-Digest: RsvfSPet1/QC4+0Sbpr2PT62Mjk=
+
+Name: assets/textures/blocks/ss_mega_grenuke.plist
+SHA1-Digest: Nq3cnYFbZ2josxe/T6qDFtgR7fE=
+
+Name: assets/textures/characters/ss_young_blakk-hd.plist
+SHA1-Digest: plKxj40NCNGHZ3dRWmDRwcVhulg=
+
+Name: assets/textures/game/locations/ss_slugseeker_03.plist
+SHA1-Digest: luFv35A78zQOD76pmNVnp3DIyhs=
+
+Name: res/drawable-xxhdpi/common_signin_btn_icon_disabled_light.9.png
+SHA1-Digest: 1Hnpvj2UzKDvPZv175SFBfp0Gn8=
+
+Name: assets/textures/blocks/ss_fuse_ghoul_burpy_ghoul_gas.plist
+SHA1-Digest: 677c8d2QpGV8wj8ASJfBcpPzANM=
+
+Name: assets/textures/blocks/ss_fuse_ghoul_netox_ghoul_tazerling-hd.pl
+ ist
+SHA1-Digest: VB72jjPKAcVw5mrblMGR+pRMzVw=
+
+Name: assets/textures/portraits/ss_bigguard1-hd.plist
+SHA1-Digest: dk+J+4EMzplBYGpgjHBZRZaKukg=
+
+Name: assets/textures/destructible_objects/ss_darkbanethrone-hd.plist
+SHA1-Digest: q0AWQfaXMm0bcttTjsRlsZ2o3XA=
+
+Name: res/drawable-hdpi/icon.png
+SHA1-Digest: JgtP0K9+zTSIQbelkgJQI6cGBPc=
+
+Name: assets/textures/basic_shots/ss_majorLazer.plist
+SHA1-Digest: MSRCwtmXeBMvnZKP28pq6pQJ6xM=
+
+Name: assets/textures/characters/ss_eviltrixie.plist
+SHA1-Digest: rIlumdgW1QX/u4rw4PvZ1E2IGvc=
+
+Name: assets/textures/game/locations/ss_shrooms2-hd.plist
+SHA1-Digest: vOh27XFHAquYGLBUlQCh/6LZ4J4=
+
+Name: assets/textures/blocks/ss_ghoul_yang-hd.plist
+SHA1-Digest: +iIlb06kKXYTu6v3wdT/1CSjCrw=
+
+Name: res/drawable-hdpi/common_signin_btn_icon_disabled_focus_light.9.
+ png
+SHA1-Digest: 0ky7hJW6fNsa6m2tmjhllqHXHfg=
+
+Name: assets/textures/abilities/ss_aquabeek-hd.plist
+SHA1-Digest: Shc/3/Lj7zBdl0Uo1chEKEBSOFw=
+
+Name: assets/pt.lproj/Localizable.strings
+SHA1-Digest: 7wd5dm1J0/BTCRp6is4oZILycnc=
+
+Name: res/drawable-xhdpi/common_signin_btn_text_disabled_light.9.png
+SHA1-Digest: UbXqMwM30HBljuHn+la04UPzB1Y=
+
+Name: assets/textures/abilities/ss_burpy_ghouled-hd.plist
+SHA1-Digest: vgV06rATLLwq4ToRRAGgoiMP+vI=
+
+Name: res/drawable/notification_icon.png
+SHA1-Digest: 7PlE5A95M08isrP2EDy77v1YLJg=
+
+Name: assets/textures/characters/ss_guard1.plist
+SHA1-Digest: k6o8cH8YIrgDKEaU5YN1xFBTLLs=
+
+Name: assets/particles/cavern_card_sparkle_particles.plist
+SHA1-Digest: J8XNER1pNg4UuHyoOdO8QugZrHA=
+
+Name: assets/textures/blocks/ss_mega_doc.plist
+SHA1-Digest: +GazFUoHtmtmB+qI495KIQZNne0=
+
+Name: assets/textures/portraits/ss_turtle.plist
+SHA1-Digest: ykekr/tZF2lHUHLhxI6oMwK4RVo=
+
+Name: assets/textures/game/locations/ss_slugseeker_08.plist
+SHA1-Digest: x/wYIxbV4wlhD9/43OTy0LcUOa0=
+
+Name: assets/fr.lproj/Fonts.strings
+SHA1-Digest: oGKXAjzS10dcdUF6NclsbgzyXj4=
+
+Name: assets/textures/game_mods/ss_game_mods_ui-hd.plist
+SHA1-Digest: /isYd/aqSLtXXVaqTuPM1PgZnPw=
+
+Name: assets/textures/game/locations/ss_ghoulinglab-hd.plist
+SHA1-Digest: ML3UZflONhW/FCQZFVXJsPoKqEs=
+
+Name: assets/textures/portraits/ss_pirate_girl-hd.plist
+SHA1-Digest: 7unPESUZDdiYaPY6xoYgXuRAQeI=
+
+Name: assets/textures/blocks/ss_mega_tazer.plist
+SHA1-Digest: HrbmKJUgWRdFQQ0rvDTN8QfcyXc=
+
+Name: assets/textures/game/locations/ss_stadium.plist
+SHA1-Digest: uoFvYBkUhPGHYh6/TSZCiAo/A6g=
+
+Name: assets/es-MX.lproj/Dialogue.strings
+SHA1-Digest: DGhHF8Pna3dndczuvjD28ENiuQQ=
+
+Name: assets/textures/abilities/ss_ghoul_gas-hd.plist
+SHA1-Digest: XKnE3LpcBtZCYRgzHNUBkbcRPdg=
+
+Name: assets/textures/characters/ss_robo_uniform-hd.plist
+SHA1-Digest: Q6u1eSEked5nci/Sj87uVnjYfCA=
+
+Name: assets/textures/basic_shots/ss_sonicBoom.plist
+SHA1-Digest: Z6URU9Chj1dF8N7rf1l1XXnE7b8=
+
+Name: assets/textures/game/locations/ss_tournament.plist
+SHA1-Digest: w1VpdsHLahszvxcmoZM9uxV0mW8=
+
+Name: assets/textures/portraits/ss_fire-hd.plist
+SHA1-Digest: snUxufYUvJLjwESl/cnPP4hQgPA=
+
+Name: res/drawable-xxhdpi/ic_plusone_medium_off_client.png
+SHA1-Digest: 5jta9QUYJ9k9tMHwzhYqoefVy+o=
+
+Name: assets/particles/challengeMode/LightFlash1.plist
+SHA1-Digest: 4dVOerrbbOKYaK1Y9gMlAuvMoCE=
+
+Name: assets/textures/game/locations/ss_ghoulstation-hd.plist
+SHA1-Digest: A3XApZhKE7V6sS83wteBhJSUF60=
+
+Name: assets/textures/portraits/ss_nacho_uniform-hd.plist
+SHA1-Digest: CTOkV3hEwOqga3oRTlANF+EQN9s=
+
+Name: assets/textures/blocks/ss_fuse_flaringo_phosphoro-hd.plist
+SHA1-Digest: NL8FX08BKaEx7E8oQsUOriLBVwE=
+
+Name: assets/textures/abilities/ss_fuse_ghoul_vinedrill_ghoul_frost-hd
+ .plist
+SHA1-Digest: EUsMw8C7vfD259ObGDlrBnlZQ8M=
+
+Name: assets/textures/blocks/ss_fuse_aquabeek_fandango.plist
+SHA1-Digest: gWTO1huKyWKchTb43axBJ1Qdb/I=
+
+Name: assets/textures/slug_seeker/cavern2/ss_cavern2.plist
+SHA1-Digest: GqcHA9jVok8YGkYOL6Ii1O5iO9E=
+
+Name: res/drawable-xhdpi/common_signin_btn_icon_pressed_light.9.png
+SHA1-Digest: UsY+c7jSRS1f1aEh0HgE8187rLI=
+
+Name: assets/textures/blocks/ss_ghoul_aquabeek.plist
+SHA1-Digest: 6lmqv4p5woOR057SPZ3x+/vrDvY=
+
+Name: assets/textures/characters/ss_voodoo.plist
+SHA1-Digest: aJgyH3e13oBWF9waaOGrzMo8XqY=
+
+Name: assets/textures/destructible_objects/ss_prisondoor.plist
+SHA1-Digest: hSWYxfPLZlZuy1k9mhrf+sGiv9M=
+
+Name: assets/textures/characters/ss_boat_pirates.plist
+SHA1-Digest: EckIklZYXjqbzDX7VSaMNxNytoc=
+
+Name: assets/textures/characters/ss_shanai-hd.plist
+SHA1-Digest: 91cwRu7nrfeT9mAjxQ9jhZ2KAPs=
+
+Name: assets/textures/characters/ss_darkbane_soldier_elite1.plist
+SHA1-Digest: sa9FIOXixAC6zDleBy19dev8Ae0=
+
+Name: res/drawable-xhdpi/common_signin_btn_icon_disabled_focus_light.9
+ .png
+SHA1-Digest: 5te3wznPBVYtZMjVj49FYN5YlRA=
+
+Name: assets/textures/portraits/ss_bonus_ship.plist
+SHA1-Digest: evURflAjx8mG3bggICGzf36lYmI=
+
+Name: META-INF/maven/com.google.ads.mediation.inmobi/libadapterinmobi/
+ pom.xml
+SHA1-Digest: pZ/YuXFjsclWfY45ypPUBynDkHk=
+
+Name: assets/textures/blocks/ss_mega_arachnet-hd.plist
+SHA1-Digest: 0L3gFke2C8ISrP8CoUfN+WgUwD8=
+
+Name: res/drawable-xhdpi/common_signin_btn_text_focus_light.9.png
+SHA1-Digest: re+zLFhPUMSpBod/+8AnbiOF95E=
+
+Name: assets/particles/icebreak_gauge_particles.plist
+SHA1-Digest: U+3XFYgAcejEXe/JifX00JeTld0=
+
+Name: assets/textures/game/locations/ss_deepcavern2-hd.plist
+SHA1-Digest: 3puhUcQweXRoKF/Y1G2yjjpoEUI=
+
+Name: assets/el.lproj/AppiraterLocalizable.strings
+SHA1-Digest: 5e4JJuUB6tfpY5ggUH2YtFyWtfY=
+
+Name: assets/textures/blocks/ss_fuse_ghoul_tormato_ghoul_flaringo-hd.p
+ list
+SHA1-Digest: LEkU6meicz+rJMN10Myf5DkVQi0=
+
+Name: assets/textures/blocks/ss_narwhaddle-hd.plist
+SHA1-Digest: zA2CpqQkJ0ydLGhDzVcjlOX+1Hk=
+
+Name: assets/textures/blocks/ss_gas-hd.plist
+SHA1-Digest: hZ6HgO1ec/uvXQkAoRRLYZxzexc=
+
+Name: assets/textures/abilities/ss_fandango.plist
+SHA1-Digest: jApLgxjmCysl25XjqLdnvzSZo+U=
+
+Name: assets/textures/portraits/ss_evilkord-hd.plist
+SHA1-Digest: hAAU1Dswsf5yz7TEmOq8th5/vK8=
+
+Name: res/drawable-mdpi/common_signin_btn_text_focus_dark.9.png
+SHA1-Digest: dF5oQhWFz2szuye4UCQeGH4CFRk=
+
+Name: assets/textures/abilities/ss_ghoul_tormato.plist
+SHA1-Digest: CsMIhBrZwIkBCO1d0oO4W1HKJFk=
+
+Name: assets/textures/interface/ss_carousel.plist
+SHA1-Digest: otjGAM7S+CwyHsqMgybtP51YV20=
+
+Name: assets/textures/portraits/ss_door-hd.plist
+SHA1-Digest: gMiHgNB8xPmEFgakbEVBszq1U4w=
+
+Name: res/drawable-hdpi/ic_plusone_small_off_client.png
+SHA1-Digest: MDqgTVve/ECWdg1RF1Xo/IJ49zo=
+
+Name: assets/textures/blocks/ss_ghoul_arachnet.plist
+SHA1-Digest: ByY5yygsZHruHD34KbnAJ4nG0o0=
+
+Name: com.apportable.system/fonts/DroidSansHebrew-Regular.ttf
+SHA1-Digest: x+RcN58KCjuoXGnq7mti4m/7gag=
+
+Name: assets/textures/characters/ss_titan.plist
+SHA1-Digest: 4F/2qjwW2l6ozUKFVrspXQj/NzQ=
+
+Name: assets/textures/game/locations/ss_undertowcavern3.plist
+SHA1-Digest: NOf3oPVqSJBybaf443QKShyw5f4=
+
+Name: assets/textures/portraits/ss_robo.plist
+SHA1-Digest: XIQP7yRHlk6EbRXqY//7UgSOfV4=
+
+Name: assets/textures/game/locations/ss_dream_tournment_black.plist
+SHA1-Digest: jbRmzw9Up/RENGOTFxnUtste3Y8=
+
+Name: assets/textures/reward_packs/ss_reward_packs-hd.plist
+SHA1-Digest: bNY5KWBlui19OjutjNWy5C5RqKI=
+
+Name: res/drawable-xxhdpi/ic_plusone_standard_off_client.png
+SHA1-Digest: GsuPJv1dNcolfrnKEL4GX2NHRmk=
+
+Name: assets/textures/portraits/ss_bonus_darkbanestatue.plist
+SHA1-Digest: KN1Vug51qLnA391pfQGgZuJime8=
+
+Name: assets/el.lproj/Fonts.strings
+SHA1-Digest: oGKXAjzS10dcdUF6NclsbgzyXj4=
+
+Name: assets/textures/blocks/ss_ghoul_burpy.plist
+SHA1-Digest: nFAcpJLTBrV2gY5T6SGMSf/771I=
+
+Name: res/drawable-mdpi/common_signin_btn_text_pressed_light.9.png
+SHA1-Digest: VSw7l3gn6Xmrfp6USiW4t6QJmPw=
+
+Name: assets/textures/portraits/ss_elemental.plist
+SHA1-Digest: edXuNxsjiqKaoSPmt6z7JEKqJ+I=
+
+Name: assets/textures/abilities/ss_ghoul_jellyish-hd.plist
+SHA1-Digest: 0/qZhsRru1r5jFn/iCGwdZmnjP4=
+
+Name: assets/textures/scenes/ss_slugseeker_reward0-hd.plist
+SHA1-Digest: SDVWLLFzSrLVvlyJHMyWpLYIMJA=
+
+Name: res/drawable-xhdpi/ic_plusone_tall_off_client.png
+SHA1-Digest: znT4P8AI3xcWsBof3ElTFY2hDrk=
+
+Name: assets/textures/characters/ss_glasses.plist
+SHA1-Digest: ynZgRuOA9UaNfPimOLGBEhdXBzY=
+
+Name: lib/armeabi/libpango.so
+SHA1-Digest: zQTU8/9TRuk+AfyiKqt3akh18Sc=
+
+Name: assets/textures/abilities/ss_fuse_doc_gas-hd.plist
+SHA1-Digest: 6TFOBR4fdEw+wmQQp3IaG7DHX+Y=
+
+Name: assets/textures/game_mods/ss_pre_igniter-hd.plist
+SHA1-Digest: 2OrmisjZtghMqzsfs97wjkDS3zU=
+
+Name: assets/textures/abilities/ss_tazer_ghouled.plist
+SHA1-Digest: 5UEkeoDKXTbxZQTCAHsvkO34mYA=
+
+Name: assets/textures/portraits/ss_three_prison.plist
+SHA1-Digest: 0QcbrLLwPNZfXPLi07kAyAbsLSY=
+
+Name: assets/textures/abilities/ss_midas-hd.plist
+SHA1-Digest: JyRG0y3EfV4LCdT8t0S26Si40JI=
+
+Name: assets/textures/destructible_objects/ss_darkenergydrill.plist
+SHA1-Digest: HuoAhe0aUdVtwnhHhywSyxXD1II=
+
+Name: assets/textures/blocks/ss_fuse_flaringo_phosphoro.plist
+SHA1-Digest: /sD1NsJ7CVpMfzUHonMcuvJRLp8=
+
+Name: assets/particles/cavern_card_dust_particles.plist
+SHA1-Digest: /XAnxF0VS+0zGscTTxx9/DSP8N0=
+
+Name: assets/textures/characters/ss_evileli-hd.plist
+SHA1-Digest: qU72rxlessSe8blAeZSVjt0fOls=
+
+Name: assets/el.lproj/ss_title_logo.plist
+SHA1-Digest: GgwAt5eh1mQ8HKfNO5Reiiw5be4=
+
+Name: assets/textures/blocks/ss_ghoul_makobreaker-hd.plist
+SHA1-Digest: /ZVjkJF63aXBnxP5O0Z5YpfdWqw=
+
+Name: assets/textures/abilities/ss_ghoul_gas.plist
+SHA1-Digest: K1sRHi+yG1PJdiev5T3EyBuOGGk=
+
+Name: assets/textures/portraits/ss_titan.plist
+SHA1-Digest: iEt2XF969Qw3sXqEfg0WGdKnt98=
+
+Name: assets/textures/game_mods/ss_no_health.plist
+SHA1-Digest: lR4cmZdiSTS3JAIcDr+OhXdNrbE=
+
+Name: assets/textures/portraits/ss_pirate_girl.plist
+SHA1-Digest: p78lcYO1VSgLX4cc+JtjlbKVdnk=
+
+Name: assets/textures/destructible_objects/ss_trash.plist
+SHA1-Digest: E0do/EXvk5wOXNx/Kbn0t0iSxPg=
+
+Name: assets/textures/portraits/ss_hooligang_uniform.plist
+SHA1-Digest: QylfrkcCOfxAOtOgLHVTO31Hy9Q=
+
+Name: assets/textures/scenes/ss_news-hd.plist
+SHA1-Digest: XnFse2DvPgYm3u1T13wc1W65Mh8=
+
+Name: assets/textures/abilities/ss_jellyish.plist
+SHA1-Digest: l3aEhjYoaXxAP93SkGAr+bXt4mU=
+
+Name: assets/textures/game_mods/ss_game_mods_ui_small-hd.plist
+SHA1-Digest: 8xjyCx+zJhG+4T1j6bJ+FYoIprw=
+
+Name: assets/particles/badge_pop_in.plist
+SHA1-Digest: qMPFfY98pKxp5MbGXXJrdA+dH50=
+
+Name: assets/textures/game/locations/ss_desert-hd.plist
+SHA1-Digest: wMkkZtgQS7S7hKZ1jMBPULuLx3M=
+
+Name: assets/textures/abilities/ss_ghoul_tazer-hd.plist
+SHA1-Digest: 8LP61rgnqnkF5BlquGn9N3ZTAO8=
+
+Name: assets/zh.lproj/Fonts.strings
+SHA1-Digest: oGKXAjzS10dcdUF6NclsbgzyXj4=
+
+Name: assets/textures/slugs/ss_fuse_slyren_narwaddle0.plist
+SHA1-Digest: uGzbtc6Pb64RC7SpIdJizwRW7ek=
+
+Name: assets/textures/portraits/ss_boonthegoonjohnbull-hd.plist
+SHA1-Digest: tbiphefB+lrRV0wnfvKsMMU2c+Y=
+
+Name: assets/textures/blocks/ss_fuse_ghoul_vinedrill_ghoul_frost-hd.pl
+ ist
+SHA1-Digest: 9bOmKot5KEBc7MH/BZG03Y7w/0A=
+
+Name: assets/textures/game/ss_tutorial-hd.plist
+SHA1-Digest: fA7N2gSP01+rNGFYkyZjfgn3fuc=
+
+Name: assets/textures/portraits/ss_door.plist
+SHA1-Digest: wusn/Lt9JSBg+vSVYvqnO35Bt2I=
+
+Name: assets/ru.lproj/Dialogue.strings
+SHA1-Digest: Ce9bfXDibQV58M90FTbbWMWDvn0=
+
+Name: res/drawable-xxhdpi/common_signin_btn_icon_focus_light.9.png
+SHA1-Digest: THnQ9r/oTuPB60ajOYXvK1GrUsE=
+
+Name: assets/textures/blocks/ss_fuse_tazer_fright-hd.plist
+SHA1-Digest: qvJdqLprHTb9A0YU4muvejzIh7k=
+
+Name: assets/ar.lproj/AppiraterLocalizable.strings
+SHA1-Digest: 2k/rIILSmSCSLR8UpfxOdJKgPFE=
+
+Name: assets/textures/blocks/ss_hoprock-hd.plist
+SHA1-Digest: TTlv+fRSw3Lth0NMT7xYYved+YU=
+
+Name: assets/textures/scenes/ss_slugseeker_cavern_select0.plist
+SHA1-Digest: 5KCvGlSlnVTVYP5xOiX1Pm5JyB0=
+
+Name: assets/textures/portraits/ss_viggos_thug1_thug2.plist
+SHA1-Digest: KkXLQwVRh9XJAaFpKlj71hdoDw4=
+
+Name: assets/textures/characters/ss_robo_uniform.plist
+SHA1-Digest: /mJZ8AYjRyXpixL71vXE2ducWt4=
+
+Name: assets/textures/abilities/ss_mega_thresher-hd.plist
+SHA1-Digest: IOQ11S909UDdeCM9bsofVY6xJ3o=
+
+Name: assets/textures/portraits/ss_shanai.plist
+SHA1-Digest: CoUOvFjAQGsDI69hc4O+ApYhboQ=
+
+Name: assets/LICENSE
+SHA1-Digest: +k0zFZ5W2a/QqZkA7YecIph4HVI=
+
+Name: assets/textures/characters/ss_darkbane_soldier3.plist
+SHA1-Digest: sacQVWQU+KOaQkJubJCjqJGAiWU=
+
+Name: assets/textures/portraits/ss_nacho_uniform.plist
+SHA1-Digest: n8DziNCPp/YvjoD+6YxDsNjtn0Q=
+
+Name: assets/textures/portraits/ss_bonus_wagon.plist
+SHA1-Digest: MdDS4n8+GYdY6fH+44ar1Eoq+nk=
+
+Name: assets/textures/blocks/ss_ghoul_burpy-hd.plist
+SHA1-Digest: fiaBbXHuGt7Pf0uQHzyUTR14wYo=
+
+Name: assets/textures/abilities/ss_speedstinger.plist
+SHA1-Digest: Pirn5UoujkeWNBNFWVfp1i0jr78=
+
+Name: assets/textures/portraits/ss_viggos_thug1_thug2-hd.plist
+SHA1-Digest: EMTgYeP2NK0U1s7dtXD90fplJpk=
+
+Name: assets/textures/abilities/ss_tazer_ghouled-hd.plist
+SHA1-Digest: 9/9Dk09qDyLv/cO1k6wBCWqYMDg=
+
+Name: assets/textures/portraits/ss_scrapheepgang03.plist
+SHA1-Digest: /q7ezfnF77TvhmysX8Lp1hRfwu4=
+
+Name: assets/textures/game/locations/ss_slugseeker_02.plist
+SHA1-Digest: JT1wKtq8i5rCs+jgifZfC6mSG6Q=
+
+Name: assets/textures/abilities/ss_thresher-hd.plist
+SHA1-Digest: hJVd8MnWKXYA9+ouNMMaEPtRAUw=
+
+Name: res/drawable-mdpi/common_signin_btn_icon_disabled_focus_dark.9.p
+ ng
+SHA1-Digest: IXqmYG4624bef7DnPxFG+Uwx1ak=
+
+Name: assets/textures/portraits/ss_darkbanesoldierelite2-hd.plist
+SHA1-Digest: Kn2T/vJXAdn5M07CB6p2HZwxeBQ=
+
+Name: assets/textures/abilities/ss_hoprock-hd.plist
+SHA1-Digest: zsYaP6iaap6kdvfsx208ZKZCq+g=
+
+Name: assets/textures/characters/ss_frost-hd.plist
+SHA1-Digest: /eyJ1UDTcJVktYQmprf7bU9x1xE=
+
+Name: assets/textures/scenes/ss_encounter_select_pvrtc-hd.plist
+SHA1-Digest: PVq2DXYPf1q2XE2dlUPk0+iv5nY=
+
+Name: assets/textures/abilities/ss_fuse_xmitter_vinedrill-hd.plist
+SHA1-Digest: ZsyPulxyc/WvKaEFV5/iRVN6N78=
+
+Name: assets/textures/interface/ss_ui_16.plist
+SHA1-Digest: 4WK7mXwvswbSsD+HI4oljfCITTM=
+
+Name: assets/textures/abilities/ss_makobreaker.plist
+SHA1-Digest: J0TefNdx/ABOyNly5IrMnm8GgcI=
+
+Name: assets/textures/portraits/ss_bonus_darkenergydrill-hd.plist
+SHA1-Digest: As5IOjuKJmo5Kl+L2v/tsKjvFjs=
+
+Name: assets/textures/characters/ss_technician.plist
+SHA1-Digest: AdcmZhXJiySYKCUWcHmieu3tE3w=
+
+Name: assets/textures/portraits/ss_glasses.plist
+SHA1-Digest: D4vp8IPDaiHDvNDC0D4+hA4ixx0=
+
+Name: assets/textures/characters/ss_pronto-hd.plist
+SHA1-Digest: ellLThkX8W4R1FMSeecJrj7ulRg=
+
+Name: assets/textures/scenes/ss_modal_iap_ad-hd.plist
+SHA1-Digest: xjTAbkmwXH+doalKmmSNqqFpEzU=
+
+Name: assets/particles/rock_trail_particle.plist
+SHA1-Digest: gQ4ll9+xOr7BsUnjJf1GsQqoAZ4=
+
+Name: assets/textures/blocks/ss_ghoul_jellyish-hd.plist
+SHA1-Digest: 3JipJweqpiAVpZ2tf3cjH6EXs3s=
+
+Name: assets/textures/abilities/ss_fuse_neotox_thresher-hd.plist
+SHA1-Digest: +7hh0a2FWmZErD6RIsD0Fc9R6mg=
+
+Name: assets/textures/slugs/ss_slugs1-hd.plist
+SHA1-Digest: I+HJ9sghgb7kD3uvPVbw3EsrdFg=
+
+Name: assets/textures/destructible_objects/ss_windmill.plist
+SHA1-Digest: P6DB06w+IId0/F4VYzq7NfWwZPI=
+
+Name: assets/Icon.png
+SHA1-Digest: +tmJz8OosRWzwSziHMBmkcLiEvo=
+
+Name: assets/textures/portraits/ss_goon4-hd.plist
+SHA1-Digest: 0jQH7JR9acJ8222DqUNz30OeG6k=
+
+Name: assets/textures/destructible_objects/ss_wagon.plist
+SHA1-Digest: 9aMJqFFIVmQIBybCMbRYB+S4xi4=
+
+Name: assets/textures/blocks/ss_neotox-hd.plist
+SHA1-Digest: 0rvC0a9n5xoHVwmpoGGQ9DPKvwU=
+
+Name: assets/textures/characters/ss_guard_mech-hd.plist
+SHA1-Digest: BaID/bX39JI/gH3o+i+ZcgreYjE=
+
+Name: assets/textures/game_mods/ss_no_health-hd.plist
+SHA1-Digest: C+3bCTP6ck4JVMK4DglFc4AyWm0=
+
+Name: assets/textures/game/locations/ss_dirt.plist
+SHA1-Digest: eTYmQnqkgb1uZ8se2s/WPjJ+Qgs=
+
+Name: assets/ar.lproj/ss_title_logo.plist
+SHA1-Digest: orW4t1CBBSf7OUi/rw8qi8K9uoU=
+
+Name: assets/textures/game/locations/ss_ghouling_lab.plist
+SHA1-Digest: cSvUb62wgmJhL6tMVXcsnVgE4uY=
+
+Name: assets/ru.lproj/InfoPlist.strings
+SHA1-Digest: sj/NDiPYrm4XXaw7u2xX48bEpSQ=
+
+Name: assets/textures/blocks/ss_makobreaker.plist
+SHA1-Digest: AQR7aOQOXxhU4ZMT/HyuuWdu8WI=
+
+Name: assets/textures/blocks/ss_ghoul_frost-hd.plist
+SHA1-Digest: +gNa/LAJCVixQJf7UZ//yGJQPi8=
+
+Name: assets/textures/blocks/ss_ghoul_makobreaker.plist
+SHA1-Digest: qvrP5AtPUss653YQNXKY3wm6N+s=
+
+Name: assets/textures/characters/ss_testdummy-hd.plist
+SHA1-Digest: A3X5rBkMI4U/O6hzVCiS+SWiFZE=
+
+Name: res/drawable-mdpi/common_signin_btn_text_normal_dark.9.png
+SHA1-Digest: AT9w5rSAMWW0uoROEE4O/DyXQj4=
+
+Name: assets/textures/characters/ss_madmax.plist
+SHA1-Digest: wldB5nm0FgGSLdchpUOGQXwUhCg=
+
+Name: assets/textures/interface/ss_leaderboard.plist
+SHA1-Digest: vq4SaRHzy0wKgoxgtewzR1qNGnc=
+
+Name: res/drawable-hdpi/ic_plusone_medium_off_client.png
+SHA1-Digest: NHqkBfIL0tvXQGsGHO91mUCAPyI=
+
+Name: assets/textures/blocks/ss_fuse_freeze_grenuke-hd.plist
+SHA1-Digest: iaTkQcDoK/OGvcfZHta9Z1xlGl8=
+
+Name: assets/textures/blocks/ss_ghoul_rammstone.plist
+SHA1-Digest: 0amNS6NQKoJaOUky4sdQKZXzvmU=
+
+Name: assets/textures/portraits/ss_goon2.plist
+SHA1-Digest: YtMDTXItnuSEnVNjzKFHPV9W8TE=
+
+Name: assets/textures/game/locations/ss_darkbaneprison-hd.plist
+SHA1-Digest: yF4sIV37D+rBYN+SdmOPcRxD1uM=
+
+Name: assets/textures/scenes/ss_winlose_overlay.plist
+SHA1-Digest: oex74sleW4Ka6Ze1DKhMKNdMk3s=
+
+Name: res/drawable-hdpi/common_signin_btn_icon_focus_light.9.png
+SHA1-Digest: oslddavjaxT0f8U4Mn8PG9Z+jNM=
+
+Name: assets/textures/abilities/ss_fuse_ghoul_netox_ghoul_tazerling.pl
+ ist
+SHA1-Digest: hhS6CcQ2RLpZa/6uFKLQB4+E/+A=
+
+Name: assets/textures/blocks/ss_makobreaker-hd.plist
+SHA1-Digest: 3Q1U669WTs8U2+s1PqHWq1FUbLQ=
+
+Name: assets/textures/game_mods/ss_autocharge_one-hd.plist
+SHA1-Digest: wBz5vlXJGI0sidabBsARFUkkgdI=
+
+Name: assets/textures/portraits/ss_goon.plist
+SHA1-Digest: WI3FjzkvGx8S+1dydzRA/1OMXJM=
+
+Name: assets/textures/portraits/ss_blakk-hd.plist
+SHA1-Digest: ANJroJaN2ZBGYj/jhnXk9wOrlW8=
+
+Name: assets/textures/basic_shots/ss_snot.plist
+SHA1-Digest: yoRerKLJOU6NRl6N/x1zEw+BHzQ=
+
+Name: assets/tr.lproj/Fonts.strings
+SHA1-Digest: oGKXAjzS10dcdUF6NclsbgzyXj4=
+
+Name: assets/textures/game_mods/ss_pre_igniter.plist
+SHA1-Digest: FixsQ0WtGRa2qZzKSUOdDPDHsEY=
+
+Name: assets/textures/portraits/ss_bigguard1.plist
+SHA1-Digest: lfsTbKtozN97Fulwqstp/bFXDXE=
+
+Name: assets/textures/game_mods/ss_game_mods_ui_small.plist
+SHA1-Digest: v2GHtEnvUPG/mxbSHfNRcIxciBY=
+
+Name: res/drawable-hdpi/common_signin_btn_icon_disabled_light.9.png
+SHA1-Digest: ZDogSdlgVekmFIAbKguvig7+XGg=
+
+Name: assets/es-MX.lproj/ss_title_logo-hd.plist
+SHA1-Digest: ImJgWkhw26UlMzNavcY6314Um/E=
+
+Name: assets/textures/portraits/ss_technician-hd.plist
+SHA1-Digest: ImRERazqN6BlnsrB1HTNoGXky5M=
+
+Name: assets/textures/abilities/ss_gas.plist
+SHA1-Digest: +TVXzUQfdpdceLPWrQ6B/Jl8Lg8=
+
+Name: assets/textures/blocks/ss_ghoul_gas-hd.plist
+SHA1-Digest: MgVY54Slb5ozyiNCc4kTwEgzgwY=
+
+Name: assets/textures/portraits/ss_chest_small.plist
+SHA1-Digest: z1ogHL4VSkGexXKGooCi27/wB9o=
+
+Name: assets/textures/characters/ss_fire-hd.plist
+SHA1-Digest: ObSezgxvinhLEVQIbRRVKCtL/tY=
+
+Name: assets/textures/portraits/ss_gator-hd.plist
+SHA1-Digest: VCywo87J6nwMT3AkbVwPAZoDMxM=
+
+Name: assets/textures/game/locations/ss_darkbanethrone-hd.plist
+SHA1-Digest: U/kqoVqOWGHCqS+AAshD9k1Ub4Y=
+
+Name: assets/tr.lproj/ss_title_logo-hd.plist
+SHA1-Digest: nJVI9n9ytL5lsVV5CQ0knpGZZc0=
+
+Name: assets/textures/portraits/ss_shadow.plist
+SHA1-Digest: D3RZKjmiqAgpXJeLeOWcQFroUPU=
+
+Name: assets/textures/portraits/ss_inmate-hd.plist
+SHA1-Digest: y82noqHI5PW2z+EvjfJQ8nddLJA=
+
+Name: assets/textures/blocks/ss_fuse_arachnet_panic.plist
+SHA1-Digest: NQG3L3IocKfUfGkKLldguVdx77A=
+
+Name: assets/pt.lproj/Dialogue.strings
+SHA1-Digest: JG8bMh7j4AfTv8runzv0y1bQ+vM=
+
+Name: assets/textures/abilities/ss_fuse_burpy_tazer.plist
+SHA1-Digest: AgUHDJ/V2VBf/x7hA3QN42g4IOI=
+
+Name: assets/textures/portraits/ss_turret-hd.plist
+SHA1-Digest: zNdPJbP9pf5opmGlNjFOLGvOI80=
+
+Name: assets/textures/abilities/ss_frost_ghouled-hd.plist
+SHA1-Digest: fKEC+hMJW2AaZIwfGl0P6F71Xh8=
+
+Name: assets/textures/game/locations/ss_prisoncells-hd.plist
+SHA1-Digest: dGskExerXBx1saXyiJrKEr8iHIs=
+
+Name: assets/textures/characters/ss_goon2-hd.plist
+SHA1-Digest: WYm99mlQC0nBq4YjBJkjH9+JiYA=
+
+Name: assets/textures/characters/ss_guard.plist
+SHA1-Digest: AstvzH7g3x0Y1HjcltEuOvB34C0=
+
+Name: assets/textures/portraits/ss_scrapheepgang01.plist
+SHA1-Digest: /wSrzIi/qpDx/mPVS+X0LSNofbA=
+
+Name: assets/textures/portraits/ss_foreman.plist
+SHA1-Digest: QNt1vpJspivPLaS0tZert19feR0=
+
+Name: assets/textures/characters/ss_guard1-hd.plist
+SHA1-Digest: BT6rtM0x6oAMTlVxS2bexLnhiRY=
+
+Name: assets/textures/game/locations/ss_slugseeker_04-hd.plist
+SHA1-Digest: HwnGwwPW23eUMkUcxzoDafW9Rek=
+
+Name: assets/textures/scenes/ss_slugseeker_reward-hd.plist
+SHA1-Digest: HV3X8qmrym+sKKmrXvd8FmNFul0=
+
+Name: assets/particles/fandango_gate_particle.plist
+SHA1-Digest: JWb5fnViKOUNP2RHbBcGs9Ej6FQ=
+
+Name: assets/textures/abilities/ss_mega_burpy.plist
+SHA1-Digest: Z8nmaTPTiNEf4yOyPKTK/kbWVO0=
+
+Name: assets/textures/characters/ss_evileli.plist
+SHA1-Digest: 6Bs1dgxqA9Y96yhUTntxlDNd5Bk=
+
+Name: assets/ru.lproj/AppiraterLocalizable.strings
+SHA1-Digest: U7Uy1Gmw0ywrTS02tikSeLFzGEg=
+
+Name: assets/textures/grid_effects/ss_freeze-hd.plist
+SHA1-Digest: nIr6xCH4/tJvnzEitei+xWU5908=
+
+Name: assets/textures/portraits/ss_gangleaders.plist
+SHA1-Digest: O+A/UMHMNYZS0lTi8L8Jkq1eLOE=
+
+Name: res/drawable-hdpi/common_signin_btn_text_disabled_focus_dark.9.p
+ ng
+SHA1-Digest: YmWnuLFTsxsuwRBtvQiQ6Y6KnsI=
+
+Name: assets/Icon-72@2x.png
+SHA1-Digest: AZnKm55DZ3gVjMO1hdSWwg+jAbc=
+
+Name: assets/zh-Hans-CN.lproj/ss_title_logo.plist
+SHA1-Digest: g+sPoRjHQ7hJvGyetue+mzyrIrY=
+
+Name: lib/armeabi/libCoreText.so
+SHA1-Digest: msXJopVsIWkMtcIYiIzScHTzSSY=
+
+Name: assets/textures/blocks/ss_mega_thresher.plist
+SHA1-Digest: JWwvvMvZLxCRgu9dGZNAaz+JpQw=
+
+Name: assets/el.lproj/ss_title_logo-hd.plist
+SHA1-Digest: D5cMVxZcdPaWHeVim34uWfym+Tg=
+
+Name: assets/textures/characters/ss_sedo_uniform-hd.plist
+SHA1-Digest: +UhYWtfYK7UhJHDwwKgbBIg9Fi0=
+
+Name: assets/textures/abilities/ss_mega_doc-hd.plist
+SHA1-Digest: 1mMOQcYStVQ4wEZOed+94tm4JHs=
+
+Name: assets/textures/skins/ss_skins_purchase1-hd.plist
+SHA1-Digest: RsPfC/YwM2izD7ZUjOMjxr6uwmo=
+
+Name: res/drawable-mdpi/common_signin_btn_text_focus_light.9.png
+SHA1-Digest: 7vLApczB6mEex3xCchwoPVizP8w=
+
+Name: assets/textures/abilities/ss_fuse_aquabeek_fandango.plist
+SHA1-Digest: HZNJv3iUzaNhTwo/IZMd09CwOYI=
+
+Name: assets/textures/blocks/ss_fuse_ghoul_netox_ghoul_tazerling.plist
+SHA1-Digest: P7sZaAsHo4DLOljMLagPkujMaNg=
+
+Name: assets/textures/interface/ss_common.plist
+SHA1-Digest: ETKWqTfY7LWrp2wgKV9xSpm4yOY=
+
+Name: assets/textures/blocks/ss_fuse_neotox_thresher-hd.plist
+SHA1-Digest: Mw1wVAj2CeAlli/7GlgaWYOdZUs=
+
+Name: assets/textures/portraits/ss_fakeduelist-hd.plist
+SHA1-Digest: 6WSThchPupoSdM3fjUuT7d2FPl4=
+
+Name: assets/textures/portraits/ss_kord-hd.plist
+SHA1-Digest: fuGi9R34Jr+BxqYsJtOWrk5sqoc=
+
+Name: assets/textures/blocks/ss_jellyish-hd.plist
+SHA1-Digest: R7kblhCbq29RrUF27HbHzaMXr2E=
+
+Name: assets/textures/destructible_objects/ss_wagon-hd.plist
+SHA1-Digest: IrcMJFOl3QzrY6LbeSjaXgqRcLw=
+
+Name: res/drawable-mdpi/common_signin_btn_text_disabled_light.9.png
+SHA1-Digest: vgTn+pEQhSLa5buaCqjDd3w3UWU=
+
+Name: lib/armeabi/libCoreAudio.so
+SHA1-Digest: gwN/+fe0D2E6L/nOH0GDWNW1vWk=
+
+Name: assets/textures/game/locations/ss_herringbone3-hd.plist
+SHA1-Digest: M9zWw1H77XAlvvaTw+1axwYy/CA=
+
+Name: assets/textures/blocks/ss_thugglet-hd.plist
+SHA1-Digest: IZPm87kcay3CjTsKvdJoq29Ps30=
+
+Name: assets/textures/blocks/ss_ghoul_neotox.plist
+SHA1-Digest: TDknNkmEBNSZLhqLsi5wSRVOY5A=
+
+Name: assets/textures/abilities/ss_mega_thresher.plist
+SHA1-Digest: 9U/X4CbXAsA6tyItLx3yl1o6ito=
+
+Name: assets/textures/characters/ss_viggo_minion1.plist
+SHA1-Digest: lDdhutMbcFBqlBEEydkMAJE7qjY=
+
+Name: assets/textures/blocks/ss_ghoul_rammstone-hd.plist
+SHA1-Digest: /zdhApsszftLCPPf+JU+wujj8Fg=
+
+Name: assets/textures/portraits/ss_shanegang.plist
+SHA1-Digest: kMdKTkTvG3oraPcSNYepGu6FLYU=
+
+Name: assets/textures/abilities/ss_mega_grenuke.plist
+SHA1-Digest: Ljf0Bun/SDvo9RQydD10+omf2dg=
+
+Name: assets/textures/game/locations/ss_dream_tournment_normal-hd.plis
+ t
+SHA1-Digest: FjJ/odngvxdqhLzssq01uGwM6fk=
+
+Name: assets/textures/interface/ss_carousel-hd.plist
+SHA1-Digest: eV/tma6EAJWLXREcc3+dqP9L+kI=
+
+Name: assets/particles/loadout_particles.plist
+SHA1-Digest: 7IkznX07U3rf0WUMN0joE29WPJA=
+
+Name: assets/ko.lproj/Localizable.strings
+SHA1-Digest: rtiAunt6hBU0j0J+7Mj5/Pq1p4Y=
+
+Name: assets/textures/characters/ss_spirex.plist
+SHA1-Digest: aZHSsRoFc9pbGLJHREvmLDxRgS4=
+
+Name: assets/textures/abilities/ss_fuse_flaringo_phosphoro.plist
+SHA1-Digest: cesca9hQpxDp33zeT0juWckP8FU=
+
+Name: assets/textures/portraits/ss_two_pirates_ship.plist
+SHA1-Digest: Bk6A+oG3F6OhVx5xrFp7IyKoyTw=
+
+Name: assets/textures/portraits/ss_bonus_darkbane_throne.plist
+SHA1-Digest: oRNebqEZstEGvkZ8MQUHQJrk63k=
+
+Name: assets/textures/abilities/ss_fuse_ghoul_netox_ghoul_tazerling-hd
+ .plist
+SHA1-Digest: tDlvUJspLSqYqiS2GhXArKRamY4=
+
+Name: assets/textures/characters/ss_trixie.plist
+SHA1-Digest: MXjRLPeOda31Vt/dJvxY8atzIuQ=
+
+Name: META-INF/LICENSE.txt
+SHA1-Digest: R7Vz44JM1eAqGjrpnic1tJ4CVuQ=
+
+Name: assets/textures/portraits/ss_darkbaneprisondoor.plist
+SHA1-Digest: 77z6b10prffbv3Q/I5y/xVorA10=
+
+Name: assets/textures/abilities/ss_ghoul_makobreaker.plist
+SHA1-Digest: UUB/EcQfTGbMd/bRsHekvcZ3p78=
+
+Name: assets/textures/game/locations/ss_darkbanecitadel-hd.plist
+SHA1-Digest: /6G4qURKnFCBodi4l+9ldATs0J8=
+
+Name: res/drawable-mdpi/common_signin_btn_icon_disabled_focus_light.9.
+ png
+SHA1-Digest: IXqmYG4624bef7DnPxFG+Uwx1ak=
+
+Name: assets/textures/characters/ss_darkbane_soldier_elite2.plist
+SHA1-Digest: /dVPAKIxFiDs0f1oMr8jL5mGx3s=
+
+Name: assets/textures/portraits/ss_prisondoor.plist
+SHA1-Digest: aS9lP6yq8VToU/uequHGM22oiMI=
+
+Name: assets/textures/portraits/ss_viggo_minion2-hd.plist
+SHA1-Digest: 92ZJypzJrs4lpD8TTT+KzCIozqU=
+
+Name: assets/textures/portraits/ss_voodoo-hd.plist
+SHA1-Digest: p5gBhCF77qP3OU+bN+IBAQVeRVI=
+
+Name: assets/textures/abilities/ss_fuse_yang_refresh.plist
+SHA1-Digest: MUOlOTcTtqjK78+cYRyK1sTGUcI=
+
+Name: assets/zh-Hans-CN.lproj/Dialogue.strings
+SHA1-Digest: 3YwcRncoUggdKgTahsxdr8wl9ak=
+
+Name: assets/textures/portraits/ss_guardbig1_guardbig2-hd.plist
+SHA1-Digest: tW4Wl6MTgx9awmulRON91UFmF34=
+
+Name: assets/textures/scenes/ss_score-hd.plist
+SHA1-Digest: QTDDFx02D7H/zmBVsmBgxIgdUPw=
+
+Name: assets/textures/scenes/ss_store.plist
+SHA1-Digest: WSTVG6lPkUVBa1BHL0/Ty3Vkxb0=
+
+Name: lib/armeabi/libApplication.so
+SHA1-Digest: 3Fmis5h7UdTXscBXoOmXbGFH4Gg=
+
+Name: assets/textures/game/locations/ss_jungle-hd.plist
+SHA1-Digest: VkEXlr+P6WhIpQsbSl5gBGR0Eg8=
+
+Name: assets/textures/characters/ss_guardbig3.plist
+SHA1-Digest: +z/GoC1i5O5gmvRS4Bg964e+SqE=
+
+Name: assets/textures/characters/ss_guard3.plist
+SHA1-Digest: cbsTibdqZqrJvt4I6/jQpnazwL0=
+
+Name: assets/textures/portraits/ss_mrsaturday-hd.plist
+SHA1-Digest: o1kOB8eNrPu9fVMC6zaLwS2Q23g=
+
+Name: assets/textures/characters/ss_eliprison.plist
+SHA1-Digest: sVaKBHu2Excy0MQrIJZa4U/WF8E=
+
+Name: assets/textures/characters/ss_darkbane_soldier_elite2-hd.plist
+SHA1-Digest: 1Mx9fU/MlU+LhNuYHrnd3uuF3GA=
+
+Name: assets/textures/scenes/ss_options.plist
+SHA1-Digest: NaKwTKDBVkJrhbzvRmZPTcIDtd8=
+
+Name: assets/pt-PT.lproj/InfoPlist.strings
+SHA1-Digest: yau2waCChul82Zm/ghtQx0p4FdU=
+
+Name: assets/textures/abilities/ss_fuse_tormato_jellyish-hd.plist
+SHA1-Digest: 5TWNWx1iaDnp6M+h68hkKjkQYKU=
+
+Name: assets/textures/portraits/ss_lockeload_uniform.plist
+SHA1-Digest: 7cnj/xeR1HwsMxfsU9UBGRdNWPk=
+
+Name: assets/textures/characters/ss_eliprison-hd.plist
+SHA1-Digest: DAewy5Xaw4AWjeT/xfmoRXeVtRE=
+
+Name: assets/textures/game/locations/ss_slugseeker_01-hd.plist
+SHA1-Digest: jCfRUe3Fx8vcfXla1ck1+uQwx0s=
+
+Name: assets/textures/characters/ss_mechamole.plist
+SHA1-Digest: rCFSlKmaRGqpGX4E1X7Z3z2GU9w=
+
+Name: res/drawable-hdpi/common_signin_btn_text_focus_dark.9.png
+SHA1-Digest: CdS2JYcO2aYMRPs8uE6z0+hK3SA=
+
+Name: assets/textures/characters/ss_guardbig1-hd.plist
+SHA1-Digest: ZWWPprqvrDHghcRFEjAJPgHIRNU=
+
+Name: assets/textures/portraits/ss_mei-hd.plist
+SHA1-Digest: /1QbXtqlyg8KBvToh6hukXhdyLQ=
+
+Name: assets/pt.lproj/Fonts.strings
+SHA1-Digest: guqYjxejd2rl0w5geT687+39/yI=
+
+Name: assets/textures/game/locations/ss_construction-hd.plist
+SHA1-Digest: YG8Igal7pBAkY3vP3KQgBs26z2w=
+
+Name: assets/textures/portraits/ss_darkbane_nacho-hd.plist
+SHA1-Digest: Q6Euz+b+ilenKDzAJ2yoHKwiWsg=
+
+Name: assets/textures/abilities/ss_mega_tormato-hd.plist
+SHA1-Digest: i+yfDoiBhmmc3SQ2H0ljVCJgIy0=
+
+Name: assets/textures/characters/ss_fakeduelist.plist
+SHA1-Digest: NY4EpKYHU5HG40u0ZUQn7JxPFaM=
+
+Name: assets/textures/game_mods/ss_blaster_damage.plist
+SHA1-Digest: pu22M84JNbcqvI5pc4niYdRyRdU=
+
+Name: assets/textures/blocks/ss_lariat.plist
+SHA1-Digest: 5c6J8MwYCW5hIqLCyzShRDLla00=
+
+Name: assets/textures/characters/ss_darkbane_brimstone-hd.plist
+SHA1-Digest: 0expSoTHywESfS4nB0AsQ2GwPgs=
+
+Name: assets/textures/characters/ss_darkbane_soldier1-hd.plist
+SHA1-Digest: IUseMvyMODVIrT9ldCFnNKbbrqM=
+
+Name: assets/textures/characters/ss_munch_uniform.plist
+SHA1-Digest: BCf+oMOmhI3AmKOGI616t1jtBcA=
+
+Name: lib/armeabi/libSystemConfiguration.so
+SHA1-Digest: Ai4r+HFykIYk2mzvidsxRQVSF24=
+
+Name: assets/textures/characters/ss_guardbig2.plist
+SHA1-Digest: r+Z4VXRsZZTNbZqQiM5wr8+db2g=
+
+Name: assets/textures/portraits/ss_cannons.plist
+SHA1-Digest: 2cG8P5k6O/6JbxVBhQr9HeAuQXA=
+
+Name: assets/textures/portraits/ss_jackbull-hd.plist
+SHA1-Digest: 9tcYWHoX68ueBH5YAVzS+HIW2AI=
+
+Name: assets/textures/scenes/ss_mp_score.plist
+SHA1-Digest: 5ABfGayuX88WeTED3kNl7pms+vU=
+
+Name: assets/textures/characters/ss_fav.plist
+SHA1-Digest: R90gk8he/KWJrSN9i35kRs679vg=
+
+Name: assets/zh-Hans.lproj/Localizable.strings
+SHA1-Digest: uAXfCBe4Gcs6NLY3qZ9izbJs0+c=
+
+Name: assets/textures/game/locations/ss_undertowcavern3-hd.plist
+SHA1-Digest: 2IEw5KcltOezEqPNXLsCvHxOtmY=
+
+Name: assets/Default-568h@2x.png
+SHA1-Digest: c0C7ve7MT4iljLfl/51YLnECmrA=
+
+Name: assets/particles/cavern_card_firework_particles.plist
+SHA1-Digest: 1RB7JjTqQrFpm75BAwuvl8Z+OJo=
+
+Name: assets/textures/abilities/ss_narwhaddle-hd.plist
+SHA1-Digest: nl2B9iR7fWeHTX3d7JUtoEmUiyQ=
+
+Name: assets/textures/game_mods/ss_autocharge_three-hd.plist
+SHA1-Digest: EnB/skkjxuW3a+6qj56zLn756Uk=
+
+Name: res/drawable/common_signin_btn_text_light.xml
+SHA1-Digest: Ru9c8TQxCDEETWL8Hyuw8oLR62o=
+
+Name: assets/zh-Hans-CN.lproj/Fonts.strings
+SHA1-Digest: oGKXAjzS10dcdUF6NclsbgzyXj4=
+
+Name: assets/textures/abilities/ss_crystalyd.plist
+SHA1-Digest: Ut8GNs8CHJILSGoXqCaz5nL/rQo=
+
+Name: assets/textures/blocks/ss_gazzer-hd.plist
+SHA1-Digest: seMm4+ZU/rYfFa2KnoAoS+Z0p0A=
+
+Name: assets/textures/portraits/ss_lockeload.plist
+SHA1-Digest: asdHoZYRBDq1ccJBALOYNTkezbU=
+
+Name: assets/textures/game/locations/ss_dream_green.plist
+SHA1-Digest: cnooCk6/0tpyorpjtHWzdP7Hjxk=
+
+Name: assets/textures/game/locations/ss_blakk.plist
+SHA1-Digest: GFegdteP/EBtT7daV0ktUyAFKy8=
+
+Name: assets/textures/blocks/ss_fuse_doc_gas.plist
+SHA1-Digest: vzjA4pINleuegDrqSsQ/mBUIpxM=
+
+Name: assets/textures/characters/ss_guard2.plist
+SHA1-Digest: xGJXFcTbpxy/rQQeYMxLawJhVmk=
+
+Name: assets/textures/scenes/ss_adventure_select.plist
+SHA1-Digest: QMTubWNsfDSkn5eydWv98A/oWmE=
+
+Name: assets/de.lproj/Dialogue.strings
+SHA1-Digest: Hw3NKbMjXSs2mnP40cub4nDTHAc=
+
+Name: assets/particles/yang_explode_particle.plist
+SHA1-Digest: QhyKTBYrkAJQUK4Nc71/tZF3PPk=
+
+Name: assets/textures/portraits/ss_cajun.plist
+SHA1-Digest: gZllkgLcg8EDSX35a5bcmAdMKZ0=
+
+Name: assets/textures/abilities/ss_ghoul_phosphoro-hd.plist
+SHA1-Digest: QAdZ6zSUXO9Bbcm/yk75LpQsuVQ=
+
+Name: assets/textures/blocks/ss_fuse_yang_refresh.plist
+SHA1-Digest: FPHlNiNxKR/YeEC7AH+81DZDueE=
+
+Name: assets/textures/game/locations/ss_darkperiphery2-hd.plist
+SHA1-Digest: ImAKm+afHMNo/cxG7Mysf/96c2Y=
+
+Name: res/drawable-hdpi/common_signin_btn_text_normal_dark.9.png
+SHA1-Digest: /w/b5Ahd692RhVH4wOIahCMTR9s=
+
+Name: assets/textures/characters/ss_jackbull-hd.plist
+SHA1-Digest: PQnUWtaqEN2WJyPnzEXFUpkB2eY=
+
+Name: assets/textures/blocks/ss_fuse_rammstone_makobreaker.plist
+SHA1-Digest: yTg1+rl0Mzle3CLkO5o7/jAXOQY=
+
+Name: assets/textures/characters/ss_guardbig1.plist
+SHA1-Digest: KBHvPp+Qzw0T9+s1p/rxjqH9Ev8=
+
+Name: lib/armeabi/libCommonCrypto.so
+SHA1-Digest: 2ImmvOomcFvsVeczmc9bcyHdfZo=
+
+Name: assets/textures/blocks/ss_mega_gas-hd.plist
+SHA1-Digest: NSgUQGphZBJRHJOEd8Hx3nwh24I=
+
+Name: assets/textures/abilities/ss_geoshard.plist
+SHA1-Digest: Yuwa7gJEnDUDT/ITJQ6V3zK6uRo=
+
+Name: assets/textures/game/locations/ss_deepcavern.plist
+SHA1-Digest: IJiYq6Ba59QB+OIGgrJ8iHo9Fr8=
+
+Name: assets/textures/game/locations/ss_throne-hd.plist
+SHA1-Digest: 1meIqS1MTj4iRSUZG7A4I0aA/Do=
+
+Name: assets/textures/portraits/ss_goon4.plist
+SHA1-Digest: /I4uqUtDIgWAhKhdP0SbHZNWypE=
+
+Name: assets/tr.lproj/Dialogue.strings
+SHA1-Digest: W4wRyax7FVZJqKk6eSkYsG9ZKcs=
+
+Name: assets/textures/characters/ss_evilkord-hd.plist
+SHA1-Digest: 0EbTWL5wsSvHlyZGZnn6QAiNDjk=
+
+Name: assets/textures/abilities/ss_fuse_ghoul_tormato_ghoul_flaringo.p
+ list
+SHA1-Digest: HKFrbwv0wg8jw7r7M7kd3L+J74M=
+
+Name: res/drawable/common_signin_btn_icon_dark.xml
+SHA1-Digest: t7HBv64duoewWbdod8qJTlTBDMw=
+
+Name: assets/textures/game/locations/ss_darkbanehallway.plist
+SHA1-Digest: NRPUGkgILYmmB/N7f7ozOIz15iM=
+
+Name: assets/textures/abilities/ss_ghoul_doc-hd.plist
+SHA1-Digest: FcD9W+KhZL/MFmpaPM/GWtQx8cs=
+
+Name: assets/textures/game/locations/ss_slugseeker_07-hd.plist
+SHA1-Digest: u/rsIWxu8i1KowR7HG1ovGJs++g=
+
+Name: assets/textures/scenes/ss_mp_score-hd.plist
+SHA1-Digest: ivNpOhyexEfgTVwLUT/k/Fn4O5Y=
+
+Name: assets/textures/abilities/ss_fuse_yang_refresh-hd.plist
+SHA1-Digest: 2W8MkfWJM+c9aVAaRKA59m7MeTU=
+
+Name: res/drawable-mdpi/common_signin_btn_text_disabled_dark.9.png
+SHA1-Digest: vgTn+pEQhSLa5buaCqjDd3w3UWU=
+
+Name: assets/textures/portraits/ss_goon3.plist
+SHA1-Digest: bJaflljnTwwP9d0seXvVRvOxaDo=
+
+Name: assets/textures/scenes/ss_loadout-hd.plist
+SHA1-Digest: P/AKemEjajelQo4P/Ab+Y/nJXr4=
+
+Name: assets/textures/basic_shots/ss_basic_shots_ui.plist
+SHA1-Digest: sf90wUhXGsz7MBtC4Hyd99/CNuw=
+
+Name: assets/textures/characters/ss_watts-hd.plist
+SHA1-Digest: nrhp6eOWJVjPuYT9LylwNM0l1p8=
+
+Name: assets/it.lproj/InfoPlist.strings
+SHA1-Digest: sj/NDiPYrm4XXaw7u2xX48bEpSQ=
+
+Name: assets/textures/blocks/ss_firenzar-hd.plist
+SHA1-Digest: Yrh4wh+3EnkOc4NrCsBZb08qtRs=
+
+Name: assets/zh-Hans-CN.lproj/Localizable.strings
+SHA1-Digest: z1mXXV90XpRe5YBntnz1m6hot3o=
+
+Name: res/drawable-hdpi/common_signin_btn_text_normal_light.9.png
+SHA1-Digest: BPO7rZUizcNQMnWeRsW2OCnWgH4=
+
+Name: assets/textures/abilities/ss_grenuke.plist
+SHA1-Digest: wrBdhFjU53FGkHMYyAqt7zYiDn4=
+
+Name: assets/textures/portraits/ss_marcus-hd.plist
+SHA1-Digest: dyMu/qMR0WLeE3uKdkF9EaJrcYk=
+
+Name: assets/ko.lproj/Fonts.strings
+SHA1-Digest: oGKXAjzS10dcdUF6NclsbgzyXj4=
+
+Name: assets/Icon-120.png
+SHA1-Digest: gAAF54+ldKJ5iXOmpI7+XJBjBT8=
+
+Name: assets/Cuprum-Bold.ttf
+SHA1-Digest: DLZs3plaqbOj+CcuP+uIymN2hFY=
+
+Name: assets/particles/particle_gradient_glow.plist
+SHA1-Digest: dA22t+496/PfrxVGbWgS4zsupOM=
+
+Name: assets/textures/abilities/ss_burpy_ghouled.plist
+SHA1-Digest: ywPMMvGUOrgOpNruaaeitGJi0ho=
+
+Name: assets/textures/portraits/ss_evileli.plist
+SHA1-Digest: yq29g/a6zdzXaJS3MI6L0NlqbQM=
+
+Name: assets/zh-Hans.lproj/ss_title_logo.plist
+SHA1-Digest: g+sPoRjHQ7hJvGyetue+mzyrIrY=
+
+Name: res/drawable-hdpi/common_signin_btn_icon_disabled_dark.9.png
+SHA1-Digest: ZDogSdlgVekmFIAbKguvig7+XGg=
+
+Name: assets/zh-Hans-CN.lproj/AppiraterLocalizable.strings
+SHA1-Digest: aA0ZPTmwyuVvqlBonZWZf4IM+48=
+
+Name: assets/textures/portraits/ss_cajun_uniform.plist
+SHA1-Digest: 2PP0CsVCkUbQXiKyCACaPCX7PrE=
+
+Name: assets/textures/portraits/ss_viggo.plist
+SHA1-Digest: 8m6g8yYkBykLa7Vl+KK9hBG7jhw=
+
+Name: assets/textures/game/locations/ss_chapter17_blakk01-hd.plist
+SHA1-Digest: P7agqPQBfQIkhtaK+e1IAQbEhqw=
+
+Name: assets/textures/portraits/ss_triplets-hd.plist
+SHA1-Digest: kHYZTw5tcdpHt3O2gqmpcddKI0s=
+
+Name: assets/textures/abilities/ss_fuse_aquabeek_fandango-hd.plist
+SHA1-Digest: r7VJKcS3YiLfnRSZasJCt3th+nk=
+
+Name: assets/textures/portraits/ss_bossember.plist
+SHA1-Digest: lVRkUNZZ1lH8ZuNJEWSEUZpzJkg=
+
+Name: lib/armeabi/libgles_apportable.so
+SHA1-Digest: 2x0AXh9Vr0caCfsAn+asRqjXHUA=
+
+Name: assets/textures/abilities/ss_reflect-hd.plist
+SHA1-Digest: w2YCB8F6D8A8g2Pjk+TaKdc3wu8=
+
+Name: assets/textures/blocks/ss_ghoul_panic.plist
+SHA1-Digest: UQ0R7tBrrWg6XHqjAbz9cHTtqHc=
+
+Name: assets/textures/blocks/ss_geoshard.plist
+SHA1-Digest: 17WKFvVya4MhuWPydd32sVr60Ng=
+
+Name: assets/textures/portraits/ss_doombots.plist
+SHA1-Digest: gv5mri5dVw2fkHnqvLaHB4whRzE=
+
+Name: assets/textures/abilities/ss_rammstone-hd.plist
+SHA1-Digest: XUl/wix1OJ3w6FCvZMCpEJf7Zcg=
+
+Name: assets/textures/blocks/ss_neotox.plist
+SHA1-Digest: G+P4B7hEfQteuX1XFFl3XNfr6/s=
+
+Name: assets/textures/portraits/ss_turtle-hd.plist
+SHA1-Digest: f8+T4xRE5va2diHfetEZlhqT1jE=
+

@@ -1,0 +1,2458 @@
+/*
+ Localizable.strings
+ Slugterra: Slug it Out!
+ 
+ Created by Jeremy Peterson on 13-01-31.
+ 
+ Main localized strings table for the game.
+ 
+ */
+
+
+/* Common UI */
+
+"dialog_button_ok" = "确定"; // Confirmation button text.
+"dialog_button_yes" = "是"; // Confirmation button text.
+"dialog_button_no" = "否"; // Confirmation button text.
+//"button_ok" = "OK"; // Confirmation button text.
+"button_cancel" = "取消"; // Confirmation button text.
+//"button_accept" = "Accept"; // Confirmation button text.
+//"button_exit" = "Exit"; // Confirmation button text.
+//"button_nav_next" = "Next"; // Confirmation button text.
+//"button_nav_back" = "Back"; // Confirmation button text.
+//"button_go_now" = "Go Now!"; // Confirmation button text.
+/* End Common UI */
+
+
+
+/* Top HUD */
+
+"tophud_button_get_more_coins" = "获得更多金币";
+
+/* End Top HUD */
+
+/* Chapter 1 */
+
+//Encounter 1
+"enc_c1e1o1_dialog_1a" = "太棒了！穴巨人！我一直想遇到穴巨人！";
+"enc_c1e1o1_dialog_2a" = "我是柯德·赞恩。你不是本地人吧？";
+"enc_c1e1o1_dialog_2b" = "我得教教你如何防身。看下面的方块格子。";
+"enc_c1e1o1_dialog_3a" = "点按并移动方块，然后将其拖至相邻方块上。";
+"enc_c1e1o1_dialog_4a" = "干掉不错，小家伙！这就够了。";
+"enc_c1e1o1_dialog_5a" = "好的，伊莱，现在我来演示一下如何匹配方块。";
+"enc_c1e1o1_dialog_6a" = "现在来看看你能否匹配三个发射器方块。";
+"enc_c1e1o1_dialog_7a" = "哦！这是你第一次发射器射击吗？！你绝不可能战胜我啊。";
+"enc_c1e1o1_dialog_7b" = "我敢打赌，你肯定没法再来一次。";
+"enc_c1e1o1_dialog_8a" = "移动发射器方块，进行另一次匹配！";
+"enc_c1e1o1_dialog_9a" = "哇！好吧，你肯定特别擅长射击...但是我也有发射器！咱们来决斗吧！";
+"enc_c1e1o1_dialog_10a" = "哦！哇！你这么做是什么意思？我告诉过你应该...";
+
+//Encounter 2
+"enc_c1e2o1_dialog_1a" = "干得漂亮！下一步：治疗。";
+"enc_c1e2o1_dialog_2a" = "匹配三个绿色方块，即可恢复健康条。";
+"enc_c1e2o1_dialog_3a" = "感觉好点了吗？很好！";
+"enc_c1e2o1_dialog_4a" = "抱歉，我的发射器有点小麻烦。你最好再治疗一次。";
+"enc_c1e2o1_dialog_5a" = "来试试匹配这四个健康方块。";
+"enc_c1e2o1_dialog_6a" = "一次操作中匹配方块越多越好。";
+"enc_c1e2o1_dialog_6b" = "现在，来看看你能在决斗中撑多久。";
+"enc_c1e2o1_dialog_7a" = "糟糕，我差点就赢了。";
+"enc_c1e2o1_dialog_8a" = "你不是要教教我吗？";
+"enc_c1e2o1_dialog_9a" = "额，好吧。不过...这只是个测试...你通过了！";
+
+//Encounter 3
+"enc_c1e3o1_dialog_1a" = "决斗！你有一个伊佛纳斯精灵？";
+"enc_c1e3o1_dialog_2a" = "他的名字叫波比。他很棒的！";
+"enc_c1e3o1_dialog_3a" = "伊佛纳斯精灵可变形成为一个强大的火焰生物。";
+"enc_c1e3o1_dialog_4a" = "波比说他想练习变形。";
+"enc_c1e3o1_dialog_5a" = "尝试匹配一些火焰方块，来增加波比的攻击力吧！";
+"enc_c1e3o1_dialog_6a" = "继续努力！他需要更多果汁。";
+"enc_c1e3o1_dialog_7a" = "一次匹配五个方块，可将波比充能一个级别。";
+"enc_c1e3o1_dialog_8a" = "现在波比已经充满能量，点按精灵，发起新的攻击！";
+"enc_c1e3o1_dialog_9a" = "哇 哇 哇 哇。好的，我想你已经找到了窍门，决斗吧！";
+"enc_c1e3o1_dialog_10a" = "哟！下次可别再把我的裤子点着了！";
+"enc_c1e3o1_dialog_10b" = "我想，你已经准备好进行第一次真正的决斗了！布朗多！！！！！！";
+
+/* End Chapter 1 */
+
+/* Slug Seeker Cavern */
+
+"name_cavern_seeker_catch_name" = "在精灵探索者洞穴中被捉住！";
+
+"name_cavern_seeker_watch_video_name" = "观看视频，立即解锁此洞穴！";
+
+"name_cavern_seeker_chest_reward_name" = "点按箱子，领取奖励！";
+
+"name_cavern_seeker_lose_booster_name" = "需要帮忙？用增强器再试一次吧！";
+
+"name_cavern_seeker_lose_name" = "不要放弃！全力取胜，领取奖励！";
+
+"name_cavern_seeker_win_coins_name" = "恭喜！你赢得了 <Coin Variable> 金币！";
+
+"name_cavern_seeker_win_slugs_name" = "恭喜！你发现了一个新的精灵！";
+
+"name_cavern_seeker_win_characters_name" = "恭喜！你找到了一个新的人物！";
+
+"name_cavern_seeker_win_boosters_name" = "恭喜！你找到了一个增强器！";
+
+"name_cavern_seeker_unlocked_name" = "一个精灵探索者洞穴打开了！快去探索并找到免费的罕见精灵吧！";
+
+/* End Slug Seeker Cavern */
+
+/* Tutorial Popups */
+"tutorial_popup_starting_msg2" = "点按 \"购买\" 按钮，获得新的精灵！";
+"tutorial_popup_starting_msg3" = "将精灵拖至槽内，装备好！现在，你已做好准备，可以进行决斗了！";
+"tutorial_popup_starting_msg4" = "%@ 已解锁！快去得到他！"; // %@ will be replaced with the name of a slug.
+"tutorial_popup_starting_msg_coin" = "奖金";
+
+
+/* End Tutorial Popups */
+
+/* Challenge Mode */
+
+/* Gridlock */
+
+//Encounter 1 - Tutorial
+"name_gridlock_challenge" = "堵塞";
+"enc_gridlock_e1_dialog_1a" = "发生了什么情况？";
+"enc_gridlock_e1_dialog_2a" = "这是一个特殊挑战。你的对手非常强大，但他们慢慢会损失健康。你只需把战斗时间拖得越长越好！";
+"enc_gridlock_e1_dialog_3a" = "有些盘面方块是被锁定的，不能移动，请当心！";
+"enc_gridlock_e1_dialog_4a" = "好了，快来做吧！";
+"enc_gridlock_e1_dialog_1b" = "干得漂亮！请注意，下次决斗的难度会更大！";
+"enc_gridlock_e1_dialog_2b" = "如果你赢得了所有决斗的胜利，就会赢得大奖！你可以做到！";
+
+/* Bombastic */
+
+//Encounter 1 - Tutorial
+"name_bombs_challenge" = "爆破";
+"enc_bombastic_e1_dialog_1a" = "发生了什么情况？";
+"enc_bombastic_e1_dialog_2a" = "这是一个特殊挑战。你的发射器被设为超速驱动，因此你的精灵会自动发火。你匹配的方块越多，射击能量就越强大！";
+"enc_bombastic_e1_dialog_3a" = "你的对手非常强大，但他们慢慢会损失健康。你只需把战斗时间拖得越长越好！还有记住一件事：爆破！";
+"enc_bombastic_e1_dialog_4a" = "好了，快来做吧！";
+"enc_bombastic_e1_dialog_1b" = "干得漂亮！请注意，下次决斗的难度会更大！";
+"enc_bombastic_e1_dialog_2b" = "如果你赢得了所有决斗的胜利，就会赢得大奖！你可以做到！";
+
+
+/* Draino */
+
+//Encounter 1 - Tutorial
+"name_draino_challenge" = "流失";
+"enc_draino_e1_dialog_1a" = "发生了什么情况？";
+"enc_draino_e1_dialog_2a" = "这是一个特殊挑战。你的精灵能量会慢慢流失。请用足够快的速度来匹配方块，以使精灵不断充能！";
+"enc_draino_e1_dialog_3a" = "好了，快来做吧！";
+"enc_draino_e1_dialog_1b" = "干得漂亮！请注意，下次决斗的难度会更大！";
+"enc_draino_e1_dialog_2b" = "如果你赢得了所有决斗的胜利，就会赢得大奖！你可以做到！";
+
+
+/* Stunlock */
+
+//Encounter 1 - Tutorial
+"name_stunlock_challenge" = "振击锁定";
+"enc_stunlock_e1_dialog_1a" = "发生了什么情况？";
+"enc_stunlock_e1_dialog_2a" = "这是一个特殊挑战。你的对手非常强大，但他们慢慢会损失健康。你只需把战斗时间拖得越长越好！";
+"enc_stunlock_e1_dialog_3a" = "好了，快来做吧！";
+"enc_stunlock_e1_dialog_1b" = "干得漂亮！请注意，下次决斗的难度会更大！";
+"enc_stunlock_e1_dialog_2b" = "如果你赢得了所有决斗的胜利，就会赢得大奖！你可以做到！";
+
+/* Sudden Death */
+
+//Encounter 1 - Tutorial
+"name_sudden_death_challenge" = "突然死亡";
+"enc_sudden_e1_dialog_1a" = "发生了什么情况？";
+"enc_sudden_e1_dialog_2a" = "这是一个特殊挑战。请注意：千万别被击中，击中一次就会输掉决斗！请千万小心，别让任何东西滑过！";
+
+"enc_sudden_e1_dialog_2a2" = "这是一个特殊挑战。请注意，你的健康值非常低！请避免被击中，要时时刻刻进行治疗！";
+"enc_sudden_e1_dialog_3a" = "你的发射器被设为超速驱动，因此你的精灵会自动发火。你匹配的方块越多，射击能量就越强大！";
+"enc_sudden_e1_dialog_4a" = "好了，快来做吧！";
+"enc_sudden_e1_dialog_1b" = "干得漂亮！请注意，下次决斗的难度会更大！";
+"enc_sudden_e1_dialog_2b" = "如果你赢得了所有决斗的胜利，就会赢得大奖！你可以做到！";
+
+
+/* Mixed Bag */
+
+//Encounter 1 - Tutorial
+"name_mixed_bag_challenge" = "混合袋子";
+"name_initiation_challenge" = "初始化";
+"enc_mix_e1_dialog_1a" = "发生了什么情况？";
+"enc_mix_e1_dialog_2a" = "这些决斗没有特殊规则。只是难度非常大！准备好了吗？";
+"enc_mix_e1_dialog_3a" = "好了，快来做吧！";
+"enc_mix_e1_dialog_1b" = "干得漂亮！请注意，下次决斗的难度会更大！";
+"enc_mix_e1_dialog_2b" = "如果你赢得了所有决斗的胜利，就会赢得大奖！你可以做到！";
+
+/* Challenge Mode end */
+
+/* Equipment Scenes */
+
+// common
+"equip_active" = "活动";
+"equip_dialog_insufficient_coins_title" = "买不起 '%@'！"; // Error message for purchase of virtual item. %@ will be replaced with the item name.
+"equip_dialog_insufficient_coins_msg" = "你没有足够金币，没法购买 '%@'。\n要立即赚些金币吗？"; // Error message for purchase of virtual item. %@ will be replaced with the item name.
+"equip_dialog_purchase_confirm_title" = "购买 '%@'？"; // Confirmation text for purchase of virtual item. %@ will be replaced with the item name.
+"equip_dialog_purchase_confirm_msg" = "要用 %i 金币购买 '%@' 吗？"; // Confirmation text for purchase of virtual item. %@ will be replaced with the item name.
+
+// boosters page title
+"equip_boosters_title" = "增强器"; // 增强器 are game upgrades, like power-ups.
+
+// slugs page title
+"equip_slugs_title" = "精灵"; // Use glossary.
+"equip_slugs_dialog_condition" = "通过故事模式解锁"; // Telling the user that a slug is earned through playing story mode.
+"equip_slugs_slug_seeker_condition" = "通过精灵探索者模式解锁"; // Telling the user that a slug is earned through playing slug seeker mode.
+"equip_slugs_sale" = "销售"; // Over top of slug when its on a sale
+
+// avatars page title
+"equip_avatars_title" = "任务"; // Used to denote character skins for players to select.
+"equip_avatars_unlock" = "在“无穷尽模式”下打败 %i 个敌人";
+
+// basic shots page title
+"equip_basic_shots_title" = "定制射击";
+
+// game mods page title
+"equip_gamemods_title" = "模式"; // Game mods modify certain game conditions for both players in a multiplayer match.
+
+/* End Equipment Scenes */
+
+
+
+/* In-App Purchases */
+"iap_coin_small_name" = "5,000 金币";
+"iap_coin_small_description" = " "; // Do not translate this string, leave as a single space.
+
+"iap_coin_large_name" = "10,000 金币";
+"iap_coin_large_description" = "多 25%";
+
+"iap_coin_huge_name" = "25,000 金币";
+"iap_coin_huge_description" = "多 50%";
+
+"iap_coin_massive_name" = "100,000 金币";
+"iap_coin_massive_description" = "多 75%";
+
+//"iap_slug_midas_name" = "Midas";
+//"iap_slug_midas_description" = "More Coins in Battle";
+
+/* End In-App Purchases */
+
+
+
+/* Chapter Select Scene */
+
+// scene title
+"chapter_select_title" = "章节选择";
+
+// dialog: player requires 4 slugs to enter a treasure encounter
+"chapter_select_dialog_treasure_slugs_required_title" = "需要四个精灵";
+"chapter_select_dialog_treasure_slugs_required_msg" = "你必须有 4 个装备好的精灵，才能玩财宝交战";
+
+/* End Chapter Select Scene */
+
+
+
+/* Cut Scene */
+
+"cutscene_button_skip" = "跳过"; // Button text for skipping cut scenes.
+//"cutscene_button_ok" = " OK"; // Button text for skipping cut scenes.
+
+/* End Cut Scene */
+
+
+/* Challenge Select Scene */
+"challenge_mode_select" = "挑战选择";
+"challenge_number" = "挑战 %i";
+"challenge_expiration" = "已过期";
+"challenge_exit_expired" = "此挑战即将过期！确定要退出吗？";
+"challenge_quit_encounter" = "放弃决斗？要想重新决斗，必须花金币！";
+"challenge_win_overlay" = "新的箱子已解锁！赢得所有决斗胜利，领取奖励！";
+"challenge_reward_screen" = "胜利！领取你的奖励！";
+"challenge_slug_lock" = "精灵已解锁";
+"challenge_lose_screen" = "别放弃！赢得所有决斗胜利，领取奖励！";
+/* End Challenge Select Scene */
+
+
+
+/* In-App Purchase Scene */
+
+// store scene title
+"store_title" = "金币商店";
+
+// currently for 'sale' badge in coin shop
+"store_sale" = "特价";
+
+// restore button
+//"store_restore_label" = "Restore";
+
+// dialog: store access restricted by device settings
+"store_dialog_access_restricted_title" = "应用内购买已禁用";
+"store_dialog_access_restricted_msg" = "应用内购买已在设备设置中被禁用。";
+
+// dialog: network has been locally disabled in device settings
+"store_dialog_no_network_title" = "无法访问网络";
+"store_dialog_no_network_msg" = "请启用网络并重试。";
+
+// dialog: could not establish connection to the Apple Servers
+"store_dialog_connection_failed_title" = "连接商店失败";
+"store_dialog_connection_failed_msg" = "无法与商店建立网络连接。请检查网络设置并稍后重试。";
+
+// dialog: retrieval of In-App Purchase product info failed
+"store_dialog_update_failed_title" = "检索产品信息失败";
+"store_dialog_update_failed_msg" = "无从从服务器检索产品信息，重试？";
+
+// dialog: this iTunes account is not authorized for payment
+"store_dialog_payment_not_authorized_title" = "支付未授权";
+"store_dialog_payment_not_authorized_msg" = "你的 App Store 账户未授权，不能支付。";
+
+// dialog: transaction was successfully completed
+"store_dialog_transaction_success_title" = "成功";
+"store_dialog_transaction_success_msg" = "已成功购买 '%@'！";
+
+// dialog: there was an error during the payment transaction
+"store_dialog_transaction_failed_title" = "交易错误";
+"store_dialog_transaction_failed_msg" = "交易失败：%@";
+
+/* end In-App Purchase Scene */
+
+
+
+/* Code Redeem Scene */
+
+// scene title
+"coderedeem_title" = "使用代码";
+
+"coderedeem_statement" = "在官方精灵大地玩具中找到促销代码，然后在此处输入促销代码，发现精彩的游戏内容！";
+
+// code enter box labels
+"coderedeem_codebox_title" = "使用促销代码"; // "Promo" is short for "promotional". These promotional codes are 6-letter codes packaged with toys.
+"coderedeem_codebox_instructions" = "在此处输入促销码，发现精彩的游戏内容！"; // "Promo" is short for "promotional". These promotional codes are 6-letter codes packaged with toys.
+//"coderedeem_codebox_button_ok" = "OK!";
+"coderedeem_codebox_textfield_placeholder" = "键入代码";
+
+// prize display box
+"coderedeem_prizebox_congrats" = "恭喜！";
+"coderedeem_prizebox_you_just_revealed" = "你刚刚发现了";
+
+// Unlocking characters in Use Code screen.
+"coderedeem_character" = "%1$d %2$@"; // Do not translate.
+"coderedeem_character_singular" = "人物";
+"coderedeem_character_plural" = "任务";
+"coderedeem_character_description" = "使用其他任务玩游戏！";
+"coderedeem_none_title" = "你已经拥有一切！";
+"coderedeem_none_message" = "将此代码给好友，让他们在游戏中使用吧！";
+
+// Error messages for Use Code screen.
+"coderedeem_fail_network_title" = "网络错误";
+"coderedeem_fail_network_message" = "发生网络错误。请连接网络并重试。";
+"coderedeem_fail_used_title" = "代码已被使用";
+"coderedeem_fail_used_message" = "此代码已被使用，不能再次使用。如果需要帮助，请联系我们。我们的电子邮件地址为 interactive.support@dhxmedia.com";
+"coderedeem_fail_server_title" = "服务器错误";
+"coderedeem_fail_server_message" = "远程服务器无法完成请求。请连接网络并重试。";
+"coderedeem_fail_invalid_title" = "代码无效";
+"coderedeem_fail_invalid_message" = "此代码无效。如果你确定此代码有效，请联系我们。我们的电子邮件地址为 interactive.support@dhxmedia.com";
+
+/* End Code Redeem Scene */
+
+
+
+/* Versus Scene */
+
+"versus_loading" = "正在加载...";
+"versus_fight" = "战斗！";
+"versus_multiplayer_waiting" = "请稍候...";
+"versus_slugs_replaced_chapter6" = "被绑架！";
+"versus_slugs_has_been_replaced_chapter6" = "波比已被星期六先生绑架！快把他救回来！";
+/* End Versus Scene */
+
+/* Ghoul Scene */
+
+"ghoul_equip_unleash_text" = "装备黑化精灵，释放其野性力量！";
+"ghoul_slugs_text" = "黑化精灵";
+"ghoul_get_now_text" = "立即得到他们！";
+"ghoul_slugs_only_text" = "仅黑化精灵！";
+"ghoul_slug_only_extended_text" = "仅黑化精灵！";
+"ghoul_slug_replace_extended_text" = "精灵已被替换！";
+"ghoul_slug_replace_text" = "精灵被替换！";
+
+/* End Ghoul Scene */
+
+
+
+/* Score Scene */
+
+"score_time_label" = "时间 %i：%02i";
+//"score_button_retry" = "Retry";
+
+/* End Score Scene */
+
+
+
+/* Slug Unlock Sequence */
+
+"slug_unlock_level" = "级别 %i";
+
+/* End Slug Unlock Sequence */
+
+
+
+/* Main Menu */
+
+"main_menu_play_story_mode" = "故事模式";
+"main_menu_play_adventure_mode" = "冒险模式";
+"main_menu_play_challenge_mode" = "挑战模式";
+"main_menu_play_multiplayer" = "多人游戏";
+
+"main_menu_challenge_mode_locked_title" = "挑战模式已锁定！";
+"main_menu_challenge_mode_locked_msg" = "要想玩挑战模式，你需要至少 4 个精灵。";
+
+"main_menu_multiplayer_mode_locked_title" = "多玩家模式已锁定！";
+"main_menu_multiplayer_mode_locked_msg" = "要想玩多玩家模式，你需要至少 4 个精灵。";
+
+"main_menu_adventure_mode_locked_title" = "冒险模式已锁定！";
+"main_menu_adventure_mode_locked_msg" = "要想玩冒险模式，你需要至少 4 个精灵。";
+
+"main_menu_button_play" = "开始游戏！";
+"main_menu_button_use_code" = "使用代码";
+
+/* End Main Menu */
+
+
+
+/* Pause Menu */
+
+//"pause_menu_button_quit" = "Quit";
+//"pause_menu_button_restart" = "Restart";
+//"pause_menu_button_resume" = "Resume";
+
+"pause_menu_dialog_confirm_quit_title" = "退出";
+"pause_menu_dialog_confirm_quit_msg" = "确定要退出？";
+
+"pause_menu_dialog_confirm_restart_title" = "重新开始";
+"pause_menu_dialog_confirm_restart_msg" = "确定要重新开始吗？";
+
+/* End Pause Menu */
+
+
+
+/* Defeat Scene */
+
+//"defeat_button_retry" = "Retry";
+//"defeat_button_booster" = "Go Now!";
+//"defeat_label_need_boost" = "Need A Boost?";
+
+/* Defeat and Victory Scene THIS NEEDS TO BE IMPLEMENTED IN OTHER LOCALIZATION */
+"defeat_label_booster_msg" = "装备增强器，在下一轮比赛中炸出一条路！";
+"defeat_label_skin_msg" = "用你最喜爱的任务玩游戏！";
+"win_lose_buy_btn_msg" = "立即得到他们！";
+"win_lose_upgrade_btn_msg" = "立即升级！";
+
+/* End Defeat Scene */
+
+
+
+/* Story End Scene */
+"story_end_button_play_multiplayer" = "玩多玩家游戏";
+"story_end_title" = "与好友决斗！";
+"story_end_msg_1" = "这里不是终点！";
+"story_end_msg_2" = "在多玩家模式中持续决斗！";
+
+/* End Story End Scene */
+
+
+
+
+/* Options Scene */
+
+"options_title" = "选项";
+
+//"options_button_reset_data" = "Reset Story";
+"options_button_credits" = "鸣谢";
+
+"options_dialog_reset_data_title" = "你确定吗？";
+"options_dialog_reset_data_msg" = "此操作会删除你在“故事模式”中的进度。你不会损失金币也不会损失任何已购买的物品。确定要这么做吗？";
+
+/* End Options Scene */
+
+
+
+/* News Scene */
+
+"news_title" = "新闻";
+
+/* End News Scene */
+
+
+
+/* Endless (Custom Loadout) Scene */
+
+"endless_congrats" = "恭喜！";
+"endless_local_highscore" = "本地最高分！";
+
+"endless_leaderboard_tab_gamecenter" = "游戏中心";
+"endless_leaderboard_tab_local" = "本地";
+
+"endless_dialog_leaderboard_title" = "输入你的姓名！";
+"endless_dialog_leaderboard_msg" = "请在本地积分榜中输入你的姓名。";
+
+"endless_local_highscore_textfield_placeholder" = "输入名称";
+
+//"endless_button_quit" = "Quit";
+//"endless_button_replay" = "Replay";
+
+"endless_title" = "挑战模式";
+
+"endless_mode" = "无穷尽";
+
+"endless_local_leaderboard_title" = "高分";
+
+"endless_label_results" = "分数：%d  金币：%d";
+
+/* End Endless (Custom Loadout) Scene */
+
+
+/* Challenge Mode */
+
+"encounter_win" = "新的箱子已解锁！完成所有决斗胜利，领取奖励！";
+
+"replay_encounter" = "要花 X 个金币重新进行此决斗吗？";
+
+"quit_encounter" = "确定吗？你稍后要花金币才能重新进行此决斗。";
+
+/* End Challenge Mode */
+
+/* Treasure Select Scene */
+
+//"treasure_select_title" = "Treasure Vault";
+
+/* End Treasure Select Scene */
+
+
+
+/* Busy Layer */
+
+"busy_layer_please_wait" = "请稍候...";
+
+/* End Busy Layer */
+
+
+
+/* Game Center */
+
+"game_center_dialog_title" = "未登录 Game Center";
+"game_center_dialog_message" = "登录 Game Center，以访问成就、排行榜和多玩家。";
+"google_play_dialog_title" = "未登录 Google Play";
+"google_play_dialog_message" = "登录 Google Play，以访问成就、排行榜和多玩家。";
+"game_center_dialog_no" = "以后再说";
+"game_center_dialog_yes" = "是！";
+
+/* End Game Center */
+
+
+
+/* Multiplayer Screens */
+
+"multiplayer_header_title" = "多人游戏";
+
+"multiplayer_end_screen_you_won" = "你赢了！";
+"multiplayer_end_screen_you_lost" = "你输了";
+"multiplayer_end_screen_label_coins" = "金币：+%i";
+"multiplayer_end_screen_label_points" = "积分：+%i";
+"multiplayer_end_screen_label_rank" = "排名：";
+"multiplayer_end_screen_ok" = "确定";
+"multiplayer_end_screen_label_rank_formatted" = "排名：%d";
+
+"multiplayer_lobby_label_welcome" = "欢迎你，%@！"; // %@ will be replaced with the player's Game Center name.
+"multiplayer_lobby_label_wins" = "获胜次数";
+//"multiplayer_lobby_button_back" = "Back";
+//"multiplayer_lobby_button_play" = "Play";
+//"multiplayer_lobby_button_leave" = "Leave";
+//"multiplayer_lobby_leave_title" = "";
+"multiplayer_lobby_leave_message" = "确定要离开吗？";
+//"multiplayer_lobby_button_ready" = "Ready";
+"multiplayer_lobby_button_not_ready" = "取消";
+"multiplayer_lobby_message_waiting" = "正在等待对手...";
+"multiplayer_lobby_message_loading" = "正在加载游戏...";
+"multiplayer_lobby_message_synchronizing" = "正在同步...";
+
+"multiplayer_game_message_syncing" = "正在同步游戏统计数据...";
+//"multiplayer_game_label_leave" = "Leave";
+
+"multiplayer_tabpane_games_played" = "已玩的游戏数量：%i";
+"multiplayer_tabpane_games_won" = "获胜游戏：%i";
+"multiplayer_tabpane_longest_streak" = "最长连胜：%i";
+"multiplayer_tabpane_current_streak" = "当前连胜：%i";
+"multiplayer_tabpane_header_game_center" = "游戏中心";
+"multiplayer_tabpane_header_google_play" = "Google Play";
+"multiplayer_tabpane_header_stats" = "统计数据";
+"multiplayer_tabpane_no_data" = "无数据";
+
+"multiplayer_remote_state_connecting" = "正在连接...";
+"multiplayer_remote_state_disconnected" = "已断开";
+"multiplayer_remote_state_getting_ready" = "准备就绪";
+"multiplayer_remote_state_ready" = "准备就绪";
+"multiplayer_remote_state_loading_game" = "正在加载游戏...";
+"multiplayer_remote_state_loaded_waiting" = "已加载，请稍候";
+"multiplayer_remote_state_choosing_slugs" = "选择精灵";
+"multiplayer_remote_state_choosing_game_mods" = "选择模式";
+//"multiplayer_remote_state_choosing_emoticon" = "Choosing Emoticon";
+"multiplayer_remote_state_playing_game" = "玩游戏";
+"multiplayer_remote_state_viewing_score" = "查看得分";
+
+"multiplayer_interrupt_network_error_formatted" = "发生网络错误：\n%@"; // The "\n" represents a new line character. Please use it in the translation to separate the two lines of text.
+"multiplayer_interrupt_network_error_unknown" = "发生网络错误：\n未知错误。"; // The "\n" represents a new line character. Please use it in the translation to separate the two lines of text.
+"multiplayer_interrupt_disconnected_title" = "玩家断线";
+"multiplayer_interrupt_disconnected_message" = "已与 '%@' 断开连接。";
+"multiplayer_interrupt_left_title" = "玩家离开比赛";
+"multiplayer_interrupt_left_message" = "玩家 '%@' 已离开游戏。";
+"multiplayer_interrupt_lobby_title" = "玩家已返回游戏大厅";
+"multiplayer_interrupt_lobby_message" = "玩家 '%@' 已返回多玩家游戏大厅。";
+"multiplayer_interrupt_laggy_title" = "连接质量较差";
+"multiplayer_interrupt_laggy_message" = "你和对手之间的网络连接质量较差。\n此状况下，游戏不能正常进行。"; // The "\n" represents a new line character. Please use it in the translation to separate the two lines of text.
+
+/* End Multiplayer Screens */
+
+
+
+/* Credits */
+
+"credits_title_intro" = "开发人员";
+"credits_title_creative_lead" = "创意主管";
+"credits_title_project_manager" = "项目经理";
+"credits_title_lead_programmer" = "首席编程人员";
+"credits_title_lead_artist" = "首席艺术设计";
+"credits_title_programming" = "程序设计";
+"credits_title_art" = "艺术设计";
+"credits_title_level_design" = "关卡设计";
+"credits_title_sound_engineering" = "音效设计";
+"credits_title_music" = "音乐";
+"credits_title_voice_acting" = "配音演员";
+"credits_title_special_thanks" = "特别感谢";
+"credits_title_executive_producers" = "执行制作人";
+"credits_title_producer" = "制作人";
+"credits_title_head_of_licensing" = "全球许可和促销总监";
+"credits_title_director_of_brand" = "品牌发展总监";
+"credits_title_marketing_manager" = "市场营销总监";
+"credits_title_director_finance" = "财务总监";
+"credits_title_general_counsel" = "法律顾问";
+"credits_title_it" = "IT";
+"credits_title_many_thanks" = "感谢下列支持者";
+
+/* End Credits */
+
+
+/* Slug Events */
+
+"event_name_double_coins" = "财富加倍！";
+"event_name_info_double_coins" = "今天，所有决斗都将获得双倍金币奖励。快来游戏，赚取金币吧！";
+
+"event_name_hidden_slugs" = "隐藏精灵警报！";
+"event_name_info_hidden_slugs" = "在第%@ 章前后已经有新的精灵，快去赢得决斗，解锁该精灵吧！";
+
+"event_name_booster_sale" = "增强你的发射器！";
+"event_name_info_booster_sale" = "今天，所有增强器都更便宜。立即获取增强器，在游戏中炸出一条路！";
+
+"event_name_coin_packs" = "获取更多金币！";
+"event_name_info_coin_packs" = "今天，金币包有额外金币。立即购买金币包，获得比以往更多金币！";
+
+"event_name_rare_slug" = "罕见精灵警报！";
+"event_name_info_rare_slug" = "罕见精灵已到货，时间不会很久。快去商店，获取罕见精灵！";
+
+"event_name_engagement_drive" = "精灵马拉松开始了！";
+"event_name_info_engagement_drive" = "如果每周每天都玩，你将会获得 X 作为奖励。千万别错过，立即在游戏中得到它！";
+
+"event_name_character_sales" = "遇见新的精灵射手！ ";
+"event_name_info_character_sales" = "今天商店中的 %@ 更便宜。快去商店，用新的人物玩游戏吧！";
+
+/* End Slug Events */
+
+
+/* Slug Info Box */
+
+// common
+"slug_info_box_level" = "级别：%i";
+"slug_info_box_power" = "能量：%@";
+
+/* Slug Info */
+
+// burpy
+"slug_info_name_burpy" = "伊佛纳斯";
+"slug_info_power_burpy" = "火";
+"slug_info_description_burpy" = "强大的极为罕见的火焰精灵，伊佛纳斯可用破坏性爆炸来袭击对手。";
+
+// frost
+"slug_info_name_frost" = "爬行冰兽";
+"slug_info_power_frost" = "冰";
+"slug_info_description_frost" = "爬行冰兽使用冰川立现手法为你创建冰盾墙，并使用冰冻和破坏性爆炸来攻击对手。";
+
+//tazer
+"slug_info_name_tazer" = "闪电客";
+"slug_info_power_tazer" = "电力";
+"slug_info_description_tazer" = "闪电客利用泰雷闪来攻击对手，造成破坏并击退对手。";
+
+//gas
+"slug_info_name_gas" = "臭小鬼";
+"slug_info_power_gas" = "毒气";
+"slug_info_description_gas" = "臭小鬼用呕吐球攻击对手，在接触时释放恶臭，给对手造成损害，并耗尽对手的精灵。";
+
+//doc
+"slug_info_name_doc" = "福音医师";
+"slug_info_power_doc" = "光";
+"slug_info_description_doc" = "福音医师在飞行时使用疗伤光球进行治疗。";
+
+//arachnet
+"slug_info_name_arachnet" = "蜘蛛仔";
+"slug_info_power_arachnet" = "土地";
+"slug_info_description_arachnet" = "蜘蛛仔是一个很有用的攻击精灵，他可以使用破坏性爆炸攻击对手，并使对手的精灵速度减慢。";
+
+//enigmo
+"slug_info_name_enigmo" = "艾尼萌";
+"slug_info_power_enigmo" = "光";
+"slug_info_description_enigmo" = "艾尼萌飞越战场时可匹配方块。";
+
+//fandango
+"slug_info_name_fandango" = "活力仔";
+"slug_info_power_fandango" = "光";
+"slug_info_description_fandango" = "活力仔有很多天然精灵能量，在他飞行时可给你的其他精灵充能。";
+
+//flaringo
+"slug_info_name_flaringo" = "烈火兽";
+"slug_info_power_flaringo" = "火";
+"slug_info_description_flaringo" = "烈火兽通过爆炸冲击波给对手造成损伤。";
+
+//geoshard
+"slug_info_name_fright" = "悬飞虫";
+"slug_info_power_fright" = "空气";
+"slug_info_description_fright" = "悬飞虫可制造气流漩涡，让你的精灵能够更快地击中对手。";
+
+//rammstone
+"slug_info_name_rammstone" = "冲撞石";
+"slug_info_power_rammstone" = "土地";
+"slug_info_description_rammstone" = "冲撞石可击穿盾牌或等量精灵。";
+
+//yang
+"slug_info_name_yang" = "隐形兽";
+"slug_info_power_yang" = "巫师";
+"slug_info_description_yang" = "隐形兽会通过遮住对手视野来迷惑对手。";
+
+//grenuke
+"slug_info_name_grenuke" = "炸弹仔";
+"slug_info_power_grenuke" = "火";
+"slug_info_description_grenuke" = "添加多个蘑菇炸弹，可给对手造成大量损害。";
+
+//midas
+"slug_info_name_midas" = "点金手";
+"slug_info_power_midas" = "光";
+"slug_info_description_midas" = "点金手可在飞越战场时为你生成更多金币。";
+
+//aquabeek
+"slug_info_name_aquabeek" = "水波兽";
+"slug_info_power_aquabeek" = "水";
+"slug_info_description_aquabeek" = "水波兽可用水注枪以极高速度向对手射击并造成损害。";
+
+//makobreaker
+"slug_info_name_makobreaker" = "鲨鱼口";
+"slug_info_power_makobreaker" = "水";
+"slug_info_description_makobreaker" = "鲨鱼口可吃掉任何发射器的射击或所遇见的任何低级精灵来增加能量。";
+
+//xmitter
+"slug_info_name_xmitter" = "干扰星";
+"slug_info_power_xmitter" = "金属";
+"slug_info_description_xmitter" = "用此脉冲禁用对手的发射器。";
+
+//thresher
+"slug_info_name_thresher" = "利齿兽";
+"slug_info_power_thresher" = "金属";
+"slug_info_description_thresher" = "伊莱受伤时，利齿兽的进攻会变得更强大。";
+
+//lock
+"slug_info_name_lock" = "藤蔓使";
+"slug_info_power_lock" = "植物";
+"slug_info_description_lock" = "使对手进入陷阱，将方块锁定在盘面上。";
+
+//panic
+"slug_info_name_panic" = "迷梦者";
+"slug_info_power_panic" = "巫师";
+"slug_info_description_panic" = "恐吓对手，使其一次发射所有精灵。";
+
+//refresh
+"slug_info_name_refresh" = "平";
+"slug_info_power_refresh" = "光";
+"slug_info_description_refresh" = "攻击对手，并交换盘面方格。";
+
+//reflect
+"slug_info_name_reflect" = "气泡仔";
+"slug_info_power_reflect" = "水";
+"slug_info_description_reflect" = "反射对手的精灵。";
+
+//tormato
+"slug_info_name_tormato" = "暴风兽";
+"slug_info_power_tormato" = "空气";
+"slug_info_description_tormato" = "形成风盾，引离对手的精灵。";
+
+//speedstinger
+"slug_info_name_speedstinger" = "弹力虫";
+"slug_info_power_speedstinger" = "金属";
+"slug_info_description_speedstinger" = "利用高速射击来攻击对手。";
+
+//phosphoro
+"slug_info_name_phosphoro" = "夜色磷火";
+"slug_info_power_phosphoro" = "光";
+"slug_info_description_phosphoro" = "给你所有其他精灵充能并给对手造成损害。";
+
+//neotox
+"slug_info_name_neotox" = "毒气兽";
+"slug_info_power_neotox" = "毒气";
+"slug_info_description_neotox" = "制造有毒爆炸，毒杀对手。";
+
+//jellyish
+"slug_info_name_jellyish" = "粘液水母";
+"slug_info_power_jellyish" = "水";
+"slug_info_description_jellyish" = "攻击对手并减慢对手速度。";
+
+//Armashelt
+"slug_info_name_armashelt" = "轰天雷";
+"slug_info_power_armashelt" = "炮弹";
+"slug_info_description_armashelt" = "当轰天雷攻击时，他会持续用低级射弹进行打击，沉重击打对手精灵。";
+
+//Hop Rock
+"slug_info_name_hoprock" = "弹跳石";
+"slug_info_power_hoprock" = "雷管";
+"slug_info_description_hoprock" = "向对手施加可造成强大破坏力的致命炸弹。";
+
+//Hypnogrif
+"slug_info_name_hypnogriff" = "忘忧者";
+"slug_info_power_hypnogriff" = "迷幻";
+"slug_info_description_hypnogriff" = "忘忧者可迷惑对手，让他们一次发射所有精灵。";
+
+//Slicksilver
+"slug_info_name_slicksilver" = "磁力兽";
+"slug_info_power_slicksilver" = "金属/磁力精灵";
+"slug_info_description_slicksilver" = "防止对手发射精灵。";
+
+//SpeedStinger
+"slug_info_name_speedstringer" = "弹力虫";
+"slug_info_power_speedstringer" = "跳跳 ";
+"slug_info_description_speedstringer" = "弹力虫可快速移动，同时造成巨大破坏力。";
+
+//Crystalyd
+"slug_info_name_crystalyd" = "晶钻兽";
+"slug_info_power_crystalyd" = "隧道工";
+"slug_info_description_crystalyd" = "当晶钻兽攻击对手的精灵时，他会持续用低级射弹进行打击。";
+
+//Geoshard
+"slug_info_name_geoshard" = "结晶兽";
+"slug_info_power_geoshard" = "结晶精灵";
+"slug_info_description_geoshard" = "结晶兽飞行时可进行一连串射击。";
+
+//Slyren
+"slug_info_name_slyren" = "幻音仔";
+"slug_info_power_slyren" = "空气";
+"slug_info_description_slyren" = "Slyren 在空中飞行时可进行一连串超高音速射击。";
+
+//Narwhaddle
+"slug_info_name_narwhaddle" = "冰爆仔";
+"slug_info_power_narwhaddle" = "冰";
+"slug_info_description_narwhaddle" = "冰爆仔可生成冰爆，在冷冻对手的同时，加速其他精灵的射击。";
+
+//Firenzar
+"slug_info_name_firenzar" = "火焰仔";
+"slug_info_power_firenzar" = "火";
+"slug_info_description_firenzar" = "Firenzar 可生成火焰环，给对手长时间造成破坏。";
+
+//Thugglet
+"slug_info_name_thugglet" = "淘气仔";
+"slug_info_power_thugglet" = "巫师";
+"slug_info_description_thugglet" = "当淘气仔攻击对手时，他将偷取对手精灵的能量。";
+
+//Gazzer
+"slug_info_name_gazzer" = "笑气仔";
+"slug_info_power_gazzer" = "空气";
+"slug_info_description_gazzer" = "笑气仔会泄放掉对手精灵的能量。";
+
+//Lariat
+"slug_info_name_lariat" = "绳索兽";
+"slug_info_power_lariat" = "水";
+"slug_info_description_lariat" = "绳索兽会射出黏黏的网，让对手的精灵速度减慢。";
+
+//Hexlet
+"slug_info_name_hexlet" = "赫斯列特";
+"slug_info_power_hexlet" = "巫师";
+"slug_info_description_hexlet" = "赫斯列特在飞越战场时可匹配方块。";
+
+/* Fusion Slug Info */
+
+//Negashade & Ping Fusion
+
+"slug_info_name_fuse_yang_refresh" = "遮光仔";
+"slug_info_power_fuse_yang_refresh" = "巫师";
+"slug_info_description_fuse_yang_refresh" = "隐形兽和平：通过遮住对手视野同时交换盘面方块，来攻击和迷惑对手。";
+
+//Doc and Gas Fusion
+"slug_info_name_fuse_doc_gas" = "疗毒仔";
+"slug_info_power_fuse_doc_gas" = "光和毒气";
+"slug_info_description_fuse_doc_gas" = "福音医师和臭小鬼：治疗玩家并消耗对手精灵的能量。";
+
+//Burpy & Tazerling Fusion
+"slug_info_name_fuse_burpy_tazer" = "波比闪电";
+"slug_info_power_fuse_burpy_tazer" = "火与电";
+"slug_info_description_fuse_burpy_tazer" = "波比和闪电客：攻击并击晕对手。";
+
+//Arachnet & Panic Fusion
+"slug_info_name_fuse_arachnet_panic" = "蜘蛛恐吓";
+"slug_info_power_fuse_arachnet_panic" = "土地和巫师";
+"slug_info_description_fuse_arachnet_panic" = "蜘蛛仔和迷梦者：恐吓对手并减慢对手速度。";
+
+//Aquabeek & Fandango Fusion
+"slug_info_name_fuse_aquabeek_fandango" = "活力水波";
+"slug_info_power_fuse_aquabeek_fandango" = "水和光";
+"slug_info_description_fuse_aquabeek_fandango" = "水波兽和活力仔：快速攻击并给玩家精灵充能。";
+
+//Rammstone & Makobreaker Fusion
+
+"slug_info_name_fuse_rammstone_makobreaker" = "冲撞鲨鱼石";
+"slug_info_power_fuse_rammstone_makobreaker" = "土地和水";
+"slug_info_description_fuse_rammstone_makobreaker" = "击穿盾牌或等级精灵，可吃掉发射器的射击来增加能量。";
+
+//Xmitter and Vinedrill Fusion
+
+"slug_info_name_fuse_xmitter_vinedrill" = "故障陷阱"; //Glitch is a malfunction equipment and Snare is a trap. For example trap or a net
+"slug_info_power_fuse_xmitter_vinedrill" = "电和植物";
+"slug_info_description_fuse_xmitter_vinedrill" = "攻击对手的发射器并扰乱其盘面方块。";
+
+//Flaringo and Phosphoro Fusion
+
+"slug_info_name_fuse_flaringo_phosphoro" = "夜色烈火"; //Spark is the small fiery particle thrown off from a fire and rain is moisture condensed from the atmosphere that falls visibly in separate drops. For Example rainy weather.
+"slug_info_power_fuse_flaringo_phosphoro" = "火和光";
+"slug_info_description_fuse_flaringo_phosphoro" = "用火焰攻击并给你的所有精灵充能。";
+
+//Frostcrawler and Grenuke Fusion
+
+"slug_info_name_fuse_freeze_grenuke" = "冰炸弹"; // Small white ice crtystals formed on surfaces when the temperature falls below freezing. Bomb is an explosion.
+"slug_info_power_fuse_freeze_grenuke" = "冰和火";
+"slug_info_description_fuse_freeze_grenuke" = "冰冻对手并向对手盘面中增加几个能够造成破坏的炸弹。";
+
+//Neotox and Thresher Fusion
+
+"slug_info_name_fuse_neotox_thresher" = "毒气利齿"; // Toxic is poisonous. Tusk is a long pointed tooth, usually found on elephants, walrus or wild boars.
+"slug_info_power_fuse_neotox_thresher" = "植物和金属";
+"slug_info_description_fuse_neotox_thresher" = "爆破毒杀对手并在伊莱受伤时变得更强大。";
+
+//Tormato and Jellyish Fusion
+
+"slug_info_name_fuse_tormato_jellyish" = "暴风水母"; // Slime is a moist, soft, and slippery substance. Storm is a violent disturbance of the atmosphere with strong winds.
+"slug_info_power_fuse_tormato_jellyish" = "空气和水";
+"slug_info_description_fuse_tormato_jellyish" = "此融合射击可制造防御性风盾，同时给对手造成损伤并减慢对手精灵的速度。";
+
+//Narwhaddle and Slyren Fusion
+
+"slug_info_name_fuse_slyren_narwaddle" = "冰爆幻音  "; // Hyper as in overactive and flash as in a brief shine.
+"slug_info_power_fuse_slyren_narwaddle" = "冰和空气";
+"slug_info_description_fuse_slyren_narwaddle" = "冰炸弹可加快其他精灵的速度，同时进行一连串超高音速射击。";
+
+//Hoverbug and Speedstinger Fusion
+
+"slug_info_name_fuse_hoverbug_speedstinger" = "连续动能"; //Kenetic as in Kinetic energy and streak as in a motion streak of moving very quickly
+"slug_info_power_fuse_hoverbug_speedstinger" = "金属和空气";
+"slug_info_description_fuse_hoverbug_speedstinger" = " 弹力虫和悬飞虫：使用大门并杀伤对手。";
+
+//Geoshard and Slicksilver Fusion
+
+"slug_info_name_fuse_geoshard_slicksilver" = "磁力结晶兽"; //Magna as in magnet and shard as in a small piece of broken glass
+"slug_info_power_fuse_geoshard_slicksilver" = "金属和土地";
+"slug_info_description_fuse_geoshard_slicksilver" = " 磁力兽和结晶兽：使用 3 个射弹杀伤对手并将对手的精灵锁定一段时间。";
+
+
+//Neurotox and Amperling Fusion
+
+"slug_info_name_fuse_ghoul_netox_ghoul_tazerling" = "剧毒雷电";
+"slug_info_power_fuse_ghoul_netox_ghoul_tazerling" = "暗影";
+"slug_info_description_fuse_ghoul_netox_ghoul_tazerling" = "此击打可锁定对手和精灵，同时造成损害并消耗精灵能量。";
+
+//Burpy and Flatulo Rex
+
+"slug_info_name_fuse_ghoul_burpy_ghoul_gas" = "波比臭暴君";
+"slug_info_power_fuse_ghoul_burpy_ghoul_gas" = "火焰与毒气";
+"slug_info_description_fuse_ghoul_burpy_ghoul_gas" = "造成损害同时消耗精灵能量，并用气云遮掩对手盘面。";
+
+//Photomo and Aquafreak Fusion
+
+"slug_info_name_fuse_ghoul_phosphoro_ghoul_aquabeek" = "磷火水魔";
+"slug_info_power_fuse_ghoul_phosphoro_ghoul_aquabeek" = "暗影";
+"slug_info_description_fuse_ghoul_phosphoro_ghoul_aquabeek" = "杀伤对手并给玩家提供大量精灵能量，同时也会稍微消耗玩家精灵能量。";
+
+//Briardrill and FrostFang Fusion
+
+"slug_info_name_fuse_ghoul_vinedrill_ghoul_frost" = "荆棘冰魔"; //Briar is a plant with prickly stems and Shard means broke peices or fragments
+"slug_info_power_fuse_ghoul_vinedrill_ghoul_frost" = "藤蔓和暗冰";
+"slug_info_description_fuse_ghoul_vinedrill_ghoul_frost" = "锁定并冷冻对手盘面，同时短时间锁定你自己的盘面。";
+
+//Tempesto and Pyringo Fusion
+
+"slug_info_name_fuse_ghoul_tormato_ghoul_flaringo" = "飓风狂刀"; // Scythe is a tool used for cutting and a Wave is a ridge of air
+"slug_info_power_fuse_ghoul_tormato_ghoul_flaringo" = "暗影";
+"slug_info_description_fuse_ghoul_tormato_ghoul_flaringo" = "飓风狂刀可生成飓风，造成严重损害。而且也会损害玩家。";
+
+//Greneater and Attacknet Fusion
+
+"slug_info_name_fuse_ghoul_grenuke_ghoul_arachnet" = "爆破狼蛛"; // Burr is a rough sound and Bomb is an explosion
+"slug_info_power_fuse_ghoul_grenuke_ghoul_arachnet" = "暗影";
+"slug_info_description_fuse_ghoul_grenuke_ghoul_arachnet" = "爆破狼蛛可在对手盘面上增若干炸弹，同时减慢对手精灵射击速度。玩家的精灵也会被锁定有限时间。";
+
+/* Ghoul Slug Info */
+
+// Ghoul Burpy
+"slug_info_name_ghoul_burpy" = "黑化波比";
+"slug_info_power_ghoul_burpy" = "火";
+"slug_info_description_ghoul_burpy" = "黑化波比是一种强大且极为罕见的火焰精灵，可用黑化爆炸攻击对手，但也会给你的人物造成损害。";
+
+// Ghoul Frost
+"slug_info_name_ghoul_frost" = "尖牙冰魔";
+"slug_info_power_ghoul_frost" = "暗冰";
+"slug_info_description_ghoul_frost" = "尖牙冰魔可使用蠕变冰冻手段通过强烈炸弹来冷冻对手，但并不生成冰墙。";
+
+// Ghoul Gas
+"slug_info_name_ghoul_gas" = "臭暴君";
+"slug_info_power_ghoul_gas" = "有毒臭气";
+"slug_info_description_ghoul_gas" = "臭暴君可利用恶臭墙攻击对手，在接触时释放有杀伤力的恶臭，消耗对手的精灵能量，并用气云遮掩你的盘面。";
+
+// Ghoul Tazer
+"slug_info_name_ghoul_tazer" = "雷电魔";
+"slug_info_power_ghoul_tazer" = "杀手";
+"slug_info_description_ghoul_tazer" = "雷电魔利用雷电振进行攻击，造成严重杀伤，击晕对手，同时也会在有限时间内锁定你的精灵。";
+
+// Ghoul Aquabeek
+"slug_info_name_ghoul_aquabeek" = "水力魔";
+"slug_info_power_ghoul_aquabeek" = "暗水";
+"slug_info_description_ghoul_aquabeek" = "水利魔使用水刀以很高速度向对手发起攻击并会造成杀伤。同时也会用很长时间充能。";
+
+// Ghoul Arachnet
+"slug_info_name_ghoul_arachnet" = "狼蛛怪";
+"slug_info_power_ghoul_arachnet" = "暗网";
+"slug_info_description_ghoul_arachnet" = "狼蛛怪使用其括约肌来缠住对手，造成杀伤并会减慢对手精灵的速度。同时也会在有限时间内锁定你的精灵。";
+
+// Ghoul Flaringo
+"slug_info_name_ghoul_flaringo" = "黑化烈火";
+"slug_info_power_ghoul_flaringo" = "黑暗火焰";
+"slug_info_description_ghoul_flaringo" = "黑化烈火会使用野兽搜寻器来攻击对手，造成杀伤。但也会伤及你的人物。";
+
+
+// Ghoul Grenuke
+"slug_info_name_ghoul_grenuke" = "爆破魔";
+"slug_info_power_ghoul_grenuke" = "黑暗炸弹";
+"slug_info_description_ghoul_grenuke" = "爆破魔可向对手盘面添加若干可造成破坏的尖峰炸弹，同时也需要较长时间进行充能。";
+
+//Ghoul Jellyish
+"slug_info_name_ghoul_jellyish" = "水母拳";
+"slug_info_power_ghoul_jellyish" = "黏滑液";
+"slug_info_description_ghoul_jellyish" = "水母拳使用其粘液招法，杀伤对手并使对手速度减慢。";
+
+// Ghoul Lock
+"slug_info_name_ghoul_lock" = "荆棘怪";
+"slug_info_power_ghoul_lock" = "藤蔓";
+"slug_info_description_ghoul_lock" = "荆棘怪使用带尖利卷须的荆棘鞭攻击来扰乱对手的盘面。";
+
+// Ghoul Neotox
+"slug_info_name_ghoul_neotox" = "剧毒怪";
+"slug_info_power_ghoul_neotox" = "黑暗毒素";
+"slug_info_description_ghoul_neotox" = "剧毒怪可利用有毒爆炸来毒杀对手，同时也会消耗你的精灵能量。";
+
+// Ghoul Panic
+"slug_info_name_ghoul_panic" = "梦魇魔";
+"slug_info_power_ghoul_panic" = "暗影";
+"slug_info_description_ghoul_panic" = "黑化恐慌可恐吓对手，使其一次发射所有精灵。同时也会消耗你自己的精灵能量。";
+
+// Ghoul Phosphoro
+"slug_info_name_ghoul_phosphoro" = "幽暗磷火";
+"slug_info_power_ghoul_phosphoro" = "暗黑磷火";
+"slug_info_description_ghoul_phosphoro" = "幽暗磷火在飞行时会消耗你的精灵能量，但可在杀伤对手时带给你巨大的精灵能量冲击波。";
+
+// Ghoul Rammstone
+"slug_info_name_ghoul_rammstone" = "黑化冲撞石";
+"slug_info_power_ghoul_rammstone" = "岩石";
+"slug_info_description_ghoul_rammstone" = "在有限时间内，在翻转玩家的方块时，黑化冲撞石可反射它撞击的第一个精灵。";
+
+// Ghoul Thresher
+"slug_info_name_ghoul_thresher" = "利齿兽";
+"slug_info_power_ghoul_thresher" = "撕咬和咀嚼";
+"slug_info_description_ghoul_thresher" = "当伊莱受伤时，利齿兽的威力会减弱。";
+
+// Ghoul Tormato
+"slug_info_name_ghoul_tormato" = "飓风魔";
+"slug_info_power_ghoul_tormato" = "暗影";
+"slug_info_description_ghoul_tormato" = "攻击对手时可制造飓风，反射对手的精灵。";
+
+// Ghoul Doc
+"slug_info_name_ghoul_doc" = "诅咒巫医";
+"slug_info_power_ghoul_doc" = "暗黑";
+"slug_info_description_ghoul_doc" = "诅咒巫医可伤害玩家，但与低级别精灵冲撞时并击中对手时，也可以治疗玩家。";
+
+// Ghoul Makobreaker
+"slug_info_name_ghoul_doc" = "黑化鲨鱼口";
+"slug_info_power_ghoul_doc" = "暗水";
+"slug_info_description_ghoul_doc" = "黑化鲨鱼口可通过吃掉发射器射击和低级精灵来增加能力，但也会给玩家造成伤害。";
+
+// Ghoul Yang
+//"slug_info_name_ghoul_yang" = "Negablade";
+//"slug_info_power_ghoul_yang" = "Shadow";
+//"slug_info_description_yang" = "Negablade uses its Darkwraith move to confuse opponents by clouding their vision.";
+
+/* Megamorphs */
+
+//Burpy Megamorph
+"slug_info_name_mega_burpy" = "强化变身伊弗纳斯";
+"slug_info_power_mega_burpy" = "火";
+"slug_info_description_mega_burpy" = "经过终极演变，强化变身伊弗纳斯可在火箭飞越战场时形成一股熔火。";
+
+//Frost Megamorph
+"slug_info_name_mega_frost" = "强化变身爬行冰兽";
+"slug_info_power_mega_frost" = "冰";
+"slug_info_description_mega_frost" = "经过终极演变，强化变身爬行冰兽可制造防护冰墙，同时瞬间冰冻对手。";
+
+//Tazerling Megamorph
+"slug_info_name_mega_tazer" = "强化变身闪电客";
+"slug_info_power_mega_tazer" = "电力";
+"slug_info_description_mega_tazer" = "经过终极演变，强化变身闪电客在经过战场时可制造强大的电力风暴，以重创并击晕对手。";
+
+//Flatulorhinkus Megamorph
+"slug_info_name_mega_gas" = "强化变身臭小鬼";
+"slug_info_power_mega_gas" = "毒气";
+"slug_info_description_mega_gas" = "经过终极演变，强化变身臭小鬼可使用内部压力飞速越过战场并释放毒气云，杀伤对手。";
+
+//Megamorph Arachnet
+"slug_info_name_mega_arachnet" = "强化变身蜘蛛仔";
+"slug_info_power_mega_arachnet" = "土地";
+"slug_info_description_mega_arachnet" = "经过终极演变，强化变身蜘蛛仔可创造一个缠结的网，造成严重的伤害并大大减慢对手的精灵速度。";
+
+//Megamorph Tormato
+"slug_info_name_mega_tormato" = "强化变身暴风兽 ";
+"slug_info_power_mega_tormato" = "土地";
+"slug_info_description_mega_tormato" = "经过终极演变，强化变身暴风兽可反射对手的精灵。";
+
+//Megamorph Grenuke
+"slug_info_name_mega_grenuke" = "强化变身炸弹仔";
+"slug_info_power_mega_grenuke" = "火";
+"slug_info_description_mega_grenuke" = "经过终极演变，强化变身炸弹仔可在对手的盘面上添加炸弹，如果不及时移除会造成重大损失。";
+
+//Megamorph Thresher
+"slug_info_name_mega_thresher" = "强化变身利齿兽";
+"slug_info_power_mega_thresher" = "金属";
+"slug_info_description_mega_thresher" = "经过终极演变，当玩家受伤时强化变身利齿兽会突然变得非常强大。";
+
+//Megamorph Boon Doc
+"slug_info_name_mega_doc" = "强化变身福音医师";
+"slug_info_power_mega_doc" = "光";
+"slug_info_description_mega_doc" = "经过终极演变，强化变身福音医师在飞行时使用疗伤光球进行治疗玩家。";
+
+
+/* End Slug Info Box */
+
+/* Booster Info */
+
+// blaster_damage
+"booster_info_name_blaster_damage" = "精灵破坏力";
+"booster_info_description_blaster_damage" = "你的发射器可造成更大破坏。";
+
+"booster_info_name_blaster_velocity" = "发射器速度";
+"booster_info_description_blaster_velocity" = "你的精灵和发射器可提高速度。";
+
+"booster_info_name_autocharge" = "精灵自动充能器";
+"booster_info_description_autocharge" = "交战期间，精灵可自动充能。";
+
+"booster_info_name_pre_igniter" = "精灵预点火器";
+"booster_info_description_pre_igniter" = "在比赛开始时，精灵已完全充满能量。";
+
+"booster_info_name_max_level" = "精灵放大器";
+"booster_info_description_max_level" = "你的精灵在一场比赛中变为级别 3。";
+
+/* End Booster Info */
+
+
+/* Game Mod */
+
+"gamemod_info_name_blaster_damage" = "精灵破坏力";
+"gamemod_info_name_blaster_damage_one" = "精灵破坏力";
+"gamemod_info_description_blaster_damage" = "所有基本射击破坏力加倍";
+
+"gamemod_info_name_autocharge" = "自动充能器";
+"gamemod_info_name_autocharge_one" = "自动充能器级别 1 ";
+"gamemod_info_name_autocharge_two" = "自动充能器级别 2";
+"gamemod_info_name_autocharge_three" = "自动充能器级别 3";
+"gamemod_info_description_autocharge" = "精灵自动充能";
+
+"gamemod_info_name_pre_igniter" = "精灵预点火器";
+"gamemod_info_name_pre_igniter_one" = "精灵预点火器";
+"gamemod_info_description_pre_igniter" = "精灵以完整充能状态开始。";
+
+"gamemod_info_name_blaster_velocity" = "发射器速度";
+"gamemod_info_name_blaster_velocity_one" = "发射器速度";
+"gamemod_info_description_blaster_velocity" = "所有射击均速度提高";
+
+"gamemod_info_name_no_blasters" = "无发射器";
+"gamemod_info_name_no_blasters_one" = "无发射器";
+"gamemod_info_description_no_blasters" = "游戏盘面上无发射器方块";
+
+"gamemod_info_name_no_health" = "无健康方块";
+"gamemod_info_name_no_health_one" = "无健康方块";
+"gamemod_info_description_no_health" = "游戏盘面上无健康方块";
+
+/* End Game Mod */
+
+
+/* Basic Shot Info */
+
+"basic_shot_info_name_basicShot" = "基本射击";
+"basic_shot_info_name_acidGreen" = "酸性绿";
+"basic_shot_info_name_lightning" = "闪电球";
+"basic_shot_info_name_majorLazer" = "梅吉尔·拉泽";
+"basic_shot_info_name_sonicBoom" = "超音波爆炸";
+"basic_shot_info_name_snot" = "酸液飞溅";
+"basic_shot_info_name_sparkleBlade" = "火花刀";
+"basic_shot_info_name_pinkerton" = "泡泡爆炸";
+"basic_shot_info_name_blueBird" = "蓝鸟";
+"basic_shot_info_name_violentRed" = "红色火箭";
+"basic_shot_info_name_mellowYellow" = "淡黄色";
+"basic_shot_info_name_royalPurple" = "紫色能量";
+"basic_shot_info_name_oranges" = "橙色警报";
+"basic_shot_info_name_tealBerry" = "蓝莓";
+
+/* End Basic Shot Info */
+
+
+/* Character Names */
+
+"char_eli_name" = "伊莱·西恩";
+
+/* End Character Names */
+
+
+/* Destructible Character Names */
+
+"char_dummy_name" = "虚假";
+"char_ghoulstation_name" = "暗黑车站";
+"char_trixiecage_name" = "翠西的笼子";
+"char_door_name" = "";
+
+/* End Destructible Character Names */
+
+
+/* Opponent Names */
+
+"char_arclight_name" = "侠客维尔";
+"char_guardbig1_name" = "橙子先生";
+"char_bigguard3_name" = "汉德尔巴";
+"char_billy_name" = "比利";
+"char_blakk_name" = "布拉克博士";
+"char_cajun_name" = "雅克";
+"char_fav_name" = "费伍";
+"char_fire_name" = "火焰";
+"char_frost_name" = "冰霜";
+"char_gabe_name" = "加布";
+"char_glasses_name" = "眼镜";
+"char_goon2_name" = "洛克";
+"char_goon3_name" = "洛德";
+"char_goon4_name" = "福音巫医";
+"char_goon_name" = "席德小子";
+"char_guard_name" = "三角洲操作手";
+"char_jackbull_name" = "公牛约翰";
+"char_kingofsling_name" = "射手王";
+"char_kord_name" = "柯德";
+"char_marcus_name" = "马库斯";
+"char_mrsaturday_name" = "星期六先生";
+"char_munch_name" = "贪吃巨人";
+"char_nacho_name" = "纳乔";
+"char_pronto_name" = "布朗多";
+"char_robo2_name" = "厄运机器人 2.0";
+"char_robo_name" = "厄运机器人 1.0";
+"char_sedo_name" = "席多";
+"char_shadow_name" = "暗影部落";
+"char_shorty_name" = "夏蒂";
+"char_trixie_name" = "翠西";
+"char_turret_name" = "角楼";
+"char_mei_name" = "梅";
+
+// Chapter 6
+"char_voodoo_name" = "虎度乌度";
+"char_zombieguard_name" = "僵尸守卫";
+"char_securitygun_name" = "自动大炮";
+"char_zombiechef_name" = "僵尸厨师";
+"char_inmate_name" = "飞贼";
+"char_inmate2_name" = "死亡之眼";
+"char_turtle_name" = "图特乐顿";
+"char_horn_name" = "牛头怪";
+"char_spirex_name" = "螺旋";
+"char_madmax_name" = "疯狂的马克斯";
+
+"char_angryblakk_name" = "愤怒的布拉克博士";
+"char_dunno_name" = "I am Error";
+
+/* Chapter 7 */
+"char_guard_mech_name" = "奥米龙中队";
+"char_boat_pirates_name" = "卡尔和查理";
+"char_pirate1_name" = "内特伙计";
+"char_pirate_girl_name" = "雷德利首领";
+"char_shark_name" = "鲨鱼冈瑟";
+"char_pirate2_name" = "停歇羽毛";
+"char_cannon_name" = "波炮兵";
+"char_gator_name" = "短吻鳄";
+"char_fang_name" = "毒牙";
+"char_watts_name" = "瓦特";
+"char_drake_name" = "魔力欧·德雷克";
+"char_eli_mech_name" = "伊莱·西恩";
+
+/* Chapter 8*/
+"char_evileli_name" = "别名";
+"char_evilkord_name" = "基恩";
+"char_eviltrixie_name" = "特拉普谢";
+"char_mechamole_name" = "机甲鼹鼠";
+
+/* Chapter 9*/
+"char_will_name" ="威尔·西恩";
+"char_fakeduelist_name" = "浪迹决斗者";
+"char_shanai_name" = "不可战胜的大师";
+"char_twist_name" = "扭绞";
+"char_young_blakk_name" = "年轻的布拉克";
+"char_blakk_gat_name" = "布拉克博士";
+"char_master_name" = "不可战胜的大师";
+
+/* Chapter 10*/
+"char_scrapheepgang01_name" = "蒙哥";
+"char_scrapheepgang02_name" = "斯特拉格";
+"char_scrapheepgang03_name" = "焊工沃尔特";
+"char_scrapheepgang04_name" = "利尔·史迪威";
+"char_bossember_name" = "安柏老大";
+"char_angrybossember_name" = "愤怒的安柏老大";
+
+/* Chapter 12*/
+"char_guard2_name" = "三角洲操作手";
+"char_darkbane_soldier1_name" = "暗灭族穆尔格";
+"char_darkbane_soldier2_name" = "暗灭族德列克";
+"char_darkbane_soldier3_name" = "暗灭族硬石";
+"char_shadowclanleader_name" = "部落保护者";
+"char_darkbane_soldier4_name" = "暗灭族烈酒";
+"char_darkbane_soldier5_name" = "暗灭族斯特拉格";
+"char_darkbane_prison_guard_name" = "监狱看守";
+"char_darkbane_nacho_name" = "暗灭族首领";
+
+/* Chapter 13*/
+"char_darkbane_soldier6_name" = "暗灭族爆响";
+"char_darkbane_soldier_elite1_name" = "暗灭族精英 1";
+"char_darkbane_soldier_elite2_name" = "暗灭族精英 2";
+"char_behemoth_name" = "贝希摩斯";
+"char_darkbanebrimstone_name" = "硫黄石";
+"char_angrynacho_name" = "愤怒的纳乔";
+
+/* Chapter 15*/
+"char_hostile_miner_name" = "愤怒的矿工";
+"char_foreman_name" = "领班";
+"char_viggo_minion1_name" = "重物";
+"char_viggo_minion2_name" = "叛徒";
+"char_viggo_name" = "勇敢战斗";
+"char_viggo1_name" = "重物";
+"char_viggo2_name" = "叛徒";
+
+/* Chapter 16*/
+"char_titan_name" = "巨人";
+"char_guard3_name" = "警卫鲍勃";
+
+/* Chapter 17*/
+"char_redhook_name" = "红钩";
+"char_technician_name" = "技术员";
+
+/* End Opponent Names */
+
+
+
+/***** Game *****/
+
+/* Game Common */
+
+// score screen coin breakdown
+// the amount of coins earned per encounter is broken down into sections:
+// eg. "Victory   10 coins"
+//     "Badges     5 coins"
+//     "Bonus      5 coins"
+"game_coins_breakdown_victory" = "胜利";     // story
+"game_coins_breakdown_badges" = "徽章";       // story, bonus
+"game_coins_breakdown_achievements" = "成就"; // story
+"game_coins_breakdown_bonus" = "奖金";         // endless
+"game_coins_breakdown_base" = "基地";           // treasure
+"game_coins_breakdown_damage" = "杀伤力";       // treasure
+"game_coins_breakdown_destroy" = "摧毁";     // treasure
+"game_coins_breakdown_total" = "总计";         // 总计
+
+/* End Game Common */
+
+
+
+/* Tutorials */
+
+"game_tutorial_tip_match" = "比赛"; // displayed on a tip box, informing the player to match some number of tiles
+"game_tutorial_tip_move_1" = "移动 1 个方块！"; // tip telling the player to move 1 tile
+"game_tutorial_tip_move_n" = "移动 %i 方块！"; // tip telling player to move more than 1 tile.
+"game_tutorial_tip_survive" = "以生存！";
+
+/* End Tutorials */
+
+
+
+/* Treasure Game */
+
+//"game_treasure_times_up" = "Time's Up!";
+//"game_treasure_well_done" = "Well Done!";
+
+/* End Treasure Game */
+
+/***** Local Push Notification *****/
+//Haven't logged in for 1 week: 500 coins
+"log_in_1_week" = "你的精灵带给你一份礼物！请登录，获取免费金币！！！";
+//Haven't logged in for 1 week: 800 coins
+"log_in_2_week" = "你的精灵带给你一份礼物！请登录，获取免费金币！！！";
+//Haven't logged in for 1 week: 1500 coins
+"log_in_1_month" = "你的精灵带给你一份礼物！请登录，获取免费金币！！！";
+//Haven't logged in for 1 week: 3000 coins
+"log_in_2_month" = "你的精灵带给你一份礼物！请登录，获取免费金币！！！";
+//Haven't logged in for 1 week: 5000 coins
+"log_in_6_month" = "你的精灵带给你一份礼物！请登录，获取免费金币！！！";
+
+"localpush_reward_popup" = "你的精灵带给你一份礼物！";
+"localpush_reward_coins" = "金币";
+
+/***** Daily Gifts Notification *****/
+"daily_challenges_now" = "每日挑战现已推出！你有机会赢取免费精灵！";
+"daily_gift_coins" = "现在有每日礼物！请登录，获取免费金币！";
+"daily_gift_boosters" = "现在有每日礼物！请登录，获取免费增强器！";
+"daily_gift_blaster_damage" = "现在有每日礼物！请登录，获取免费发射器破坏增强器！";
+"daily_gift_blaster_speed" = "现在有每日礼物！请登录，获取免费发射器速度增强器！";
+"daily_gift_auto_charger" = "现在有每日礼物！请登录，获取精灵自动充能器！";
+"daily_gift_pre_igniter" = "你的精灵带给你一份礼物！请登录获取免费预点火器！";
+"slug_gift_coins" = "你的精灵带给你一份礼物！请登录，获取免费金币！！！";
+
+/***** Video Ad Confirmation Box *****/
+"video_ad_title" = "";
+"video_ad_description" = "观看视频，赚取额外金币？";
+"video_ad_watch_button" = "是！";
+"video_ad_thank_you" = "恭喜！你赢了";
+"video_ad_150_coins" = "观看视频，获得 150 个免费金币！";
+"video_ad_200_coins" = "观看视频，获得 200 个免费金币！";
+
+/***** SlugSeeker *****/
+
+"name_cavern_slug_seeker_name" = "精灵探索者";
+
+/* Cavern 1 */
+"cv_cavern1_name" = "人字形岩洞";
+"cv_cavern1_subtitle" = "";
+
+//Encounter 1
+"enc_cv1e1_title" = "交战 1";
+
+//Encounter 2
+"enc_cv1e2_title" = "交战 2";
+
+//Encounter 3
+"enc_cv1e3_title" = "交战 3";
+
+//Encounter 4
+"enc_cv1e4_title" = "交战 4";
+
+//Encounter 5
+"enc_cv1e5_title" = "奖金轮次";
+
+//Encounter 6
+"enc_cv1e6_title" = "交战 6";
+
+//Encounter 7
+"enc_cv1e7_title" = "交战 7";
+
+//Encounter 8
+"enc_cv1e8_title" = "交战 8";
+
+//Encounter 9
+"enc_cv1e9_title" = "交战 9";
+
+//Encounter 10
+"enc_cv1e10_title" = "奖金轮次";
+
+//Encounter 11
+"enc_cv1e11_title" = "交战 11";
+
+//Encounter 12
+"enc_cv1e12_title" = "交战 12";
+
+//Encounter 13
+"enc_cv1e13_title" = "交战 13";
+
+//Encounter 14
+"enc_cv1e14_title" = "交战 14";
+
+//Encounter 15
+"enc_cv1e15_title" = "奖金轮次";
+
+/* End Cavern 1 */
+
+/* Cavern 2 */
+"cv_cavern2_name" = "黑暗边缘";
+"cv_cavern2_subtitle" = "";
+
+//Encounter 1
+"enc_cv2e1_title" = "交战 1";
+
+//Encounter 2
+"enc_cv2e2_title" = "交战 2";
+
+//Encounter 3
+"enc_cv2e3_title" = "交战 3";
+
+//Encounter 4
+"enc_cv2e4_title" = "交战 4";
+
+//Encounter 5
+"enc_cv2e5_title" = "奖金轮次";
+
+//Encounter 6
+"enc_cv2e6_title" = "交战 6";
+
+//Encounter 7
+"enc_cv2e7_title" = "交战 7";
+
+//Encounter 8
+"enc_cv2e8_title" = "交战 8";
+
+//Encounter 9
+"enc_cv2e9_title" = "交战 9";
+
+//Encounter 10
+"enc_cv2e10_title" = "奖金轮次";
+
+//Encounter 11
+"enc_cv2e11_title" = "交战 11";
+
+//Encounter 12
+"enc_cv2e12_title" = "交战 12";
+
+//Encounter 13
+"enc_cv2e13_title" = "交战 13";
+
+//Encounter 14
+"enc_cv2e14_title" = "交战 14";
+
+//Encounter 15
+"enc_cv2e15_title" = "奖金轮次";
+
+/* End Cavern 2 */
+
+/* Cavern 3 */
+"cv_cavern3_name" = "深层岩洞";
+"cv_cavern3_subtitle" = "";
+
+//Encounter 1
+"enc_cv3e1_title" = "交战 1";
+
+//Encounter 2
+"enc_cv3e2_title" = "交战 2";
+
+//Encounter 3
+"enc_cv3e3_title" = "交战 3";
+
+//Encounter 4
+"enc_cv3e4_title" = "交战 4";
+
+//Encounter 5
+"enc_cv3e5_title" = "奖金轮次";
+
+//Encounter 6
+"enc_cv3e6_title" = "交战 6";
+
+//Encounter 7
+"enc_cv3e7_title" = "交战 7";
+
+//Encounter 8
+"enc_cv3e8_title" = "交战 8";
+
+//Encounter 9
+"enc_cv3e9_title" = "交战 9";
+
+//Encounter 10
+"enc_cv3e10_title" = "奖金轮次";
+
+//Encounter 11
+"enc_cv3e11_title" = "交战 11";
+
+//Encounter 12
+"enc_cv3e12_title" = "交战 12";
+
+//Encounter 13
+"enc_cv3e13_title" = "交战 13";
+
+//Encounter 14
+"enc_cv3e14_title" = "交战 14";
+
+//Encounter 15
+"enc_cv3e15_title" = "奖金轮次";
+
+/* End Cavern 3 */
+
+/* Cavern 4 */
+"cv_cavern4_name" = "精灵雪舞";
+"cv_cavern4_subtitle" = "";
+
+//Encounter 1
+"enc_cv4e1_title" = "交战 1";
+
+//Encounter 2
+"enc_cv4e2_title" = "交战 2";
+
+//Encounter 3
+"enc_cv4e3_title" = "交战 3";
+
+//Encounter 4
+"enc_cv4e4_title" = "交战 4";
+
+//Encounter 5
+"enc_cv4e5_title" = "奖金轮次";
+
+//Encounter 6
+"enc_cv4e6_title" = "交战 6";
+
+//Encounter 7
+"enc_cv4e7_title" = "交战 7";
+
+//Encounter 8
+"enc_cv4e8_title" = "交战 8";
+
+//Encounter 9
+"enc_cv4e9_title" = "交战 9";
+
+//Encounter 10
+"enc_cv4e10_title" = "奖金轮次";
+
+//Encounter 11
+"enc_cv4e11_title" = "交战 11";
+
+//Encounter 12
+"enc_cv4e12_title" = "交战 12";
+
+//Encounter 13
+"enc_cv4e13_title" = "交战 13";
+
+//Encounter 14
+"enc_cv4e14_title" = "交战 14";
+
+//Encounter 15
+"enc_cv4e15_title" = "奖金轮次";
+
+/* End Cavern 4 */
+
+
+/* Cavern 5 */
+"cv_cavern5_name" = "道场岩洞";
+"cv_cavern5_subtitle" = "";
+
+//Encounter 1
+"enc_cv5e1_title" = "交战 1";
+
+//Encounter 2
+"enc_cv5e2_title" = "交战 2";
+
+//Encounter 3
+"enc_cv5e3_title" = "交战 3";
+
+//Encounter 4
+"enc_cv5e4_title" = "交战 4";
+
+//Encounter 5
+"enc_cv5e5_title" = "奖金轮次";
+
+//Encounter 6
+"enc_cv5e6_title" = "交战 6";
+
+//Encounter 7
+"enc_cv5e7_title" = "交战 7";
+
+//Encounter 8
+"enc_cv5e8_title" = "交战 8";
+
+//Encounter 9
+"enc_cv5e9_title" = "交战 9";
+
+//Encounter 10
+"enc_cv5e10_title" = "奖金轮次";
+
+//Encounter 11
+"enc_cv5e11_title" = "交战 11";
+
+//Encounter 12
+"enc_cv5e12_title" = "交战 12";
+
+//Encounter 13
+"enc_cv5e13_title" = "交战 13";
+
+//Encounter 14
+"enc_cv5e14_title" = "交战 14";
+
+//Encounter 15
+"enc_cv5e15_title" = "奖金轮次";
+
+/* End Cavern 5 */
+
+/* Cavern 6 */
+"cv_cavern6_name" = "野生孢子洞穴";
+"cv_cavern6_subtitle" = "";
+
+//Encounter 1
+"enc_cv6e1_title" = "交战 1";
+
+//Encounter 2
+"enc_cv6e2_title" = "交战 2";
+
+//Encounter 3
+"enc_cv6e3_title" = "交战 3";
+
+//Encounter 4
+"enc_cv6e4_title" = "交战 4";
+
+//Encounter 5
+"enc_cv6e5_title" = "奖金轮次";
+
+//Encounter 6
+"enc_cv6e6_title" = "交战 6";
+
+//Encounter 7
+"enc_cv6e7_title" = "交战 7";
+
+//Encounter 8
+"enc_cv6e8_title" = "交战 8";
+
+//Encounter 9
+"enc_cv6e9_title" = "交战 9";
+
+//Encounter 10
+"enc_cv6e10_title" = "奖金轮次";
+
+//Encounter 11
+"enc_cv6e11_title" = "交战 11";
+
+//Encounter 12
+"enc_cv6e12_title" = "交战 12";
+
+//Encounter 13
+"enc_cv6e13_title" = "交战 13";
+
+//Encounter 14
+"enc_cv6e14_title" = "交战 14";
+
+//Encounter 15
+"enc_cv6e15_title" = "奖金轮次";
+
+/* End Cavern 6 */
+
+/* Cavern 7 */
+"cv_cavern6_name" = "暗潮洞穴";
+"cv_cavern6_subtitle" = "";
+
+//Encounter 1
+"enc_cv6e1_title" = "交战 1";
+
+//Encounter 2
+"enc_cv6e2_title" = "交战 2";
+
+//Encounter 3
+"enc_cv6e3_title" = "交战 3";
+
+//Encounter 4
+"enc_cv6e4_title" = "交战 4";
+
+//Encounter 5
+"enc_cv6e5_title" = "奖金轮次";
+
+//Encounter 6
+"enc_cv6e6_title" = "交战 6";
+
+//Encounter 7
+"enc_cv6e7_title" = "交战 7";
+
+//Encounter 8
+"enc_cv6e8_title" = "交战 8";
+
+//Encounter 9
+"enc_cv6e9_title" = "交战 9";
+
+//Encounter 10
+"enc_cv6e10_title" = "奖金轮次";
+
+//Encounter 11
+"enc_cv6e11_title" = "交战 11";
+
+//Encounter 12
+"enc_cv6e12_title" = "交战 12";
+
+//Encounter 13
+"enc_cv6e13_title" = "交战 13";
+
+//Encounter 14
+"enc_cv6e14_title" = "交战 14";
+
+//Encounter 15
+"enc_cv6e15_title" = "奖金轮次";
+
+/* End Cavern 7 */
+
+
+
+/***** Story *****/
+
+/* Treasure Chapter */
+
+//"ch_treasure_name" = "Treasure";
+//"ch_treasure_subtitle" = "";
+
+// encounters
+//"enc_treasure_large_title" = "Treasure Chamber";
+//"enc_treasure_small_title" = "Treasure Den";
+
+/* End Treasure Chapter */
+
+/* Chapter 1 */
+"ch_chapter1_name" = "第 1 章";
+"ch_chapter1_subtitle" = "训练";
+
+//Encounter 1
+"enc_c1e1_title" = "穴巨人";
+
+//Encounter 2
+"enc_c1e2_title" = "治疗";
+
+//Encounter 3
+"enc_c1e3_title" = "精灵射手";
+
+//Encounter 4
+"enc_c1e4_title" = "布朗多阁下";
+
+/* End Chapter 1 */
+
+
+
+/* Chapter 2 */
+
+"ch_chapter2_name" = "第 2 章";
+"ch_chapter2_subtitle" = "锦标赛";
+
+//Encounter 1
+"enc_c2e1_title" = "第一轮";
+
+//Encounter 2
+"enc_c2e2_title" = "感冒";
+
+//Encounter 3
+"enc_c2e3_title" = "灯光照相机动作！";
+
+//Encounter 4
+"enc_c2e4_title" = "避雷针";
+
+//Encounter 5
+"enc_c2e5_title" = "小丑和国王";
+
+//Encounter 6
+"enc_c2e6_title" = "四分之一决赛";
+
+//Encounter 7
+"enc_c2e7_title" = "三倍";
+
+
+
+//Encounter 8
+"enc_c2e8_title" = "一个警告！";
+
+//Encounter 9
+"enc_c2e9_title" = "奖金轮次";
+
+//Encounter 10
+"enc_c2e10_title" = "幕间休息";
+
+//Encounter 11
+"enc_c2e11_title" = "公牛";
+
+/* End Chapter 2 */
+
+
+
+/* Chapter 3 */
+"ch_chapter3_name" = "第 3 章";
+"ch_chapter3_subtitle" = "匪徒";
+
+//Encounter 1
+"enc_c3e1_title" = "被绑架";
+
+//Encounter 2
+"enc_c3e2_title" = "输不起的人";
+
+
+
+//Encounter 3
+"enc_c3e3_title" = "尘土飞扬的峡谷";
+
+//Encounter 4
+"enc_c3e4_title" = "雇佣兵";
+
+//Encounter 5
+"enc_c3e5_title" = "鼹鼠混合";
+
+//Encounter 6
+"enc_c3e6_title" = "王国来了";
+
+//Encounter 7
+"enc_c3e7_title" = "破碎眼镜";
+
+//Encounter 8
+"enc_c3e8_title" = "准备";
+
+//Encounter 9
+"enc_c3e9_title" = "匪徒";
+
+
+
+//Encounter 10
+"enc_c3e10_title" = "奖金轮次";
+
+//Encounter 11
+"enc_c3e11_title" = "命令链";
+
+
+/* End Chapter 3 */
+
+
+
+/* Chapter 4 */
+
+"ch_chapter4_name" = "第 4 章";
+"ch_chapter4_subtitle" = "通过火焰";
+
+//Encounter 1
+"enc_c4e1_title" = "暗影部落";
+
+//Encounter 2
+"enc_c4e2_title" = "再来一局";
+
+//Encounter 3
+"enc_c4e3_title" = "汉堡时间";
+
+//Encounter 4
+"enc_c4e4_title" = "厄运机器人 1.0";
+
+//Encounter 5
+"enc_c4e5_title" = "熔岩坑";
+
+//Encounter 6
+"enc_c4e6_title" = "火力";
+
+//Encounter 7
+"enc_c4e7_title" = "路障";
+
+//Encounter 8
+"enc_c4e8_title" = "黑水阴影";
+
+//Encounter 9
+"enc_c4e9_title" = "悲伤日";
+
+//Encounter 10
+"enc_c4e10_title" = "右手";
+
+//Encounter 11
+"enc_c4e11_title" = "奖金轮次";
+
+/* End Chapter 4 */
+
+
+
+/* Chapter 5 */
+
+"ch_chapter5_name" = "第 5 章";
+"ch_chapter5_subtitle" = "布拉克水";
+
+//Encounter 1
+"enc_c5e1_title" = "治疗触摸";
+
+//Encounter 2
+"enc_c5e2_title" = "最高出价人";
+
+//Encounter 3
+"enc_c5e3_title" = "无休止的冲突";
+
+//Encounter 4
+"enc_c5e4_title" = "新功能和改进功能";
+
+//Encounter 5
+"enc_c5e5_title" = "守卫和警告";
+
+//Encounter 6
+"enc_c5e6_title" = "黑帮安全";
+
+
+
+//Encounter 7
+"enc_c5e7_title" = "怪物和贪吃巨人";
+
+//Encounter 8
+"enc_c5e8_title" = "锁和钥匙";
+
+
+//Encounter 9
+"enc_c5e9_title" = "怪物";
+
+//Encounter 10
+"enc_c5e10_title" = "断电";
+
+
+/* End Chapter 5 */
+
+
+
+/* Chapter 6 */
+
+"ch_chapter6_name" = "第 6 章";
+"ch_chapter6_subtitle" = "判决日";
+
+//Encounter 1
+"enc_c6e1_title" = "诡计多端的";
+
+//Encounter 2
+"enc_c6e2_title" = "奖金轮次";
+
+//Encounter 3
+"enc_c6e3_title" = "越狱";
+
+//Encounter 4
+"enc_c6e4_title" = "安全漏洞";
+
+//Encounter 5
+"enc_c6e5_title" = "晚餐";
+
+//Encounter 6
+"enc_c6e6_title" = "强烈反抗！";
+
+//Encounter 7
+"enc_c6e7_title" = "复仇";
+
+//Encounter 8
+"enc_c6e8_title" = "生物特征";
+
+
+
+//Encounter 9
+"enc_c6e9_title" = "疯狂";
+
+//Encounter 10
+"enc_c6e10_title" = "火试验";
+
+/* End Chapter 6 */
+
+/* Chapter 7 */
+
+"ch_chapter7_name" = "第 7 章";
+"ch_chapter7_subtitle" = "阿霍伊船";
+
+//Encounter 1
+"enc_c7e1_title" = "火焰";
+
+//Encounter 2
+"enc_c7e2_title" = "海盗！";
+
+//Encounter 3
+"enc_c7e3_title" = "艰难走向胜利";
+
+//Encounter 4
+"enc_c7e4_title" = "顶桅杆";
+
+//Encounter 5
+"enc_c7e5_title" = "第一首领";
+
+//Encounter 6
+"enc_c7e6_title" = "水中鲨鱼";
+
+//Encounter 7
+"enc_c7e7_title" = "炮弹";
+
+//Encounter 8
+"enc_c7e8_title" = "奖金轮次";
+
+//Encounter 9
+"enc_c7e9_title" = "码头";
+
+//Encounter 10
+"enc_c7e10_title" = "魔力欧·德雷克首领";
+
+
+
+/* End Chapter 7 */
+
+/* Chapter 8 */
+
+"ch_chapter8_name" = "第 8 章";
+"ch_chapter8_subtitle" = "新的国王";
+
+//Encounter 1
+"enc_c8e1_title" = "消息";
+
+//Encounter 2
+"enc_c8e2_title" = "信息";
+
+//Encounter 3
+"enc_c8e3_title" = "卡布姆 & 卡布拉姆";
+
+//Encounter 4
+"enc_c8e4_title" = "鼹鼠王国";
+
+//Encounter 5
+"enc_c8e5_title" = "西姆团队";
+
+//Encounter 6
+"enc_c8e6_title" = "骗子";
+
+//Encounter 7
+"enc_c8e7_title" = "耻辱";
+
+//Encounter 8
+"enc_c8e8_title" = "奖金轮次";
+
+//Encounter 9
+"enc_c8e9_title" = "遍及各地的国王";
+
+//Encounter 10
+"enc_c8e10_title" = "鼹鼠能量";
+
+/* End Chapter 8 */
+
+/* Chapter 9 */
+
+"ch_chapter9_name" = "第 9 章";
+"ch_chapter9_subtitle" = "不可战胜";
+
+//Encounter 1 - The Trips
+"enc_c9e1_title" = "三个挑战者";
+
+//Encounter 2
+"enc_c9e2_title" = "奖金轮次";
+
+//Encounter 3 - Sid the Kid
+"enc_c9e3_title" = "微不足道";
+
+//Encounter 4 - King of Sling
+"enc_c9e4_title" = "国王或大师";
+
+//Encounter 5 - Trixie
+"enc_c9e5_title" = "象他们一样的朋友";
+
+//Encounter 6 - Fake Duelist
+"enc_c9e6_title" = "神秘人";
+
+//Encounter 7 - Unbeatable Master
+"enc_c9e7_title" = "测试";
+
+//Encounter 8 - Young Dr. Blakk
+"enc_c9e8_title" = "很久以前";
+
+//Encounter 9 - Twist
+"enc_c9e9_title" = "扭绞";
+
+//Encounter 10 - Dr. Blakk
+"enc_c9e10_title" = "追寻大师";
+
+/* End Chapter 9 */
+
+/* Chapter 10 */
+
+"ch_chapter10_name" = "第 10 章";
+"ch_chapter10_subtitle" = "深度存储";
+
+//Encounter 1 - Broken Auto-Cannon
+"enc_c10e1_title" = "垃圾堆";
+
+//Encounter 2 - Doombot 1.0 & Doombot 2.0
+"enc_c10e2_title" = "机器人反击";
+
+//Encounter 3 - Mecha-Mole
+"enc_c10e3_title" = "机械怪物";
+
+//Encounter 4 - Tough Guy Gang Member #1 -
+"enc_c10e4_title" = "团队成员";
+
+//Encounter 5 - Tough Guy Gang Member #2 - Welder
+"enc_c10e5_title" = "敌人领土";
+
+//Encounter 6 - Tough Guy Gang Member #3 - Neckbrace
+"enc_c10e6_title" = "废料价格";
+
+//Encounter 7 - Tough Guy Gang Member #4 - Troll
+"enc_c10e7_title" = "最难对付的家伙";
+
+//Encounter 8 - Boss Ember
+"enc_c10e8_title" = "大老板";
+
+//Encounter 9
+"enc_c10e9_title" = "奖金轮次";
+
+//Encounter 10 - Angry Boss Ember
+"enc_c10e10_title" = "更大的老板";
+
+/* End Chapter 10 */
+
+/* Chapter 11 */
+
+"ch_chapter11_name" = "第 11 章";
+"ch_chapter11_subtitle" = "生锈的带扣护甲";
+
+//Encounter 1 - Glasses
+"enc_c11e1_title" = "花生！";
+
+//Encounter 2 - Shorty
+"enc_c11e2_title" = "已切削";
+
+//Encounter 3 - Billy
+"enc_c11e3_title" = "比利的饮食";
+
+//Encounter 4 - Jeen
+"enc_c11e4_title" = "卧推凳";
+
+//Encounter 5 - Trapsie
+"enc_c11e5_title" = "陷入陷阱";
+
+//Encounter 6 - Alias
+"enc_c11e6_title" = "最英俊的";
+
+//Encounter 7 - Welder Walter and Lil Stevie
+"enc_c11e7_title" = "匪徒简历";
+
+//Encounter 8 - Mongo
+"enc_c11e8_title" = "自愿";
+
+//Encounter 9 - Straggus
+"enc_c11e9_title" = "昏暗灯泡";
+
+//Encounter 10 - Billy, Alias and Straggus
+"enc_c11e10_title" = "友谊的力量";
+
+/* End Chapter 11 */
+
+/* Chapter 12 */
+
+"ch_chapter12_name" = "第 12 章";
+"ch_chapter12_subtitle" = "深黑";
+
+//Encounter 1 - Blakk Soldier & John Bull
+"enc_c12e1_title" = "走投无路";
+
+//Encounter 2 - Nacho
+"enc_c12e2_title" = "恐高";
+
+//Encounter 3 - Darkbane Soldier 1
+"enc_c12e3_title" = "火球";
+
+//Encounter 4 - Darkbane Soldier 2
+"enc_c12e4_title" = "哇喔噢！";
+
+//Encounter 5 - Darkbane Soldier 3
+"enc_c12e5_title" = "更多火球！";
+
+//Encounter 6 - Shadow Clan Protector
+"enc_c12e6_title" = "守护者";
+
+//Encounter 7 - Prison Door
+"enc_c12e7_title" = "艰难选择";
+
+//Encounter 8 - Prison Guards
+"enc_c12e8_title" = "发出警报";
+
+//Encounter 9 - Prison Warden
+"enc_c12e9_title" = "监狱诗歌";
+
+//Encounter 10 - Darkbane Nacho
+"enc_c12e10_title" = "右手";
+
+/* End Chapter 12 */
+
+
+/* Chapter 13 */
+
+"ch_chapter13_name" = "第 13 章";
+"ch_chapter13_subtitle" = "火焰和硫磺";
+
+//Encounter 1 - Darkbane 1
+"enc_c13e1_title" = "在黑暗中";
+
+//Encounter 2 - Darkbane 2
+"enc_c13e2_title" = "火球试验";
+
+//Encounter 3 - Darkbane 3
+"enc_c13e3_title" = "臂铠";
+
+//Encounter 4 - Prison Warden
+"enc_c13e4_title" = "最烂的诗";
+
+//Encounter 5 - Bonus Round - Brimstone's Throne
+"enc_c13e5_title" = "奖金轮次";
+
+//Encounter 6 - Darkbane Elite 1 & 2
+"enc_c13e6_title" = "精英";
+
+//Encounter 7 - Darkbane Nacho
+"enc_c13e7_title" = "暗黑魔法";
+
+//Encounter 8 - Angry Nacho
+"enc_c13e8_title" = "秘密";
+
+//Encounter 9 - Behemoth
+"enc_c13e9_title" = "任性顽固";
+
+//Encounter 10 - Brimstone
+"enc_c13e10_title" = "命运";
+
+/* End Chapter 13 */
+
+
+/* Chapter 14 */
+
+"ch_chapter14_name" = "第 14 章";
+"ch_chapter14_subtitle" = "梦中发现";
+
+//Encounter 1 - Pronto, Kord and Trixie
+"enc_c14e1_title" = "停工时间";
+
+//Encounter 2 - Dr.Blakk
+"enc_c14e2_title" = "失忆症";
+
+//Encounter 3 - Spirex
+"enc_c14e3_title" = "网";
+
+//Encounter 4 - Eli
+"enc_c14e4_title" = "面对面";
+
+//Encounter 5 - Young Blakk
+"enc_c14e5_title" = "过眼云烟";
+
+//Encounter 6 - Behemoth
+"enc_c14e6_title" = "大块头";
+
+//Encounter 7 - Angry Blakk
+"enc_c14e7_title" = "脾气暴躁";
+
+//Encounter 8 - Unbeatable Master
+"enc_c14e8_title" = "真正的智慧";
+
+//Encounter 9 - Gat Blakk
+"enc_c14e9_title" = "盖特攻击";
+
+//Encounter 10 - Will Shane
+"enc_c14e10_title" = "重聚";
+
+/* End Chapter 14 */
+
+/* Chapter 15 */
+
+"ch_chapter15_name" = "第 15 章";
+"ch_chapter15_subtitle" = "返回布拉克";
+
+//Encounter 1 - Dr.Blakk
+"enc_c15e1_title" = "很久以前";
+
+//Encounter 2 -
+"enc_c15e2_title" = "艰难时刻";
+
+//Encounter 3 -
+"enc_c15e3_title" = "任务行动";
+
+//Encounter 4 -
+"enc_c15e4_title" = "颤抖哆嗦";
+
+//Encounter 5 - Will Shane
+"enc_c15e5_title" = "错误一侧";
+
+//Encounter 6 -
+"enc_c15e6_title" = "接管";
+
+//Encounter 7 - Will Shane
+"enc_c15e7_title" = "进度";
+
+//Encounter 8 - Behemoth
+"enc_c15e8_title" = "暗黑知识";
+
+//Encounter 9 - Bonus
+"enc_c15e9_title" = "奖金轮次";
+
+//Encounter 10 - Will Shane
+"enc_c15e10_title" = "命运";
+
+//Encounter 11 - Dr.Blakk
+"enc_c15e11_title" = "一道谜题";
+
+/* End Chapter 15 */
+
+/* Chapter 16 */
+
+"ch_chapter16_name" = "第 16 章";
+"ch_chapter16_subtitle" = "暗影穿越";
+
+//Encounter 1 - Blakk Guard
+"enc_c16e1_title" = "阿尔法部队";
+
+//Encounter 2 - Doombot
+"enc_c16e2_title" = "战斗机器人";
+
+//Encounter 3 - Elite Blakk Guard
+"enc_c16e3_title" = "三角洲部队";
+
+//Encounter 4 - Locke and Lode
+"enc_c16e4_title" = "转向";
+
+//Encounter 5 - Darkbane Hartag and Darkbane Drek
+"enc_c16e5_title" = "敌人的好友";
+
+//Encounter 6 - Darkbane Prison Warden
+"enc_c16e6_title" = "明亮火焰";
+
+//Encounter 7 - Nacho
+"enc_c16e7_title" = "联盟";
+
+//Encounter 8 - Bonus
+"enc_c16e8_title" = "奖金轮次";
+
+//Encounter 9 - Titan
+"enc_c16e9_title" = "开罐器";
+
+//Encounter 10 - Nacho
+"enc_c16e10_title" = "扫清道路";
+
+/* End Chapter 16 */
+
+/* Chapter 17 */
+
+"ch_chapter17_name" = "第 17 章";
+"ch_chapter17_subtitle" = "漆黑如夜";
+
+//Encounter 1 - Red Hook
+"enc_c17e1_title" = "火力";
+
+//Encounter 2 - Elite Blakk Guard
+"enc_c17e2_title" = "新的联盟";
+
+//Encounter 3 - Nacho
+"enc_c17e3_title" = "黑暗特工";
+
+//Encounter 4 - Technician
+"enc_c17e4_title" = "黑暗科技";
+
+//Encounter 5 - Bonus
+"enc_c17e5_title" = "大规模腐败";
+
+//Encounter 6 - Elite Blakk Guard
+"enc_c17e6_title" = "城堡之心";
+
+//Encounter 7 - Dr. Blakk
+"enc_c17e7_title" = "老朋友";
+
+//Encounter 8 - Darkbane
+"enc_c17e8_title" = "大门打开 1";
+
+//Encounter 8 - Darkbane
+"enc_c17e9_title" = "大门打开 2";
+
+//Encounter 9 - Dr. Blakk
+"enc_c17e10_title" = "漆黑如夜";
+
+//Encounter 10 - Bonus
+"enc_c17e11_title" = "光明如昼";
+
+/* End Chapter 17 */

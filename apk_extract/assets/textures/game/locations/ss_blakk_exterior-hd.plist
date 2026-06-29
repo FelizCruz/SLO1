@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>location/blakk_exterior/bg.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,2},{980,735}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{980,735}}</string>
+                <key>sourceSize</key>
+                <string>{980,735}</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>2</integer>
+            <key>realTextureFileName</key>
+            <string>ss_blakk_exterior-hd.pvr.ccz</string>
+            <key>size</key>
+            <string>{1024,1024}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:e58467fd9c634022ac8dad0e292aa91f:ceda15ab6daaefde87509d15764d28dc:87efedcd18446201c7f3b5958f983a4d$</string>
+            <key>textureFileName</key>
+            <string>ss_blakk_exterior-hd.pvr.ccz</string>
+        </dict>
+    </dict>
+</plist>

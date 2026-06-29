@@ -1,0 +1,43 @@
+name: iOS Build
+
+on:
+  push:
+    branches: [ main, master ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: Build and Archive iOS App
+    runs-on: macos-latest
+    
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        
+      - name: Install XcodeGen
+        run: brew install xcodegen
+        
+      - name: Generate Xcode Project
+        run: xcodegen generate
+        
+      - name: Build and Package
+        run: |
+          xcodebuild clean build \
+            -project SlugterraMVP.xcodeproj \
+            -scheme SlugterraMVP \
+            -configuration Release \
+            -arch arm64 \
+            -sdk iphoneos \
+            CODE_SIGNING_REQUIRED=NO \
+            CODE_SIGNING_ALLOWED=NO \
+            BUILD_DIR="${PWD}/build"
+            
+          mkdir -p Payload
+          cp -r build/Release-iphoneos/SlugterraMVP.app Payload/
+          zip -r SlugterraMVP.ipa Payload
+          
+      - name: Upload IPA Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: SlugterraMVP-IPA
+          path: SlugterraMVP.ipa

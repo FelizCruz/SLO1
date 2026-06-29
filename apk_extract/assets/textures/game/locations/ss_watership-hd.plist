@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>location/watership/bg.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,2},{1040,1040}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{1040,1040}}</string>
+                <key>sourceSize</key>
+                <string>{1040,1040}</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>2</integer>
+            <key>realTextureFileName</key>
+            <string>ss_watership-hd.pvr.ccz</string>
+            <key>size</key>
+            <string>{2048,2048}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:121437b3ed6979319be45e324f469625:9b334f1cc55dce1ffbc9da5395b1c71a:09b93835d792e5fee65124e3004e9368$</string>
+            <key>textureFileName</key>
+            <string>ss_watership-hd.pvr.ccz</string>
+        </dict>
+    </dict>
+</plist>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>location/mine/bg.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,2},{500,375}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{500,375}}</string>
+                <key>sourceSize</key>
+                <string>{500,375}</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>2</integer>
+            <key>realTextureFileName</key>
+            <string>ss_mine.pvr.ccz</string>
+            <key>size</key>
+            <string>{512,512}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:8f8715432f1c7b964afad50c4a133b03:089a3e57cbdea162a586afbb0a4056b2:388ca6fba2659b1dc9b4f66d16a0ac44$</string>
+            <key>textureFileName</key>
+            <string>ss_mine.pvr.ccz</string>
+        </dict>
+    </dict>
+</plist>

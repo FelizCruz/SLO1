@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>location/windmill/bg.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,2},{490,368}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{490,368}}</string>
+                <key>sourceSize</key>
+                <string>{490,368}</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>2</integer>
+            <key>realTextureFileName</key>
+            <string>ss_windmill.pvr.ccz</string>
+            <key>size</key>
+            <string>{512,512}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:dff197c4343914cc33e8dab2921d6385:5b75ad4033ab68f186b85dce877deb26:35ea47f04234dd982674ab41fb5a5fe2$</string>
+            <key>textureFileName</key>
+            <string>ss_windmill.pvr.ccz</string>
+        </dict>
+    </dict>
+</plist>

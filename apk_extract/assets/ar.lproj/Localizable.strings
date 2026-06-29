@@ -1,0 +1,2469 @@
+/*
+ Localizable.strings
+ Slugterra: Slug it Out!
+ 
+ Created by Jeremy Peterson on 13-01-31.
+ 
+ Main localized strings table for the game.
+ 
+ */
+
+
+/* Common UI */
+
+"dialog_button_ok" = "موافق"; // Confirmation button text.
+"dialog_button_yes" = "نعم "; // Confirmation button text.
+"dialog_button_no" = "لا "; // Confirmation button text.
+//"button_ok" = "OK"; // Confirmation button text.
+"button_cancel" = "إلغاء "; // Confirmation button text.
+//"button_accept" = "Accept"; // Confirmation button text.
+//"button_exit" = "Exit"; // Confirmation button text.
+//"button_nav_next" = "Next"; // Confirmation button text.
+//"button_nav_back" = "Back"; // Confirmation button text.
+//"button_go_now" = "Go Now!"; // Confirmation button text.
+/* End Common UI */
+
+
+
+/* Top HUD */
+
+"tophud_button_get_more_coins" = "الحصول على مزيد من النقود";
+
+/* End Top HUD */
+
+/* Chapter 1 */
+
+//Encounter 1
+"enc_c1e1o1_dialog_1a" = "مدهش! إنه وحش الكهف. لطالما وددت مقابلته من قبل!";
+"enc_c1e1o1_dialog_2a" = " أنا كورد زان. أنت لست من هذه الأنحاء. أليس كذلك؟";
+"enc_c1e1o1_dialog_2b" = "من الأفضل أن أعلمك كيف تدافع عن نفسك.  شاهد قائمة البلاط بالأسفل.";
+"enc_c1e1o1_dialog_3a" = " حاول تحريك البلاطات في جميع الأنحاء، وذلك بلمس البلاطة وسحبها إلى البلاطة المجاورة لها.";
+"enc_c1e1o1_dialog_4a" = "عمل رائع أيها الصغير! هذا يكفي.";
+"enc_c1e1o1_dialog_5a" = "حسنا إيلاي. سوف أريك الآن كيف تطابق البلاطات معاً";
+"enc_c1e1o1_dialog_6a" = "والآن، لنر إن كان بإمكانك أن تطابق ثلاث بلاطات ناسفات";
+"enc_c1e1o1_dialog_7a" = "أووه! كانت تلك أولى طلقاتك الناسفة؟! لا مفر من أنك قادر على ضربي.";
+"enc_c1e1o1_dialog_7b" = "أراهن أنك لن تستطيع فعل ذلك مرة أخرى.";
+"enc_c1e1o1_dialog_8a" = "حرك البلاطات الناسفة، لتحقق تطابق آخر";
+"enc_c1e1o1_dialog_9a" = "أووه! حسنا! أنت ماهر في إطلاق النار، لكنك لست الوحيد الذي يمتلك ناسفًا. هيا إلى المبارزة! ";
+"enc_c1e1o1_dialog_10a" = "أووه! لماذا فعلت ذلك؟ آه صحيح، أنا من قال لك أن تفعل..";
+
+//Encounter 2
+"enc_c1e2o1_dialog_1a" = "عمل رائع أيها الصغير! الخطوة التالي: التعافي والشفاء.";
+"enc_c1e2o1_dialog_2a" = "قم بمطابقة 3 من بلاطات الصحة الخضراء لاستعادة شريط الصحة الخاص بك.";
+"enc_c1e2o1_dialog_3a" = "هل تشعر بتحسن؟ جيد!";
+"enc_c1e2o1_dialog_4a" = "معذرة. الناسف الخاص بي حساس بعض الشيئ. من الأفضل التعافي مجدداً.";
+"enc_c1e2o1_dialog_5a" = "حاول مطابقة بلاطات الصحة الأربعة تلك.";
+"enc_c1e2o1_dialog_6a" = "كلما أمكنك مطابقة عدد أكبر من البلاطات في حركة واحدة، يكون ذلك أفضل.";
+"enc_c1e2o1_dialog_6b" = "والآن، دعنا نرى إلى أي حد يمكنك الاستمرار في المبارزة؟";
+"enc_c1e2o1_dialog_7a" = "لقد كنت قريبا جدا من تحقيق الفوز.";
+"enc_c1e2o1_dialog_8a" = "أليس من المفترض أن تقوم بتعليمي؟";
+"enc_c1e2o1_dialog_9a" = "أووه! صحيح! كان ذلك مجرد اختبار، ولقد نجحت! ";
+
+//Encounter 3
+"enc_c1e3o1_dialog_1a" = "يا صاح!!! هل هذا السلغ الذي لديك 'إنفيرنوس'؟؟";
+"enc_c1e3o1_dialog_2a" = "إسمه 'بيربي'، وهو مدهش حقًّا.";
+"enc_c1e3o1_dialog_3a" = "تتحول السلغز من نوع 'إنفيرنوس' إلى مخلوقات نارية فائقة القوة.";
+"enc_c1e3o1_dialog_4a" = "يقول 'بيربي' إنه يريد ممارسة التحول.";
+"enc_c1e3o1_dialog_5a" = "حاول مطابقة بعض بلاطات النار لتزيد من قوة هجمة بيربي.";
+"enc_c1e3o1_dialog_6a" = "استمر! إنه بحاجة لمزيد من العصائر.";
+"enc_c1e3o1_dialog_7a" = "إن مطابقة 5 بلاطات نارية مرة واحدة سوف يشحن 'بيربي' لمستوى واحد.";
+"enc_c1e3o1_dialog_8a" = "والآن، وبعد أن تمت تقوية 'بيربي'، انقر على السلغ خاصتك لإطلاق هجمته الجديدة!";
+"enc_c1e3o1_dialog_9a" = "أوووووووو! أعتقد أنك متمسك بذلك. واصل المبارزة!";
+"enc_c1e3o1_dialog_10a" = "ياهه ! في المرة القادمة حاول أن لا تشعل  النار في سروالي !";
+"enc_c1e3o1_dialog_10b" = "أعتقد بأنك قد تكون جاهزاً لمبارزتك الأولى!!!برونتو!!!";
+
+/* End Chapter 1 */
+
+/* Slug Seeker Cavern */
+
+"name_cavern_seeker_catch_name" = "اقبض عليهم في كهوف البحث عن السلغز!";
+
+"name_cavern_seeker_watch_video_name" = "شاهد فيديو لكي تفك القفل عن هذا الكهف الآن!";
+
+"name_cavern_seeker_chest_reward_name" = "انقر على أي خزانة لتحصل على جائزتك!";
+
+"name_cavern_seeker_lose_booster_name" = "تحتاج إلى مساعدة؟ حاول مرة أخرى مع استخدام محفز سرعة!";
+
+"name_cavern_seeker_lose_name" = "لا تستسلم! فُز لكي تحصل على جوائزك!";
+
+"name_cavern_seeker_win_coins_name" = "تهانينا! لقد فزت بـ <Coin Variable>  من العملات!";
+
+"name_cavern_seeker_win_slugs_name" = "تهانينا! لقد غثرت على سلغ جديد!";
+
+"name_cavern_seeker_win_characters_name" = "تهانينا! لقد غثرت على شخصية جديدة!";
+
+"name_cavern_seeker_win_boosters_name" = "تهانينا! لقد غثرت على محفز سرعة!";
+
+"name_cavern_seeker_unlocked_name" = "تم افتتاح كهف للبحث عن السلغز! استكشف واعثر على سلغز نادرة مجانية الآن!";
+
+"main_menu_play_adventure_mode" = "وضع المغامرة";
+
+"name_cavern_slug_seeker_name" = "الباحث عن السلغز";
+
+"name_cavern_seeker_encounter_name" = "المواجهة:";
+
+"name_cavern_seeker_play_name" = "العب الآن!";
+
+/* End Slug Seeker Cavern */
+
+/* Tutorial Popups */
+"tutorial_popup_starting_msg2" = "انقر على \"زر الشراء\" للحصول على سلغز جديدة!";
+"tutorial_popup_starting_msg3" = "اسحب السلغز إلى داخل الفتحة لتجهيزه بالمعدات! الآن أصبحت جاهزًا للمبارزة!";
+"tutorial_popup_starting_msg4" = "لقد تم تفعيل %@ ! هيا اشتريها لتكمل مجموعة السلغز الخاصة بك!"; // %@ will be replaced with the name of a slug.
+"tutorial_popup_starting_msg_coin" = "سوف تحصل على ";
+
+
+/* End Tutorial Popups */
+
+/* Challenge Mode */
+
+/* Gridlock */
+
+//Encounter 1 - Tutorial
+"name_gridlock_challenge" = "غريدلوك";
+"enc_gridlock_e1_dialog_1a" = "ما الذي يجري هنا؟";
+"enc_gridlock_e1_dialog_2a" = "هذا تحدٍ خاص. خصومك أقوياء للغاية ولكنهم يفقدون صحتهم ببطء. ليس عليك سوى أن تصمد لفترة كافية.";
+"enc_gridlock_e1_dialog_3a" = "بعض البلاطات مقفولة في أماكنها، لذلك يجب أن تتوخى الحذر!";
+"enc_gridlock_e1_dialog_4a" = "حسنًا، دعنا نقوم بهذا الأمر!";
+"enc_gridlock_e1_dialog_1b" = "لقد قمت بعمل رائع! ولكن انتبه، فالأمور سوف تصبح أكثر صعوبة في المبارزات القادمة!";
+"enc_gridlock_e1_dialog_2b" = "هناك جوائز رائعة تنتظرك إذا فزت في جميع المبارزات! بإمكانك أن تفعل هذا!";
+
+/* Bombastic */
+
+//Encounter 1 - Tutorial
+"name_bombs_challenge" = "طنّان";
+"enc_bombastic_e1_dialog_1a" = "ما الذي يجري هنا؟";
+"enc_bombastic_e1_dialog_2a" = "هذا تحدٍ خاص. الناسف الخاص بك مضبوط على وضع القدرة العالية حتى يمكنك للسلغز الخاصة بك إطلاق النار أوتوماتيكيًا. وكلما زادت البلاطات التي تقوم بمطابقتها، كلما زادت قوة طلقاتك!";
+"enc_bombastic_e1_dialog_3a" = "خصومك أقوياء للغاية، ولكنهم يفقدون صحتهم ببطء. ليس عليك سوى أن تصمد لوقتٍ كافٍ! شيئ واحد آخر: القنابل!";
+"enc_bombastic_e1_dialog_4a" = "حسنًا، دعنا نقوم بهذا الأمر!";
+"enc_bombastic_e1_dialog_1b" = "لقد قمت بعمل رائع! ولكن انتبه، فالأمور سوف تصبح أكثر صعوبة في المبارزات القادمة!";
+"enc_bombastic_e1_dialog_2b" = "هناك جوائز رائعة تنتظرك إذا فزت في جميع المبارزات! بإمكانك أن تفعل هذا!";
+
+
+/* Draino */
+
+//Encounter 1 - Tutorial
+"name_draino_challenge" = "دراينو";
+"enc_draino_e1_dialog_1a" = "ما الذي يجري هنا؟";
+"enc_draino_e1_dialog_2a" = "هذا تحدٍ خاص. طاقة السلغز الخاصة بك تنفد ببطء! قم بمطابقة البلاطات بسرعة للغاية للإبقاء على شحن السلغز الخاصة بك!";
+"enc_draino_e1_dialog_3a" = "حسنًا، دعنا نقوم بهذا الأمر!";
+"enc_draino_e1_dialog_1b" = "لقد قمت بعمل رائع! ولكن انتبه، فالأمور سوف تصبح أكثر صعوبة في المبارزات القادمة!";
+"enc_draino_e1_dialog_2b" = "هناك جوائز رائعة تنتظرك إذا فزت في جميع المبارزات! بإمكانك أن تفعل هذا!";
+
+
+/* Stunlock */
+
+//Encounter 1 - Tutorial
+"name_stunlock_challenge" = "ستنلوك";
+"enc_stunlock_e1_dialog_1a" = "ما الذي يجري هنا؟";
+"enc_stunlock_e1_dialog_2a" = "هذا تحدٍ خاص. خصومك أقوياء للغاية ولكنهم يفقدون صحتهم ببطء. ليس عليك سوى أن تصمد لفترة كافية.";
+"enc_stunlock_e1_dialog_3a" = "حسنًا، دعنا نقوم بهذا الأمر!";
+"enc_stunlock_e1_dialog_1b" = "لقد قمت بعمل رائع! ولكن انتبه، فالأمور سوف تصبح أكثر صعوبة في المبارزات القادمة!";
+"enc_stunlock_e1_dialog_2b" = "هناك جوائز رائعة تنتظرك إذا فزت في جميع المبارزات! بإمكانك أن تفعل هذا!";
+
+/* Sudden Death */
+
+//Encounter 1 - Tutorial
+"name_sudden_death_challenge" = "موت مفاجئ";
+"enc_sudden_e1_dialog_1a" = "ما الذي يجري هنا؟";
+"enc_sudden_e1_dialog_2a" = "هذا تحدٍ خاص. استمع جيدًا: لا تتعرض للضرب! إذا تعرضت للضرب مرة واحدة فسوف تخسر المبارزة! لذا احترس ولا تجعل أي شيء يتجاوزك!";
+
+"enc_sudden_e1_dialog_2a2" = "هذا تحدٍ خاص. احترس، صحتك ضعيفة للغاية! لذا تجنب أن تتعرض للضرب وحاول أن تشفى في أي وقت ممكن!";
+"enc_sudden_e1_dialog_3a" = "جهاز الناسف الخاص بك مضبوط على وضع السرعة العالية حتى يمكن للسلغز الخاصة بك أن تطلق النار أوتوماتيكيًا. وكلما قمت بمطابقة بلاطات أكثر، كلما أصبحت طلقاتك أقوى!";
+"enc_sudden_e1_dialog_4a" = "حسنًا، دعنا نقوم بهذا الأمر!";
+"enc_sudden_e1_dialog_1b" = "لقد قمت بعمل رائع! ولكن انتبه، فالأمور سوف تصبح أكثر صعوبة في المبارزات القادمة!";
+"enc_sudden_e1_dialog_2b" = "هناك جوائز رائعة تنتظرك إذا فزت في جميع المبارزات! بإمكانك أن تفعل هذا!";
+
+
+/* Mixed Bag */
+
+//Encounter 1 - Tutorial
+"name_mixed_bag_challenge" = "حقيبة مختلطة";
+"name_initiation_challenge" = "بداية";
+"enc_mix_e1_dialog_1a" = "ما الذي يجري هنا؟";
+"enc_mix_e1_dialog_2a" = "لا توجد قواعد خاصة لهذه المبارزات. إنها فقط صعبة للغاية! هل أنت مستعد؟";
+"enc_mix_e1_dialog_3a" = "حسنًا، دعنا نقوم بهذا الأمر!";
+"enc_mix_e1_dialog_1b" = "لقد قمت بعمل رائع! ولكن انتبه، فالأمور سوف تصبح أكثر صعوبة في المبارزات القادمة!";
+"enc_mix_e1_dialog_2b" = "هناك جوائز رائعة تنتظرك إذا فزت في جميع المبارزات! بإمكانك أن تفعل هذا!";
+
+/* Challenge Mode end */
+
+/* Equipment Scenes */
+
+// common
+"equip_active" = "فعال ";
+"equip_dialog_insufficient_coins_title" = "ليس ممكنًا تحمُّل '%@'!"; // Error message for purchase of virtual item. %@ will be replaced with the item name.
+"equip_dialog_insufficient_coins_msg" = "ليست لديك عملة كافية لشراء  '%@'.\n. هل ترغب في الحصول على المزيد الآن؟ "; // Error message for purchase of virtual item. %@ will be replaced with the item name.
+"equip_dialog_purchase_confirm_title" = "شراء '%@'?"; // Confirmation text for purchase of virtual item. %@ will be replaced with the item name.
+"equip_dialog_purchase_confirm_msg" = "هل ترغب في شراء '%@' مقابل  %i من العملة?"; // Confirmation text for purchase of virtual item. %@ will be replaced with the item name.
+
+// boosters page title
+"equip_boosters_title" = "تعزيزات"; // تعزيزات are game upgrades, like power-ups.
+
+// slugs page title
+"equip_slugs_title" = "سلغز"; // Use glossary.
+"equip_slugs_dialog_condition" = "فتح عن طريق وضعية القصة "; // Telling the user that a slug is earned through playing story mode.
+"equip_slugs_slug_seeker_condition" = "فتح عن طريق وضعية الباحث عن السلغز"; // Telling the user that a slug is earned through playing slug seeker mode.
+"equip_slugs_sale" = "تخفيضات"; // Over top of slug when its on a sale
+
+// avatars page title
+"equip_avatars_title" = "شخصيات "; // Used to denote character skins for players to select.
+"equip_avatars_unlock" = "اهزم %i من الأعداء في الوضع اللانهائي";
+
+// basic shots page title
+"equip_basic_shots_title" = "طلقات مخصّصة";
+
+// game mods page title
+"equip_gamemods_title" = "مودز"; // Game mods modify certain game conditions for both players in a multiplayer match.
+
+/* End Equipment Scenes */
+
+
+
+/* In-App Purchases */
+"iap_coin_small_name" = " 5,000عملة";
+"iap_coin_small_description" = " "; // Do not translate this string, leave as a single space.
+
+"iap_coin_large_name" = "10,000عملة";
+"iap_coin_large_description" = "  25%زيادة";
+
+"iap_coin_huge_name" = "25,000عملة";
+"iap_coin_huge_description" = "  50%زيادة";
+
+"iap_coin_massive_name" = "100,000عملة";
+"iap_coin_massive_description" = "  75%زيادة";
+
+//"iap_slug_midas_name" = "Midas";
+//"iap_slug_midas_description" = "More Coins in Battle";
+
+/* End In-App Purchases */
+
+
+
+/* Chapter Select Scene */
+
+// scene title
+"chapter_select_title" = "اختيار الفصل";
+
+// dialog: player requires 4 slugs to enter a treasure encounter
+"chapter_select_dialog_treasure_slugs_required_title" = "مطلوب 4 سلغز";
+"chapter_select_dialog_treasure_slugs_required_msg" = "يجب أن يكون لديك 4 سلغز مسلحة لتخوض مواجهة الكنز.";
+
+/* End Chapter Select Scene */
+
+
+
+/* Cut Scene */
+
+"cutscene_button_skip" = "مغادرة"; // Button text for skipping cut scenes.
+//"cutscene_button_ok" = " OK"; // Button text for skipping cut scenes.
+
+/* End Cut Scene */
+
+
+/* Challenge Select Scene */
+"challenge_mode_select" = "اختيار التحدي";
+"challenge_number" = "التحدي %i";
+"challenge_expiration" = "انتهت صلاحيته";
+"challenge_exit_expired" = "هذا التحدي على وشك الانقضاء! هل أنت متأكد أنك تريد الانسحاب؟";
+"challenge_quit_encounter" = "هل تريد التخلي عن المبارزة؟ سوف تضطر إلى دفع عملات لإعادة المحاولة!";
+"challenge_win_overlay" = "تم فك القفل عن صندوق جديد! فُز في المبارزة لتحصل على جوائزك!";
+"challenge_reward_screen" = "النصرّ! احصل على جوائزك!";
+"challenge_slug_lock" = "تم قفل السلغز";
+"challenge_lose_screen" = "لا تستسلم! اربح جميع المبارزات لتحصل على جوائزك!";
+/* End Challenge Select Scene */
+
+
+
+/* In-App Purchase Scene */
+
+// store scene title
+"store_title" = "مستودع العملة";
+
+// currently for 'sale' badge in coin shop
+"store_sale" = "تخفيضات";
+
+// restore button
+//"store_restore_label" = "Restore";
+
+// dialog: store access restricted by device settings
+"store_dialog_access_restricted_title" = "تطبيق المشتريات غير متاح.";
+"store_dialog_access_restricted_msg" = "تطبيق المشتريات غير متاح في إعدادات الجهاز";
+
+// dialog: network has been locally disabled in device settings
+"store_dialog_no_network_title" = "لا توجد شبكة.";
+"store_dialog_no_network_msg" = "يرجى الاتصال بالشبكة وإعادة المحاولة.";
+
+// dialog: could not establish connection to the Apple Servers
+"store_dialog_connection_failed_title" = "فشل الاتصال بالمستودع.";
+"store_dialog_connection_failed_msg" = "لا يمكن إنشاء شبكة توصيل بالمخزن. يرجى مراجعة إعدادات الشبكة وإعادة المحاولة لاحقا.";
+
+// dialog: retrieval of In-App Purchase product info failed
+"store_dialog_update_failed_title" = "فشل استعادة معلومات المنتج";
+"store_dialog_update_failed_msg" = "لم نتمكن من الحصول على معلومات المنتج من الخادم. إعادة المحاولة؟";
+
+// dialog: this iTunes account is not authorized for payment
+"store_dialog_payment_not_authorized_title" = "الدفع غير معتمد.";
+"store_dialog_payment_not_authorized_msg" = "تطبيق حساب المستودع الخاص بك غير معتمد للمدفوعات.";
+
+// dialog: transaction was successfully completed
+"store_dialog_transaction_success_title" = "نجاح";
+"store_dialog_transaction_success_msg" = "عملية شراء ناجحة '%@'!";
+
+// dialog: there was an error during the payment transaction
+"store_dialog_transaction_failed_title" = "خطأ في العملية.";
+"store_dialog_transaction_failed_msg" = "فشل العملية: %@";
+
+/* end In-App Purchase Scene */
+
+
+
+/* Code Redeem Scene */
+
+// scene title
+"coderedeem_title" = "استخدم رمزًا";
+
+"coderedeem_statement" = "احصل على الرموز الترويجية في لعب سلغتيرا الرسمية وادخلها لتكشف النقاب عن محتوى جديد من اللعبة!";
+
+// code enter box labels
+"coderedeem_codebox_title" = "استخدم الرمز الترويجي"; // "Promo" is short for "promotional". These promotional codes are 6-letter codes packaged with toys.
+"coderedeem_codebox_instructions" = "أدخل الرمز الترويجي هنا لإظهار محتوى لعبة مدهشة!"; // "Promo" is short for "promotional". These promotional codes are 6-letter codes packaged with toys.
+//"coderedeem_codebox_button_ok" = "OK!";
+"coderedeem_codebox_textfield_placeholder" = "أدخِل الرمز!";
+
+// prize display box
+"coderedeem_prizebox_congrats" = "تهانينا!";
+"coderedeem_prizebox_you_just_revealed" = "أظهرت محتوى اللعبة. ";
+
+// Unlocking characters in Use Code screen.
+"coderedeem_character" = "%1$d %2$@"; // Do not translate.
+"coderedeem_character_singular" = "شخصية ";
+"coderedeem_character_plural" = "شخصيات ";
+"coderedeem_character_description" = "العب بشخصيات مختلفة!";
+"coderedeem_none_title" = "لديك كل شيء بالفعل!";
+"coderedeem_none_message" = "قم بإعطاء هذا الرمز لصديق كي يستخدمه في اللعب!";
+
+// Error messages for Use Code screen.
+"coderedeem_fail_network_title" = "خطأ في شبكة الاتصال.";
+"coderedeem_fail_network_message" = "هناك خطأ في شبكة الاتصال. يُرجى التأكد من أنك متصل بالإنترنت وإعادة المحاولة.";
+"coderedeem_fail_used_title" = "هذا الرمز مستخدم بالفعل.";
+"coderedeem_fail_used_message" = "تم استخدام هذا الرمز من قبل، ولا يمكن استخدامه مرة ثانية. إذا كنت في حاجة إلى مساعدة بخصوص هذا الرمز يرجى الاتصال بنا عبر البريد الإلكتروني interactive.support@dhxmedia.com";
+"coderedeem_fail_server_title" = "خطأ في السيرفر ";
+"coderedeem_fail_server_message" = "السيرفر (الخادم) البعيد لا يمكنه إكمال الطلب. يرجى التأكد من أنك متصل بالإنترنت وإعادة المحاولة.";
+"coderedeem_fail_invalid_title" = "الرمز غير صحيح.";
+"coderedeem_fail_invalid_message" = "هذا الرمز لا يعمل. إذا كنت تعتقد أنه يجب أن يعمل يرجى الاتصال بنا عبر البريد الإلكتروني interactive.support@dhxmedia.com";
+
+/* End Code Redeem Scene */
+
+
+
+/* Versus Scene */
+
+"versus_loading" = "تحميل ";
+"versus_fight" = "قاتل!";
+"versus_multiplayer_waiting" = "انتظار ";
+"versus_slugs_replaced_chapter6" = "مُختطف!";
+"versus_slugs_has_been_replaced_chapter6" = "تم اختطاف 'بيربي' من قبل 'مستر. ساترداي'! انطلق لاستعادته وتحريره!";
+/* End Versus Scene */
+
+/* Ghoul Scene */
+
+"ghoul_equip_unleash_text" = "جهِّز سلغز الغيلان بالمعدات وأطلق قدراتهم الوحشية!";
+"ghoul_slugs_text" = "سلغز الغيلان";
+"ghoul_get_now_text" = "احصل عليها الآن!";
+"ghoul_slugs_only_text" = "الغيلان فقط";
+"ghoul_slug_only_extended_text" = "سلغز الغيلان فقط!";
+"ghoul_slug_replace_extended_text" = "تم استبدال السلغز!";
+"ghoul_slug_replace_text" = "استبدلت الغيلان!";
+
+/* End Ghoul Scene */
+
+
+
+/* Score Scene */
+
+"score_time_label" = "الوقت %i:%02i";
+//"score_button_retry" = "Retry";
+
+/* End Score Scene */
+
+
+
+/* Slug Unlock Sequence */
+
+"slug_unlock_level" = "المستوى %i";
+
+/* End Slug Unlock Sequence */
+
+
+
+/* Main Menu */
+
+"main_menu_play_story_mode" = "وضعية القصة";
+"main_menu_play_adventure_mode" = "وضع المغامرة";
+"main_menu_play_challenge_mode" = "وضعية التحدى ";
+"main_menu_play_multiplayer" = "متعددة ";
+
+"main_menu_challenge_mode_locked_title" = "وضعية التحدي مغلق!";
+"main_menu_challenge_mode_locked_msg" = "تحتاج 4 سلغز على الأقل لخوض التحدي.";
+
+"main_menu_multiplayer_mode_locked_title" = "الوضع متعدد اللاعبين مغلق!";
+"main_menu_multiplayer_mode_locked_msg" = "لكي تلعب في الوضع متعدد اللاعبين، تحتاج إلى 4 سلغز على الأقل.";
+
+"main_menu_adventure_mode_locked_title" = "تم إغلاق وضعية المغامرة!";
+"main_menu_adventure_mode_locked_msg" = "لكي تلعب في وضعية المغامرة، تحتاج إلى 4 سلغز على الأقل.";
+
+"main_menu_button_play" = "العب!";
+"main_menu_button_use_code" = "استخدم رمزًا";
+
+/* End Main Menu */
+
+
+
+/* Pause Menu */
+
+//"pause_menu_button_quit" = "Quit";
+//"pause_menu_button_restart" = "Restart";
+//"pause_menu_button_resume" = "Resume";
+
+"pause_menu_dialog_confirm_quit_title" = "مغادرة";
+"pause_menu_dialog_confirm_quit_msg" = "هل ستغادر اللعبة بالفعل؟";
+
+"pause_menu_dialog_confirm_restart_title" = "إعادة تشغيل";
+"pause_menu_dialog_confirm_restart_msg" = "هل ستعيد التشغيل بالفعل؟";
+
+/* End Pause Menu */
+
+
+
+/* Defeat Scene */
+
+//"defeat_button_retry" = "Retry";
+//"defeat_button_booster" = "Go Now!";
+//"defeat_label_need_boost" = "Need A Boost?";
+
+/* Defeat and Victory Scene THIS NEEDS TO BE IMPLEMENTED IN OTHER LOCALIZATION */
+"defeat_label_booster_msg" = "تجهيز معززة والانفجار في طريقك إلى الجولة المقبلة!";
+"defeat_label_skin_msg" = "العب دور شخصيتك المفضلة!";
+"win_lose_buy_btn_msg" = "احصل عليه الآن!";
+"win_lose_upgrade_btn_msg" = "قم بالترقية الآن!";
+
+/* End Defeat Scene */
+
+
+
+/* Story End Scene */
+"story_end_button_play_multiplayer" = "اللعب المتعدد";
+"story_end_title" = "مبارزة اصدقائك!";
+"story_end_msg_1" = "إنه لا ينتهي هنا!";
+"story_end_msg_2" = "أبقي المبارزة في وضعية التعدد !";
+
+/* End Story End Scene */
+
+
+
+
+/* Options Scene */
+
+"options_title" = "خيارات ";
+
+//"options_button_reset_data" = "Reset Story";
+"options_button_credits" = "أرصدة ";
+
+"options_dialog_reset_data_title" = "هل أنت متأكد من ذلك؟";
+"options_dialog_reset_data_msg" = "سيؤدي ذلك إلى محو مستوى تقدم القصة خاصتك! لن تفقد عملتك أو أي شيء قمت بشرائه. هل ترغب فعلاً في القيام بذلك؟";
+
+/* End Options Scene */
+
+
+
+/* News Scene */
+
+"news_title" = "أخبار";
+
+/* End News Scene */
+
+
+
+/* Endless (Custom Loadout) Scene */
+
+"endless_congrats" = "تهانينا!";
+"endless_local_highscore" = "أعلى النتائج المحلية ";
+
+"endless_leaderboard_tab_gamecenter" = "مركز اللعبة ";
+"endless_leaderboard_tab_local" = "محلي";
+
+"endless_dialog_leaderboard_title" = "أدخل اسمك!";
+"endless_dialog_leaderboard_msg" = "يرجى إدخال اسمك لقائمة المتصدرين المحلية.";
+
+"endless_local_highscore_textfield_placeholder" = "أدخل الأسم ";
+
+//"endless_button_quit" = "Quit";
+//"endless_button_replay" = "Replay";
+
+"endless_title" = "وضعية التحدى ";
+
+"endless_mode" = "لا نهائي";
+
+"endless_local_leaderboard_title" = "أعلى النتائج ";
+
+"endless_label_results" = "النتيجة: %d  العملة: %d";
+
+/* End Endless (Custom Loadout) Scene */
+
+
+/* Challenge Mode */
+
+"encounter_win" = "تم فك القفل عن الصندوق! انته من جميع مبارزاتك لتحصل على  جائزتك!";
+
+"replay_encounter" = "هل تريد إنفاق X من العملات لإعادة عرض هذه المبارزة؟";
+
+"quit_encounter" = "هل أنت متأكد؟ سوف يكون عليك أن تنفق عملات لإعادة عرض هذه المبارزة فيما بعد.";
+
+"completed_challenges" = "تهانينا، لقد نجحت في جميع تحدياتك! عد مرة أخرى قريبًا لتجد تحديات أخرى!";
+
+/* End Challenge Mode */
+
+/* Treasure Select Scene */
+
+//"treasure_select_title" = "Treasure Vault";
+
+/* End Treasure Select Scene */
+
+
+
+/* Busy Layer */
+
+"busy_layer_please_wait" = "يُرجى الانتظار...";
+
+/* End Busy Layer */
+
+
+
+/* Game Center */
+
+"game_center_dialog_title" = "لم تسجل الدخول إلى مركز اللعبة.";
+"game_center_dialog_message" = "سجّل الدخول إلى مركز اللعبة لتتمكن من الوصول إلى الإنجازات، المتصدرين، والألعاب المتعددة.";
+"google_play_dialog_title" = "سجّل الدخول إلى غوغل بلاي (Google Play) للدخول إلى إنجازاتك، وسجلات أفضل النتائج واللعب مع لاعبين آخرين.";
+"google_play_dialog_message" = "لم يتم تسجيل الدخول إلى غوغل بلاي (Google Play)";
+"game_center_dialog_no" = "ليس الآن!";
+"game_center_dialog_yes" = "نعم";
+
+/* End Game Center */
+
+
+
+/* Multiplayer Screens */
+
+"multiplayer_header_title" = "متعددة ";
+
+"multiplayer_end_screen_you_won" = "ربحت!";
+"multiplayer_end_screen_you_lost" = "خسرت ";
+"multiplayer_end_screen_label_coins" = "العملات: +%i";
+"multiplayer_end_screen_label_points" = "النقاط: +%i";
+"multiplayer_end_screen_label_rank" = "المرتبة:";
+"multiplayer_end_screen_ok" = "موافق";
+"multiplayer_end_screen_label_rank_formatted" = "المرتبة: %d";
+
+"multiplayer_lobby_label_welcome" = "مرحبًا، %@!"; // %@ will be replaced with the player's Game Center name.
+"multiplayer_lobby_label_wins" = "ربح";
+//"multiplayer_lobby_button_back" = "Back";
+//"multiplayer_lobby_button_play" = "Play";
+//"multiplayer_lobby_button_leave" = "Leave";
+//"multiplayer_lobby_leave_title" = "";
+"multiplayer_lobby_leave_message" = "هل ترغب فعلاً في المغادرة؟";
+//"multiplayer_lobby_button_ready" = "Ready";
+"multiplayer_lobby_button_not_ready" = "إلغاء ";
+"multiplayer_lobby_message_waiting" = "انتظار منافس...";
+"multiplayer_lobby_message_loading" = "تحميل اللعبة...";
+"multiplayer_lobby_message_synchronizing" = "تزامن...";
+
+"multiplayer_game_message_syncing" = "تزامن حالة اللعب";
+//"multiplayer_game_label_leave" = "Leave";
+
+"multiplayer_tabpane_games_played" = "ألعاب تمت ممارستها: %i";
+"multiplayer_tabpane_games_won" = "ألعاب تم الفوز بها: %i";
+"multiplayer_tabpane_longest_streak" = "السلسلة الأطول: %i";
+"multiplayer_tabpane_current_streak" = "السلسلة الحالية: %i";
+"multiplayer_tabpane_header_game_center" = "مركز اللعبة ";
+"multiplayer_tabpane_header_google_play" = "غوغل بلاي";
+"multiplayer_tabpane_header_stats" = "الإحصاءات";
+"multiplayer_tabpane_no_data" = "لا توجد معلومات";
+
+"multiplayer_remote_state_connecting" = "توصيل";
+"multiplayer_remote_state_disconnected" = "غير متصل";
+"multiplayer_remote_state_getting_ready" = "استعداد";
+"multiplayer_remote_state_ready" = "جاهز";
+"multiplayer_remote_state_loading_game" = "تحميل اللعبة...";
+"multiplayer_remote_state_loaded_waiting" = "التحميل والانتظار ";
+"multiplayer_remote_state_choosing_slugs" = "اختيار السلغز";
+"multiplayer_remote_state_choosing_game_mods" = "اختيار الوضعية";
+//"multiplayer_remote_state_choosing_emoticon" = "Choosing Emoticon";
+"multiplayer_remote_state_playing_game" = "ممارسة اللعبة ";
+"multiplayer_remote_state_viewing_score" = "إظهار النتيجة ";
+
+"multiplayer_interrupt_network_error_formatted" = "حدث خطأ في الاتصال بالشبكة: \n%@"; // The "\n" represents a new line character. Please use it in the translation to separate the two lines of text.
+"multiplayer_interrupt_network_error_unknown" = "حدث خطأ في الاتصال بالشبكة:\n. خطأ غير معروف."; // The "\n" represents a new line character. Please use it in the translation to separate the two lines of text.
+"multiplayer_interrupt_disconnected_title" = "لاعب غير متصل";
+"multiplayer_interrupt_disconnected_message" = "الاتصال بـ '%@' فُقد.";
+"multiplayer_interrupt_left_title" = "اللاعب ترك المباراة.";
+"multiplayer_interrupt_left_message" = "اللاعب '%@' ترك اللعبة.";
+"multiplayer_interrupt_lobby_title" = "اللاعب عاد إلى ساحة اللعب";
+"multiplayer_interrupt_lobby_message" = "اللاعب '%@' عاد إلى ساحة الألعاب المتعددة.";
+"multiplayer_interrupt_laggy_title" = "اتصال ضعيف";
+"multiplayer_interrupt_laggy_message" = "شبكة الاتصال مع منافسك ضعيفة\n. لا يمكن مواصلة اللعب في هذه الظروف."; // The "\n" represents a new line character. Please use it in the translation to separate the two lines of text.
+
+/* End Multiplayer Screens */
+
+
+
+/* Credits */
+
+"credits_title_intro" = "أنتجت بالاشتراك مع.. ";
+"credits_title_creative_lead" = "المبتكر الرئيسي ";
+"credits_title_project_manager" = "مدير المشروع ";
+"credits_title_lead_programmer" = "المبرمج الرئيسي ";
+"credits_title_lead_artist" = "الفنان الرئيسي";
+"credits_title_programming" = "برمجة";
+"credits_title_art" = "رسوم ";
+"credits_title_level_design" = "تصميم المراحل ";
+"credits_title_sound_engineering" = "هندسة الصوت";
+"credits_title_music" = "موسيقى ";
+"credits_title_voice_acting" = "أداء الأصوات ";
+"credits_title_special_thanks" = "شكر خاص ";
+"credits_title_executive_producers" = "منتجون منفذون";
+"credits_title_producer" = "المنتج ";
+"credits_title_head_of_licensing" = "مدير الترخيص والترويج";
+"credits_title_director_of_brand" = "مدير عام تطوير العلامة التجارية";
+"credits_title_marketing_manager" = "مدير التسويق ";
+"credits_title_director_finance" = "مدير مالي ";
+"credits_title_general_counsel" = "إشراف عام";
+"credits_title_it" = "تكنولوجيا المعلومات";
+"credits_title_many_thanks" = "شكرا جزيلاً لمساهمات..";
+
+/* End Credits */
+
+
+/* Slug Events */
+
+"event_name_double_coins" = "ضاعف ثروتك!";
+"event_name_info_double_coins" = "جميع المبارزات سوف تعطيك ضعف عدد العملات اليوم. عُد إلى اللعب وابدأ ملء جيوبك الآن!";
+
+"event_name_hidden_slugs" = "تنبيه سلغ مخفي!";
+"event_name_info_hidden_slugs" = "شوهد سلغ جديد حول الفصل %@ لذا اذهب للعثور عليه! اكسب المبارزة المناسبة وفك القفل عن السلغ الآن!";
+
+"event_name_booster_sale" = "اعط قوة تدميرك الناسفة دفعة إلى الأمام!";
+"event_name_info_booster_sale" = "جميع محفزات السرعة أرخص اليوم. أحصل عليها وانطلق بأقصى سرعة على مدار اللعبة!";
+
+"event_name_coin_packs" = "احصل على عملات أكثر!";
+"event_name_info_coin_packs" = "مجموعات العملات تحتوي على عملات أكثر اليوم. اشتر مجموعة عملات الآن واحصل على عملات أكثر من أي وقتٍ مضى!";
+
+"event_name_rare_slug" = "إخطار بوجود سلغ نادر!";
+"event_name_info_rare_slug" = "وصل سلغ نادر، ولكنه لن يبقى طويلاً. اذهب إلى المتجر واحصل عليه قبل أن ينفذ!";
+
+"event_name_engagement_drive" = "لقد بدأ ماراثون السلغ!";
+"event_name_info_engagement_drive" = "إذا قمت باللعب كل يوم خلال هذا الأسبوع، فسوف تحصل على X كجائزة. لا يفوتك هذا! عُد إلى اللعب الآن!";
+
+"event_name_character_sales" = "قابل مطلق سلغ جديد! ";
+"event_name_info_character_sales" = "%@ أرخص في المتجر اليوم. اتجه إلى المتجر لتجربة اللعب بشخصية جديدة اليوم!";
+
+/* End Slug Events */
+
+
+/* Slug Info Box */
+
+// common
+"slug_info_box_level" = "المستوى: %i";
+"slug_info_box_power" = "القوة: %@";
+
+/* Slug Info */
+
+// burpy
+"slug_info_name_burpy" = "إنفيرنوس";
+"slug_info_power_burpy" = "النار";
+"slug_info_description_burpy" = "إنفيرنوس سلغ ناري قوي ونادر، يهاجم الخصم بقذيفة تفجير مدمرة. ";
+
+// frost
+"slug_info_name_frost" = "فروستكرولر";
+"slug_info_power_frost" = "الثلج";
+"slug_info_description_frost" = "يستخدم 'فروستكرولر' هجمة 'جلاسياتور' لإنشاء درع من حائط جليدي لحمايتك، ويضرب خصمك بقذيفة جليدية مدمرة";
+
+//tazer
+"slug_info_name_tazer" = "تازيرلينج";
+"slug_info_power_tazer" = "الكهرباء";
+"slug_info_description_tazer" = "يقوم 'تازيرلينج' بمهاجمة الخصوم مستخدما هجمة 'تازيربولت' ويتعامل مع خصمك بطريقة مذهلة.";
+
+//gas
+"slug_info_name_gas" = "فلاتولورينكوس";
+"slug_info_power_gas" = "سم ";
+"slug_info_description_gas" = "يقوم 'فلاتولورينكوس' بمهاجمة عدوك مستخدما هجمة 'بلورفبول'، ويطلق رائحة كريهة تستنزف قوى السلغز الخاصة بخصمك.  ";
+
+//doc
+"slug_info_name_doc" = "بون دوك";
+"slug_info_power_doc" = "الضوء";
+"slug_info_description_doc" = "باستخدام هجمة 'ميديسي'، يقوم 'بون دوك' بمداواتك أثناء طيرانه. ";
+
+//arachnet
+"slug_info_name_arachnet" = "أراشنيت";
+"slug_info_power_arachnet" = "الأرض ";
+"slug_info_description_arachnet" = "إن 'أراشنيت' سلغ هجومي فعال، حيث يشتبك مع الخصوم محدثا تفجيرا مدمرا ويصيب السلغز خاصتهم بالبطء.";
+
+//enigmo
+"slug_info_name_enigmo" = "إنيجمو";
+"slug_info_power_enigmo" = "الضوء";
+"slug_info_description_enigmo" = "يقوم 'إنيجمو' بالتوفيق بين الرّقع أثناء تحليقه بساحة المعركة.";
+
+//fandango
+"slug_info_name_fandango" = "فاندانجو";
+"slug_info_power_fandango" = "الضوء";
+"slug_info_description_fandango" = "لأنه غني بطاقة السلغ الطبيعية، فإن 'فاندانجو' يقوم بشحن السلغز الأخرى خاصتك أثناء تحليقها في الهواء.";
+
+//flaringo
+"slug_info_name_flaringo" = "فلارينجو";
+"slug_info_power_flaringo" = "النار";
+"slug_info_description_flaringo" = "يضرب 'فلارينجو' الخصوم بهجمة بلاستبيرست مخلفا دمارا هائلا.";
+
+//geoshard
+"slug_info_name_fright" = "هوفيرباج";
+"slug_info_power_fright" = "الجو ";
+"slug_info_description_fright" = "ينشئ 'هوفيرباج' نفقًا من الرياح يمكن السلغز خاصتك من ضرب خصمك بسرعة كبيرة. ";
+
+//rammstone
+"slug_info_name_rammstone" = "رامستون";
+"slug_info_power_rammstone" = "الأرض ";
+"slug_info_description_rammstone" = "يقوم 'رامستون' بتوجيه ضربات ساحقة اعتمادا على استخدام هجمة باتيرآب. ";
+
+//yang
+"slug_info_name_yang" = "نيجاشاد";
+"slug_info_power_yang" = "نفسي ";
+"slug_info_description_yang" = "يربك 'نيجاشاد' خصومك وذلك بحجب الرؤية عنهم.";
+
+//grenuke
+"slug_info_name_grenuke" = "جرينوك";
+"slug_info_power_grenuke" = "النار";
+"slug_info_description_grenuke" = "يقوم بإضافة قنابل 'ماشبوم' متنوعة تسبب دمارًا كبيرا لطاولة عدوك.";
+
+//midas
+"slug_info_name_midas" = "ميداس";
+"slug_info_power_midas" = "الضوء";
+"slug_info_description_midas" = "يزودك 'ميداس' بالعملات خلال تحليقه بساحة المعركة.";
+
+//aquabeek
+"slug_info_name_aquabeek" = "أكوابيك";
+"slug_info_power_aquabeek" = "ماء ";
+"slug_info_description_aquabeek" = "مستخدما هجمة 'أكواجيت'، يقوم 'أكوابيك' بقذف خصومك بسرعة فائقة وتدمير كبير.";
+
+//makobreaker
+"slug_info_name_makobreaker" = "ماكوبريكر";
+"slug_info_power_makobreaker" = "ماء ";
+"slug_info_description_makobreaker" = "تزداد قوة 'ماكوبريكر' بأكل قذائف أي ناسف أو السلغز منخفضة المستوى التي تصطدم به. ";
+
+//xmitter
+"slug_info_name_xmitter" = "أكسميتر ";
+"slug_info_power_xmitter" = "معدن ";
+"slug_info_description_xmitter" = "تعطيل الناسف مع النابض المغناطيسي ";
+
+//thresher
+"slug_info_name_thresher" = "سريشير";
+"slug_info_power_thresher" = "معدن ";
+"slug_info_description_thresher" = "سريشير قد يصبح أكثر قوة عندما تصاب أيلي ";
+
+//lock
+"slug_info_name_lock" = "فنديرل";
+"slug_info_power_lock" = "نبات ";
+"slug_info_description_lock" = "يوقع الخصم في الشراك، ويغلق البلاطات الموجودة على اللوحة في مكانها.";
+
+//panic
+"slug_info_name_panic" = "فرغتيغست ";
+"slug_info_power_panic" = "نفسي ";
+"slug_info_description_panic" = "يخيف الخصم، مما يجعلهم يطلقون السلغز الخاصة بهم في وقت واحد.";
+
+//refresh
+"slug_info_name_refresh" = "بينغ";
+"slug_info_power_refresh" = "الضوء";
+"slug_info_description_refresh" = "يهاجم الخصم أثناء  مبادلة رقعة البلاط.";
+
+//reflect
+"slug_info_name_reflect" = "ببلوني ";
+"slug_info_power_reflect" = "ماء ";
+"slug_info_description_reflect" = "يعكس سلغز الخصم ";
+
+//tormato
+"slug_info_name_tormato" = "ترماتو ";
+"slug_info_power_tormato" = "الجو ";
+"slug_info_description_tormato" = "تشكل عازلا هوائيا يمنع هجمات المنافس";
+
+//speedstinger
+"slug_info_name_speedstinger" = "سبيدستينجر";
+"slug_info_power_speedstinger" = "معدن ";
+"slug_info_description_speedstinger" = "يطلق النار بسرعة فائقة لمهاجمة الخصم ";
+
+//phosphoro
+"slug_info_name_phosphoro" = "فسفورو ";
+"slug_info_power_phosphoro" = "الضوء";
+"slug_info_description_phosphoro" = "اشحن السلغز قليلاً السلغز الأخرى والخاصة بك ودمر الخصم ";
+
+//neotox
+"slug_info_name_neotox" = "نوتكس ";
+"slug_info_power_neotox" = "سم ";
+"slug_info_description_neotox" = "يحدث انفجاراً ساماً يتسبب في تسمم الخصم ";
+
+//jellyish
+"slug_info_name_jellyish" = "جيلش ";
+"slug_info_power_jellyish" = "ماء ";
+"slug_info_description_jellyish" = "الهجمات تبطىء الخصم ";
+
+//Armashelt
+"slug_info_name_armashelt" = "أرماشيلت";
+"slug_info_power_armashelt" = "كانونبول";
+"slug_info_description_armashelt" = "سلغ ثقيل وضربته موجعة، حين يضرب أرماشيلت باستخدام سلغ من الخصم فسوف يستمر كمقذوف من المستوى الأدنى.";
+
+//Hop Rock
+"slug_info_name_hoprock" = "هوب روك";
+"slug_info_power_hoprock" = "المـُفجـِّر";
+"slug_info_description_hoprock" = "يضيف قنابل مميتة إلى لوحة المنافسين تتسبب في الضرر.";
+
+//Hypnogrif
+"slug_info_name_hypnogriff" = "هيبنوجريف سلاغ";
+"slug_info_power_hypnogriff" = "نشوة";
+"slug_info_description_hypnogriff" = "هيبنوغريف يربك المنافسين، ويجبرهم على إطلاق جميع السلغز الخاصة بهم مرة واحدة.";
+
+//Slicksilver
+"slug_info_name_slicksilver" = "سليكسيلفر";
+"slug_info_power_slicksilver" = "سلغ معدني/مغناطيسي";
+"slug_info_description_slicksilver" = "يمنع الخصم من إطلاق السلغز الخاصة به.";
+
+//SpeedStinger
+"slug_info_name_speedstringer" = "سبيدستينجر";
+"slug_info_power_speedstringer" = "ريكوشيت";
+"slug_info_description_speedstringer" = "سبيدستينجر يتحرك بسرعة أثناء إحداثه أضرارًا.";
+
+//Crystalyd
+"slug_info_name_crystalyd" = "كريستاليد";
+"slug_info_power_crystalyd" = "حافر الأنفاق";
+"slug_info_description_crystalyd" = "حين يضرب كريستاليد سلغز الخصم فسوف يستمر كمقذوف على المستوى المنخفض.";
+
+//Geoshard
+"slug_info_name_geoshard" = "جيوشارد";
+"slug_info_power_geoshard" = "كريستاليزر سلغ";
+"slug_info_description_geoshard" = "يطلق جيوشارد وابل من الطلقات بحيث يسافر عبر الجو.";
+
+//Slyren
+"slug_info_name_slyren" = "سليرن";
+"slug_info_power_slyren" = "الجو ";
+"slug_info_description_slyren" = "يطلق سليرن وابل من طلقات ذات موجات صوتية شديدة بحيث يسافر في الجو.";
+
+//Narwhaddle
+"slug_info_name_narwhaddle" = "ناروهادل";
+"slug_info_power_narwhaddle" = "الثلج";
+"slug_info_description_narwhaddle" = "يخلق ناروهادل قنبلة ثلجية تفوق سرعة طلقات سلغز الأخرى وكذلك تجمد الخصم.";
+
+//Firenzar
+"slug_info_name_firenzar" = "فايرنزار";
+"slug_info_power_firenzar" = "النار";
+"slug_info_description_firenzar" = "تخلق فايرنزار حلقة من النار تحقق خسائر للخصم بمرور الوقت.";
+
+//Thugglet
+"slug_info_name_thugglet" = "ثاغلت";
+"slug_info_power_thugglet" = "نفسي ";
+"slug_info_description_thugglet" = "حين يهاجم ثاغلت، فسوف يسرق قدرة السلغ الخاصة بالخصم.";
+
+//Gazzer
+"slug_info_name_gazzer" = "غازر";
+"slug_info_power_gazzer" = "الجو ";
+"slug_info_description_gazzer" = "غازر يستنفذ مقياس السلغ الخاص بالخصم.";
+
+//Lariat
+"slug_info_name_lariat" = "لاريات";
+"slug_info_power_lariat" = "ماء ";
+"slug_info_description_lariat" = "لاريات يطلق شبكة عنكبوتية لاصقة تبطئ سلغز الخصم.";
+
+//Hexlet
+"slug_info_name_hexlet" = "هيكسلت";
+"slug_info_power_hexlet" = "نفسي ";
+"slug_info_description_hexlet" = "يقوم هيكسلت بمطابقة البلاطات أثناء طيرانه فوق ميدان المعركة.";
+
+/* Fusion Slug Info */
+
+//Negashade & Ping Fusion
+
+"slug_info_name_fuse_yang_refresh" = "شادوراي";
+"slug_info_power_fuse_yang_refresh" = "نفسي ";
+"slug_info_description_fuse_yang_refresh" = "نيجاشاد وبينغ: يهاجمان ويربكان خصومهما من خلال إعماء أبصارهم أثناء قيامك باستبدال مربعات لوحك.";
+
+//Doc and Gas Fusion
+"slug_info_name_fuse_doc_gas" = "هيلوتوكسيز";
+"slug_info_power_fuse_doc_gas" = "خفيف وسام";
+"slug_info_description_fuse_doc_gas" = "بون دوك وفلاتولورينكوس: يعالجان جراح اللاعب ويستنزفان قدرة السلغ الخصم.";
+
+//Burpy & Tazerling Fusion
+"slug_info_name_fuse_burpy_tazer" = "نوفابولت";
+"slug_info_power_fuse_burpy_tazer" = "النار والكهرباء";
+"slug_info_description_fuse_burpy_tazer" = "بوربي وتازيرلينج: يهاجمان الخصم ويفاجئانه.";
+
+//Arachnet & Panic Fusion
+"slug_info_name_fuse_arachnet_panic" = "أراشنوشراود";
+"slug_info_power_fuse_arachnet_panic" = "الأرض والحرب النفسية";
+"slug_info_description_fuse_arachnet_panic" = "أراشنيت فرغتيغست: يخيفان الخصم ويبطئان من سرعته.";
+
+//Aquabeek & Fandango Fusion
+"slug_info_name_fuse_aquabeek_fandango" = "أكوابوست";
+"slug_info_power_fuse_aquabeek_fandango" = "الماء والضوء";
+"slug_info_description_fuse_aquabeek_fandango" = "أكوابيك وفاندانجو: هجوم سريع يشحن قدرات السلغ للاعبين.";
+
+//Rammstone & Makobreaker Fusion
+
+"slug_info_name_fuse_rammstone_makobreaker" = "روكتشومب";
+"slug_info_power_fuse_rammstone_makobreaker" = "الأرض والماء";
+"slug_info_description_fuse_rammstone_makobreaker" = "يقتحم عبر درع واحد أو سلغ من نفس المستوى ويستمد قدرته من خلال أكل الطلقات الناسفة.";
+
+//Xmitter and Vinedrill Fusion
+
+"slug_info_name_fuse_xmitter_vinedrill" = "غليتشنار"; //Glitch is a malfunction equipment and Snare is a trap. For example trap or a net
+"slug_info_power_fuse_xmitter_vinedrill" = "الكهرباء والنبات";
+"slug_info_description_fuse_xmitter_vinedrill" = "هجوم يعيق جهاز الناسف للخصم ويقوم بتعقيد بلاطات اللوحة.";
+
+//Flaringo and Phosphoro Fusion
+
+"slug_info_name_fuse_flaringo_phosphoro" = "سباركرين"; //Spark is the small fiery particle thrown off from a fire and rain is moisture condensed from the atmosphere that falls visibly in separate drops. For Example rainy weather.
+"slug_info_power_fuse_flaringo_phosphoro" = "النار والضوء";
+"slug_info_description_fuse_flaringo_phosphoro" = "هجمات نارية تشحن تدمِّر وتشحن جميع السلغز الخاصة بك قليلاً.";
+
+//Frostcrawler and Grenuke Fusion
+
+"slug_info_name_fuse_freeze_grenuke" = "فروست بومب"; // Small white ice crtystals formed on surfaces when the temperature falls below freezing. Bomb is an explosion.
+"slug_info_power_fuse_freeze_grenuke" = "الثلج والنار";
+"slug_info_description_fuse_freeze_grenuke" = "هجوم يجمِّد الخصم ويضيف عدة قنابل تسبب تلفًا للوحة الخصم.";
+
+//Neotox and Thresher Fusion
+
+"slug_info_name_fuse_neotox_thresher" = "ناب سام"; // Toxic is poisonous. Tusk is a long pointed tooth, usually found on elephants, walrus or wild boars.
+"slug_info_power_fuse_neotox_thresher" = "النبات والمعدن";
+"slug_info_description_fuse_neotox_thresher" = "دفعة هجومية تسمم الخصم وتصبح أقوى حين يكون إيلاي جريحًا.";
+
+//Tormato and Jellyish Fusion
+
+"slug_info_name_fuse_tormato_jellyish" = "سليمستورم"; // Slime is a moist, soft, and slippery substance. Storm is a violent disturbance of the atmosphere with strong winds.
+"slug_info_power_fuse_tormato_jellyish" = "الهواء والماء";
+"slug_info_description_fuse_tormato_jellyish" = "قذيفة الاندماج هذه تخلق حاجزًا دفاعيًا من الرياح مع تدمير الخصم وإبطاء السلغز الخاصة به.";
+
+//Narwhaddle and Slyren Fusion
+
+"slug_info_name_fuse_slyren_narwaddle" = "تألق فائق النشاط "; // Hyper as in overactive and flash as in a brief shine.
+"slug_info_power_fuse_slyren_narwaddle" = "جليد وهواء";
+"slug_info_description_fuse_slyren_narwaddle" = "تسرّع الانفجارات الجليدية السلغز الأخرى أثناء إطلاق وابل من الطلقات أسرع من الصوت.";
+
+//Hoverbug and Speedstinger Fusion
+
+"slug_info_name_fuse_hoverbug_speedstinger" = "الحركات السريعة"; //Kenetic as in Kinetic energy and streak as in a motion streak of moving very quickly
+"slug_info_power_fuse_hoverbug_speedstinger" = "معدن وهواء";
+"slug_info_description_fuse_hoverbug_speedstinger" = "  سبيدستينجر وهوفربغ: يستخدمان البوابات ويدمران الخصم.";
+
+//Geoshard and Slicksilver Fusion
+
+"slug_info_name_fuse_geoshard_slicksilver" = "مانجاشارد"; //Magna as in magnet and shard as in a small piece of broken glass
+"slug_info_power_fuse_geoshard_slicksilver" = "معدن وأرض";
+"slug_info_description_fuse_geoshard_slicksilver" = " سليكسيلفر وجيوشارد: يدمر الخصم باستخدام 3 مقذوفات ويوقف السلغز الخاصة بالخصم لفترة محدودة.";
+
+
+//Neurotox and Amperling Fusion
+
+"slug_info_name_fuse_ghoul_netox_ghoul_tazerling" = "أمبيرتوكس";
+"slug_info_power_fuse_ghoul_netox_ghoul_tazerling" = "الظل الداكن";
+"slug_info_description_fuse_ghoul_netox_ghoul_tazerling" = "يغلق الخصم والسلغز بصورة مفاجئة مع إحداث التلف واستنزاف طاقة السلغز.";
+
+//Burpy and Flatulo Rex
+
+"slug_info_name_fuse_ghoul_burpy_ghoul_gas" = "بلورفبلاست";
+"slug_info_power_fuse_ghoul_burpy_ghoul_gas" = "ناري وسامٌ";
+"slug_info_description_fuse_ghoul_burpy_ghoul_gas" = "يسبب الدمار مع استنزاف طاقة السلغ وإخفاء لوحة الخصم بسحابات الغاز.";
+
+//Photomo and Aquafreak Fusion
+
+"slug_info_name_fuse_ghoul_phosphoro_ghoul_aquabeek" = "الوهج المائي";
+"slug_info_power_fuse_ghoul_phosphoro_ghoul_aquabeek" = "الظل الداكن";
+"slug_info_description_fuse_ghoul_phosphoro_ghoul_aquabeek" = "يدمر الخصم ويعطي اللاعب دفعة قوية من طاقة السلغ مع خفض طاقة السلغز للاعبين أيضًا بصورة طفيفة.";
+
+//Briardrill and FrostFang Fusion
+
+"slug_info_name_fuse_ghoul_vinedrill_ghoul_frost" = "بريارشارد"; //Briar is a plant with prickly stems and Shard means broke peices or fragments
+"slug_info_power_fuse_ghoul_vinedrill_ghoul_frost" = "الكرمة والثلج الداكن";
+"slug_info_description_fuse_ghoul_vinedrill_ghoul_frost" = "يقوم بغلق وتجميد لوحة الخصم مع غلق لوحتك لفترة وجيزة.";
+
+//Tempesto and Pyringo Fusion
+
+"slug_info_name_fuse_ghoul_tormato_ghoul_flaringo" = "قاطع الأمواج"; // Scythe is a tool used for cutting and a Wave is a ridge of air
+"slug_info_power_fuse_ghoul_tormato_ghoul_flaringo" = "الظل الداكن";
+"slug_info_description_fuse_ghoul_tormato_ghoul_flaringo" = "يخلق قاطع الأمواج إعصاراً بينما يتلقى ضرراً كبيراً. وأيضاً يدمر اللاعب.";
+
+//Greneater and Attacknet Fusion
+
+"slug_info_name_fuse_ghoul_grenuke_ghoul_arachnet" = "انفجار هائل"; // Burr is a rough sound and Bomb is an explosion
+"slug_info_power_fuse_ghoul_grenuke_ghoul_arachnet" = "الظل الداكن";
+"slug_info_description_fuse_ghoul_grenuke_ghoul_arachnet" = "يضيف الانفجار الهائل العديد من القنابل على لوحة الخصم بينما يبطأ من سرعة طلقات السلغز الخاصة بهم. ويتم إغلاق السلغز الخاصة باللاعب لوقت محدود.";
+
+/* Ghoul Slug Info */
+
+// Ghoul Burpy
+"slug_info_name_ghoul_burpy" = "دارك فورنوس";
+"slug_info_power_ghoul_burpy" = "النار";
+"slug_info_description_ghoul_burpy" = "سلغ ناري قوي ونادر للغاية، دارك فورنوس يضرب الخصم باستخدام طلقة داركباير ولكن سوف يتلف شخصيتك أيضًا. ";
+
+// Ghoul Frost
+"slug_info_name_ghoul_frost" = "فروستفانغ";
+"slug_info_power_ghoul_frost" = "الثلج الداكن";
+"slug_info_description_ghoul_frost" = "فروستفانغ يستخدم حركة التجمد المرعب ليقوم بتجميد خصمك باستخدام طلقة قوية ولكنها لا تنشئ حائطًا ثلجيًا.";
+
+// Ghoul Gas
+"slug_info_name_ghoul_gas" = "فلاتولو ريكس";
+"slug_info_power_ghoul_gas" = "الرائحة الكريهة السامة";
+"slug_info_description_ghoul_gas" = "فلاتولو ريكس يضرب الخصم باستخدام هجوم \"الحائط كريه الرائحة\"، مطلقًا رائحة كريهة عند التلامس تدمر السلغ الخاص بالخصم وتستنزف قواه مع إخفاء لوحتك بسحب من الغاز.";
+
+// Ghoul Tazer
+"slug_info_name_ghoul_tazer" = "أمبرلينغ";
+"slug_info_power_ghoul_tazer" = "زابر";
+"slug_info_description_ghoul_tazer" = "هجمات أمبيرلنغ مع حركة أمبرجولت الخاصة به، تسبب ضررًا كبيرًا للخصم وتشل حركته وتقوم أيضًا بإغلاق السلغز الخاصة بك لوقتٍ محدود.";
+
+// Ghoul Aquabeek
+"slug_info_name_ghoul_aquabeek" = "أكوافريك";
+"slug_info_power_ghoul_aquabeek" = "ظلال المياه المظلمة";
+"slug_info_description_ghoul_aquabeek" = "باستخدام شفراتها المائية الحادة، تطلق أكوافريك  في اتجاه الخصم بسرعات عالية جدًا وتلحق الضرر وهي تستغرق أيضًا وقتًا أطول للشحن.";
+
+// Ghoul Arachnet
+"slug_info_name_ghoul_arachnet" = "أتاك نت";
+"slug_info_power_ghoul_arachnet" = "شبكة العنكبوت المظلمة";
+"slug_info_description_ghoul_arachnet" = "أتاك نت تستخدم الحية العاصرة لخنق الخصوم، وتلحق الضرر بهم من خلال إبطاء سرعة السلغز الخاصة بهم مع غلق السلغز الخاصة بك أيضًا لفترة محدودة.";
+
+// Ghoul Flaringo
+"slug_info_name_ghoul_flaringo" = "بيرينجو";
+"slug_info_power_ghoul_flaringo" = "اللهب المظلم";
+"slug_info_description_ghoul_flaringo" = "يضرب بيرينجو الخصوم من خلال هجمة البحث عن الضربة مما يلحق الضرر، إلا أنه سوف يدمر شخصيتك أيضًا.";
+
+
+// Ghoul Grenuke
+"slug_info_name_ghoul_grenuke" = "غرينيتر";
+"slug_info_power_ghoul_grenuke" = "القنبلة المظلمة";
+"slug_info_description_ghoul_grenuke" = "يضيف غيرينيتر عدة قنابل سبايكسبلودر تلحق الضرر بلوحة الخصم وتستغرق أيضًا وقتًا أطول في الشحن.";
+
+//Ghoul Jellyish
+"slug_info_name_ghoul_jellyish" = "جوليفيست";
+"slug_info_power_ghoul_jellyish" = "جوو";
+"slug_info_description_ghoul_jellyish" = "يستخدم جوليفيست حركة إكسو-توكس الخاصة به لتدمير وإبطاء الخصم.";
+
+// Ghoul Lock
+"slug_info_name_ghoul_lock" = "برياردريل";
+"slug_info_power_ghoul_lock" = "فين";
+"slug_info_description_ghoul_lock" = "يستخدم برياردريل هجمة ثورن لاش الخاصة به لكي يجعل لوحة الخصم متشابكة ومعقدة باستخدام نباتات لولبية ذات أشواك.";
+
+// Ghoul Neotox
+"slug_info_name_ghoul_neotox" = "نيوروتوكس";
+"slug_info_power_ghoul_neotox" = "السم المظلم";
+"slug_info_description_ghoul_neotox" = "يستخدم نيوروتوكس التوكسيكليزم لإنشاء دفقة سامة تسمم الخصم مع استنفاذ قدرة السلغز الخاصة بك. ";
+
+// Ghoul Panic
+"slug_info_name_ghoul_panic" = "نايتجست";
+"slug_info_power_ghoul_panic" = "الظل الداكن";
+"slug_info_description_ghoul_panic" = "يخيف نايتجست الخصم، ويجعلهم يطلقون كل السلغز الخاصة بهم مرة واحدة أثناء استنزاف السلغز الخاصة بك.";
+
+// Ghoul Phosphoro
+"slug_info_name_ghoul_phosphoro" = "فوتومو";
+"slug_info_power_ghoul_phosphoro" = "الفوتون المظلم";
+"slug_info_description_ghoul_phosphoro" = "يستنزف فوتومو عدّادات السلغ الخاص بك، أثناء الطيران ولكنه يعطي دفقة هائلة من طاقة السلغز عند تدمير الخصم.";
+
+// Ghoul Rammstone
+"slug_info_name_ghoul_rammstone" = "غريمستون";
+"slug_info_power_ghoul_rammstone" = "الحجار";
+"slug_info_description_ghoul_rammstone" = "غريمستون يعكس أول سلغ يصطدم معه فيما يقوم بتحويل بعض بلاط اللاعبين إلى أحجار لفترة محدودة.";
+
+// Ghoul Thresher
+"slug_info_name_ghoul_thresher" = "سراشر";
+"slug_info_power_ghoul_thresher" = "القطع والالتهام";
+"slug_info_description_ghoul_thresher" = "ثراشر يصبح أضعف حين يصاب إيلاي بجراح.";
+
+// Ghoul Tormato
+"slug_info_name_ghoul_tormato" = "تيمبيستو";
+"slug_info_power_ghoul_tormato" = "الظل الداكن";
+"slug_info_description_ghoul_tormato" = "ينشئ إعصاراً عند ضرب الخصم مما يعكس أحد السلغز الخاصة بالخصم بعد إطلاقه.";
+
+// Ghoul Doc
+"slug_info_name_ghoul_doc" = "غون دوك";
+"slug_info_power_ghoul_doc" = "داكن";
+"slug_info_description_ghoul_doc" = "يضر غون دوك باللاعب لكنه أيضاً يعالج اللاعب عندما يتقاتل مع السلغز منخفضة المستوى وعند مهاجمة الخصم.";
+
+// Ghoul Makobreaker
+"slug_info_name_ghoul_makobreaker" = "محطم الميجا";
+"slug_info_power_ghoul_makobreaker" = "ظلال المياه المظلمة";
+"slug_info_description_ghoul_makobreaker" = "تزداد قوة محطم الميجا من خلال تناول الطلقات الناسفة والسلغز منخفضة المستوى، ولكنه أيضاً يحدث أضراراً للاعب.";
+
+// Ghoul Yang
+//"slug_info_name_ghoul_yang" = "Negablade";
+//"slug_info_power_ghoul_yang" = "Shadow";
+//"slug_info_description_yang" = "Negablade uses its Darkwraith move to confuse opponents by clouding their vision.";
+
+/* Megamorphs */
+
+//Burpy Megamorph
+"slug_info_name_mega_burpy" = "ميجامورف إنفيرنوس";
+"slug_info_power_mega_burpy" = "النار";
+"slug_info_description_mega_burpy" = "التحول الأكبر، يطلق ميجامورف انفورنس عاصفة نارية منصهرة أثناء انطلاقه عبر ساحة القتال.";
+
+//Frost Megamorph
+"slug_info_name_mega_frost" = "ميجامورف فروست كراولر";
+"slug_info_power_mega_frost" = "الثلج";
+"slug_info_description_mega_frost" = "التحول الأكبر، ميغامورف فروست كراولر ينشئ حائطًا حديديًا فيما يجمِّد الخصم لحظيًا عند التصادم.";
+
+//Tazerling Megamorph
+"slug_info_name_mega_tazer" = "ميجامورف تازيرلينج";
+"slug_info_power_mega_tazer" = "الكهرباء";
+"slug_info_description_mega_tazer" = "التحول الأكبر، ميجامورف تازيرلنج يولِّد عاصفة كهربائية قوية أثناء انطلاقه عبر ميدان القتال لإحداث ضرر كبير وصعق الخصم.";
+
+//Flatulorhinkus Megamorph
+"slug_info_name_mega_gas" = "ميجامورف فلاتولورهينكوس";
+"slug_info_power_mega_gas" = "سم ";
+"slug_info_description_mega_gas" = "التحول الأكبر، ميجامورف فلاتولورهينكوس يستخدم الضغط الداخلي للانطلاق بسرعة الصاروخ عبر ميدان القتال ويطلق سحابة سامة تدمر الخصم.";
+
+//Megamorph Arachnet
+"slug_info_name_mega_arachnet" = "ميجامورف أراكنت";
+"slug_info_power_mega_arachnet" = "الأرض ";
+"slug_info_description_mega_arachnet" = "التحول الأكبر، يطلق ميجامورف أراكنت شبكة معقدة تحدث ضرراً هائلاً وتبطئ السلغز الخاصة بالخصم بشكل كبير.";
+
+//Megamorph Tormato
+"slug_info_name_mega_tormato" = "ميجامورف تورماتو ";
+"slug_info_power_mega_tormato" = "الأرض ";
+"slug_info_description_mega_tormato" = "التحول الأكبر، يعكس ميجامورف تورماتو السلغز الخاصة بالخصم.";
+
+//Megamorph Grenuke
+"slug_info_name_mega_grenuke" = "ميجامورف جرينوك";
+"slug_info_power_mega_grenuke" = "النار";
+"slug_info_description_mega_grenuke" = "التحول الأكبر، يضيف ميجامورف جرينوك قنابل على لوحة الخصم مما يحدث ضرراً هائلاً إذا لم يتم تحريكها في الوقت المناسب.";
+
+//Megamorph Thresher
+"slug_info_name_mega_thresher" = "ميجامورف ثريشر";
+"slug_info_power_mega_thresher" = "معدن ";
+"slug_info_description_mega_thresher" = "التحول الأكبر، تصبح ميجامورف ثريشر أقوى بكثير عندما يصاب اللاعب.";
+
+//Megamorph Boon Doc
+"slug_info_name_mega_doc" = "ميجامورف بوون دوك";
+"slug_info_power_mega_doc" = "الضوء";
+"slug_info_description_mega_doc" = "التحول الأكبر، تستخدم ميجامورف بوون دوك قوتها العلاجية لشفاء اللاعب أثناء طيرانها.";
+
+
+/* End Slug Info Box */
+
+/* Booster Info */
+
+// blaster_damage
+"booster_info_name_blaster_damage" = "تدمير الناسف";
+"booster_info_description_blaster_damage" = "الناسف خاصتك يوجه طلقات بالغة التدمير.";
+
+"booster_info_name_blaster_velocity" = "سرعة الناسف";
+"booster_info_description_blaster_velocity" = "السلغز والناسف خاصتك توجه طلقات طائرة سريعة.";
+
+"booster_info_name_autocharge" = "شاحن السلغز";
+"booster_info_description_autocharge" = "يتم شحن السلغز أوتوماتيكيا خلال المواجهة.";
+
+"booster_info_name_pre_igniter" = "قبل مشعل - السلغز ";
+"booster_info_description_pre_igniter" = "مع بداية المباراة، تكون السلغز خاصتك مكتملة الشحن.";
+
+"booster_info_name_max_level" = "مكبِّر السلغ";
+"booster_info_description_max_level" = "السلغز الخاصة بك تصبح من المستوى رقم 3 لمدة مباراة واحدة.";
+
+/* End Booster Info */
+
+
+/* Game Mod */
+
+"gamemod_info_name_blaster_damage" = "تدمير الناسف";
+"gamemod_info_name_blaster_damage_one" = "تدمير الناسف";
+"gamemod_info_description_blaster_damage" = "تحطيم مضاعف لكل الطلقات الرئيسية";
+
+"gamemod_info_name_autocharge" = "شاحن آلي";
+"gamemod_info_name_autocharge_one" = "شاحن آلي المستوى 1";
+"gamemod_info_name_autocharge_two" = "شاحن آلي المستوى 2";
+"gamemod_info_name_autocharge_three" = "شاحن آلي المستوى 3";
+"gamemod_info_description_autocharge" = "يتم شحن السلغز آلياً خلال المواجهة.";
+
+"gamemod_info_name_pre_igniter" = "قبل مشعل - السلغز ";
+"gamemod_info_name_pre_igniter_one" = "قبل مشعل - السلغز ";
+"gamemod_info_description_pre_igniter" = "سلغز  بدء مشحونة بالكامل.";
+
+"gamemod_info_name_blaster_velocity" = "سرعة الناسف";
+"gamemod_info_name_blaster_velocity_one" = "سرعة الناسف";
+"gamemod_info_description_blaster_velocity" = "تتحرك كل الطلقات بسرعة متزايدة. ";
+
+"gamemod_info_name_no_blasters" = "لا توجد نواسف.";
+"gamemod_info_name_no_blasters_one" = "لا توجد نواسف.";
+"gamemod_info_description_no_blasters" = "لا يوجد بلاط ناسف على لوحة اللعبة";
+
+"gamemod_info_name_no_health" = "لا توجد بلاطات صحة.";
+"gamemod_info_name_no_health_one" = "لا توجد بلاطات صحة.";
+"gamemod_info_description_no_health" = "لا توجد بلاطات صحة على لوحة اللعبة ";
+
+/* End Game Mod */
+
+
+/* Basic Shot Info */
+
+"basic_shot_info_name_basicShot" = "القذيفة الأساسية";
+"basic_shot_info_name_acidGreen" = "أسيد جرين";
+"basic_shot_info_name_lightning" = "لايتنينج بولت";
+"basic_shot_info_name_majorLazer" = "ميجور ليزر";
+"basic_shot_info_name_sonicBoom" = "سونيك بوم";
+"basic_shot_info_name_snot" = "أسيد سبلاش";
+"basic_shot_info_name_sparkleBlade" = "سبارك بليد";
+"basic_shot_info_name_pinkerton" = "فقاعة انفجار ";
+"basic_shot_info_name_blueBird" = "بلو بيرد";
+"basic_shot_info_name_violentRed" = "الصاروخ الأحمر ";
+"basic_shot_info_name_mellowYellow" = "الأصفر اليانع ";
+"basic_shot_info_name_royalPurple" = "الطاقة الأرجوانية ";
+"basic_shot_info_name_oranges" = "المنبه البرتقالي";
+"basic_shot_info_name_tealBerry" = "بيري الأزرق";
+
+/* End Basic Shot Info */
+
+
+/* Character Names */
+
+"char_eli_name" = "إيلاي شين";
+
+/* End Character Names */
+
+
+/* Destructible Character Names */
+
+"char_dummy_name" = "دومي";
+"char_ghoulstation_name" = "محطة الغيلان";
+"char_trixiecage_name" = "قفص تريكسي";
+"char_door_name" = "";
+
+/* End Destructible Character Names */
+
+
+/* Opponent Names */
+
+"char_arclight_name" = "شوكواير";
+"char_guardbig1_name" = "مستر أورانجو";
+"char_bigguard3_name" = "هان ديل بار";
+"char_billy_name" = "بيللي";
+"char_blakk_name" = "د. بلاك";
+"char_cajun_name" = "جاكوس";
+"char_fav_name" = "فاف";
+"char_fire_name" = "فليم";
+"char_frost_name" = "فروست";
+"char_gabe_name" = "جيب";
+"char_glasses_name" = "جلاسيس";
+"char_goon2_name" = "لوك";
+"char_goon3_name" = "لود";
+"char_goon4_name" = "بون ذا جون";
+"char_goon_name" = "سيد ذا كيد";
+"char_guard_name" = "دلتا أوبيريتور";
+"char_jackbull_name" = "جون بول";
+"char_kingofsling_name" = "كينج أوف سلينغ";
+"char_kord_name" = "كورد";
+"char_marcus_name" = "ماركوس";
+"char_mrsaturday_name" = "مستر ساترداي";
+"char_munch_name" = "مونش";
+"char_nacho_name" = "ناشو";
+"char_pronto_name" = "برونتو";
+"char_robo2_name" = "دومبوت 2.0";
+"char_robo_name" = "دومبوت 1.0";
+"char_sedo_name" = "سيدو";
+"char_shadow_name" = "شادو كلان";
+"char_shorty_name" = "شورتي";
+"char_trixie_name" = "تريكسي";
+"char_turret_name" = "توريت";
+"char_mei_name" = "ماي";
+
+
+// Chapter 6
+"char_voodoo_name" = "هودو فودو";
+"char_zombieguard_name" = "زومبيد جارد";
+"char_securitygun_name" = "أوتو- كانون";
+"char_zombiechef_name" = "زومبيد شيف";
+"char_inmate_name" = "سنيتش";
+"char_inmate2_name" = "ديد- آي";
+"char_turtle_name" = "تورتليتون";
+"char_horn_name" = "مينوتاريوس";
+"char_spirex_name" = "سبريكس";
+"char_madmax_name" = "ماكس ذا ميدر";
+
+"char_angryblakk_name" = "أنجري د. بلاك";
+"char_dunno_name" = "آي آم إيرور";
+
+/* Chapter 7 */
+"char_guard_mech_name" = "أوميكرون سكوادرون";
+"char_boat_pirates_name" = "كارل آند تشارلي";
+"char_pirate1_name" = "ماتي نات";
+"char_pirate_girl_name" = "كابتن ريدلي";
+"char_shark_name" = "جانثر ذا شارك";
+"char_pirate2_name" = "أفاستير بلوم";
+"char_cannon_name" = "كانونير بو";
+"char_gator_name" = "جاتور";
+"char_fang_name" = "فانج";
+"char_watts_name" = "واتس";
+"char_drake_name" = "مالفوليو دراك";
+"char_eli_mech_name" = "إيلاي شين";
+
+/* Chapter 8*/
+"char_evileli_name" = "الاسم المستعار";
+"char_evilkord_name" = "جين ";
+"char_eviltrixie_name" = "ترابيس";
+"char_mechamole_name" = "ميكا مول";
+
+/* Chapter 9*/
+"char_will_name" ="ول شين ";
+"char_fakeduelist_name" = "المبارز المتجول";
+"char_shanai_name" = "ماستر التي لاتقهر";
+"char_twist_name" = "حيلة ";
+"char_young_blakk_name" = "يونج بلاك";
+"char_blakk_gat_name" = "د. بلاك";
+"char_master_name" = "ماستر التي لاتقهر";
+
+/* Chapter 10*/
+"char_scrapheepgang01_name" = " ستراجس";
+"char_scrapheepgang02_name" = "مونغو";
+"char_scrapheepgang03_name" = "والتر اللحام";
+"char_scrapheepgang04_name" = "ليل ستيفي ";
+"char_bossember_name" = "بوس إمبر ";
+"char_angrybossember_name" = "بوس إمبر الغاضب";
+
+/* Chapter 12*/
+"char_guard2_name" = "دلتا أوبيريتور";
+"char_darkbane_soldier1_name" = "داركبين مرغ";
+"char_darkbane_soldier2_name" = "داركبين دريك";
+"char_darkbane_soldier3_name" = "داركبين هارتاغ";
+"char_shadowclanleader_name" = "حامي كلان";
+"char_darkbane_soldier4_name" = "داركبين غروغ";
+"char_darkbane_soldier5_name" = "داركبين ستراغ";
+"char_darkbane_prison_guard_name" = "سجن واردن ";
+"char_darkbane_nacho_name" = "داركبين كابتن";
+
+/* Chapter 13*/
+"char_darkbane_soldier6_name" = "داركبين بلارغ";
+"char_darkbane_soldier_elite1_name" = "داركبين إيليت 1";
+"char_darkbane_soldier_elite2_name" = "داركبين إيليت 2";
+"char_behemoth_name" = "بيهيموث";
+"char_darkbanebrimstone_name" = "بريمستون";
+"char_angrynacho_name" = "ناشو غاضب";
+
+/* Chapter 15*/
+"char_hostile_miner_name" = "عامل مناجم غاضب";
+"char_foreman_name" = "رئيس العمّال";
+"char_viggo_minion1_name" = "الثقيل";
+"char_viggo_minion2_name" = "الفأر";
+"char_viggo_name" = "فيغو داير";
+"char_viggo1_name" = "الثقيل";
+"char_viggo2_name" = "الفأر";
+
+/* Chapter 16*/
+"char_titan_name" = "تيتان";
+"char_guard3_name" = "بوب غارد";
+
+/*Chapter 17*/
+"char_redhook_name" = "الخطاف الأحمر";
+"char_technician_name" = "التقني";
+
+/* End Opponent Names */
+
+
+
+/***** Game *****/
+
+/* Game Common */
+
+// score screen coin breakdown
+// the amount of coins earned per encounter is broken down into sections:
+// eg. "Victory   10 coins"
+//     "Badges     5 coins"
+//     "Bonus      5 coins"
+"game_coins_breakdown_victory" = "انتصار ";     // story
+"game_coins_breakdown_badges" = "شارات تميز";       // story, bonus
+"game_coins_breakdown_achievements" = "إنجازات"; // story
+"game_coins_breakdown_bonus" = "سوف تحصل على ";         // endless
+"game_coins_breakdown_base" = "قاعدة ";           // treasure
+"game_coins_breakdown_damage" = "دمار";       // treasure
+"game_coins_breakdown_destroy" = "تحطيم ";     // treasure
+"game_coins_breakdown_total" = "الأجمالي ";         // الأجمالي 
+
+/* End Game Common */
+
+
+
+/* Tutorials */
+
+"game_tutorial_tip_match" = "مباراة "; // displayed on a tip box, informing the player to match some number of tiles
+"game_tutorial_tip_move_1" = "حرك بلاطة واحدة!"; // tip telling the player to move 1 tile
+"game_tutorial_tip_move_n" = "حرك %i بلاطات!"; // tip telling player to move more than 1 tile.
+"game_tutorial_tip_survive" = "للنجاة!";
+
+/* End Tutorials */
+
+
+
+/* Treasure Game */
+
+//"game_treasure_times_up" = "Time's Up!";
+//"game_treasure_well_done" = "Well Done!";
+
+/* End Treasure Game */
+
+/***** Local Push Notification *****/
+//Haven't logged in for 1 week: 500 coins
+"log_in_1_week" = "السلغز الخاصة بك لديها هدية لك! سجِّل الدخول لتحصل على عملات مجانية!!!";
+//Haven't logged in for 1 week: 800 coins
+"log_in_2_week" = "السلغز الخاصة بك لديها هدية لك! سجِّل الدخول لتحصل على عملات مجانية!!!";
+//Haven't logged in for 1 week: 1500 coins
+"log_in_1_month" = "السلغز الخاصة بك لديها هدية لك! سجِّل الدخول لتحصل على عملات مجانية!!!";
+//Haven't logged in for 1 week: 3000 coins
+"log_in_2_month" = "السلغز الخاصة بك لديها هدية لك! سجِّل الدخول لتحصل على عملات مجانية!!!";
+//Haven't logged in for 1 week: 5000 coins
+"log_in_6_month" = "السلغز الخاصة بك لديها هدية لك! سجِّل الدخول لتحصل على عملات مجانية!!!";
+
+"localpush_reward_popup" = "السلغز الخاصة بك لديها هدية لك!";
+"localpush_reward_coins" = "عملات";
+
+/***** Daily Gifts Notification *****/
+"daily_challenges_now" = "التحديات اليومية متاحة الآن! العب لتحصل على فرصة الفوز بسلغز مجانية!";
+"daily_gift_coins" = "الهدية اليومية متاحة الآن! سجِّل الدخول لتحصل على عملات مجانية!";
+"daily_gift_boosters" = "الهدية اليومية متاحة الآن! سجِّل الدخول لتحصل على محفز مجاني!";
+"daily_gift_blaster_damage" = "الهدية اليومية متاحة الآن! سجِّل الدخول لتحصل على محفِّز تدمير ناسف مجاني!";
+"daily_gift_blaster_speed" = "الهدية اليومية متاحة الآن! سجِّل الدخول لتحصل على محفِّز سرعة ناسف مجاني!";
+"daily_gift_auto_charger" = "الهدية اليومية متاحة الآن! سجِّل الدخول لتحصل على شاحن آلي مجاني للسلغز!";
+"daily_gift_pre_igniter" = "السلغز الخاصة بك لديها هدية لك! سجِّل الدخول لتحصل على مُشعِل مسبق مجاني!!!";
+"slug_gift_coins" = "السلغز الخاصة بك لديها هدية لك! سجِّل الدخول لتحصل على عملات مجانية!!!";
+
+/***** Video Ad Confirmation Box *****/
+"video_ad_title" = "";
+"video_ad_description" = "مشاهدة فيديو للحصول على عملات معدنية إضافية؟";
+"video_ad_watch_button" = "نعم";
+"video_ad_thank_you" = "تهانينا! لقد فزت";
+"video_ad_150_coins" = "شاهد فيديو لتحصل على 150 عملة مجانية!";
+"video_ad_200_coins" = "شاهد فيديو لتحصل على 200عملة مجانية!";
+
+/***** SlugSeeker *****/
+
+"name_cavern_slug_seeker_name" = "الباحث عن السلغز";
+
+/* Cavern 1 */
+"cv_cavern1_name" = "Herringbone Cavern";
+"cv_cavern1_subtitle" = "";
+
+//Encounter 1
+"enc_cv1e1_title" = "المواجهة 1";
+
+//Encounter 2
+"enc_cv1e2_title" = "المواجهة 2";
+
+//Encounter 3
+"enc_cv1e3_title" = "المواجهة 3";
+
+//Encounter 4
+"enc_cv1e4_title" = "المواجهة 4";
+
+//Encounter 5
+"enc_cv1e5_title" = "جولة المكافأة";
+
+//Encounter 6
+"enc_cv1e6_title" = "المواجهة 6";
+
+//Encounter 7
+"enc_cv1e7_title" = "المواجهة 7";
+
+//Encounter 8
+"enc_cv1e8_title" = "المواجهة 8";
+
+//Encounter 9
+"enc_cv1e9_title" = "المواجهة 9";
+
+//Encounter 10
+"enc_cv1e10_title" = "جولة المكافأة";
+
+//Encounter 11
+"enc_cv1e11_title" = "المواجهة 11";
+
+//Encounter 12
+"enc_cv1e12_title" = "المواجهة 12";
+
+//Encounter 13
+"enc_cv1e13_title" = "المواجهة 13";
+
+//Encounter 14
+"enc_cv1e14_title" = "المواجهة 14";
+
+//Encounter 15
+"enc_cv1e15_title" = "جولة المكافأة";
+
+/* End Cavern 1 */
+
+/* Cavern 2 */
+"cv_cavern2_name" = "المحيط الخارجي المظلم";
+"cv_cavern2_subtitle" = "";
+
+//Encounter 1
+"enc_cv2e1_title" = "المواجهة 1";
+
+//Encounter 2
+"enc_cv2e2_title" = "المواجهة 2";
+
+//Encounter 3
+"enc_cv2e3_title" = "المواجهة 3";
+
+//Encounter 4
+"enc_cv2e4_title" = "المواجهة 4";
+
+//Encounter 5
+"enc_cv2e5_title" = "جولة المكافأة";
+
+//Encounter 6
+"enc_cv2e6_title" = "المواجهة 6";
+
+//Encounter 7
+"enc_cv2e7_title" = "المواجهة 7";
+
+//Encounter 8
+"enc_cv2e8_title" = "المواجهة 8";
+
+//Encounter 9
+"enc_cv2e9_title" = "المواجهة 9";
+
+//Encounter 10
+"enc_cv2e10_title" = "جولة المكافأة";
+
+//Encounter 11
+"enc_cv2e11_title" = "المواجهة 11";
+
+//Encounter 12
+"enc_cv2e12_title" = "المواجهة 12";
+
+//Encounter 13
+"enc_cv2e13_title" = "المواجهة 13";
+
+//Encounter 14
+"enc_cv2e14_title" = "المواجهة 14";
+
+//Encounter 15
+"enc_cv2e15_title" = "جولة المكافأة";
+
+/* End Cavern 2 */
+
+/* Cavern 3 */
+"cv_cavern3_name" = "الكهوف";
+"cv_cavern3_subtitle" = "";
+
+//Encounter 1
+"enc_cv3e1_title" = "المواجهة 1";
+
+//Encounter 2
+"enc_cv3e2_title" = "المواجهة 2";
+
+//Encounter 3
+"enc_cv3e3_title" = "المواجهة 3";
+
+//Encounter 4
+"enc_cv3e4_title" = "المواجهة 4";
+
+//Encounter 5
+"enc_cv3e5_title" = "جولة المكافأة";
+
+//Encounter 6
+"enc_cv3e6_title" = "المواجهة 6";
+
+//Encounter 7
+"enc_cv3e7_title" = "المواجهة 7";
+
+//Encounter 8
+"enc_cv3e8_title" = "المواجهة 8";
+
+//Encounter 9
+"enc_cv3e9_title" = "المواجهة 9";
+
+//Encounter 10
+"enc_cv3e10_title" = "جولة المكافأة";
+
+//Encounter 11
+"enc_cv3e11_title" = "المواجهة 11";
+
+//Encounter 12
+"enc_cv3e12_title" = "المواجهة 12";
+
+//Encounter 13
+"enc_cv3e13_title" = "المواجهة 13";
+
+//Encounter 14
+"enc_cv3e14_title" = "المواجهة 14";
+
+//Encounter 15
+"enc_cv3e15_title" = "جولة المكافأة";
+
+/* End Cavern 3 */
+
+/* Cavern 4 */
+"cv_cavern4_name" = "سلغماس سنودانس";
+"cv_cavern4_subtitle" = "";
+
+//Encounter 1
+"enc_cv4e1_title" = "المواجهة 1";
+
+//Encounter 2
+"enc_cv4e2_title" = "المواجهة 2";
+
+//Encounter 3
+"enc_cv4e3_title" = "المواجهة 3";
+
+//Encounter 4
+"enc_cv4e4_title" = "المواجهة 4";
+
+//Encounter 5
+"enc_cv4e5_title" = "جولة المكافأة";
+
+//Encounter 6
+"enc_cv4e6_title" = "المواجهة 6";
+
+//Encounter 7
+"enc_cv4e7_title" = "المواجهة 7";
+
+//Encounter 8
+"enc_cv4e8_title" = "المواجهة 8";
+
+//Encounter 9
+"enc_cv4e9_title" = "المواجهة 9";
+
+//Encounter 10
+"enc_cv4e10_title" = "جولة المكافأة";
+
+//Encounter 11
+"enc_cv4e11_title" = "المواجهة 11";
+
+//Encounter 12
+"enc_cv4e12_title" = "المواجهة 12";
+
+//Encounter 13
+"enc_cv4e13_title" = "المواجهة 13";
+
+//Encounter 14
+"enc_cv4e14_title" = "المواجهة 14";
+
+//Encounter 15
+"enc_cv4e15_title" = "جولة المكافأة";
+
+/* End Cavern 4 */
+
+
+/* Cavern 5 */
+"cv_cavern5_name" = "دوجانغ غروتو";
+"cv_cavern5_subtitle" = "";
+
+//Encounter 1
+"enc_cv5e1_title" = "المواجهة 1";
+
+//Encounter 2
+"enc_cv5e2_title" = "المواجهة 2";
+
+//Encounter 3
+"enc_cv5e3_title" = "المواجهة 3";
+
+//Encounter 4
+"enc_cv5e4_title" = "المواجهة 4";
+
+//Encounter 5
+"enc_cv5e5_title" = "جولة المكافأة";
+
+//Encounter 6
+"enc_cv5e6_title" = "المواجهة 6";
+
+//Encounter 7
+"enc_cv5e7_title" = "المواجهة 7";
+
+//Encounter 8
+"enc_cv5e8_title" = "المواجهة 8";
+
+//Encounter 9
+"enc_cv5e9_title" = "المواجهة 9";
+
+//Encounter 10
+"enc_cv5e10_title" = "جولة المكافأة";
+
+//Encounter 11
+"enc_cv5e11_title" = "المواجهة 11";
+
+//Encounter 12
+"enc_cv5e12_title" = "المواجهة 12";
+
+//Encounter 13
+"enc_cv5e13_title" = "المواجهة 13";
+
+//Encounter 14
+"enc_cv5e14_title" = "المواجهة 14";
+
+//Encounter 15
+"enc_cv5e15_title" = "جولة المكافأة";
+
+/* End Cavern 5 */
+
+/* Cavern 6 */
+"cv_cavern6_name" = "كهف الجراثيم المتوحشة";
+"cv_cavern6_subtitle" = "";
+
+//Encounter 1
+"enc_cv6e1_title" = "المواجهة 1";
+
+//Encounter 2
+"enc_cv6e2_title" = "المواجهة 2";
+
+//Encounter 3
+"enc_cv6e3_title" = "المواجهة 3";
+
+//Encounter 4
+"enc_cv6e4_title" = "المواجهة 4";
+
+//Encounter 5
+"enc_cv6e5_title" = "جولة المكافأة";
+
+//Encounter 6
+"enc_cv6e6_title" = "المواجهة 6";
+
+//Encounter 7
+"enc_cv6e7_title" = "المواجهة 7";
+
+//Encounter 8
+"enc_cv6e8_title" = "المواجهة 8";
+
+//Encounter 9
+"enc_cv6e9_title" = "المواجهة 9";
+
+//Encounter 10
+"enc_cv6e10_title" = "جولة المكافأة";
+
+//Encounter 11
+"enc_cv6e11_title" = "المواجهة 11";
+
+//Encounter 12
+"enc_cv6e12_title" = "المواجهة 12";
+
+//Encounter 13
+"enc_cv6e13_title" = "المواجهة 13";
+
+//Encounter 14
+"enc_cv6e14_title" = "المواجهة 14";
+
+//Encounter 15
+"enc_cv6e15_title" = "جولة المكافأة";
+
+/* End Cavern 6 */
+
+/* Cavern 7 */
+"cv_cavern7_name" = "التيار السفلي";
+"cv_cavern7_subtitle" = "";
+
+//Encounter 1
+"enc_cv7e1_title" = "المواجهة 1";
+
+//Encounter 2
+"enc_cv7e2_title" = "المواجهة 2";
+
+//Encounter 3
+"enc_cv7e3_title" = "المواجهة 3";
+
+//Encounter 4
+"enc_cv7e4_title" = "المواجهة 4";
+
+//Encounter 5
+"enc_cv7e5_title" = "جولة المكافأة";
+
+//Encounter 6
+"enc_cv7e6_title" = "المواجهة 6";
+
+//Encounter 7
+"enc_cv7e7_title" = "المواجهة 7";
+
+//Encounter 8
+"enc_cv7e8_title" = "المواجهة 8";
+
+//Encounter 9
+"enc_cv7e9_title" = "المواجهة 9";
+
+//Encounter 10
+"enc_cv7e10_title" = "جولة المكافأة";
+
+//Encounter 11
+"enc_cv7e11_title" = "المواجهة 11";
+
+//Encounter 12
+"enc_cv7e12_title" = "المواجهة 12";
+
+//Encounter 13
+"enc_cv7e13_title" = "المواجهة 13";
+
+//Encounter 14
+"enc_cv7e14_title" = "المواجهة 14";
+
+//Encounter 15
+"enc_cv7e15_title" = "جولة المكافأة";
+
+/* End Cavern 7 */
+
+
+
+/***** Story *****/
+
+/* Treasure Chapter */
+
+//"ch_treasure_name" = "Treasure";
+//"ch_treasure_subtitle" = "";
+
+// encounters
+//"enc_treasure_large_title" = "Treasure Chamber";
+//"enc_treasure_small_title" = "Treasure Den";
+
+/* End Treasure Chapter */
+
+/* Chapter 1 */
+"ch_chapter1_name" = "الفصل الأول";
+"ch_chapter1_subtitle" = "تدريب";
+
+//Encounter 1
+"enc_c1e1_title" = "وحش الكهف";
+
+//Encounter 2
+"enc_c1e2_title" = "هيلين";
+
+//Encounter 3
+"enc_c1e3_title" = "مطلق سلغ";
+
+//Encounter 4
+"enc_c1e4_title" = "الرائع 'برونتو' ";
+
+/* End Chapter 1 */
+
+
+
+/* Chapter 2 */
+
+"ch_chapter2_name" = "الفصل الثاني ";
+"ch_chapter2_subtitle" = "المسابقة";
+
+//Encounter 1
+"enc_c2e1_title" = "الجولة الأولى";
+
+//Encounter 2
+"enc_c2e2_title" = "البرد أو الانفلونزة";
+
+//Encounter 3
+"enc_c2e3_title" = "الأضواء...شغل الكاميرا...ابدأ";
+
+//Encounter 4
+"enc_c2e4_title" = "عمود البرق";
+
+//Encounter 5
+"enc_c2e5_title" = "المهرجون والملوك";
+
+//Encounter 6
+"enc_c2e6_title" = "الدور ربع النهائي";
+
+//Encounter 7
+"enc_c2e7_title" = "النسخة الثالثة";
+
+
+
+//Encounter 8
+"enc_c2e8_title" = "تحذير!";
+
+//Encounter 9
+"enc_c2e9_title" = "جولة المكافأة";
+
+//Encounter 10
+"enc_c2e10_title" = "فاصل";
+
+//Encounter 11
+"enc_c2e11_title" = "الثور ";
+
+/* End Chapter 2 */
+
+
+
+/* Chapter 3 */
+"ch_chapter3_name" = "الفصل الثالث ";
+"ch_chapter3_subtitle" = "الهوليغانغ";
+
+//Encounter 1
+"enc_c3e1_title" = "مخطوف";
+
+//Encounter 2
+"enc_c3e2_title" = "ألم الخاسرين";
+
+
+
+//Encounter 3
+"enc_c3e3_title" = "داستي جولش";
+
+//Encounter 4
+"enc_c3e4_title" = "عميل مرتزق";
+
+//Encounter 5
+"enc_c3e5_title" = "اختلاط الأمر على الخلد";
+
+//Encounter 6
+"enc_c3e6_title" = "إلى المملكة";
+
+//Encounter 7
+"enc_c3e7_title" = "غلاسيس المحطم";
+
+//Encounter 8
+"enc_c3e8_title" = "التحضيرات";
+
+//Encounter 9
+"enc_c3e9_title" = "الهوليغانغ";
+
+
+
+//Encounter 10
+"enc_c3e10_title" = "جولة المكافأة";
+
+//Encounter 11
+"enc_c3e11_title" = "سلسلة القيادة";
+
+
+/* End Chapter 3 */
+
+
+
+/* Chapter 4 */
+
+"ch_chapter4_name" = "الفصل الرابع";
+"ch_chapter4_subtitle" = "من خلال اللهب!";
+
+//Encounter 1
+"enc_c4e1_title" = "شادو كلان";
+
+//Encounter 2
+"enc_c4e2_title" = "مباراة العودة";
+
+//Encounter 3
+"enc_c4e3_title" = "وقت البرجر!";
+
+//Encounter 4
+"enc_c4e4_title" = "دومبوت 1.0";
+
+//Encounter 5
+"enc_c4e5_title" = "حفرة الحمم";
+
+//Encounter 6
+"enc_c4e6_title" = "فايرباور";
+
+//Encounter 7
+"enc_c4e7_title" = "الحاجز";
+
+//Encounter 8
+"enc_c4e8_title" = "ظلال المياه الداكنة!";
+
+//Encounter 9
+"enc_c4e9_title" = "يوم الحزن";
+
+//Encounter 10
+"enc_c4e10_title" = "اليد اليمنى";
+
+//Encounter 11
+"enc_c4e11_title" = "جولة المكافأة";
+
+/* End Chapter 4 */
+
+
+
+/* Chapter 5 */
+
+"ch_chapter5_name" = "الفصل الخامس";
+"ch_chapter5_subtitle" = "مياه د. بلاك";
+
+//Encounter 1
+"enc_c5e1_title" = "لمسة الشفاء";
+
+//Encounter 2
+"enc_c5e2_title" = "المزايد الأعلى";
+
+//Encounter 3
+"enc_c5e3_title" = "الصراع الأزلي";
+
+//Encounter 4
+"enc_c5e4_title" = "جديد ومعدّل";
+
+//Encounter 5
+"enc_c5e5_title" = "حراسة وتحذير";
+
+//Encounter 6
+"enc_c5e6_title" = "أمن العصابات";
+
+
+
+//Encounter 7
+"enc_c5e7_title" = "كرانشن مانش";
+
+//Encounter 8
+"enc_c5e8_title" = "لوك و 'كي'";
+
+
+//Encounter 9
+"enc_c5e9_title" = "الوحوش";
+
+//Encounter 10
+"enc_c5e10_title" = "فقدان الوعي";
+
+
+/* End Chapter 5 */
+
+
+
+/* Chapter 6 */
+
+"ch_chapter6_name" = "الفصل السادس ";
+"ch_chapter6_subtitle" = "يوم المحاكمة";
+
+//Encounter 1
+"enc_c6e1_title" = "خداع";
+
+//Encounter 2
+"enc_c6e2_title" = "جولة المكافأة";
+
+//Encounter 3
+"enc_c6e3_title" = "الهرب من السجن";
+
+//Encounter 4
+"enc_c6e4_title" = "خرق أمني";
+
+//Encounter 5
+"enc_c6e5_title" = "الغداء";
+
+//Encounter 6
+"enc_c6e6_title" = "رد فعل عنيف";
+
+//Encounter 7
+"enc_c6e7_title" = "انتقام";
+
+//Encounter 8
+"enc_c6e8_title" = "هيئة المخلوق";
+
+
+
+//Encounter 9
+"enc_c6e9_title" = "جنون";
+
+//Encounter 10
+"enc_c6e10_title" = "محاكمة النار";
+
+/* End Chapter 6 */
+
+/* Chapter 7 */
+
+"ch_chapter7_name" = "الفصل السابع ";
+"ch_chapter7_subtitle" = "سفن أهوي";
+
+//Encounter 1
+"enc_c7e1_title" = "الحُفَر";
+
+//Encounter 2
+"enc_c7e2_title" = "القراصنة!";
+
+//Encounter 3
+"enc_c7e3_title" = "الاقتراب من النصر";
+
+//Encounter 4
+"enc_c7e4_title" = "أعلى السارية";
+
+//Encounter 5
+"enc_c7e5_title" = "القائد الأول";
+
+//Encounter 6
+"enc_c7e6_title" = "أسماك القرش في المياه";
+
+//Encounter 7
+"enc_c7e7_title" = "المدفع";
+
+//Encounter 8
+"enc_c7e8_title" = "جولة المكافأة";
+
+//Encounter 9
+"enc_c7e9_title" = "الأحواض";
+
+//Encounter 10
+"enc_c7e10_title" = "كابتن 'مالفوليو دراك'";
+
+
+
+/* End Chapter 7 */
+
+/* Chapter 8 */
+
+"ch_chapter8_name" = "الفصل الثامن ";
+"ch_chapter8_subtitle" = "الملك الجديد ";
+
+//Encounter 1
+"enc_c8e1_title" = "الرسالة ";
+
+//Encounter 2
+"enc_c8e2_title" = "معلومات ";
+
+//Encounter 3
+"enc_c8e3_title" = "كابوم و كابلوم ";
+
+//Encounter 4
+"enc_c8e4_title" = "مملكة الخلد";
+
+//Encounter 5
+"enc_c8e5_title" = "جماعة الألم";
+
+//Encounter 6
+"enc_c8e6_title" = "محتال";
+
+//Encounter 7
+"enc_c8e7_title" = "هذا عار";
+
+//Encounter 8
+"enc_c8e8_title" = "جولة المكافأة";
+
+//Encounter 9
+"enc_c8e9_title" = "ملك في كل زاوية";
+
+//Encounter 10
+"enc_c8e10_title" = "طاقة الخِلد";
+
+/* End Chapter 8 */
+
+/* Chapter 9 */
+
+"ch_chapter9_name" = "الفصل التاسع ";
+"ch_chapter9_subtitle" = "لا يهزم";
+
+//Encounter 1 - The Trips
+"enc_c9e1_title" = "المتحدّون ثلاثة";
+
+//Encounter 2
+"enc_c9e2_title" = "جولة المكافأة";
+
+//Encounter 3 - Sid the Kid
+"enc_c9e3_title" = "غير مستحق";
+
+//Encounter 4 - King of Sling
+"enc_c9e4_title" = "ملك أم معلم";
+
+//Encounter 5 - Trixie
+"enc_c9e5_title" = "أصدقاء مثل هؤلاء";
+
+//Encounter 6 - Fake Duelist
+"enc_c9e6_title" = "الرجل الغامض";
+
+//Encounter 7 - Unbeatable Master
+"enc_c9e7_title" = "الاختبار";
+
+//Encounter 8 - Young Dr. Blakk
+"enc_c9e8_title" = "منذ وقت طويل";
+
+//Encounter 9 - Twist
+"enc_c9e9_title" = "متشابك ";
+
+//Encounter 10 - Dr. Blakk
+"enc_c9e10_title" = "بعد المعلم";
+
+/* End Chapter 9 */
+
+/* Chapter 10 */
+
+"ch_chapter10_name" = "الفصل العاشر";
+"ch_chapter10_subtitle" = "ديب ستوريج";
+
+//Encounter 1 - Broken Auto-Cannon
+"enc_c10e1_title" = "كومة خردة ";
+
+//Encounter 2 - Doombot 1.0 & Doombot 2.0
+"enc_c10e2_title" = "البوتس' يرد الضربة";
+
+//Encounter 3 - Mecha-Mole
+"enc_c10e3_title" = "الوحش الميكانيكي";
+
+//Encounter 4 - Tough Guy Gang Member #1 -
+"enc_c10e4_title" = "عصابة";
+
+//Encounter 5 - Tough Guy Gang Member #2 - Welder
+"enc_c10e5_title" = "الأراضي المعادية";
+
+//Encounter 6 - Tough Guy Gang Member #3 - Neckbrace
+"enc_c10e6_title" = "سعر الخردة";
+
+//Encounter 7 - Tough Guy Gang Member #4 - Troll
+"enc_c10e7_title" = "شخص صارم ";
+
+//Encounter 8 - Boss Ember
+"enc_c10e8_title" = "الزعيم الكبير";
+
+//Encounter 9
+"enc_c10e9_title" = "جولة المكافأة";
+
+//Encounter 10 - Angry Boss Ember
+"enc_c10e10_title" = "الزعيم الأكبر";
+
+/* End Chapter 10 */
+
+/* Chapter 11 */
+
+"ch_chapter11_name" = "الفصل 11";
+"ch_chapter11_subtitle" = "مشاكسو الحزام الصدئ";
+
+//Encounter 1 - Glasses
+"enc_c11e1_title" = "الفول السوداني!";
+
+//Encounter 2 - Shorty
+"enc_c11e2_title" = "مقطّع";
+
+//Encounter 3 - Billy
+"enc_c11e3_title" = "نظام بيلي الغذائي";
+
+//Encounter 4 - Jeen
+"enc_c11e4_title" = "رفع الأثقال";
+
+//Encounter 5 - Trapsie
+"enc_c11e5_title" = "محتجز";
+
+//Encounter 6 - Alias
+"enc_c11e6_title" = "الأكثر وسامة";
+
+//Encounter 7 - Welder Walter and Lil Stevie
+"enc_c11e7_title" = "السيرة الذاتية للشرير";
+
+//Encounter 8 - Mongo
+"enc_c11e8_title" = "التطوع";
+
+//Encounter 9 - Straggus
+"enc_c11e9_title" = "المصابيح المعتمة";
+
+//Encounter 10 - Billy, Alias and Straggus
+"enc_c11e10_title" = "قوة الصداقة";
+
+/* End Chapter 11 */
+
+/* Chapter 12 */
+
+"ch_chapter12_name" = "الفصل 12";
+"ch_chapter12_subtitle" = "الظلام العميق";
+
+//Encounter 1 - Blakk Soldier & John Bull
+"enc_c12e1_title" = "في مأزق";
+
+//Encounter 2 - Nacho
+"enc_c12e2_title" = "خائف من الارتفاعات";
+
+//Encounter 3 - Darkbane Soldier 1
+"enc_c12e3_title" = "كرات النار";
+
+//Encounter 4 - Darkbane Soldier 2
+"enc_c12e4_title" = "وررراووووور!";
+
+//Encounter 5 - Darkbane Soldier 3
+"enc_c12e5_title" = "المزيد من كرات النار!";
+
+//Encounter 6 - Shadow Clan Protector
+"enc_c12e6_title" = "الحُماة";
+
+//Encounter 7 - Prison Door
+"enc_c12e7_title" = "خيارات صعبة";
+
+//Encounter 8 - Prison Guards
+"enc_c12e8_title" = "أطلق الإنذار";
+
+//Encounter 9 - Prison Warden
+"enc_c12e9_title" = "أشعار السجن";
+
+//Encounter 10 - Darkbane Nacho
+"enc_c12e10_title" = "اليد اليمنى";
+
+/* End Chapter 12 */
+
+
+/* Chapter 13 */
+
+"ch_chapter13_name" = "الفصل الثالث عشر";
+"ch_chapter13_subtitle" = "النار وبريمستون";
+
+//Encounter 1 - Darkbane 1
+"enc_c13e1_title" = "في الظلام";
+
+//Encounter 2 - Darkbane 2
+"enc_c13e2_title" = "محاولات عن طريق كرات النار";
+
+//Encounter 3 - Darkbane 3
+"enc_c13e3_title" = "سباق التحدي";
+
+//Encounter 4 - Prison Warden
+"enc_c13e4_title" = "أسوأ قصيدة";
+
+//Encounter 5 - Bonus Round - Brimstone's Throne
+"enc_c13e5_title" = "جولة المكافأة";
+
+//Encounter 6 - Darkbane Elite 1 & 2
+"enc_c13e6_title" = "النخبة";
+
+//Encounter 7 - Darkbane Nacho
+"enc_c13e7_title" = "السحر الأسود";
+
+//Encounter 8 - Angry Nacho
+"enc_c13e8_title" = "أسرار";
+
+//Encounter 9 - Behemoth
+"enc_c13e9_title" = "عنيد";
+
+//Encounter 10 - Brimstone
+"enc_c13e10_title" = "القدر";
+
+/* End Chapter 13 */
+
+
+/* Chapter 14 */
+
+"ch_chapter14_name" = "الفصل 14";
+"ch_chapter14_subtitle" = "موجود في الأحلام";
+
+//Encounter 1 - Pronto, Kord and Trixie
+"enc_c14e1_title" = "وقت الشدة";
+
+//Encounter 2 - Dr.Blakk
+"enc_c14e2_title" = "فقدان الذاكرة";
+
+//Encounter 3 - Spirex
+"enc_c14e3_title" = "شبكات عنكبوتية";
+
+//Encounter 4 - Eli
+"enc_c14e4_title" = "وجهاً لوجه";
+
+//Encounter 5 - Young Blakk
+"enc_c14e5_title" = "انفجار من الماضي";
+
+//Encounter 6 - Behemoth
+"enc_c14e6_title" = "شخص ضخم";
+
+//Encounter 7 - Angry Blakk
+"enc_c14e7_title" = "انفعال انفعال";
+
+//Encounter 8 - Unbeatable Master
+"enc_c14e8_title" = "حكمة حقيقية";
+
+//Encounter 9 - Gat Blakk
+"enc_c14e9_title" = "هجوم بالمسدسات";
+
+//Encounter 10 - Will Shane
+"enc_c14e10_title" = "لمّ الشمل ";
+
+/* End Chapter 14 */
+
+/* Chapter 15 */
+
+"ch_chapter15_name" = "الفصل الخامس  عشر";
+"ch_chapter15_subtitle" = "العودة إلى بلاك";
+
+//Encounter 1 - Dr.Blakk
+"enc_c15e1_title" = "منذ أمد طويل";
+
+//Encounter 2 -
+"enc_c15e2_title" = "أوقات صعبة";
+
+//Encounter 3 -
+"enc_c15e3_title" = "إجراء وظيفي";
+
+//Encounter 4 -
+"enc_c15e4_title" = "اهتزاز لأسفل";
+
+//Encounter 5 - Will Shane
+"enc_c15e5_title" = "الجانب الخطأ";
+
+//Encounter 6 -
+"enc_c15e6_title" = "تولي زمام الأمور";
+
+//Encounter 7 - Will Shane
+"enc_c15e7_title" = "التقدم";
+
+//Encounter 8 - Behemoth
+"enc_c15e8_title" = "المعرفة السوداء";
+
+//Encounter 9 - Bonus
+"enc_c15e9_title" = "جولة المكافأة";
+
+//Encounter 10 - Will Shane
+"enc_c15e10_title" = "القدر";
+
+//Encounter 11 - Dr.Blakk
+"enc_c15e11_title" = "جزء من اللغز";
+
+/* End Chapter 15 */
+
+/* Chapter 16 */
+
+"ch_chapter16_name" = "الفصل 16";
+"ch_chapter16_subtitle" = "تقاطع الظلال";
+
+//Encounter 1 - Blakk Guard
+"enc_c16e1_title" = "قوات ألفا";
+
+//Encounter 2 - Doombot
+"enc_c16e2_title" = "إنسان المعركة الآلي";
+
+//Encounter 3 - Elite Blakk Guard
+"enc_c16e3_title" = "قوات دلتا";
+
+//Encounter 4 - Locke and Lode
+"enc_c16e4_title" = "عمليات هجوم خداعي";
+
+//Encounter 5 - Darkbane Hartag and Darkbane Drek
+"enc_c16e5_title" = "أصدقاء أعدائي";
+
+//Encounter 6 - Darkbane Prison Warden
+"enc_c16e6_title" = "نار متأججة";
+
+//Encounter 7 - Nacho
+"enc_c16e7_title" = "تحالفات";
+
+//Encounter 8 - Bonus
+"enc_c16e8_title" = "جولة المكافأة";
+
+//Encounter 9 - Titan
+"enc_c16e9_title" = "فتَّاحة العلب";
+
+//Encounter 10 - Nacho
+"enc_c16e10_title" = "جهِّز الطريق";
+
+/* End Chapter 16 */
+
+/* Chapter 17 */
+
+"ch_chapter17_name" = "الفصل 17";
+"ch_chapter17_subtitle" = "مظلم مثل الليل";
+
+//Encounter 1 - Red Hook
+"enc_c17e1_title" = "فايرباور";
+
+//Encounter 2 - Elite Blakk Guard
+"enc_c17e2_title" = "تحالفات جديدة";
+
+//Encounter 3 - Nacho
+"enc_c17e3_title" = "عميل الظلام";
+
+//Encounter 4 - Technician
+"enc_c17e4_title" = "الصمت المظلم";
+
+//Encounter 5 - Bonus
+"enc_c17e5_title" = "فساد جماعي";
+
+//Encounter 6 - Elite Blakk Guard
+"enc_c17e6_title" = "قلب القلعة";
+
+//Encounter 7 - Dr. Blakk
+"enc_c17e7_title" = "أصدقاء قدامى";
+
+//Encounter 8 - Darkbane
+"enc_c17e8_title" = "تفتح البوابة 1";
+
+//Encounter 8 - Darkbane
+"enc_c17e9_title" = "تفتح البوابة 2";
+
+//Encounter 9 - Dr. Blakk
+"enc_c17e10_title" = "مظلم مثل الليل";
+
+//Encounter 10 - Bonus
+"enc_c17e11_title" = "مضيء مثل النهار";
+
+/* End Chapter 17 */

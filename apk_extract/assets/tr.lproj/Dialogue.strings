@@ -1,0 +1,1156 @@
+/*
+ Dialogue.strings
+ slugpuzzle
+ 
+ Created by Dennis Leong on 2014-07-15.
+ 
+ */
+
+/* Cavern 1 */
+
+//Cavern 1
+"name_cavern1_name" = "Herringbone Cavern";
+//Encounter 1
+"enc_cv1e1o1_dialog_1a" = "Duyduğuma göre burada nadir Kamikaze sülükleri bulunabiliyormuş... ";
+//Encounter 2
+"enc_cv1e2o1_dialog_1a" = "Çekil buradan! Sülükler benimdir!";
+//Encounter 3
+"enc_cv1e3o1_dialog_1a" = "Duyduğuma göre burada nadir Kristalit sülükleri bulunabiliyormuş...";
+//Encounter 4
+"enc_cv1e4o1_dialog_1a" = "Tüm sülükler benimdir!";
+//Encounter 6
+"enc_cv1e6o1_dialog_1a" = "Nadir sülük benim!";
+//Encounter 7
+"enc_cv1e7o1_dialog_1a" = "Tüm sülükler benimdir!";
+//Encounter 8
+"enc_cv1e8o1_dialog_1a" = "Zafer benim!";
+//Encounter 9
+"enc_cv1e9o1_dialog_1a" = "Gücü hissedebiliyor musun?";
+//Encounter 11
+"enc_cv1e11o1_dialog_1a" = "Nadir sülük benim!";
+//Encounter 12
+"enc_cv1e12o1_dialog_1a" = "Zafer benim!";
+//Encounter 13
+"enc_cv1e13o1_dialog_1a" = "Tüm sülükler benimdir!";
+//Encounter 14
+"enc_cv1e14o1_dialog_1a" = "Hehe... Bir sülük buldum!";
+
+/* End Cavern 1 */
+
+/* Cavern 2 */
+
+//Cavern 2
+"name_cavern2_name" = "Karanlık Muhit";
+//Encounter 1
+"enc_cv2e1o1_dialog_1a" = "Duyduğuma göre burada nadir Hipnozcu sülükler bulunabiliyormuş...";
+//Encounter 2
+"enc_cv2e2o1_dialog_1a" = "Zafer benim!";
+//Encounter 3
+"enc_cv2e3o1_dialog_1a" = "Duyduğuma göre burada nadir Kaygan Gümüş sülükleri bulunabiliyormuş...";
+//Encounter 4
+"enc_cv2e4o1_dialog_1a" = "Gücü hissedebiliyor musun?";
+//Encounter 6
+"enc_cv2e6o1_dialog_1a" = "Nadir sülük benim!";
+//Encounter 7
+"enc_cv2e7o1_dialog_1a" = "Çekil buradan! Sülükler benimdir!";
+//Encounter 8
+"enc_cv2e8o1_dialog_1a" = "Zafer benim!";
+//Encounter 9
+"enc_cv2e9o1_dialog_1a" = "Senin gibiler için bir yer değil burası!";
+//Encounter 11
+"enc_cv2e11o1_dialog_1a" = "Zafer benim!";
+//Encounter 12
+"enc_cv2e12o1_dialog_1a" = "Tüm sülükler benimdir!";
+//Encounter 13
+"enc_cv2e13o1_dialog_1a" = "Senin gibiler için bir yer değil burası!";
+//Encounter 14
+"enc_cv2e14o1_dialog_1a" = "Burası kutsal bir yer! Buradan hemen git!";
+
+/* End Cavern 2 */
+
+/* Cavern 3 */
+
+//Cavern 3
+"name_cavern3_name" = "Deep Caverns";
+//Encounter 1
+"enc_cv3e1o1_dialog_1a" = "Derinlere hoş geldin... Burası öleceğin yer!";
+//Encounter 2
+"enc_cv3e2o1_dialog_1a" = "Nadir hortlak sülükler asla senin olmayacak!";
+//Encounter 3
+"enc_cv3e3o1_dialog_1a" = "Derin Mağaralar sana göre bir yer değil, Shane!";
+//Encounter 4
+"enc_cv3e4o1_dialog_1a" = "Gücümüzü hisset!";
+//Encounter 6
+"enc_cv3e6o1_dialog_1a" = "Yanacaksın, Shane!";
+//Encounter 7
+"enc_cv3e7o1_dialog_1a" = "Burada ne yapabileceğini sanıyorsun, Shane?!";
+//Encounter 8
+"enc_cv3e8o1_dialog_1a" = "Nadir hortlak sülükler asla senin olmayacak!";
+//Encounter 9
+"enc_cv3e9o1_dialog_1a" = "Gazabımın gücünü hisset!";
+//Encounter 11
+"enc_cv3e11o1_dialog_1a" = "Derin Mağaralar sana göre bir yer değil, Shane!";
+//Encounter 12
+"enc_cv3e12o1_dialog_1a" = "Tüm sülükler benimdir!";
+//Encounter 13
+"enc_cv3e13o1_dialog_1a" = "HIRRRRRRAAAAAARRRR!!!";
+//Encounter 14
+"enc_cv3e14o1_dialog_1a" = "Mekânıma hoş geldin... Şimdi gazabımın gücünü hisset!!!";
+
+/* End Cavern 3 */
+
+/* Cavern 4 */
+
+//Cavern 4
+"name_cavern4_name" = "Sülük Noeli Kar Dansı Mağarası";
+//Encounter 1
+"enc_cv4e1o1_dialog_1a" = "Duyduğuma göre burada nadir Siren sülükleri bulunabiliyormuş...";
+//Encounter 2
+"enc_cv4e2o1_dialog_1a" = "Mutlu Sülük Noeli, Eli!";
+//Encounter 3
+"enc_cv4e3o1_dialog_1a" = "Duyduğuma göre burada nadir Narvadel sülükleri bulunabiliyormuş...";
+//Encounter 4
+"enc_cv4e4o1_dialog_1a" = "Sülük Noeli için sülük kapışmasına hazır mısın, Shane?";
+//Encounter 6
+"enc_cv4e6o1_dialog_1a" = "Mutlu Sülük Noeli!";
+//Encounter 7
+"enc_cv4e7o1_dialog_1a" = "Sülük Noeli sülükşörlük ve eğlence içindir!";
+//Encounter 8
+"enc_cv4e8o1_dialog_1a" = "Sülük Noeli en sevdiğim bayram!";
+//Encounter 9
+"enc_cv4e9o1_dialog_1a" = "Sülük Noeli için sülük kapışmasına hazır mısın, Shane?";
+//Encounter 11
+"enc_cv4e11o1_dialog_1a" = "Mutlu Sülük Noeli, Eli!";
+//Encounter 12
+"enc_cv4e12o1_dialog_1a" = "Sülük Noeli sülükşörlük ve eğlence içindir!";
+//Encounter 13
+"enc_cv4e13o1_dialog_1a" = "Sülük Noeli için sülük kapışmasına hazır mısın, Shane?";
+//Encounter 14
+"enc_cv4e14o1_dialog_1a" = "Sülük Noeli sülükleri için bir sülük kapışması yapalım!";
+
+/* End Cavern 4 */
+
+/* Cavern 5 */
+
+//Cavern 5
+"name_cavern5_name" = "Dojang Grotto";
+//Encounter 1
+"enc_cv5e1o1_dialog_1a" = "Duyduğuma göre burada nadir Firenzar sülükleri bulabiliyormuşsun...";
+//Encounter 2
+"enc_cv5e2o1_dialog_1a" = "Hodri meydan, Shane!";
+//Encounter 3
+"enc_cv5e3o1_dialog_1a" = "Bu işin erbabı İri Yarı Adamlar! Tüm sülükleri biz alıyoruz!!!";
+//Encounter 4
+"enc_cv5e4o1_dialog_1a" = "Bu yere geri dönmeye cüret mi ediyorsun, Eli Shane!?";
+//Encounter 6
+"enc_cv5e6o1_dialog_1a" = "Duyduğuma göre burada nadir Firenzar sülükleri bulabiliyormuşsun...";
+//Encounter 7
+"enc_cv5e7o1_dialog_1a" = "Söylentiye göre burada efsanevi Midas sülüğünü yakalayabilirmişsin!!!";
+//Encounter 8
+"enc_cv5e8o1_dialog_1a" = "Bu işi son bir sülük kapışmasıyla karara bağlayalım, Shane.";
+//Encounter 9
+"enc_cv5e9o1_dialog_1a" = "Bu yer Yenilmez Usta'nın hatıraları ile dolu... Buradan hemen çıkın!!!";
+//Encounter 11
+"enc_cv5e11o1_dialog_1a" = "Ava katılmaya mı geldin, Shane?";
+//Encounter 12
+"enc_cv5e12o1_dialog_1a" = "Efsanevi Midas sülüğünün burada bulunabileceğini duydum!!!";
+//Encounter 13
+"enc_cv5e13o1_dialog_1a" = "Buradaki tüm sülükleri alıp... Hepsini hortlaklaştıracağım!!!";
+//Encounter 14
+"enc_cv5e14o1_dialog_1a" = "Usta Shanai'nin adına... Bu yeri rahat bırak!!!";
+
+/* End Cavern 5 */
+
+/* Cavern 6 */
+
+/*Cavern 6*/
+"name_cavern6_name" = "Yaban Sporlar Mağarası";
+//Encounter 1
+"enc_cv6e1o1_dialog_1a" = "Çık buradan, Shane!";
+//Encounter 2
+"enc_cv6e2o1_dialog_1a" = "00111100011000011110110101";
+//Encounter 3
+"enc_cv6e3o1_dialog_1a" = "Arkana dikkat et, Shane!";
+//Encounter 4
+"enc_cv6e4o1_dialog_1a" = "Bak Loki, birileri ziyaretimizi berbat etmeye gelmiş. Çık buradan, Eli!";
+//Encounter 6
+"enc_cv6e6o1_dialog_1a" = "Bu işi sülüklerle çözeceğiz, Eli Shane!";
+//Encounter 7
+"enc_cv6e7o1_dialog_1a" = "Bızzzz… Klink klank!";
+//Encounter 8
+"enc_cv6e8o1_dialog_1a" = "Buraya geleceğini biliyordum, Eli Shane!";
+//Encounter 9
+"enc_cv6e9o1_dialog_1a" = "Burası Loki'nin evi olan mağara! Sen buraya ait değilsin!!!";
+//Encounter 11
+"enc_cv6e11o1_dialog_1a" = "Sanırım bir Gıdık sülük gördüm!";
+//Encounter 12
+"enc_cv6e12o1_dialog_1a" = "Bu sefer seni haklayacağım!";
+//Encounter 13
+"enc_cv6e13o1_dialog_1a" = "İntikam benim olacak!!!";
+//Encounter 14
+"enc_cv6e14o1_dialog_1a" = "Haydutlar birbirlerini desteklemeli... tek ve büyük bir hortlaklar ailesi olarak!!!";
+
+/* End Cavern 6 */
+
+/* Cavern 7 */
+
+/*Cavern 7*/
+"name_cavern7_name" = "Akıntı Mağarası";
+//Encounter 1
+"enc_cv7e1o1_dialog_1a" = "Ne bakıyorsun?";
+//Encounter 2
+"enc_cv7e2o1_dialog_1a" = "Hazine benim!!! Ona sahip olamazsın!";
+//Encounter 3
+"enc_cv7e3o1_dialog_1a" = "Zafer Gator’un olacak!";
+//Encounter 4
+"enc_cv7e4o1_dialog_1a" = "Siz sülükşörler ne yapıyorsunuz öyle? Hortlak sülük... o benim! Kimseyle paylaşmam!";
+//Encounter 6
+"enc_cv7e6o1_dialog_1a" = "Gator mağlup olmuş olabilir, fakat zafer Turtleton'un olacak!";
+//Encounter 7
+"enc_cv7e7o1_dialog_1a" = "Bu hazineyi ben buldum... lamı cimi yok!";
+//Encounter 8
+"enc_cv7e8o1_dialog_1a" = "Gator bu sefer galip gelecek!!!";
+//Encounter 9
+"enc_cv7e9o1_dialog_1a" = "Haritaya göre Megadönüşen'in tam burada olması gerekiyor!";
+//Encounter 11
+"enc_cv7e11o1_dialog_1a" = "Poff!";
+//Encounter 12
+"enc_cv7e12o1_dialog_1a" = "O da neydi öyle? Daha önce gördüğüm hiçbir şeye benzemiyordu!";
+//Encounter 13
+"enc_cv7e13o1_dialog_1a" = "Gene mi sen? Elemental haritası bende... ve sen ona el süremezsin!";
+//Encounter 14
+"enc_cv7e14o1_dialog_1a" = "Elemental bir sülük gördüğümden gayet eminim!";
+
+/* End Cavern 7 */
+
+
+/* Chapter 1 */
+
+//Encounter 4
+"enc_c1e4o1_dialog_1a" = "Muhteşem Pronto antrenman diye yumuşak davranmaz! Bozguna uğramaya hazır ol!";
+"enc_c1e4o1_dialog_2a" = "Tamam...";
+"enc_c1e4o1_dialog_3a" = "Böylesine yetenekli bir sülükşörle birlikte çalışmak bir onur. Pronto sana en sevdiği sülük olan Kokuşuk’u ödünç verecek!";
+"enc_c1e4o1_dialog_4a" = "İyy... Yani, teşekkürler Pronto!";
+
+/* End Chapter 1 */
+
+/* Chapter 2 */
+
+
+//Encounter 1
+"enc_c2e1o1_dialog_1a" = "Şuna baksana Kundakçı, bu bizim ilk turnuvamız.";
+"enc_c2e1o1_dialog_2a" = "Beni yenmek için bir ateş sülüğünden daha fazlasına ihtiyacın olacak, çocuk!";
+"enc_c2e1o1_dialog_3a" = "Ben öylesine bir çocuk değilim, ben Eli Shane’im!";
+"enc_c2e1o1_dialog_4a" = "Bir çocuğa yenildiğime inanamıyorum.";
+
+//Encounter 2
+"enc_c2e2o1_dialog_1a" = "Buzul’um seni donduracak!";
+"enc_c2e2o1_dialog_2a" = "Bunu halledeceğiz Kundakçı!";
+"enc_c2e2o1_dialog_3a" = "Pes ediyorum! Sanırım bu, Buzul’umu yendiğin anlamına geliyor!";
+"enc_c2e2o1_dialog_4a" = "Hey küçük adam. Buzluk adı sana ne hissettiriyor?";
+
+//Encounter 3
+"enc_c2e3o1_dialog_1a" = "Merhaba! O video kamera ne için?";
+"enc_c2e3o1_dialog_2a" = "‘Trixie Sting: Eli Shane’i Yenen Kız’ adlı bir belgesel hazırlıyorum.";
+"enc_c2e3o1_dialog_3a" = "O adın üstünde biraz çalışılması gerek.";
+"enc_c2e3o1_dialog_4a" = "Güzel hareketlerin var! Shane Çetesi’ne katılmaya ne dersin?";
+"enc_c2e3o1_dialog_5a" = "Yeni Shane’le adalet için savaşmak mı? Bana uyar!";
+
+//Encounter 4
+"enc_c2e4o1_dialog_1a" = "Elektriği ne kadar iyi iletirsin, Eli Shane?";
+"enc_c2e4o1_dialog_2a" = "Neden soruyorsun?";
+"enc_c2e4o1_dialog_3a" = "ŞARJ!!!";
+"enc_c2e4o1_dialog_4a" = "Bence pillerini değiştirme zamanın geldi...";
+
+//Encounter 5
+"enc_c2e5o1_dialog_1a" = "Endişelenme, seni yendikten sonra imzamı almak için bol bol vaktin olacak!";
+"enc_c2e5o1_dialog_2a" = "İmkansız! Kimse Sülükşörler Kralı’nı alt edemez!";
+"enc_c2e5o1_dialog_3a" = "Belki de kendine sadece Sülükşörler Prensi demelisin.";
+
+//Encounter 6
+"enc_c2e6o1_dialog_1a" = "Selam Pronto! Nasılsın?";
+"enc_c2e6o1_dialog_2a" = "Arkadaşça sözlerle Pronto’nun dikkatini dağıtmaya çalışma!";
+
+//Encounter 7
+"enc_c2e7o1_dialog_1a" = "Bu raundu kesinlikle geçememen için üç iyi nedenimiz var.";
+"enc_c2e7o1_dialog_2a" = "Biri gitti...";
+
+"enc_c2e7o2_dialog_1a" = "Gerçekten adil dövüşmüyorsunuz!";
+"enc_c2e7o2_dialog_2a" = "Ben sadece iki kurala uyarım. Her karşılaşmayı kazan ve asla kaybetme.";
+
+"enc_c2e7o3_dialog_1a" = "Ve kaldı bir...";
+"enc_c2e7o3_dialog_2a" = "Hiç adil değil. Üçün uğurlu sayın olduğunu bize söylemedin";
+"enc_c2e7o3_dialog_3a" = "Başardık Kundakçı! Finallerdeyiz";
+"enc_c2e7o3_dialog_3b" = "Bunu başarabileceğimizi biliyordum!";
+
+//Encounter 8
+"enc_c2e8o1_dialog_1a" = "Selam Eli. Şu ana kadar harikaydın ama dikkatli ol.";
+"enc_c2e8o1_dialog_1b" = "Birisinin senin peşine düşmesi için bir adam tutuğuna dair söylentiler duydum.";
+"enc_c2e8o1_dialog_2a" = "Neden birisi benim peşime düşsün ki?";
+"enc_c2e8o1_dialog_3a" = "Slugterra’da babanı sevmeyenler de vardı. Birisi yeni bir Shane Çetesi görmek istemiyor olmalı!";
+"enc_c2e8o1_dialog_4a" = "Söylediklerimi unutma! Kendine dikkat et!";
+
+//Encounter 9
+
+//Encounter 10
+"enc_c2e10o1_dialog_1a" = "Korkarım turnuvanın son raundunda başarılı olamayacaksın Eli Shane.";
+"enc_c2e10o1_dialog_1b" = "Billy onca yıl hangi delikte saklandıysan oraya geri dönmeni söylüyor yoksa...";
+"enc_c2e10o1_dialog_2a" = "Bunu ödeyeceksin Shane.";
+"enc_c2e10o1_dialog_3a" = "Dur! Billy kim? Ve neden benim peşimde? Geri dön!";
+
+//Encounter 11
+"enc_c2e11o1_dialog_1a" = "Kendini hazırla. Patronum yoldan çekilmeni istiyor! Bu kişisel bir şey değil.";
+"enc_c2e11o1_dialog_2a" = "Sen de mi Billy için çalışıyorsun? O nerede?";
+"enc_c2e11o1_dialog_3a" = "Burasıyla ilgili öğrenmen gereken çok şey var Shane... Ve ben senin ilk öğretmenin olacağım.";
+"enc_c2e11o1_dialog_4a" = "Turnuvayı kazanmış olabilirsin ama karşına neyin çıkacağına dair hiçbir fikrin yok.";
+
+/* End Chapter 2 */
+
+
+
+/* Chapter 3 */
+
+//Encounter 1
+"enc_c3e1o1_dialog_1a" = "Neden Trixie’yi götürüyorsunuz!?";
+"enc_c3e1o1_dialog_2a" = "Yanlış zamanda yanlış yerdeydi. Şimdi geri çekil yoksa aynı şeyi sana da yaparız.";
+"enc_c3e1o1_dialog_3a" = "Düşündüğümden iyisin. Ama yine de çok geç kaldın. Geri çekil!";
+
+//Encounter 2
+"enc_c3e2o1_dialog_1a" = "Eli Shane! Bizi aptal gibi gösterdin! Ateşle oynarsan yanarsın!";
+
+"enc_c3e2o2_dialog_1a" = "Don!";
+"enc_c3e2o2_dialog_2a" = "Ne zaman bırakılacağını bilmiyor musun?";
+
+"enc_c3e2o3_dialog_1a" = "Seni dürüstçe yendim! Aş bunu artık!";
+"enc_c3e2o3_dialog_2a" = "Sen BUNU aş!";
+"enc_c3e2o3_dialog_3a" = "Bu iş bitmedi!";
+
+//Encounter 3
+"enc_c3e3o1_dialog_1a" = "Billy, seni burada durdurursam kendimi affettirebileceğimi söylüyor.";
+"enc_c3e3o1_dialog_1b" = "Sonra da belki Holigan Çetesi’nin Gizli Evi’nde vakit geçirmeme izin verir.";
+"enc_c3e3o1_dialog_2a" = "Of dostum. Artık hayatta Holigan Çetesi’ne giremem.";
+
+//Encounter 4
+"enc_c3e4o1_dialog_1a" = "Oh, harika. Billy’nin adamlarından biri daha.";
+"enc_c3e4o1_dialog_2a" = "Ben Billy için çalışmıyorum! Benim çalıştığım kişi Doktor... Kimin için çalıştığımı boş ver.";
+"enc_c3e4o1_dialog_2b" = "Bir dakika içinde senin icabına baktığımda bunun bir önemi olmayacak.";
+"enc_c3e4o1_dialog_3a" = "O-oo. Patron bundan hiç hoşlanmayacak.";
+
+//Encounter 5
+"enc_c3e5o1_dialog_1a" = "Billy bir dövüşü kazanmayı becerememiş galiba, bu yüzden seni yok etmek için beni çağırdılar, yani Muhteşem Sedo’yu!";
+"enc_c3e5o1_dialog_2a" = "Bir dahaki karşılaşmamızda Sedo bu kadar sevecen olmayacak!";
+
+//Encounter 6
+"enc_c3e6o1_dialog_1a" = "Sülükşörler Kralı? Burada ne işin var?";
+"enc_c3e6o1_dialog_2a" = "Seni arıyordum! Ünvanımı geri almalıyım!";
+"enc_c3e6o1_dialog_3a" = "Bir gün tahtımı senden geri alacağım, Eli Shane.";
+
+//Encounter 7
+"enc_c3e7o1_dialog_1a" = "Ahh! Sen nereden çıktın?";
+"enc_c3e7o1_dialog_2a" = "Trixie’ye ne yaptınız?";
+"enc_c3e7o1_dialog_3a" = "Beni rahat bırak! Ben hiçbir şey bilmiyorum.";
+"enc_c3e7o1_dialog_4a" = "Trixie nerede?";
+"enc_c3e7o1_dialog_5a" = "Şey... Gizli Ev’de değil, bu yüzden oraya gitme.";
+
+//Encounter 8
+"enc_c3e8o1_dialog_1a" = "Selam Eli! Holigan Çetesi’yle kapışmadan önce seninle biraz antrenman yapmalıyız. Onlar oldukça iyi sülükşörlerdir.";
+"enc_c3e8o1_dialog_2a" = "Tamam Kord! Ama bana yumuşak davranma. Son karşılaşmamızdan çok daha güçlü durumdayım.";
+"enc_c3e8o1_dialog_3a" = "Off. Şaka yapmıyormuşsun. Holigan Çetesi başına gelecekleri bilmiyor.";
+"enc_c3e8o1_dialog_4a" = "Hadi bitirelim işlerini!";
+
+//Encounter 9
+"enc_c3e9o1_dialog_1a" = "Yalnız çalışmıyorsun. Trixie’yi kimin için kaçırdın?";
+"enc_c3e9o1_dialog_2a" = "Ben kimse için çalışmıyorum! Oh, tabii Billy dışında... ve bir de Doktor Blakk... eyvah!";
+"enc_c3e9o1_dialog_3a" = "Doktor Blakk mi? O da kim?";
+"enc_c3e9o1_dialog_4a" = "Sana asla söylemem. Bitir işini Dörtgöz!";
+
+"enc_c3e9o2_dialog_1a" = "Sürpriz!";
+
+"enc_c3e9o3_dialog_1a" = "Sen de baban gibisin! İşimizi kurcalayan bir Shane’e ihtiyacımız yok bizim!";
+"enc_c3e9o3_dialog_2a" = "Bu iş bitmedi Eli Shane! Doktor Blakk güçlü bir adam ve o her zaman istediğini alır! Hadi gidelim buradan!";
+
+//Encounter 10
+
+//Encounter 11
+"enc_c3e11o1_dialog_1a" = "Bu sülüğe ne yaptın?";
+"enc_c3e11o1_dialog_2a" = "Doktor Blakk onu hortlaklaştırdı! Şimdi gerçek gücü hissedeceksin!";
+"enc_c3e11o1_dialog_3a" = "Sülükler her şeyin anahtarı! Bunu onlara nasıl yaparsınız?";
+"enc_c3e11o1_dialog_4a" = "Doktor Blakk tüm sülükleri hortlaşklaştıracak! Onu durduramazsın!";
+
+"enc_c3e11o2_dialog_1a" = "Sülükleri canavarlara dönüştürmenize seyirci kalmayacağım!";
+"enc_c3e11o2_dialog_2a" = "Çok geç çocuk! El Diablos Nacho şu anda Doktor Blakk için başka bir hortlak sevkiyatına hazırlanıyor!";
+"enc_c3e11o2_dialog_3a" = "Nerede bu sevkiyat?";
+"enc_c3e11o2_dialog_4a" = "Yakıcı Kıvılcımlar Mağarası’nda… ama Nacho seni daha yaklaşmadan havaya uçurur! Bom!";
+
+/* End Chapter 3 */
+
+
+
+/* Chapter 4 */
+
+
+//Encounter 1
+"enc_c4e1o1_dialog_1a" = "Neredeyiz Pronto? Burası Gölge Klanı’nın bölgesine benziyor...";
+"enc_c4e1o1_dialog_2a" = "Grrrrr!";
+"enc_c4e1o1_dialog_3a" = "Gölge Klanı’nın bölgesine benziyor çünkü ÖYLE!";
+"enc_c4e1o1_dialog_4a" = "Gidelim buradan!";
+
+//Encounter 2
+"enc_c4e2o1_dialog_1a" = "Hadi Kundakçı! Şu Nacho denen adamı bulmamız ve daha fazla sülüğü hortlaklaştırmadan onu durdurmamız gerek!";
+"enc_c4e2o1_dialog_2a" = "Eli Shane! Bu sevkiyata engel olmana izin veremem!";
+"enc_c4e2o1_dialog_3a" = "Seni hafife aldım! Bu bir daha olmayacak!";
+
+//Encounter 3
+"enc_c4e3o1_dialog_1a" = "Vay! Sen çok kocaman bir arkadaşsın!";
+"enc_c4e3o1_dialog_2a" = "Seninle işimi bitirdiğimde hamburger köftesi olacaksın.";
+"enc_c4e3o1_dialog_3a" = "Yanında patates kızartması da ister misin?";
+
+//Encounter 4
+"enc_c4e4o1_dialog_1a" = "000100100001001";
+"enc_c4e4o1_dialog_2a" = "Hey Doombot! İkilik sayı sisteminde konuşamıyorum ben!";
+"enc_c4e4o1_dialog_3a" = "000100100001001 == S.A.L.D.I.R.";
+"enc_c4e4o1_dialog_4a" = "Doombot bir sorunla karşılaştı ve kapanması gerekiyor. Verdiğimiz rahatsızlıktan dolayı özür dileriz.";
+
+//Encounter 5
+"enc_c4e5o1_dialog_1a" = "Doktor Blakk sevkiyatın korunmasına yardım edersem bana biraz hortlak sülük vereceğine dair söz verdi.";
+"enc_c4e5o1_dialog_2a" = "Doktor Blakk için çalışıyorsan seni durdurmak zorundayım.";
+"enc_c4e5o1_dialog_3a" = "Onu o kadar kolay bulamayacaksın çocuk. Hala imkanın varken geri dön.";
+
+//Encounter 6
+"enc_c4e6o1_dialog_1a" = "Bu de ses ne?";
+"enc_c4e6o1_dialog_2a" = "Piyuv piyuv piyuv";
+"enc_c4e6o1_dialog_3a" = "Bip bup bloo---";
+"enc_c4e6o1_dialog_4a" = "Fazla heyecanlanma...";
+
+//Encounter 7
+"enc_c4e7o1_dialog_1a" = "Herkes planı biliyor mu? Shane Çetesi bile bu buz duvarlarının arkasından bize ulaşamaz!";
+"enc_c4e7o1_dialog_2a" = "Asıl planın bu mu? Bir parça donmuş suyun arkasına saklanmak mı?";
+"enc_c4e7o1_dialog_3a" = "O burada! SALDIR!";
+"enc_c4e7o1_dialog_4a" = "Karga, Ayak, Çıngırak, Işık, Nisan!";
+"enc_c4e7o1_dialog_4b" = "Yani anlamı şu, KAÇIN!";
+
+//Encounter 8
+"enc_c4e8o1_dialog_1a" = "Göge Klanı’nın buralarda ne işi var?";
+"enc_c4e8o1_dialog_2a" = "Hırrrr!";
+"enc_c4e8o1_dialog_3a" = "Tamam. Az soru, çok sülükşörlük!";
+"enc_c4e8o1_dialog_4a" = "Umarım bu onları uzak tutar. Daha fazla dikkat çekmeden bu sevkiyatı çıkarmamız gerek.";
+
+//Encounter 9
+"enc_c4e9o1_dialog_1a" = "Bana Bay Cumartesi diyebilirsin...";
+"enc_c4e9o1_dialog_2a" = "Sana Blakk’in kuklalarından biri demeyi tercih ederim.";
+"enc_c4e9o1_dialog_3a" = "Bay Cumartesi kimsenin kuklası değil! Al bunu!";
+"enc_c4e9o1_dialog_4a" = "Bay Cumartesi destek güçleriyle birlikte geri dönecek.";
+"enc_c4e9o1_dialog_5a" = "Endişelenme Kundakçı! Neredeyse geldik!";
+
+//Encounter 10
+"enc_c4e10o1_dialog_1a" = "Buraya dalmanın bir işe yarayacağını mı düşündün?";
+"enc_c4e10o1_dialog_2a" = "Sen bir canavarsın. BİR DAHA başka bir sülüğü bozamayacaksın.";
+"enc_c4e10o1_dialog_3a" = "Haklısın. Ben bir canavarım ama sen de sadece bir çocuksun. Sence bu savaşı kim kazanır?";
+"enc_c4e10o1_dialog_4a" = "Hortlakların hazır Nacho.";
+"enc_c4e10o1_dialog_5a" = "Burası buna benzer onlarca merkezden sadece biri.";
+"enc_c4e10o1_dialog_5b" = "Karanlık Su rafinerisi tüm değerli sülüklerini hortlağa dönüştürecek! Başarısız oldun Shane.";
+"enc_c4e10o1_dialog_6a" = "Ne?! Hayır...";
+
+//Encounter 11
+
+/* End Chapter 4 */
+
+
+
+/* Chapter 5 */
+
+
+//Encounter 1
+"enc_c5e1o1_dialog_1a" = "Doktor Blakk sülüklerimi çok daha güçlü yaptı. Bu defa sana yenilmeyeceğim!";
+"enc_c5e1o1_dialog_2a" = "Blakk’in sülüklerini bozmasına izin verdin! Onları düzeltebilirim. Sadece yardım etmeme izin ver.";
+"enc_c5e1o1_dialog_3a" = "Bu mümkün değil! Hadi düello yapalım!";
+"enc_c5e1o1_dialog_4a" = "İşte! Artık sülüklerin normale döndü.";
+
+//Encounter 2
+"enc_c5e2o1_dialog_1a" = "Olamaz. Sedo! Artık sen de mi Blakk için çalışıyorsun?";
+"enc_c5e2o1_dialog_2a" = "Olağanüstü Sedo en iyi anlaşmayı sunan için çalışır. Daha iyi bir teklifin var mı?";
+"enc_c5e2o1_dialog_3a" = "...";
+"enc_c5e2o1_dialog_4a" = "Sedo da öyle düşünmüştü.";
+
+//Encounter 3
+"enc_c5e3o1_dialog_1a" = "Beni iki kere rezil ettin. Bir kez daha bunu yapmana izin vermeyeceğim.";
+"enc_c5e3o1_dialog_2a" = "Yanlış taraftasın John Bull. Bunu şimdiye kadar anlamadıysan hiçbir zaman anlamazsın.";
+"enc_c5e3o1_dialog_3a" = "Ben kazanan taraftayım Shane ve bunu kanıtlayacak sülüklerim var.";
+"enc_c5e3o1_dialog_4a" = "Kaybol John. Blakk’in sülükleri hortlağa dönüştürmesine son kez yardım ettin.";
+
+//Encounter 4
+"enc_c5e4o1_dialog_1a" = "Doombot 2.0 piyasaya sürüldü! Doombot 2.0, Doombot 1.0’a göre iki kat daha doombot.";
+"enc_c5e4o1_dialog_2a" = "İstediğin gerçekten bu mu Doombot?";
+"enc_c5e4o1_dialog_3a" = "Doombot buna engel olamıyor. Doombot bu şekilde programlanmış.";
+"enc_c5e4o1_dialog_4a" = "Eli Shane haklı. Doombot 2.0 bu şiddet dolu yaşam tarzını bırakmak istiyor.";
+"enc_c5e4o1_dialog_4b" = "Doombot 2.0 ressam olacak ve topluma borcunu sanatla ödeyecek.";
+
+//Encounter 5
+"enc_c5e5o1_dialog_1a" = " ‘Blakk’in kuklası değilim’ dememiş miydin?";
+"enc_c5e5o1_dialog_2a" = "Blakk benim payımı iki katına çıkardı. Bay Cumartesi iyi anlaşmayı duyduğu an anlar.";
+"enc_c5e5o1_dialog_3a" = "Beni yendin Shane ama şunu aklından çıkarma, senin için geri döneceğim.";
+
+//Encounter 6
+"enc_c5e6o1_dialog_1a" = "Shorty! Dörtgöz! Billy! Lütfen buna bir son verin. Sülükleri hortlaklaştırmak büyük bir hata. Slugterra buna dayanamaz.";
+"enc_c5e6o1_dialog_2a" = "Sen sadece sülüklerimizin bu kadar güçlü olmasını kıskanıyorsun. Gerçek bir sülükşör nasıl olur sana göstereceğim.";
+
+"enc_c5e6o2_dialog_1a" = "Endişelenme Shorty, Donarcam kaybedemez. Eli’ın işini bitireceğim.";
+"enc_c5e6o2_dialog_2a" = "Anlamıyorsunuz. Blakk’in her şeyi mahvetmesine yardım ediyorsunuz. Durmak zorundasınız.";
+"enc_c5e6o2_dialog_3a" = "Oof. Billy bize yardım et!";
+
+"enc_c5e6o3_dialog_1a" = "Billy lütfen... dinle beni... boyundan büyük işlere kalkışıyorsun.";
+"enc_c5e6o3_dialog_2a" = "Çok geç, Eli. Biz seçimimizi yaptık.";
+"enc_c5e6o3_dialog_3a" = "Asla çok geç değildir. Blakk nerede?";
+
+//Encounter 7
+"enc_c5e7o1_dialog_1a" = "Höpür Hapır Küpür!";
+"enc_c5e7o1_dialog_2a" = "Sanırım bana saldırmaman için seni ikna etmem mümkün değil.";
+"enc_c5e7o1_dialog_3a" = "Bir hamburgerden daha lezzetli olan tek şey, seni alt etmek.";
+"enc_c5e7o1_dialog_4a" = "Blakk’i bulmak ve buna bir son vermek zorundayım.";
+
+//Encounter 8
+"enc_c5e8o1_dialog_1a" = "Demek Shane Çetesi tuzağımızın tam içine düştü. Kilitle ve doldur!";
+"enc_c5e8o1_dialog_1b" = "Senin icabına baktıktan sonra, tüm sülüklerini hortlaklaştırması için Blakk’e vereceğim!";
+"enc_c5e8o1_dialog_2a" = "Sülüklerime el sürmene asla izin vermem.";
+"enc_c5e8o1_dialog_3a" = "Lode! Hazırlan. Bu çocuğu yenmemiz gerek.";
+
+"enc_c5e8o2_dialog_1a" = "Lode! Locke’un söylediklerini yapmak zorunda değilsin. Sülüklerini iyileştirmeme izin ver.";
+"enc_c5e8o2_dialog_2a" = "Locke kaybolmuş olabilir ama senin işini ben bitireceğim! Bom!";
+"enc_c5e8o2_dialog_3a" = "Kaç! Kaç!";
+
+//Encounter 9
+"enc_c5e9o1_dialog_1a" = "Baban sana geceleri ortaya çıkan korkutucu canavarları anlattığında benden bahsediyordu Shane.";
+"enc_c5e9o1_dialog_1b" = "Ben, korkman gerektiği öğretilen her şeyim. Ben karanlığım. Ben umutsuzluğum.";
+"enc_c5e9o1_dialog_1c" = "Ben hortlaklar, hayaletler ve gulyabanilerim. Ben senin en kötü kabusunum Eli Shane.";
+"enc_c5e9o1_dialog_2a" = "Babam bana başka bir hikaye anlattı. Korkunun kendini güçlendirdiğini sanan canavarların her zaman kaybettiği hikaye...";
+"enc_c5e9o1_dialog_2b" = "Ama ben senden korkmuyorum.";
+"enc_c5e9o1_dialog_3a" = "Yenildin Nacho. Şimdi bana Blakk’in nerede olduğunu söyle.";
+
+//Encounter 10
+"enc_c5e10o1_dialog_1a" = "İstediğin kadar savaşabilirsin ama ben tüm Slugterra’ya HÜKMEDECEĞİM.";
+"enc_c5e10o1_dialog_1b" = "Yeni bir dünya düzeni tasarladım ve sen Eli Shane, bu çarkın dişlileri arasında ezileceksin.";
+"enc_c5e10o1_dialog_2a" = "Sen boş bir arazinin hakimi olacaksın. Sülükler olmadan Slugterra varlığını devam ettiremez.";
+"enc_c5e10o1_dialog_3a" = "AAAAAHHHH!";
+
+"enc_c5e10o2_dialog_1a" = "SEN... BENİ... DURDURAMAYACAKSIN!!!!";
+"enc_c5e10o2_dialog_2a" = "Bitti Kundakçı! Başardık! Blakk’i durdurduk!";
+
+/* End Chapter 5 */
+
+
+
+/* Chapter 6 */
+
+
+//Encounter 1
+"enc_c6e1o1_dialog_1a" = "İyi akşamlar Usta Shane.";
+"enc_c6e1o1_dialog_2a" = "Kimsin sen? Neden beni takip ediyorsun?";
+"enc_c6e1o1_dialog_3a" = "Kaçtığını düşünüyor olabilirsin ama orman sürprizlerle dolu.";
+
+//Encounter 2
+
+//Encounter 3
+"enc_c6e3o1_dialog_1a" = "Hapishaneden kaçışta yapılacaklar listesi. Madde bir: cephane al. Tamam! Madde iki: hücreden kaç. Tamam!";
+"enc_c6e3o1_dialog_2a" = "Graaarrraaa!";
+"enc_c6e3o1_dialog_3a" = "Madde üç: zombileştirilme!";
+"enc_c6e3o1_dialog_4a" = "Urrrrrrgggg!";
+"enc_c6e3o1_dialog_5a" = "Hah. Zombiler korkutucu olabilir ama nişan alma kabiliyetleri çok kötü.";
+
+//Encounter 4
+"enc_c6e4o1_dialog_1a" = "371 numaralı mahkum. Lütfen hücrene geri dön. Buna uymazsan sert bir müdahaleyle karşılaşacaksın.";
+"enc_c6e4o1_dialog_2a" = "Şansımı deneyeceğim. Hadi şu makineye gerçek bir sülükşör nasıl olurmuş gösterelim.";
+
+//Encounter 5
+"enc_c6e5o1_dialog_1a" = "Merrrrg!";
+"enc_c6e5o1_dialog_2a" = "Hayır teşekkürler. Beyin çorbası bana dokunuyor.";
+"enc_c6e5o1_dialog_3a" = "...Uuuurrrg.";
+"enc_c6e5o1_dialog_4a" = "Bu çok kötü. Başka birisi zarar görmeden meselenin iç yüzünü öğrensem iyi olur.";
+
+//Encounter 6
+"enc_c6e6o1_dialog_1a" = "Hey! Sen bir zombi değilsin!";
+"enc_c6e6o1_dialog_2a" = "İşte bu nedenle bu sülükleri ve bu fırlatıcıyı alacağım";
+
+//Encounter 7
+"enc_c6e7o1_dialog_1a" = "Will Shane yüzünden 23 yıl boyunca burada kapalı kaldım. O sülüklerimi, fırlatıcımı ve mekamı aldı.";
+"enc_c6e7o1_dialog_1b" = "Artık intikamımı alacağım Shane.";
+
+//Encounter 8
+"enc_c6e8o1_dialog_1a" ="Çıldırmış gibi görünüyorsunuz. Belki de bir tatile ihtiyacınız vardır.";
+"enc_c6e8o1_dialog_2a" = "Bay Cumartesi bizi etrafı temizlememiz için tuttu. Çöpü çıkarma zamanı.";
+"enc_c6e8o1_dialog_3a" = "Berbat kokuyor. Bir hafta izin alıyorum";
+
+"enc_c6e8o2_dialog_1a" = "Daha fazla hastalık iznine ihtiyacımız var.";
+
+"enc_c6e8o3_dialog_1a" = "İyi olabilirsin Eli Shane ama bu seferkini kesinlikle kazanamayacaksın.";
+"enc_c6e8o3_dialog_2a" = "Bu kadar! Greve gidiyoruz.";
+
+//Encounter 9
+"enc_c6e9o1_dialog_1a" = "Sersem! Seni bir Böcek gibi ezeceğim!";
+
+//Encounter 10
+"enc_c6e10o1_dialog_1a" = "Seninle uğraşmaya değmeyeceğini gösteriyorsun. Ama yine de faydalı olabilirsin Shane.";
+"enc_c6e10o1_dialog_1b" = "Seni zombi ordusuna katmadan önce söylemek istediğin son bir söz var mı?";
+"enc_c6e10o1_dialog_2a" = "Blakk ve onun hortlaklarından daha iyi değilsin. Zombi zihni kontrol ettiğin günler bitti artık, Cumartesi!";
+"enc_c6e10o1_dialog_3a" = "Kundakçıyı geri ver!";
+
+/* End Chapter 6 */
+
+/* Chapter 7 */
+
+
+//Encounter 1
+"enc_c7e1o1_dialog_1a" = "Shane Çetesi! Hemen mekalarınızı kenara çekin!";
+"enc_c7e1o1_dialog_1b" = "Sizi hapishaneye geri götürmek zorundayım, yoksa Blakk kafeterya ayrıcalıklarımı elimden alacak.";
+"enc_c7e1o1_dialog_2a" = "Efendine Shane Çetesi’ni tutacak hücre olmadığını söyle.";
+
+//Encounter 2
+"enc_c7e2o1_dialog_1a" = "Vay! Güzel kostüm. Kim olman gerekiyordu?";
+"enc_c7e2o1_dialog_2a" = "Bu kostüm değil. Ben bir maceraperestim.";
+"enc_c7e2o1_dialog_2b" = "...bir kabadayı, bir korsan. Ticaret alıştırması yapıyorum.";
+"enc_c7e2o1_dialog_3a" = "Korsanlık tam bana göre.";
+
+//Encounter 3
+"enc_c7e3o1_dialog_1a" = "Hey. Buradan evimi görebiliyorum!";
+"enc_c7e3o1_dialog_2a" = "Yaşadığın şehri mi yağmalıyorsun?";
+"enc_c7e3o1_dialog_3a" = "Haritanın gösterdiği yer burası olduğu için mecburum. Yoksa korsan olmayız.";
+"enc_c7e3o1_dialog_4a" = "Sanırım ben şimdi sadece eve gideceğim.";
+
+//Encounter 4
+"enc_c7e4o1_dialog_1a" = "75 tane sahne dövüşü tekniği biliyorum. Beni hayatta geçemezsin!";
+
+//Encounter 5
+"enc_c7e5o1_dialog_1a" = "Siz sülükşörlerin gemimde ne işi var?";
+"enc_c7e5o1_dialog_1b" = "Durun! İsyan çıkarmaya çalışıyorsunuz!";
+"enc_c7e5o1_dialog_2a" = "Beni asla canlı ele geçiremezsin! Gemimle batarım.";
+
+//Encounter 6
+"enc_c7e6o1_dialog_1a" = "Define haritasını dürüst bir şekilde bulduk. Şimdi çekilin yoldan!";
+"enc_c7e6o1_dialog_2a" = "Acaba neden bu haritanın etrafta yüzen bu kadar çok kopyası var?";
+
+//Encounter 7
+"enc_c7e7o1_dialog_1a" = "Bu oldukça büyük bir top. Bize ateş etmek yerine çekip gitseniz nasıl olur.";
+"enc_c7e7o1_dialog_2a" = "Bom!" ;
+"enc_c7e7o1_dialog_3a" = "Sanırım bu soruyu cevaplıyor!";
+
+//Encounter 8
+
+//Encounter 9
+"enc_c7e9o1_dialog_1a" = "Gator’da gizli harita var. Hazineyi ilk bulan Gator olmalı ki korsanlıktan emekli olabilsin.";
+"enc_c7e9o1_dialog_1b" = "Zafer Gator’un olacak!";
+"enc_c7e9o1_dialog_2a" = "Sonra Gator";
+
+//Encounter 10
+"enc_c7e10o1_dialog_1a" = "Vay! Sen çok kocaman bir arkadaşsın!";
+"enc_c7e10o1_dialog_2a" = "Homurtu";
+"enc_c7e10o1_dialog_3a" = "Homurtu";
+
+"enc_c7e10o2_dialog_1a" = "Kaptan şu anda biraz yağmalamakla meşgul. Daha sonra gelebilir misiniz?";
+
+"enc_c7e10o3_dialog_1a" = "Gemimi mahvettin, tayfamı dağıttın, korsan hazinemi yağmaladın ve şimdi de benimle mi kapışacaksın?" ;
+"enc_c7e10o3_dialog_1b" = "Cesursun. Ama usta bir korsanı alt etmek için cesaretten daha fazlası gerek.";
+"enc_c7e10o3_dialog_2a" = "Hayır! Hazinem!" ;
+
+/* End Chapter 7 */
+
+/* Chapter 8 */
+
+
+//Encounter 1
+"enc_c8e1o1_dialog_1a" = "Shane! Son yenilgimden sonra Doktor Blakk bütün hortlaklarımı elimden aldı.";
+"enc_c8e1o1_dialog_1b" = "Beni tekrar yenmene izin vermeyeceğim.";
+
+//Encounter 2
+"enc_c8e2o1_dialog_1a" = "Bu bölge haydutlarla dolu.";
+"enc_c8e2o1_dialog_1b" = "Belki Molenoid Krallığında ne olup bittiği hakkında birşeyler biliyorlardır.";
+"enc_c8e2o1_dialog_2a" = "Hayır! Yine mi!";
+
+//Encounter 3
+"enc_c8e3o1_dialog_1a" = "Bu işi bitirmenin vakti geldi. Daha yapılacak çok haydutluk var. Bu defa bize engel olamayacaksın, Shane.";
+"enc_c8e3o2_dialog_1a" = "Kablamo! Burayı başına yıkacağız!";
+
+//Encounter 4
+"enc_c8e4o1_dialog_1a" = "Shane Çetesi burada! Alarm verin! Tuzakları çalıştırın!";
+"enc_c8e4o1_dialog_2a" = "Pekala... İçeri gizlice sızma planım beklediğim gibi gitmedi. Ama en azından içerideyiz! Bu işi halletmenin vakti geldi.";
+"enc_c8e4o2_dialog_1a" = "Beni yensen bile bin sülükşör yerimi alır.";
+"enc_c8e4o2_dialog_2a" = "Dur bir saniye. Herkes kaçmış.";
+
+//Encounter 5
+"enc_c8e5o1_dialog_1a" = "Jeen bıyığıyla beton blokları ikiye böler. Jeen sakalıyla bir treni yerinden kaldırabilir.";
+
+//Encounter 6
+"enc_c8e6o1_dialog_1a" = "Jeen kolay lokmaydı. Beni o kadar kolay yenemeyeceğini göreceksin.";
+"enc_c8e6o1_dialog_2a" = "Daha hiçbir şey görmedin sen. Shame Çetesi'nin lideri sana güç neymiş gösterecek!";
+
+//Encounter 7
+"enc_c8e7o1_dialog_1a" = "Hey, sen bana benziyorsun...";
+"enc_c8e7o1_dialog_1b" = "Ama benim kadar yakışıklı değilsin!";
+
+//Encounter 8
+
+//Encounter 9
+"enc_c8e9o1_dialog_1a" = "Muhteşem Sedo artık Molenoids Kralı.";
+"enc_c8e9o1_dialog_1b" = "Bırak o tacı, seni yalancı!";
+
+//Encounter 10
+"enc_c8e10o1_dialog_1a" = "Harikulade Sedo senin gibi bir hiç tarafından alt edilemez. Sedo kazanacak!";
+"enc_c8e10o1_dialog_2a" = "Hayııııır! Meka Köstebeğim! Onu mahvettin!";
+
+/* End Chapter 8 */
+
+/* Chapter 9 */
+
+
+//Encounter 1 - The Trips
+"enc_c9e1o1_dialog_1a" = "Üç kat ateş gücü, şansını üç kez zorluyorsun demektir.";
+"enc_c9e1o2_dialog_1a" = "Hayır. Daha bitmedi.";
+"enc_c9e1o3_dialog_1a" = "Kardeşlerim arasında en yetenekli benim. Yenilmez Usta şüphesiz beni seçecek.";
+
+//Encounter 2
+
+//Encounter 3 - Sid the Kid
+"enc_c9e3o1_dialog_1a" = "Seni yendiğimi görünce Yenilmez Usta öğrencisi olarak beni seçecek.";
+"enc_c9e3o1_dialog_2a" = "Hiç şansın yok.";
+
+//Encounter 4 - King of Sling
+"enc_c9e4o1_dialog_1a" = "Yenilmez Usta’nın sırlarını öğrendiğimde, krallığım daha da kral olacak.";
+"enc_c9e4o1_dialog_2a" = "Saçma. Gerçek bir kral hiçbir efendiye itaat etmez.";
+
+//Encounter 5 - Trixie
+"enc_c9e5o1_dialog_1a" = "Selam Trixie! Beni desteklemeye geldiğin için teşekkürler.";
+"enc_c9e5o1_dialog_2a" = "Seni desteklemek mi? Buraya yarışmak için geldim. Bütün bunlar sadece senin için mi sandın?";
+
+//Encounter 6 - Fake Duelist
+"enc_c9e6o1_dialog_1a" = "Ustayla aramda sadece bir kişi kaldı.";
+"enc_c9e6o1_dialog_1b" = "Tek sorun bu adam kim en ufak bir fikrim yok.";
+
+//Encounter 7 - Unbeatable Master
+"enc_c9e7o1_dialog_1a" = "Pekala, çarpık bacak, neler yapabilirsin görelim. Bu bir duello değil, bir sınav.";
+"enc_c9e7o1_dialog_1b" = "Karar sadece bana ait.";
+
+//Encounter 8 - Young Dr. Blakk
+"enc_c9e8o1_dialog_1a" = "Bütün geceyi fırlatıcımı ayarlamakla geçirdim. Yenilmen kaçınılmaz.";
+"enc_c9e8o1_dialog_2a" = "Sadece bir fırlatıcı ile sülükşör olamazsın, Thaddius!";
+"enc_c9e8o1_dialog_2b" = "Yenileceksin!";
+
+//Encounter 9 - Twist
+"enc_c9e9o1_dialog_1a" = "Bu düelloyu kazanamayacaksın, Twist!";
+"enc_c9e9o1_dialog_2a" = "Hiç belli olmaz, Eli.";
+"enc_c9e9o1_dialog_3a" = "Yanlış adamı destekliyorsun, Twist... bunu sen de biliyorsun.";
+
+//Encounter 10 - Dr. Blakk
+"enc_c9e10o1_dialog_1a" = "Hayır.";
+"enc_c9e10o1_dialog_2a" = "Afedersin?";
+"enc_c9e10o1_dialog_3a" = "Hayır dedim. Bu kadar yeter. Bir daha asla masum bir insanı incitip yoluna devam edemeyeceksin.";
+
+/* End Chapter 9 */
+
+/* Chapter 10 */
+
+
+//Encounter 1 - Broken Auto-Cannon
+"enc_c10e1o1_dialog_1a" = "Yeni müdür beni Hurda Yığını’na senin yüzünden gönderdi, Tutuklu #371.";
+"enc_c10e1o1_dialog_1b" = "İntikamımı ala…zzzttt…ca…bzzztt...ğım.";
+
+//Encounter 2 - Doombot 1.0 & Doombot 2.0
+"enc_c10e2o1_dialog_1a" = "Doombot 1.0? Burada ne işin var?";
+"enc_c10e2o1_dialog_2a" = "Doombot programı piyasadan kalkınca, bütün Doombotlar buraya gönderildi.";
+"enc_c10e2o1_dialog_2b" = "Doombot 1.0 savaş programını başlat!";
+"enc_c10e2o2_dialog_1a" = "Doombot 2.0 demonte ol? Demonte olmaya hayır!";
+"enc_c10e2o2_dialog_1b" = "Doombot 2.0 saldırı modeli 0101001110001'i başlat";
+
+//Encounter 3 - Mecha-Mole
+"enc_c10e3o1_dialog_1a" = "GRAAA-bzzzzzzzzt-AAAAAAR";
+"enc_c10e3o1_dialog_1b" = "Bu sesi daha önce duymuştum!";
+
+//Encounter 4 - Tough Guy Gang Member #1 -
+"enc_c10e4o1_dialog_1a" = "Patron Ember’ın emri olmadan bu bölgeye giremezsin.";
+"enc_c10e4o1_dialog_1b" = "Bütün sülüklerinizi ve fırlatıcılarınızı bırakıp geldiğiniz gibi Derin Depo’yu terk edin.";
+"enc_c10e4o1_dialog_2a" = "Mümkün değil.";
+
+//Encounter 5 - Tough Guy Gang Member #2 - Welder
+"enc_c10e5o1_dialog_1a" = "Siz de kimsiniz?";
+"enc_c10e5o1_dialog_2a" = "Biz Shane çetesiyiz. Belki adımızı duymuşsundur.";
+"enc_c10e5o1_dialog_3a" = "Öyle mi. Belki sen de bizim adımızı duymuşsundur: İri Yarı Adamlar.";
+
+//Encounter 6 - Tough Guy Gang Member #3 - Neckbrace
+"enc_c10e6o1_dialog_1a" = "Burada parçalar bedava olabilir... ama onlara ulaşmanın bir bedeli var.";
+"enc_c10e6o1_dialog_1b" = "Patron Ember’a bunun için hesap vereceksiniz.";
+
+//Encounter 7 - Tough Guy Gang Member #4 - Troll
+"enc_c10e7o1_dialog_1a" = "Hadi ama, beyler. Bu kristal sizin işinize yaramaz. Onu almamıza izin verirseniz burayı terk ederiz.";
+"enc_c10e7o1_dialog_2a" = "Buna Patron Ember karar verecek.";
+
+//Encounter 8 - Boss Ember
+"enc_c10e8o1_dialog_1a" = "Derin Depo’nun müdürü benim. Hiç bir kişi veya parça benim iznim olmadan buradan çıkamaz.";
+"enc_c10e8o1_dialog_1b" = "Durum bu, Shane. Sen ve ben. Teke tek. Kazanırsan Vitalis Kristali senin. Kaybedersin fırlatıcını alırım.";
+
+//Encounter 9
+
+//Encounter 10 - Angry Boss Ember
+"enc_c10e10o1_dialog_1a" = "Sen üçkâğıtçının tekisin, Patron ember. Ben kazandım, hem de hakkımla! Vitalis kristalini bana ver!";
+"enc_c10e10o1_dialog_2a" = "Yalan söyledim. Hiçbir yere gitmiyorsun, Shane. Burası BENİM hurda yığınım.";
+
+/* End Chapter 10 */
+
+/* Chapter 11 */
+
+//Encounter 1 - Glasses
+"enc_c11e1o1_dialog_1a" = "Herkesin elleri havaya! Hooligang aç ve susamış bir durumda ve ücretsiz süt bardakları ile yenebilecek kadar fıstık istiyor!";
+
+//Encounter 2 - Shorty
+"enc_c11e2o1_dialog_1a" = "Ünlü bir kötü adam olmadan önce eli çabuk bir aşçıydım.";
+
+//Encounter 3 - Billy
+"enc_c11e3o1_dialog_1a" = "Gene mi sen!";
+"enc_c11e3o1_dialog_1b" = "Çekil yolumdan Eli! Açım ve üç gündür kurumuş sülük topakları yiyorum!";
+"enc_c11e3o1_dialog_2a" = "Sen neden... hayır... Bunu sormayacağım.";
+
+//Encounter 4 - Jeen
+"enc_c11e4o1_dialog_1a" = "Burada ne yapıyorsunuz beyler? Hooligang için mi çalışıyorsunuz?";
+"enc_c11e4o1_dialog_1b" = "Shame Çetesi intikam istiyor! Jeen favorileriyle Eli Shane'i beraber göğüs presi yapacak!";
+"enc_c11e4o1_dialog_1c" = "Burada Hooligang ile birlikte olmadığına emin misin? Onlar da biraz önce buradaydı da!";
+
+//Encounter 5 - Trapsie
+"enc_c11e5o1_dialog_1a" = "Jeen'in favorileri ile boy ölçüşebilirsin ama benimle boy ölçüşemezsin!";
+
+//Encounter 6 - Alias
+"enc_c11e6o1_dialog_1a" = "Daha az yakışıklı ikizime bak hele! Sedo dışarıda! Şimdi Shame Çetesi'nin lideri benim ve intikam   istiyorum!";
+
+//Encounter 7 - Welder Walter & Lil Stevie
+"enc_c11e7o1_dialog_1a" = "İri Yarı Adamlar mı? Patron Ember ile neden tekrar çalışmıyorsun?";
+"enc_c11e7o1_dialog_1b" = "İri Yarı Adamlar yeterince sıkı olmadıkları için işten atıldılar. Şimdi belâ ararken ayrıca iş de arıyoruz!";
+"enc_c11e7o1_dialog_2a" = "Hey Eli! Shane Çetesi'nde personel açığınız var mı? Al, bu benim kötü adam özgeçmişim!";
+
+//Encounter 8 - Mongo
+"enc_c11e8o1_dialog_1a" = "Şu anda gönüllü olarak çalışıyorum! Bedavaya!";
+"enc_c11e8o1_dialog_2a" = "Eli'yi düelloda bedava haklamaya gönüllüyüm! Hemen Şimdi!";
+
+//Encounter 9 - Straggus
+"enc_c11e9o1_dialog_1a" = "Kötü adam kaskım için yeni lambalar alacak param yok! Bu beni o kadar kızdırıyor ki!";
+
+//Encounter 10 - Billy, Alias & Straggus
+"enc_c11e10o1_dialog_1a" = "Hooligang, Shame Çetesi ve İri Yarı Adamlar? Neden hepiniz buradasınız?";
+"enc_c11e10o1_dialog_1b" = "Bazılarımız aç, bazılarımız yakışıklı ve intikam istiyor ve bazılarımızın da yeni birer işe ihtiyacı var! Birlikte çalıştığımızda bizi hiç bir şey durduramaz!";
+"enc_c11e10o2_dialog_2a" = "İntikam peşinde koşmam bazı yeni kötü dostlarla tanışmamı sağladı!";
+"enc_c11e10o3_dialog_3a" = "İyi dostların yardımıyla kötü adamlara layık görevleri tamamlamanın daha kolay olduğunu öğrenmiş bulunuyorum.";
+"enc_c11e10o3_dialog_4a" = "İşinizi dışarıda halledin beyler!";
+"enc_c11e10o3_dialog_5a" = "Kaybettiğimize inanamıyorum, hem de dostluğun kötü gücüyle bile!";
+
+/* End Chapter 11 */
+
+/* Chapter 12 */
+
+
+//Encounter 1 - Blakk Soldier & John Bull
+"enc_c12e1o1_dialog_1a" = "Dur bakalım kabadayı! Dr. Thadeus Blakk adına tutuklusun!";
+"enc_c12e1o1_dialog_2a" = "Tutuklu mu? Suçlama nedir?";
+"enc_c12e1o1_dialog_1b" = "Ruhsatsız sapan kullanmak!";
+"enc_c12e1o1_dialog_3a" = "Kaçacak hiçbir yerin yok, Shane! Arkanda büyük bir uçurum var!";
+
+//Encounter 2 - Nacho
+"enc_c12e2o1_dialog_1a" = "Fırlatıcıyı teslim et, biz de seni çok zorlamayalım!";
+"enc_c12e2o1_dialog_2a" = "Bu teklifi reddedeceğim!";
+"enc_c12e2o1_dialog_3a" = "Arkana bakma, Eli! Burası çok yüksek!";
+"enc_c12e2o2_dialog_4a" = "Yüksekten korkuyor musun, Nacho? Çünkü ben korkmuyorum!";
+
+//Encounter 3 - Darkbane Soldier 1
+"enc_c12e3o1_dialog_1a" = "Vay canına! Nesin sen böyle?";
+"enc_c12e3o1_dialog_1b" = "Vraaaooorrrr!!!!!";
+"enc_c12e3o1_dialog_2a" = "Alev toplarına dikkat et!";
+
+//Encounter 4 - Darkbane Soldier 2
+"enc_c12e4o1_dialog_1a" = "Bİr tane daha! Bu şeyler nereden çıkıp geliyor?";
+
+//Encounter 5 - Darkbane Soldier 3
+"enc_c12e5o1_dialog_1a" = "Vraooor!!!";
+"enc_c12e5o1_dialog_2b" = "Hadi Kundakçı! Bunun asıl kaynağını bulmalıyız!";
+
+//Encounter 6 - Shadow Clan Protector
+"enc_c12e6o1_dialog_1a" = "Durun! Burası kutsal topraklar. Geçemezsiniz!";
+"enc_c12e6o1_dialog_2a" = "Bir dakika! Ben Eli Shane'im!";
+"enc_c12e6o1_dialog_3a" = "Sülük Kapısı sarsılıyor! Eğer sen gerçekten Shane isen, Sülük Kapısı'nı korumalı ve Kara Kötülük'ü durdurmalısın!";
+"enc_c12e6o1_dialog_4a" = "Bu Kara Kötülük kim bilmiyorum ama sana yardım edeceğim!";
+"enc_c12e6o1_dialog_3b" = "Derin Mağaralar karanlık ve kötü enerjiyle dolu! Gözlerini dört aç, genç Shane!";
+
+//Encounter 7 - Prison Door
+"enc_c12e7o1_dialog_1a" = "Tamamdır Kundakçı! Umarım ne yaptığını biliyorsundur. Haydi şu kapıyı kıralım!";
+
+//Encounter 8 - Prison Guards
+"enc_c12e8o1_dialog_1a" = "Mahkum kaçtı! Alarmı çalın!";
+"enc_c12e8o1_dialog_2a" = "Hortlakların seni kurtaramaz, zavallı insan!";
+"enc_c12e8o1_dialog_3a" = "Hadi Kundakçı! Elimizi çabuk tutup buradan çıkmalıyız!";
+
+//Encounter 9 - Prison Warden
+"enc_c12e9o1_dialog_1a" = "Bir şiir yazdım! Adı \"Zavallı insan, hücrene geri dön!\" Dinlemek ister misin?";
+"enc_c12e9o1_dialog_2a" = "Hımm.. tamam?";
+"enc_c12e9o1_dialog_1b" = "Alev kızıldır, kayalar kara! Zavallı insan, hücrene geri dön!";
+"enc_c12e9o1_dialog_2b" = "Kelimelerle nasıl oynayacağını biliyorsun!";
+
+//Encounter 10 - Darkbane Nacho
+"enc_c12e10o1_dialog_1a" = "Beni şaşırtıyorsun, Shane! Sadece kendini kurtarmak için sülüklerini hortlağa dönüştüreceğini hiç tahmin etmezdim!";
+"enc_c12e10o1_dialog_2a" = "Bana başka seçenek bırakmadın! Slugterra'yı işgal etmene izin veremeyiz!";
+"enc_c12e10o1_dialog_3a" = "Nerede olduğunu unuttun mu! Derin Mağaraların merkezinde kaybolmuş durumdasın! Artık çok geç, Eli Shane!";
+"enc_c12e10o1_dialog_3b" = "Behemoth değerli Sülük Kapısı'nı yerle bir edecek ve Kara Kötülük Slugterra'daki yerini geri alacak!";
+
+/* End Chapter 12 */
+
+/* Chapter 13 */
+
+
+//Encounter 1 - Darkbane 1
+"enc_c13e1o1_dialog_1a" = "Sessiz bir kaçış için bu çok fazla!";
+
+//Encounter 2 - Darkbane 2
+"enc_c13e2o1_dialog_1a" = "Kara Kötülük'ün onuruna!";
+
+//Encounter 3 - Darkbane 3
+"enc_c13e3o1_dialog_1a" = "Kaçamazsınız!";
+
+//Encounter 4 - Prison Warden
+"enc_c13e4o1_dialog_1a" = "Bir şiir daha yazdım!";
+"enc_c13e4o1_dialog_2a" = "Neden hiç şaşırmıyorum?";
+"enc_c13e4o1_dialog_1b" = "Zavallı insan, çok küçüksün! Zavallı insan, uzun değilsin! Hücrene geri dön!";
+"enc_c13e4o1_dialog_2b" = "Bir önceki şiirinden de kötüydü!";
+
+//Encounter 5 - Bonus Round - Brimstone's Throne
+
+//Encounter 6 - Darkbane Elite 1 & 2
+"enc_c13e6o1_dialog_1a" = "Hey, dostlar!";
+"enc_c13e6o1_dialog_2a" = "Kara Kötülük Elit'in dengi değilsiniz!";
+"enc_c13e6o1_dialog_3a" = "Kara Kötülük'ün önünde diz çökün, ölümünüz hızlı olsun!";
+
+//Encounter 7 - Darkbane Nacho
+"enc_c13e7o1_dialog_1a" = "Kara Kötülük'ün sihrinin dengi değilsin!";
+"enc_c13e7o1_dialog_2a" = "Sülüklerim senin için denkten de fazla! Onlar, Slugterra'nın gerçek muhafızları!";
+
+//Encounter 8 - Angry Nacho
+"enc_c13e8o1_dialog_1a" = "Nacho! Neler oluyor? Sen Kara Kötülük müsün?";
+"enc_c13e8o1_dialog_2a" = "Artık sırrımı biliyorsun. Dr. Blakk bile bilmiyordu.";
+"enc_c13e8o1_dialog_1b" = "Gitmene izin vermeyeceğim, Eli!";
+
+//Encounter 9 - Behemoth
+"enc_c13e9o1_dialog_1a" = "Vay! Sen çok kocaman bir arkadaşsın!";
+"enc_c13e9o1_dialog_2a" = "Guarrrrrhhh!!!!!";
+"enc_c13e9o1_dialog_3a" = "Ne kadar büyük olurlarsa o kadar zor düşüyorlar!";
+
+//Encounter 10 - Brimstone
+"enc_c13e10o1_dialog_1a" = "Kara Kötülük, Slugterra'nın hükümdarı olarak yerini geri alacak! Bu bizim kaderimiz!";
+"enc_c13e10o1_dialog_2a" = "Geçmene izin vermeyeceğim!";
+"enc_c13e10o1_dialog_1b" = "Bu mağarayı yerle bir edeceğim! Bu kapıyı alevler içinde bir kratere dönüştüreceğim!";
+"enc_c13e10o1_dialog_3a" = "Hayııııııııır! Başarısız olmak için gereğinden fazla bekledim!";
+"enc_c13e10o1_dialog_4a" = "Kundakçı! Brimstone'u geldiği yere gönder!";
+
+/* End Chapter 13 */
+
+/* Chapter 14 */
+
+
+//Encounter 1 - Pronto, Kord and Trixie
+"enc_c14e1o1_dialog_1a" = "Pronto'ya pratik yaptırmaya hazır mısın?";
+"enc_c14e1o1_dialog_1b" = "Pronto düello yapmaya hep hazırdır! Pronto'nun molenoidler arasında ünlü bir sülükşör olduğunu biliyor muydun?";
+"enc_c14e1o2_dialog_2a" = "Formunu kaybetmemelisin Eli! Zirvede kalmak için sülükşörlerin antrenman yapmaya ihtiyacı var!";
+"enc_c14e1o2_dialog_2b" = "Hodri meydan!";
+"enc_c14e1o3_dialog_3a" = "Yorgun görünüyorsun Eli! Bu, bir düelloda yenilmeni kolaylaştırır!";
+"enc_c14e1o3_dialog_3b" = "Ne diyeceğim, biliyor musun? Kendimi biraz uykulu hissediyorum.";
+
+//Encounter 2 - Dr.Blakk
+"enc_c14e2o1_dialog_1a" = "Blakk! Burada ne işin var? Sen sülükşörlük turnuvalarına katılmazsın ki!";
+"enc_c14e2o1_dialog_1b" = "Hayatımda seni daha önce hiç görmedim! Düelloya hazırlan, yabancı!";
+
+//Encounter 3 - Spirex
+"enc_c14e3o1_dialog_1a" = "Eli Shane! Ağa takılmış bir sinek misali, rüyalarında elin ayağın bağlı!";
+
+//Encounter 4 - Eli
+"enc_c14e4o1_dialog_1a" = "Sen... sen bensin! Neler oluyor burada?";
+"enc_c14e4o1_dialog_2a" = "Dur bir dakika! Gerçek Eli Shane benim!";
+
+//Encounter 5 - Young Blakk
+"enc_c14e5o1_dialog_1a" = "Çok tanıdık görünüyorsun! Sen.. genç Dr. Blakk'e benziyorsun!";
+
+//Encounter 6 - Behemoth
+"enc_c14e6o1_dialog_1a" = "Hey, koca adam! Turnuvaya nasıl katıldın? Senin bir fırlatıcın bile yok!";
+"enc_c14e6o1_dialog_2a" = "Vraaaaoooorrrrr!";
+
+//Encounter 7 - Angry Blakk
+"enc_c14e7o1_dialog_1a" = "Yine mi sen! Neden yoluma çıkmakta inat ediyorsun!";
+"enc_c14e7o1_dialog_2a" = "Tavırların hep kötüydü zaten!";
+
+//Encounter 8 - Unbeatable Master
+"enc_c14e8o1_dialog_1a" = "Hayat bir yanılsamadan ibarettir, Eli! Gerçek bilgelik rüyalarda bulunabilir. Bulmaya can attığın kişiyi ara ve bul!";
+"enc_c14e8o1_dialog_2a" = "Bekle! O kişiyi bulduğumu nasıl bileceğim?";
+"enc_c14e8o1_dialog_2b" = "Aklının henüz öğrenmediğini kalbin zaten bilir!";
+
+//Encounter 9 - Gat Blakk
+"enc_c14e9o1_dialog_1a" = "Bu normal bir fırlatıcıya benzemiyor!";
+"enc_c14e9o1_dialog_2a" = "Bu rüya senin olabilir, Eli Shane, fakat intikam benim olacak! Havaya uçurulmaya hazırlan!";
+
+//Encounter 10 - Will Shane
+"enc_c14e10o1_dialog_1a" = "Eli! Yulculuklarında pek çok tehlikeyle karşı karşıya kaldın. Bakalım neler öğrendin.";
+"enc_c14e10o1_dialog_2a" = "Baba! Hayattasın! Seni her yerde aradım...";
+"enc_c14e10o1_dialog_3a" = "Seninle o kadar gurur duyuyorum ki, evlat! Gerçekten büyük bir Shane oldun.";
+"enc_c14e10o1_dialog_3b" = "Benimle geri gel! Sana sormak istediğim o kadar çok şey, o kadar sorum var ki...";
+"enc_c14e10o1_dialog_3c" = "Eli, artık Shane sensin! Her şey umutsuz göründüğünde yine karşılaşacağız. Hoşça kal evlat.";
+
+/* End Chapter 14 */
+
+/* Chapter 15 */
+
+
+//Encounter 1 - Dr.Blakk
+"enc_c15e1o1_dialog_1a" = "Görüyorum ki mesajımı almışsın!";
+"enc_c15e1o2_dialog_1a" = "Beni buraya neden çağırdın, Blakk?";
+"enc_c15e1o1_dialog_2a" = "Burası çok önemli bir yer Eli. Neden, biliyor musun? Sana bir hikâye anlatayım.";
+
+//Encounter 2 - Angry Miner
+"enc_c15e2o1_dialog_1a" = "Burası Cenko Gözüpek'in yeri ve yeniyetmelerin yerlerini bilmesi gerekiyor!";
+"enc_c15e2o2_dialog_1b" = "Başımın herhangi bir belaya girmesini istemiyorum!";
+
+//Encounter 3 - Foreman
+"enc_c15e3o1_dialog_1a" = "İzin ver geçeyim!";
+"enc_c15e3o2_dialog_1a" = "Buradan öyle elini kolunu sallayarak gidemezsin. Sen artık Cenko Gözüpek'e aitsin!";
+
+//Encounter 4 - The Heavy, The Rat
+"enc_c15e4o1_dialog_1a" = "Şuraya bak hele! Bu o kaçak!";
+"enc_c15e4o1_dialog_2a" = "Seni madenlere geri götürmemiz lazım! Patronun emri!";
+
+//Encounter 5 - Young Will Shane
+"enc_c15e5o1_dialog_1a" = "Durun! Siz iki vatandaşa kaba davranan kişiler misiniz?";
+"enc_c15e5o2_dialog_1a" = "Ne? Onlar Cenko Gözüpek'in adamları. Onlar bana saldırdı!";
+"enc_c15e5o2_dialog_1b" = "Ben Shane'im! Bu mağarada tekrar sorun çıkarmadan önce iki kere düşüneceksin!";
+
+//Encounter 6 - Viggo, Dare, The Rat
+"enc_c15e6o1_dialog_1a" = "Gene sen! Patron buna sevinmeyecek!";
+"enc_c15e6o1_dialog_1b" = "Başıma çok dert açtın! Şimdi ben seni oraya sürüklemeden, madenlere geri dön!";
+"enc_c15e6o2_dialog_1a" = "İtilip kakılmaktan bıktım! Artık burası benim mağaram! Fırlatıcını atarsan, buradan çıkıp gitmene izin veririm.";
+"enc_c15e6o3_dialog_1a" = "Adamların artık benim adamlarım! Madenlerin artık benim madenlerim! Bu mağara artık benim mağaram ve sen sınırımı ihlal ediyorsun!";
+"enc_c15e6o3_dialog_1b" = "Şimdi toz ol!";
+
+//Encounter 7 - Will Shane
+"enc_c15e7o1_dialog_1a" = "Blakk! Buradan bir tren geçireceksin diye bu insanları topraklarından kovmana izin vermeyeceğim!";
+"enc_c15e7o2_dialog_2a" = "Gelişmenin önünde duramazsın, Shane! Slugterra Ekspresi geleceğin ta kendisidir!";
+"enc_c15e7o1_dialog_3a" = "Bugün beni yenmiş olabilirsin, fakat kanunların üzerinde olan biri değilsin!";
+"enc_c15e7o2_dialog_3a" = "İşte bunda yanılıyorsun! Kanunları zengin ve güçlü olanlar yapar! Kanun benim!";
+"enc_c15e7o1_dialog_4a" = "Yanılıyorsun. Senin kalbin kötü ve sülüklerin senin için savaşmak istemiyorlar. Bunu gözlerinden okuyabiliyorum!";
+"enc_c15e7o2_dialog_4a" = "Herkes irademe boyun eğecek, sülükler bile! Onlar imparatorluğumun inşa edilmesine yardımcı olan birer araç sadece!";
+
+//Encounter 8 - Brimestone
+"enc_c15e8o1_dialog_1a" = "Neredeyim ben?";
+"enc_c15e8o1_dialog_2a" = "Burada geçerli tek akçe güçtür!";
+"enc_c15e8o1_dialog_2b" = "Yerini hak ettin! Bunun karşılığında sana bir şey teklif etmeme izin ver.";
+
+//Encounter 10 - Will Shane
+"enc_c15e10o1_dialog_1a" = "Beni buraya neden çağırdın, Blakk?";
+"enc_c15e10o2_dialog_2a" = "Bana yeterince sorun çıkardın! Ben senin sadece hayal edebileceğin bir güce sahibim!";
+"enc_c15e10o1_dialog_3a" = "Ne yaptın?";
+"enc_c15e10o2_dialog_3a" = "Sülüklerin irademe boyun eğmesini sağladım! Onların gerçek gücünü serbest bıraktım!";
+
+//Encounter 11 - Dr.Blakk
+"enc_c15e11o1_dialog_1a" = "Görüyorsun ya Eli, sen Will Shane'i mağlup ettiğim yerde duruyorsun.";
+"enc_c15e11o1_dialog_2a" = "Babama ne yaptın sen!?!?!";
+"enc_c15e11o1_dialog_3a" = "Karanlıkta kayboldu, gölgesi bile kalmadı!";
+"enc_c15e11o1_dialog_3b" = "Ama hikâyemiz henüz bitmedi, Eli Shane. Planlarımın hepsi sonuca ulaştı ve yakında her şey belli olacak!";
+"enc_c15e11o1_dialog_3c" = "Ah, geldiklerini şimdi duyabiliyorum!";
+
+/* End Chapter 15 */
+
+/* Chapter 16 */
+
+
+//Encounter 1 - Delta Operator
+"enc_c16e1o1_dialog_1a" = "Geri çekil! Bu insanlar hiçbir şey yapmadı!";
+"enc_c16e1o1_dialog_2a" = "Alfa Gücü düşmana ateş açıyor!";
+"enc_c16e1o2_dialog_1a" = "Geri çekilin! Kademeli düzen!";
+
+//Encounter 2 - Doombot 1.0
+"enc_c16e2o1_dialog_1a" = "10011011010101001";
+
+//Encounter 3 - Mr. Orange
+"enc_c16e3o1_dialog_1a" = "Delta Gücü ateş açıyor!";
+
+//Encounter 4 - Locke and Load
+"enc_c16e4o1_dialog_1a" = "Burada ne yapıyorsun Locke?";
+"enc_c16e4o1_dialog_2a" = "Patron gidip şaşırtmaca yapmamızı söyledi! Yani şaşırtmaca yapıyoruz!";
+"enc_c16e4o2_dialog_1a" = "Dr. Blakk onunla ilgilenmeni istemiyor. Bir planı var ve senin bunu bilmeni istemiyor!";
+"enc_c16e4o2_dialog_2a" = "Teşekkürler! Hiç kimseye söylemem!";
+
+//Encounter 5 - Darkbane Drek and Darkbane Hartag
+"enc_c16e5o1_dialog_1a" = "Kara Kötülük! Onları nereye götürüyorsun?";
+"enc_c16e5o2_dialog_1a" = "Harrr! Vagona atla!";
+"enc_c16e5o2_dialog_1b" = "Kuzzuum!";
+
+//Encounter 6 - Prison Warden
+"enc_c16e6o1_dialog_1a" = "Sana bir şiir yazdım!";
+"enc_c16e6o1_dialog_1b" = "Oh, işte başlıyor...";
+"enc_c16e6o2_dialog_1a" = "Ateş, parlak yanan ateş, gecenin mağaralarında; Kara Kötülük'ün hangi eli veya gözü senin yanan çizgilerini yakalayabilir ki?";
+"enc_c16e6o3_dialog_1a" = "Vay be, bu işi gittikçe kapıyorsun!";
+
+//Encounter 7 - Nacho
+"enc_c16e7o1_dialog_1a" = "Karanlık bir dalga yaklaşıyor! Gölge senin yolunu kesiyor, Shane! Yeni ittifaklar oluşturuldu!";
+"enc_c16e7o2_dialog_2a" = "Bu insanlara zarar vermene izin vermeyeceğim!";
+
+//Encounter 8 - Bonus Round - Prison Wagon
+
+//Encounter 9 - Titan
+"enc_c16e10o1_dialog_1a" = "Konserve açacağı yok mu?";
+
+//Encounter 10 - Angry Nacho
+"enc_c16e11o1_dialog_1a" = "Kazanabileceğini mi sanıyorsun? Kara Kötülük topraklarını geri alacak.";
+"enc_c16e11o1_dialog_2a" = "Seni daha önce durdurdum, gene durduracağım.";
+"enc_c16e11o1_dialog_3a"= "Bir ordu Slugterra'yı karanlığa boğmak için hazır bekliyor!";
+"enc_c16e11o1_dialog_3b" = "Nerede bu ordu?";
+"enc_c16e11o1_dialog_3c" = "Son huzurlu günlerinin keyfini çıkar. Dr. Blakk şu anda hazırlıklarını yapıyor!";
+
+/* End Chapter 16 */
+
+/* Chapter 17 */
+
+
+//Encounter 1 - Red Hook
+"enc_c17e1o1_dialog_1a" = "Kızıl Kanca... farklı görünüyorsun...";
+"enc_c17e1o2_dialog_1a" = "Çek fırlatıcını, Eli!";
+"enc_c17e1o3_dialog_1a" = "!?!?!?!";
+"enc_c17e1o1_dialog_2a" = "Artık biliyorsun işte... Bu bir tuzak! Buraya gelmemeliydin.";
+"enc_c17e1o2_dialog_2a" = "Kızıl Kanca'ya ne yaptın?";
+"enc_c17e1o1_dialog_3a" = "Çok şükür geldin, Eli! Dr. Blakk beni kaçırmaya çalıştı. Makineye benzer korkunç bir şey üzerinde çalışıyor...";
+"enc_c17e1o2_dialog_3a" = "O şey her neyse, iyi bir şey olmadığı kesin!";
+"enc_c17e1o3_dialog_3a" = "Hisar'a gitmen gerekiyor! Blakk'i durdurman gerekiyor!";
+
+//Encounter 2 - Darkbane Guards
+"enc_c17e2o1_dialog_1a" = "Kara Kötülük! Burada!?!?!";
+"enc_c17e2o2_dialog_1a" = "Dr. Blakk Kara Kötülük'le çalışmamızı emretti... fakat onlar biraz ürkütücü!";
+"enc_c17e2o3_dialog_1a" = "Graaaarrrrrrrrr!!!!!!!";
+
+//Encounter 3 - Nacho
+"enc_c17e3o1_dialog_1a" = "Geleceğini biliyordum, Eli! Kahraman olmadan duramıyorsun.";
+"enc_c17e3o2_dialog_1a" = "Çekil yolumdan Nacho!";
+
+//Encounter 4 - Technician
+"enc_c17e4o1_dialog_1a" = "Senin burada olmaman gerekiyor! Bu hortlaklar tehlikeli!";
+
+//Encounter 5 - Bonus Round
+
+//Encounter 6 - Elite Guard
+"enc_c17e6o1_dialog_1a" = "Dur! Burası yasak bir bölge!";
+"enc_c17e6o2_dialog_1a" = "Kırmızı alarm! Üçüncü seviyede yabancı biri var!";
+
+//Encounter 7 - Dr Blakk
+"enc_c17e7o1_dialog_1a" = "Selamlar, Shane! Slugterra'nın tarihe gömülüşüne tanıklık etmek için burada bulunman isabetli olmuş!";
+"enc_c17e7o1_dialog_2a" = "Ne yaptın sen, Blakk?";
+"enc_c17e7o1_dialog_3a" = "Gel ve kaderinle yüzleş!";
+
+//Encounter 8 - Darkbane Elite
+"enc_c17e8o1_dialog_1a" = "Haaayııır!";
+"enc_c17e8o1_dialog_2a" = "Zafer için ileri!";
+"enc_c17e8o1_dialog_3a" = "Bizim olanı geri alacağız!";
+"enc_c17e8o1_dialog_4a" = "Nihayet! Kara Kötülük bin yıl sonra evine döndü! Yeni efendilerinizin ayaklarına kapanın!";
+
+//Encounter 9 - Dr. Blakk
+"enc_c17e9o1_dialog_1a" = "Hayır... hayır... HAYIR...ARRRGHHH!!!...";
+"enc_c17e9o1_dialog_2a" = "Bu son, Blakk! Artık olmayacak!";
+"enc_c17e9o1_dialog_3a" = "Sen HER ŞEYİ mahvettin!";
+"enc_c17e9o1_dialog_4a" = "Babam için, arkadaşlarım için, sülükler için, bütün Slugterra için...... ARIK OLMAYACAK!!!";
+
+//Encounter 10 - Bonus Round
+
+/* End Chapter 17 */
+

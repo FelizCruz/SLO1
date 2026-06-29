@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>location/herringbone1/bg.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,2},{1000,750}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{1000,750}}</string>
+                <key>sourceSize</key>
+                <string>{1000,750}</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>2</integer>
+            <key>realTextureFileName</key>
+            <string>ss_herringbone1-hd.pvr.ccz</string>
+            <key>size</key>
+            <string>{1024,1024}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:390b23dc34ca339931bf60ea83f7a689:951373f9f81b4a2bc6af7dc0b19d5513:c0b0210157a308c9e108a2b8d77fca16$</string>
+            <key>textureFileName</key>
+            <string>ss_herringbone1-hd.pvr.ccz</string>
+        </dict>
+    </dict>
+</plist>

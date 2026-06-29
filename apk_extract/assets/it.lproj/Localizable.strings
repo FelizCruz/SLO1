@@ -1,0 +1,2471 @@
+/*
+ Localizable.strings
+ Slugterra: Slug it Out!
+ 
+ Created by Jeremy Peterson on 13-01-31.
+ 
+ Main localized strings table for the game.
+ 
+ */
+
+
+/* Common UI */
+
+"dialog_button_ok" = "Ok"; // Confirmation button text.
+"dialog_button_yes" = "Sì"; // Confirmation button text.
+"dialog_button_no" = "No"; // Confirmation button text.
+//"button_ok" = "OK"; // Confirmation button text.
+"button_cancel" = "Annulla"; // Confirmation button text.
+//"button_accept" = "Accept"; // Confirmation button text.
+//"button_exit" = "Exit"; // Confirmation button text.
+//"button_nav_next" = "Next"; // Confirmation button text.
+//"button_nav_back" = "Back"; // Confirmation button text.
+//"button_go_now" = "Go Now!"; // Confirmation button text.
+/* End Common UI */
+
+
+
+/* Top HUD */
+
+"tophud_button_get_more_coins" = "OTTIENI ALTRI GETTONI";
+
+/* End Top HUD */
+
+/* Chapter 1 */
+
+//Encounter 1
+"enc_c1e1o1_dialog_1a" = "WOW! Un troll delle caverne. Ho sempre desiderato conoscerne uno!";
+"enc_c1e1o1_dialog_2a" = "Sono Kord Zane. Non sei di queste parti, vero?";
+"enc_c1e1o1_dialog_2b" = "Meglio che ti insegni come difenderti. Osserva la griglia qui sotto.";
+"enc_c1e1o1_dialog_3a" = "Prova a spostare le tessere toccandole e trascinandole.";
+"enc_c1e1o1_dialog_4a" = "Ottimo lavoro. Basta così.";
+"enc_c1e1o1_dialog_5a" = "OK Eli, adesso ti faccio vedere come abbinare le tessere.";
+"enc_c1e1o1_dialog_6a" = "Adesso vediamo se riesci ad abbinare tre tessere blaster.";
+"enc_c1e1o1_dialog_7a" = "Ouch! Ed era la tua prima volta!?! Non avresti dovuto riuscire a colpirmi!";
+"enc_c1e1o1_dialog_7b" = "Scommetto che non riesci a rifarlo, però.";
+"enc_c1e1o1_dialog_8a" = "Sposta le tessere blaster per creare un altro abbinamento!";
+"enc_c1e1o1_dialog_9a" = "Ahia! OK, è evidente che te la cavi bene... ma non sei l'unico ad avere un blaster! Ti sfido!";
+"enc_c1e1o1_dialog_10a" = "Ohi! Ahia! Ohi! Ma perché fai così? Ah già, te l'ho detto io...";
+
+//Encounter 2
+"enc_c1e2o1_dialog_1a" = "Ottimo lavoro! Passo successivo: curarti.";
+"enc_c1e2o1_dialog_2a" = "Abbina tre tessere verdi per ripristinare la barra salute.";
+"enc_c1e2o1_dialog_3a" = "Va meglio? Molto bene!";
+"enc_c1e2o1_dialog_4a" = "Scusa, il mio blaster è un po' troppo sensibile. Ti conviene curarti un altro po'.";
+"enc_c1e2o1_dialog_5a" = "Prova ad abbinare quattro tessere cura.";
+"enc_c1e2o1_dialog_6a" = "Più tessere riesci ad abbinare in un'unica mossa, meglio è.";
+"enc_c1e2o1_dialog_6b" = "Ora vediamo quanto duri in un duello.";
+"enc_c1e2o1_dialog_7a" = "Mannaggia, stavo quasi per batterti!";
+"enc_c1e2o1_dialog_8a" = "Ma tu non dovresti farmi da insegnante?";
+"enc_c1e2o1_dialog_9a" = "Ah già. OK... era un test... e l'hai superato!";
+
+//Encounter 3
+"enc_c1e3o1_dialog_1a" = "Ehi! È forse uno slug Infuocato quello che hai lì?";
+"enc_c1e3o1_dialog_2a" = "Si chiama Burpy. È incredibile.";
+"enc_c1e3o1_dialog_3a" = "Gli slug Infurnus si trasformano in potenti creature di fuoco.";
+"enc_c1e3o1_dialog_4a" = "Burpy dice che vuole fare pratica con la trasformazione.";
+"enc_c1e3o1_dialog_5a" = "Prova ad abbinare un po' di tessere fuoco per caricare l'attacco di Burpy!";
+"enc_c1e3o1_dialog_6a" = "Continua, gli serve più potenza!";
+"enc_c1e3o1_dialog_7a" = "Abbinando cinque tessere fuoco contemporaneamente Burpy si caricherà di un livello.";
+"enc_c1e3o1_dialog_8a" = "Ora che Burpy è carico, tocca lo slug per liberare tutta la potenza del suo nuovo attacco!";
+"enc_c1e3o1_dialog_9a" = "Ohi ohi ohi. OK. Mi pare che tu ci stia prendendo la mano. Duello!";
+"enc_c1e3o1_dialog_10a" = "AHIA! La prossima volta magari prova a non mandarmi a fuoco!";
+"enc_c1e3o1_dialog_10b" = "Penso che sia arrivato il momento del tuo primo duello! PRONTO!";
+
+/* End Chapter 1 */
+
+/* Slug Seeker Cavern */
+
+"name_cavern_seeker_catch_name" = "Fatti strada nelle caverne della modalità Cercatore di slug!";
+
+"name_cavern_seeker_watch_video_name" = "Guarda un video per sbloccare la caverna!";
+
+"name_cavern_seeker_chest_reward_name" = "Fai clic su un forziere per acquisire il tuo premio!";
+
+"name_cavern_seeker_lose_booster_name" = "Serve una mano? Riprova con un potenziatore!";
+
+"name_cavern_seeker_lose_name" = "Non arrenderti! Trionfa per assicurarti la tua ricompensa!";
+
+"name_cavern_seeker_win_coins_name" = "Complimenti! Hai vinto <Coin Variable> monete!";
+
+"name_cavern_seeker_win_slugs_name" = "Complimenti! Hai trovato un nuovo slug!";
+
+"name_cavern_seeker_win_characters_name" = "Complimenti! Hai trovato un nuovo personaggio!";
+
+"name_cavern_seeker_win_boosters_name" = "Complimenti! Hai trovato un potenziatore!";
+
+"name_cavern_seeker_unlocked_name" = "Una caverna della modalità Cercatore di slug è ora aperta! Esplorala ora per trovare slug rari GRATIS!";
+
+"main_menu_play_adventure_mode" = "Challenge";
+
+"name_cavern_slug_seeker_name" = "Cercatore di slug";
+
+"name_cavern_seeker_encounter_name" = "Duello:";
+
+"name_cavern_seeker_play_name" = "Gioca ora!";
+
+/* End Slug Seeker Cavern */
+
+/* Tutorial Popups */
+"tutorial_popup_starting_msg2" = "Tocca il pulsante Acquista per acquisire un nuovo slug!";
+"tutorial_popup_starting_msg3" = "Trascina lo slug sullo slot per armarlo: ora sei pronto per batterti!";
+"tutorial_popup_starting_msg4" = "%@ è sbloccato! Prendilo subito!"; // %@ will be replaced with the name of a slug.
+"tutorial_popup_starting_msg_coin" = "Bonus";
+
+
+/* End Tutorial Popups */
+
+/* Challenge Mode */
+
+/* Gridlock */
+
+//Encounter 1 - Tutorial
+"name_gridlock_challenge" = "Gridlock";
+"enc_gridlock_e1_dialog_1a" = "Cosa succede?";
+"enc_gridlock_e1_dialog_2a" = "Questa è una sfida speciale. I tuoi avversari sono estremamente potenti ma perdono lentamente salute. Tutto quello che devi fare è resistere abbastanza a lungo.";
+"enc_gridlock_e1_dialog_3a" = "Alcune tessere sono bloccate, perciò fai attenzione!";
+"enc_gridlock_e1_dialog_4a" = "Ottimo, cominciamo!";
+"enc_gridlock_e1_dialog_1b" = "Ben fatto! Ma fai attenzione, nei prossimi duelli le cose si complicheranno!";
+"enc_gridlock_e1_dialog_2b" = "Ricompense epiche ti attendono se ti aggiudichi tutti i duelli! Puoi farcela!";
+
+/* Bombastic */
+
+//Encounter 1 - Tutorial
+"name_bombs_challenge" = "Bombastic";
+"enc_bombastic_e1_dialog_1a" = "Cosa succede?";
+"enc_bombastic_e1_dialog_2a" = "Questa è una sfida speciale. Il tuo blaster è impostato su over-drive, quindi spara gli slug in automatico. Più tessere abbini, più potenti saranno i tuoi colpi!";
+"enc_bombastic_e1_dialog_3a" = "I tuoi avversari sono estremamente potenti ma perdono lentamente salute. Tutto quello che devi fare è resistere abbastanza a lungo. Un'altra cosa: BOMBE!";
+"enc_bombastic_e1_dialog_4a" = "Ottimo, cominciamo!";
+"enc_bombastic_e1_dialog_1b" = "Ben fatto! Ma fai attenzione, nei prossimi duelli le cose si complicheranno!";
+"enc_bombastic_e1_dialog_2b" = "Ricompense epiche ti attendono se ti aggiudichi tutti i duelli! Puoi farcela!";
+
+
+/* Draino */
+
+//Encounter 1 - Tutorial
+"name_draino_challenge" = "Draino";
+"enc_draino_e1_dialog_1a" = "Cosa succede?";
+"enc_draino_e1_dialog_2a" = "Questa è una sfida speciale. La tua energia slug si esaurisce lentamente! Abbina le tessere alla massima velocità per mantenere carichi gli slug!";
+"enc_draino_e1_dialog_3a" = "Ottimo, cominciamo!";
+"enc_draino_e1_dialog_1b" = "Ben fatto! Ma fai attenzione, nei prossimi duelli le cose si complicheranno!";
+"enc_draino_e1_dialog_2b" = "Ricompense epiche ti attendono se ti aggiudichi tutti i duelli! Puoi farcela!";
+
+
+/* Stunlock */
+
+//Encounter 1 - Tutorial
+"name_stunlock_challenge" = "Stunlock";
+"enc_stunlock_e1_dialog_1a" = "Cosa succede?";
+"enc_stunlock_e1_dialog_2a" = "Questa è una sfida speciale. I tuoi avversari sono estremamente potenti ma perdono lentamente salute. Tutto quello che devi fare è resistere abbastanza a lungo.";
+"enc_stunlock_e1_dialog_3a" = "Ottimo, cominciamo!";
+"enc_stunlock_e1_dialog_1b" = "Ben fatto! Ma fai attenzione, nei prossimi duelli le cose si complicheranno!";
+"enc_stunlock_e1_dialog_2b" = "Ricompense epiche ti attendono se ti aggiudichi tutti i duelli! Puoi farcela!";
+
+/* Sudden Death */
+
+//Encounter 1 - Tutorial
+"name_sudden_death_challenge" = "Sudden Death";
+"enc_sudden_e1_dialog_1a" = "Cosa succede?";
+"enc_sudden_e1_dialog_2a" = "Questa è una sfida speciale. Ascoltami bene: non farti colpire! Se viene colpito anche una sola volta, hai perso. Quindi tieni alta la guardia e non lasciare che nulla oltrepassi le tue difese! ";
+
+"enc_sudden_e1_dialog_2a2" = "Questa è una sfida speciale. Fai attenzione, la tua salute è estremamente bassa, quindi dovrai evitare di venire colpito e curarti appena puoi!";
+"enc_sudden_e1_dialog_3a" = "Il tuo blaster è impostato su over-drive, quindi spara gli slug in automatico. Più tessere abbini, più potenti saranno i tuoi colpi!";
+"enc_sudden_e1_dialog_4a" = "Ottimo, cominciamo!";
+"enc_sudden_e1_dialog_1b" = "Ben fatto! Ma fai attenzione, nei prossimi duelli le cose si complicheranno!";
+"enc_sudden_e1_dialog_2b" = "Ricompense epiche ti attendono se ti aggiudichi tutti i duelli! Puoi farcela!";
+
+
+/* Mixed Bag */
+
+//Encounter 1 - Tutorial
+"name_mixed_bag_challenge" = "Misto";
+"name_initiation_challenge" = "Iniziazione";
+"enc_mix_e1_dialog_1a" = "Cosa succede?";
+"enc_mix_e1_dialog_2a" = "Per questi duelli non ci sono regole particolari: sono semplicemente MOLTO impegnativi! Sei pronto?";
+"enc_mix_e1_dialog_3a" = "Ottimo, cominciamo!";
+"enc_mix_e1_dialog_1b" = "Ben fatto! Ma fai attenzione, nei prossimi duelli le cose si complicheranno!";
+"enc_mix_e1_dialog_2b" = "Ricompense epiche ti attendono se ti aggiudichi tutti i duelli! Puoi farcela!";
+
+/* Challenge Mode end */
+
+/* Equipment Scenes */
+
+// common
+"equip_active" = "Attivo";
+"equip_dialog_insufficient_coins_title" = "Non puoi permetterti '%@'!"; // Error message for purchase of virtual item. %@ will be replaced with the item name.
+"equip_dialog_insufficient_coins_msg" = "Non hai abbastanza gettoni per acquistare '%@'.\nNe vuoi altri?"; // Error message for purchase of virtual item. %@ will be replaced with the item name.
+"equip_dialog_purchase_confirm_title" = "Vuoi acquistare '%@'?"; // Confirmation text for purchase of virtual item. %@ will be replaced with the item name.
+"equip_dialog_purchase_confirm_msg" = "Vuoi acquistare '%@' per %i gettoni?"; // Confirmation text for purchase of virtual item. %@ will be replaced with the item name.
+
+// boosters page title
+"equip_boosters_title" = "Potenziatori"; // Potenziatori are game upgrades, like power-ups.
+
+// slugs page title
+"equip_slugs_title" = "Slug"; // Use glossary.
+"equip_slugs_dialog_condition" = "Da sbloccare in modalità avventura"; // Telling the user that a slug is earned through playing story mode.
+"equip_slugs_slug_seeker_condition" = "Sblocca tramite la modalità Cercatore di slug"; // Telling the user that a slug is earned through playing slug seeker mode.
+"equip_slugs_sale" = "In offerta"; // Over top of slug when its on a sale
+
+// avatars page title
+"equip_avatars_title" = "Personaggi"; // Used to denote character skins for players to select.
+"equip_avatars_unlock" = "Sconfiggi %i nemici in modalità Endless";
+
+// basic shots page title
+"equip_basic_shots_title" = "Colpi personalizzati";
+
+// game mods page title
+"equip_gamemods_title" = "Mod"; // Game mods modify certain game conditions for both players in a multiplayer match.
+
+/* End Equipment Scenes */
+
+
+
+/* In-App Purchases */
+"iap_coin_small_name" = "5.000 gettoni";
+"iap_coin_small_description" = " "; // Do not translate this string, leave as a single space.
+
+"iap_coin_large_name" = "10.000 gettoni";
+"iap_coin_large_description" = "25% extra";
+
+"iap_coin_huge_name" = "25.000 gettoni";
+"iap_coin_huge_description" = "50% extra";
+
+"iap_coin_massive_name" = "100.000 gettoni";
+"iap_coin_massive_description" = "75% extra";
+
+//"iap_slug_midas_name" = "Midas";
+//"iap_slug_midas_description" = "More Coins in Battle";
+
+/* End In-App Purchases */
+
+
+
+/* Chapter Select Scene */
+
+// scene title
+"chapter_select_title" = "Selezione capitolo";
+
+// dialog: player requires 4 slugs to enter a treasure encounter
+"chapter_select_dialog_treasure_slugs_required_title" = "Richiesti quattro slug";
+"chapter_select_dialog_treasure_slugs_required_msg" = "Sono necessari 4 slug per giocare le sfide Tesoro";
+
+/* End Chapter Select Scene */
+
+
+
+/* Cut Scene */
+
+"cutscene_button_skip" = "Salta"; // Button text for skipping cut scenes.
+//"cutscene_button_ok" = " OK"; // Button text for skipping cut scenes.
+
+/* End Cut Scene */
+
+
+/* Challenge Select Scene */
+"challenge_mode_select" = "Selezione sfida";
+"challenge_number" = "Sfida %i";
+"challenge_expiration" = "Scaduta";
+"challenge_exit_expired" = "Questa sfida sta per scadere! Sicuro di voler uscire?";
+"challenge_quit_encounter" = "Vuoi abbandonare? Riprovare ti costerà!";
+"challenge_win_overlay" = "Sblocco nuovo forziere! Aggiudicati tutti i duelli per ottenere la ricompensa che ti spetta!";
+"challenge_reward_screen" = "Vittoria! La ricompensa è tua!";
+"challenge_slug_lock" = "Slug bloccati";
+"challenge_lose_screen" = "Resisti! Aggiudicati tutti i duelli per ottenere la ricompensa!";
+/* End Challenge Select Scene */
+
+
+
+/* In-App Purchase Scene */
+
+// store scene title
+"store_title" = "Negozio gettoni";
+
+// currently for 'sale' badge in coin shop
+"store_sale" = "Offerta speciale";
+
+// restore button
+//"store_restore_label" = "Restore";
+
+// dialog: store access restricted by device settings
+"store_dialog_access_restricted_title" = "Acquisti in-app disabilitati";
+"store_dialog_access_restricted_msg" = "Acquisti in-app disabilitati nelle impostazioni del dispositivo.";
+
+// dialog: network has been locally disabled in device settings
+"store_dialog_no_network_title" = "Connessione di rete assente";
+"store_dialog_no_network_msg" = "Abilita la connessione di rete e riprova.";
+
+// dialog: could not establish connection to the Apple Servers
+"store_dialog_connection_failed_title" = "Impossibile connettersi allo store";
+"store_dialog_connection_failed_msg" = "Impossibile stabilire una connessione di rete allo store. Verifica le impostazioni di rete e riprova più tardi.";
+
+// dialog: retrieval of In-App Purchase product info failed
+"store_dialog_update_failed_title" = "Impossibile recuperare le informazioni prodotto";
+"store_dialog_update_failed_msg" = "Impossibile recuperare le informazioni sul prodotto dal server. Riprovare?";
+
+// dialog: this iTunes account is not authorized for payment
+"store_dialog_payment_not_authorized_title" = "Pagamento non autorizzato";
+"store_dialog_payment_not_authorized_msg" = "Il tuo account App Store non è autorizzato per l'esecuzione di pagamenti.";
+
+// dialog: transaction was successfully completed
+"store_dialog_transaction_success_title" = "Operazione completata";
+"store_dialog_transaction_success_msg" = "Acquisto di '%@' completato";
+
+// dialog: there was an error during the payment transaction
+"store_dialog_transaction_failed_title" = "Errore transazione";
+"store_dialog_transaction_failed_msg" = "Transazione non riuscita: %@";
+
+/* end In-App Purchase Scene */
+
+
+
+/* Code Redeem Scene */
+
+// scene title
+"coderedeem_title" = "UTILIZZA IL CODICE";
+
+"coderedeem_statement" = "Scopri i codici promo disponibili insieme ai giocattoli ufficiali Slugterra e inseriscili qui per accedere a incredibili contenuti speciali!";
+
+// code enter box labels
+"coderedeem_codebox_title" = "Utilizza il codice promo"; // "Promo" is short for "promotional". These promotional codes are 6-letter codes packaged with toys.
+"coderedeem_codebox_instructions" = "Inserisci qui il tuo codice promo per abilitare altri eccezionali contenuti!"; // "Promo" is short for "promotional". These promotional codes are 6-letter codes packaged with toys.
+//"coderedeem_codebox_button_ok" = "OK!";
+"coderedeem_codebox_textfield_placeholder" = "Digita il codice";
+
+// prize display box
+"coderedeem_prizebox_congrats" = "Congratulazioni!";
+"coderedeem_prizebox_you_just_revealed" = "Hai appena abilitato";
+
+// Unlocking characters in Use Code screen.
+"coderedeem_character" = "%1$d %2$@"; // Do not translate.
+"coderedeem_character_singular" = "Personaggio";
+"coderedeem_character_plural" = "Personaggi";
+"coderedeem_character_description" = "Gioca con personaggi diversi!";
+"coderedeem_none_title" = "Hai già tutto!";
+"coderedeem_none_message" = "Regala questo codice a un amico!";
+
+// Error messages for Use Code screen.
+"coderedeem_fail_network_title" = "Errore di rete";
+"coderedeem_fail_network_message" = "Si è verificato un errore di rete. Assicurati di essere connesso a Internet e riprova.";
+"coderedeem_fail_used_title" = "Codice già utilizzato";
+"coderedeem_fail_used_message" = "Questo codice è già stato utilizzato e non può essere riutilizzato. Per assistenza in relazione al codice, contattaci all'indirizzo interactive.support@dhxmedia.com.";
+"coderedeem_fail_server_title" = "Errore server";
+"coderedeem_fail_server_message" = "Il server remoto non ha potuto completare la richiesta. Assicurati di essere connesso a Internet e riprova.";
+"coderedeem_fail_invalid_title" = "Codice non valido";
+"coderedeem_fail_invalid_message" = "Questo codice non funziona. Se pensi che questo non sia corretto, contattaci all'indirizzo interactive.support@dhxmedia.com.";
+
+/* End Code Redeem Scene */
+
+
+
+/* Versus Scene */
+
+"versus_loading" = "Caricamento in corso...";
+"versus_fight" = "Combatti!";
+"versus_multiplayer_waiting" = "In attesa...";
+"versus_slugs_replaced_chapter6" = "Rapito!";
+"versus_slugs_has_been_replaced_chapter6" = "Burpy è stato rapito da Mr. Saturday! Vai a salvarlo!";
+/* End Versus Scene */
+
+/* Ghoul Scene */
+
+"ghoul_equip_unleash_text" = "Acquisisci gli slug mostri potenziati e scatena il loro potere diabolico!";
+"ghoul_slugs_text" = "Slug mostri potenziati";
+"ghoul_get_now_text" = "Non lasciarteli scappare!";
+"ghoul_slugs_only_text" = "Solo mostri potenziati";
+"ghoul_slug_only_extended_text" = "Solo slug mostri potenziati!";
+"ghoul_slug_replace_extended_text" = "Gli slug sono stati sostituiti!";
+"ghoul_slug_replace_text" = "Slug sostituiti!";
+
+/* End Ghoul Scene */
+
+
+
+/* Score Scene */
+
+"score_time_label" = "TEMPO %i:%02i";
+//"score_button_retry" = "Retry";
+
+/* End Score Scene */
+
+
+
+/* Slug Unlock Sequence */
+
+"slug_unlock_level" = "Livello %i";
+
+/* End Slug Unlock Sequence */
+
+
+
+/* Main Menu */
+
+"main_menu_play_story_mode" = "Avventura";
+"main_menu_play_adventure_mode" = "Avventura";
+"main_menu_play_challenge_mode" = "Modalità challenge";
+"main_menu_play_multiplayer" = "Multiplayer";
+
+"main_menu_challenge_mode_locked_title" = "Modalità challenge bloccata!";
+"main_menu_challenge_mode_locked_msg" = "Per giocare in modalità challenge devi avere almeno 4 slug.";
+
+"main_menu_multiplayer_mode_locked_title" = "Modalità multiplayer bloccata!";
+"main_menu_multiplayer_mode_locked_msg" = "Per giocare in modalità multiplayer devi avere almeno 4 slug.";
+
+"main_menu_adventure_mode_locked_title" = "Modalità Avventura sbloccata!";
+"main_menu_adventure_mode_locked_msg" = "Per giocare in modalità Avventura sono necessari almeno 4 slug.";
+
+"main_menu_button_play" = "Gioca!";
+"main_menu_button_use_code" = "Utilizza codice";
+
+/* End Main Menu */
+
+
+
+/* Pause Menu */
+
+//"pause_menu_button_quit" = "Quit";
+//"pause_menu_button_restart" = "Restart";
+//"pause_menu_button_resume" = "Resume";
+
+"pause_menu_dialog_confirm_quit_title" = "Esci";
+"pause_menu_dialog_confirm_quit_msg" = "Sei sicuro di voler uscire?";
+
+"pause_menu_dialog_confirm_restart_title" = "Ricomincia";
+"pause_menu_dialog_confirm_restart_msg" = "Sei sicuro di voler ricominciare?";
+
+/* End Pause Menu */
+
+
+
+/* Defeat Scene */
+
+//"defeat_button_retry" = "Retry";
+//"defeat_button_booster" = "Go Now!";
+//"defeat_label_need_boost" = "Need A Boost?";
+
+/* Defeat and Victory Scene THIS NEEDS TO BE IMPLEMENTED IN OTHER LOCALIZATION */
+"defeat_label_booster_msg" = "Arma un potenziatore e fatti strada a suon di colpi verso il turno successivo!";
+"defeat_label_skin_msg" = "Impersona il tuo personaggio preferito!";
+"win_lose_buy_btn_msg" = "Prendilo subito!";
+"win_lose_upgrade_btn_msg" = "Aggiorna ora!";
+
+/* End Defeat Scene */
+
+
+
+/* Story End Scene */
+"story_end_button_play_multiplayer" = "Gioca in modalità multiplayer";
+"story_end_title" = "Sfida i tuoi amici!";
+"story_end_msg_1" = "E non finisce qui!";
+"story_end_msg_2" = "Continua a giocare in modalità multiplayer";
+
+/* End Story End Scene */
+
+
+
+
+/* Options Scene */
+
+"options_title" = "OPZIONI";
+
+//"options_button_reset_data" = "Reset Story";
+"options_button_credits" = "Riconoscimenti";
+
+"options_dialog_reset_data_title" = "Sei sicuro?";
+"options_dialog_reset_data_msg" = "Stai per cancellare i tuoi progressi nella modalità avventura! Gettoni ed eventuali oggetti acquistati verranno mantenuti. Sei sicuro?";
+
+/* End Options Scene */
+
+
+
+/* News Scene */
+
+"news_title" = "Novità";
+
+/* End News Scene */
+
+
+
+/* Endless (Custom Loadout) Scene */
+
+"endless_congrats" = "Congratulazioni!";
+"endless_local_highscore" = "Record locale!";
+
+"endless_leaderboard_tab_gamecenter" = "Game Center";
+"endless_leaderboard_tab_local" = "Locale";
+
+"endless_dialog_leaderboard_title" = "Inserisci il tuo nome!";
+"endless_dialog_leaderboard_msg" = "Inserisci il tuo nome per la classifica locale";
+
+"endless_local_highscore_textfield_placeholder" = "Inserisci nome";
+
+//"endless_button_quit" = "Quit";
+//"endless_button_replay" = "Replay";
+
+"endless_title" = "Modalità challenge";
+
+"endless_mode" = "Infinito";
+
+"endless_local_leaderboard_title" = "Record";
+
+"endless_label_results" = "Punteggio: %d Gettoni: %d";
+
+/* End Endless (Custom Loadout) Scene */
+
+
+/* Challenge Mode */
+
+"encounter_win" = "Forziere sbloccato! Porta a termine tutti i duelli per aggiudicarti la tua ricompensa!";
+
+"replay_encounter" = "Vuoi usare X monete per ripetere questo duello?";
+
+"quit_encounter" = "Sei sicuro? Per ripetere il duello più tardi dovrai spendere le tue monete.";
+
+"completed_challenges" = "Complimenti! Hai completato tutte le sfide. Torna presto per affrontarne altre!";
+
+/* End Challenge Mode */
+
+/* Treasure Select Scene */
+
+//"treasure_select_title" = "Treasure Vault";
+
+/* End Treasure Select Scene */
+
+
+
+/* Busy Layer */
+
+"busy_layer_please_wait" = "Attendi...";
+
+/* End Busy Layer */
+
+
+
+/* Game Center */
+
+"game_center_dialog_title" = "Accesso al Game Center non eseguito";
+"game_center_dialog_message" = "Accedi al Game Center per visualizzare imprese e classifiche e per accedere alla modalità multiplayer.";
+"google_play_dialog_title" = "Accesso in Google Play non eseguito";
+"google_play_dialog_message" = "Accedi a Google Play per visualizzare imprese e classifiche e per accedere alla modalità multiplayer.";
+"game_center_dialog_no" = "Non ora";
+"game_center_dialog_yes" = "Sì";
+
+/* End Game Center */
+
+
+
+/* Multiplayer Screens */
+
+"multiplayer_header_title" = "Multiplayer";
+
+"multiplayer_end_screen_you_won" = "HAI VINTO!";
+"multiplayer_end_screen_you_lost" = "HAI PERSO";
+"multiplayer_end_screen_label_coins" = "Gettoni: +%i";
+"multiplayer_end_screen_label_points" = "Punti: +%i";
+"multiplayer_end_screen_label_rank" = "Posizione:";
+"multiplayer_end_screen_ok" = "Ok";
+"multiplayer_end_screen_label_rank_formatted" = "Posizione: %d";
+
+"multiplayer_lobby_label_welcome" = "Benvenuto, %@!"; // %@ will be replaced with the player's Game Center name.
+"multiplayer_lobby_label_wins" = "VITTORIE";
+//"multiplayer_lobby_button_back" = "Back";
+//"multiplayer_lobby_button_play" = "Play";
+//"multiplayer_lobby_button_leave" = "Leave";
+//"multiplayer_lobby_leave_title" = "";
+"multiplayer_lobby_leave_message" = "Sei sicuro di voler abbandonare?";
+//"multiplayer_lobby_button_ready" = "Ready";
+"multiplayer_lobby_button_not_ready" = "Annulla";
+"multiplayer_lobby_message_waiting" = "In attesa di un avversario...";
+"multiplayer_lobby_message_loading" = "Caricamento gioco in corso...";
+"multiplayer_lobby_message_synchronizing" = "Sincronizzazione in corso...";
+
+"multiplayer_game_message_syncing" = "Sincronizzazione dello stato del gioco in corso...";
+//"multiplayer_game_label_leave" = "Leave";
+
+"multiplayer_tabpane_games_played" = "Partite giocate: %i";
+"multiplayer_tabpane_games_won" = "Partite vinte: %i";
+"multiplayer_tabpane_longest_streak" = "Sequenza più lunga: %i";
+"multiplayer_tabpane_current_streak" = "Sequenza corrente: %i";
+"multiplayer_tabpane_header_game_center" = "Game Center";
+"multiplayer_tabpane_header_google_play" = "Google Play";
+"multiplayer_tabpane_header_stats" = "Statistiche";
+"multiplayer_tabpane_no_data" = "Nessun dato";
+
+"multiplayer_remote_state_connecting" = "Connessione in corso...";
+"multiplayer_remote_state_disconnected" = "Disconnesso";
+"multiplayer_remote_state_getting_ready" = "Preparazione";
+"multiplayer_remote_state_ready" = "Pronto";
+"multiplayer_remote_state_loading_game" = "Caricamento gioco in corso...";
+"multiplayer_remote_state_loaded_waiting" = "Caricato e in attesa";
+"multiplayer_remote_state_choosing_slugs" = "Selezione slug in corso";
+"multiplayer_remote_state_choosing_game_mods" = "Selezione mod in corso";
+//"multiplayer_remote_state_choosing_emoticon" = "Choosing Emoticon";
+"multiplayer_remote_state_playing_game" = "Gioco in corso";
+"multiplayer_remote_state_viewing_score" = "Visualizzazione in corso";
+
+"multiplayer_interrupt_network_error_formatted" = "Si è verificato un errore di rete:\n%@"; // The "\n" represents a new line character. Please use it in the translation to separate the two lines of text.
+"multiplayer_interrupt_network_error_unknown" = "Si è verificato un errore di rete:\nErrore sconosciuto."; // The "\n" represents a new line character. Please use it in the translation to separate the two lines of text.
+"multiplayer_interrupt_disconnected_title" = "Giocatore disconnesso";
+"multiplayer_interrupt_disconnected_message" = "Il collegamento a '%@' si è interrotto.";
+"multiplayer_interrupt_left_title" = "Il giocatore ha abbandonato la partita";
+"multiplayer_interrupt_left_message" = "Il giocatore '%@' ha abbandonato il gioco.";
+"multiplayer_interrupt_lobby_title" = "Il giocatore è tornato nella lobby";
+"multiplayer_interrupt_lobby_message" = "Il giocatore '%@% è tornato nella lobby multiplayer.";
+"multiplayer_interrupt_laggy_title" = "Connessione scadente";
+"multiplayer_interrupt_laggy_message" = "La connessione di rete tra te e il tuo avversario è molto scadente.\nIl gioco potrebbe non funzionare correttamente in queste condizioni."; // The "\n" represents a new line character. Please use it in the translation to separate the two lines of text.
+
+/* End Multiplayer Screens */
+
+
+
+/* Credits */
+
+"credits_title_intro" = "Prodotto con la partecipazione di";
+"credits_title_creative_lead" = "Lead creativo";
+"credits_title_project_manager" = "Project Manager";
+"credits_title_lead_programmer" = "Lead Programmer";
+"credits_title_lead_artist" = "Lead Artist";
+"credits_title_programming" = "Programmazione";
+"credits_title_art" = "Grafica";
+"credits_title_level_design" = "Design livelli";
+"credits_title_sound_engineering" = "Sound Engineering";
+"credits_title_music" = "Musica";
+"credits_title_voice_acting" = "Recitazione vocale";
+"credits_title_special_thanks" = "Ringraziamenti speciali";
+"credits_title_executive_producers" = "Produttori esecutivi";
+"credits_title_producer" = "Produttore";
+"credits_title_head_of_licensing" = "Responsabile licensing globale e promozioni";
+"credits_title_director_of_brand" = "Direttore brand development";
+"credits_title_marketing_manager" = "Direttore marketing";
+"credits_title_director_finance" = "Direttore finanziario";
+"credits_title_general_counsel" = "Affari legali";
+"credits_title_it" = "IT";
+"credits_title_many_thanks" = "Si ringraziano i collaboratori di";
+
+/* End Credits */
+
+
+/* Slug Events */
+
+"event_name_double_coins" = "Raddoppia le tue ricchezze!";
+"event_name_info_double_coins" = "Solo per oggi, guadagna monete doppie in tutti i duelli. Torna a giocare e inizia subito a... riempirti le tasche!";
+
+"event_name_hidden_slugs" = "Attenzione! Avvistato slug nascosto!";
+"event_name_info_hidden_slugs" = "Nel Capitolo %@ è stato visto aggirarsi un nuovo slug. Cosa aspetti? Vinci il duello giusto e sbloccalo subito!";
+
+"event_name_booster_sale" = "Dai nuovo impulso al tuo blaster!";
+"event_name_info_booster_sale" = "Tutti i potenziatori sono scontati solo per oggi. Aggiudicateli subito e fatti strada a suon di colpi!";
+
+"event_name_coin_packs" = "Più monete per te!";
+"event_name_info_coin_packs" = "Solo per oggi, monete extra in tutti i pacchetti. Acquista adesso un pacchetto per assicurarti ancora più monete!";
+
+"event_name_rare_slug" = "Attenzione! Avvistato slug raro!";
+"event_name_info_rare_slug" = "È arrivato uno slug raro... ma devi fare in fretta per assicurartelo! Vai nello store prima che sia troppo tardi!";
+
+"event_name_engagement_drive" = "Lo Slug-a-thon è arrivato!";
+"event_name_info_engagement_drive" = "Se giochi ogni giorno di questa settimana, otterrai in premio X. Non perdere l'occasione! Cosa aspetti a tornare a giocare?";
+
+"event_name_character_sales" = "Ti presentiamo un nuovo slinger di slug! ";
+"event_name_info_character_sales" = "%@ è scontato nello store solo per oggi. Vai nello store per iniziare subito a giocare con un nuovo personaggio!";
+
+/* End Slug Events */
+
+
+/* Slug Info Box */
+
+// common
+"slug_info_box_level" = "Livello: %i";
+"slug_info_box_power" = "Potere: %@";
+
+/* Slug Info */
+
+// burpy
+"slug_info_name_burpy" = "Infuocato";
+"slug_info_power_burpy" = "Fuoco";
+"slug_info_description_burpy" = "Potente e rarissimo slug di fuoco, Infuocato scaglia contro l'avversario un colpo micidiale.";
+
+// frost
+"slug_info_name_frost" = "Ghiacciolai";
+"slug_info_power_frost" = "Ghiaccio";
+"slug_info_description_frost" = "Ghiacciolai utilizza la mossa Glaciator per creare una parete di ghiaccio che ti protegge, stendendo l'avversario con un colpo al fulmighiaccio.";
+
+//tazer
+"slug_info_name_tazer" = "Slug Scossa";
+"slug_info_power_tazer" = "Elettricità";
+"slug_info_description_tazer" = "Slug Scossa fulmina gli avversari stordendoli con la sua mossa Tazerbolt.";
+
+//gas
+"slug_info_name_gas" = "Slug Puzzone";
+"slug_info_power_gas" = "Veleno";
+"slug_info_description_gas" = "Slug Puzzone colpisce con l'attacco Blorfball, che al contatto rilascia un tremendo fetore danneggiando gli slug avversari e assorbendone l'energia.";
+
+//doc
+"slug_info_name_doc" = "Boon Doc";
+"slug_info_power_doc" = "Luce";
+"slug_info_description_doc" = "Grazie alla mossa Medici, Boon Doc ti guarisce al volo.";
+
+//arachnet
+"slug_info_name_arachnet" = "Ragno Slug";
+"slug_info_power_arachnet" = "Terra";
+"slug_info_description_arachnet" = "Utilissimo slug d'attacco, Ragno Slug danneggia l'avversario con la sua ragnatela, rallentandone gli slug.";
+
+//enigmo
+"slug_info_name_enigmo" = "Enigmo";
+"slug_info_power_enigmo" = "Luce";
+"slug_info_description_enigmo" = "Enigmo abbina le tessere mentre attraversa volando il campo di battaglia.";
+
+//fandango
+"slug_info_name_fandango" = "Fandango";
+"slug_info_power_fandango" = "Luce";
+"slug_info_description_fandango" = "Ricchissimo di naturale energia slug, Fandango ricarica volando tutti gli altri slug.";
+
+//flaringo
+"slug_info_name_flaringo" = "Flaringo slug";
+"slug_info_power_flaringo" = "Fuoco";
+"slug_info_description_flaringo" = "Flaringo slug stordisce gli avversari con il suo attacco Blastburst.";
+
+//geoshard
+"slug_info_name_fright" = "Levitante";
+"slug_info_power_fright" = "Aria";
+"slug_info_description_fright" = "Levitante crea una galleria del vento che consente ai tuoi slug di colpire l'avversario più rapidamente.";
+
+//rammstone
+"slug_info_name_rammstone" = "Rammstone";
+"slug_info_power_rammstone" = "Terra";
+"slug_info_description_rammstone" = "Rammstone fracassa uno scudo o uno slug di pari livello con il suo attacco Batterup.";
+
+//yang
+"slug_info_name_yang" = "Negashade";
+"slug_info_power_yang" = "Psychic";
+"slug_info_description_yang" = "Negashade confonde gli avversari annebbiando loro la vista.";
+
+//grenuke
+"slug_info_name_grenuke" = "Bomba slug";
+"slug_info_power_grenuke" = "Fuoco";
+"slug_info_description_grenuke" = "Aggiunge varie bombe Funghesplosione che danneggiano il tabellone dell'avversario.";
+
+//midas
+"slug_info_name_midas" = "Midas";
+"slug_info_power_midas" = "Luce";
+"slug_info_description_midas" = "Mida genera gettoni mentre attraversa volando il campo di battaglia.";
+
+//aquabeek
+"slug_info_name_aquabeek" = "Aquabeek";
+"slug_info_power_aquabeek" = "Acqua";
+"slug_info_description_aquabeek" = "Con il attacco Aquajet, Aquabeek si lancia ad altissima velocità sull'avversario.";
+
+//makobreaker
+"slug_info_name_makobreaker" = "Makobreaker";
+"slug_info_power_makobreaker" = "Acqua";
+"slug_info_description_makobreaker" = "Makobreaker si carica mangiandosi i colpi blaster o gli slug di livello inferiore con cui si scontra.";
+
+//xmitter
+"slug_info_name_xmitter" = "Slug Stop";
+"slug_info_power_xmitter" = "Metallo";
+"slug_info_description_xmitter" = "Disattiva il blaster dell'avversario con un impulso magnetico.";
+
+//thresher
+"slug_info_name_thresher" = "Battitore";
+"slug_info_power_thresher" = "Metallo";
+"slug_info_description_thresher" = "L'attacco di Battitore diventa più potente quando Eli è ferito.";
+
+//lock
+"slug_info_name_lock" = "Scavaliana";
+"slug_info_power_lock" = "Vegetale";
+"slug_info_description_lock" = "Imprigiona l'avversario bloccando le tessere sul tabellone.";
+
+//panic
+"slug_info_name_panic" = "Slug Spettro";
+"slug_info_power_panic" = "Psychic";
+"slug_info_description_panic" = "Spaventa l'avversario facendogli sparare contemporaneamente tutti gli slug.";
+
+//refresh
+"slug_info_name_refresh" = "Ping";
+"slug_info_power_refresh" = "Luce";
+"slug_info_description_refresh" = "Attacca l'avversario scambiando le tessere sul tuo tabellone.";
+
+//reflect
+"slug_info_name_reflect" = "Bubbaleone";
+"slug_info_power_reflect" = "Acqua";
+"slug_info_description_reflect" = "Riproduce lo slug dell'avversario.";
+
+//tormato
+"slug_info_name_tormato" = "Tormato";
+"slug_info_power_tormato" = "Aria";
+"slug_info_description_tormato" = "Genera uno scudo di vento che respinge gli slug dell'avversario.";
+
+//speedstinger
+"slug_info_name_speedstringer" = "Colpoveloce";
+"slug_info_power_speedstringer" = "Metallo";
+"slug_info_description_speedstringer" = "Spara un colpo ad alta velocità per attaccare l'avversario.";
+
+//phosphoro
+"slug_info_name_phosphoro" = "Fosfero";
+"slug_info_power_phosphoro" = "Luce";
+"slug_info_description_phosphoro" = "Imprime una leggera carica a tutti i tuoi slug e danneggia l'avversario.";
+
+//neotox
+"slug_info_name_neotox" = "Slug Neo Tossici";
+"slug_info_power_neotox" = "Veleno";
+"slug_info_description_neotox" = "Crea una raffica tossica che avvelena l'avversario.";
+
+//jellyish
+"slug_info_name_jellyish" = "Slug Gelatina";
+"slug_info_power_jellyish" = "Acqua";
+"slug_info_description_jellyish" = "Attacca e rallenta l'avversario.";
+
+//Armashelt
+"slug_info_name_armashelt" = "Fulmine";
+"slug_info_power_armashelt" = "Cannonball";
+"slug_info_description_armashelt" = "Uno slug pesante che colpisce con forza; quando Fulmine si schianta con uno slug avversario, continuerà il suo viaggio come proiettile di livello inferiore.";
+
+//Hop Rock
+"slug_info_name_hoprock" = "Pietre Saltanti";
+"slug_info_power_hoprock" = "Detonatore";
+"slug_info_description_hoprock" = "Aggiunge al tabellone dell'avversario bombe micidiali che causano danno.";
+
+//Hypnogrif
+"slug_info_name_hypnogriff" = "Ipnogrifo";
+"slug_info_power_hypnogriff" = "Trance";
+"slug_info_description_hypnogriff" = "Ipnogrifo confonde l'avversario facendogli sparare contemporaneamente tutti gli slug.";
+
+//Slicksilver
+"slug_info_name_slicksilver" = "Slicksilver";
+"slug_info_power_slicksilver" = "Slug Metallo/Magnete";
+"slug_info_description_slicksilver" = "Impedisce all'avversario di sparare i suoi slug.";
+
+//SpeedStinger
+"slug_info_name_speedstringer" = "Colpoveloce";
+"slug_info_power_speedstringer" = "Di rimbalzo";
+"slug_info_description_speedstringer" = "Colpoveloce si muove rapidamente mentre causa danno.";
+
+//Crystalyd
+"slug_info_name_crystalyd" = "Slug Cristalide";
+"slug_info_power_crystalyd" = "Nei tunnel";
+"slug_info_description_crystalyd" = "Quando Slug Cristalide colpisce lo slug di un avversario, questo procede come proiettile di livello inferiore.";
+
+//Geoshard
+"slug_info_name_geoshard" = "Geovetro";
+"slug_info_power_geoshard" = "Slug cristalizzatore";
+"slug_info_description_geoshard" = "Geovetro spara una serie di colpi mentre si muove in aria.";
+
+//Slyren
+"slug_info_name_slyren" = "Sirena";
+"slug_info_power_slyren" = "Aria";
+"slug_info_description_slyren" = "Sirena spara una serie di colpi ipersonici mentre si muove in aria.";
+
+//Narwhaddle
+"slug_info_name_narwhaddle" = "Narwhaddle";
+"slug_info_power_narwhaddle" = "Ghiaccio";
+"slug_info_description_narwhaddle" = "Narwhaddle genera una raffica di ghiaccio che incrementa la velocità degli altri slug e al contempo blocca l'avversario.";
+
+//Firenzar
+"slug_info_name_firenzar" = "Firenzar";
+"slug_info_power_firenzar" = "Fuoco";
+"slug_info_description_firenzar" = "Firenzar crea un anello di fuoco che col passare del tempo danneggia l'avversario.";
+
+//Thugglet
+"slug_info_name_thugglet" = "Slug Trasformista";
+"slug_info_power_thugglet" = "Psychic";
+"slug_info_description_thugglet" = "Quando Slug Trasformista attacca l'avversario, lui ne ruberà il potere slug.";
+
+//Gazzer
+"slug_info_name_gazzer" = "Gazzer";
+"slug_info_power_gazzer" = "Aria";
+"slug_info_description_gazzer" = "Gazzer prosciuga la barra slug dell'avversario.";
+
+//Lariat
+"slug_info_name_lariat" = "Filaccio";
+"slug_info_power_lariat" = "Acqua";
+"slug_info_description_lariat" = "Filaccio spara una ragnatela appiccicosa che rallenta gli slug dell'avversario.";
+
+//Hexlet
+"slug_info_name_hexlet" = "Hexlet";
+"slug_info_power_hexlet" = "Psychic";
+"slug_info_description_hexlet" = "Hexlet abbina le tessere mentre vola in giro per il campo di battaglia.";
+
+/* Fusion Slug Info */
+
+//Negashade & Ping Fusion
+
+"slug_info_name_fuse_yang_refresh" = "Shadowray";
+"slug_info_power_fuse_yang_refresh" = "Psychic";
+"slug_info_description_fuse_yang_refresh" = "Negashade e Ping: attacca e confonde gli avversari annebbiando loro la vista mentre scambia le tessere.";
+
+//Doc and Gas Fusion
+"slug_info_name_fuse_doc_gas" = "Healotoxis";
+"slug_info_power_fuse_doc_gas" = "Luce e Veleno";
+"slug_info_description_fuse_doc_gas" = "Boon Doc e Flatulorhinkus: guarisce il giocatore ed esaurisce i poteri slug dell'avversario.";
+
+//Burpy & Tazerling Fusion
+"slug_info_name_fuse_burpy_tazer" = "Novabolt";
+"slug_info_power_fuse_burpy_tazer" = "Fuoco ed Elettricità";
+"slug_info_description_fuse_burpy_tazer" = "Burpy e Tazerling: Attacca e stordisce l'avversario.";
+
+//Arachnet & Panic Fusion
+"slug_info_name_fuse_arachnet_panic" = "Arachnoshroud";
+"slug_info_power_fuse_arachnet_panic" = "Terra e Mentale";
+"slug_info_description_fuse_arachnet_panic" = "Arachnet e Frightgeist: Spaventa e rallenta l'avversario.";
+
+//Aquabeek & Fandango Fusion
+"slug_info_name_fuse_aquabeek_fandango" = "Aquaboost";
+"slug_info_power_fuse_aquabeek_fandango" = "Acqua e Luce";
+"slug_info_description_fuse_aquabeek_fandango" = "Aquabeak e Fandango: Attacco rapido che ricarica i poteri slug del giocatore.";
+
+//Rammstone & Makobreaker Fusion
+
+"slug_info_name_fuse_rammstone_makobreaker" = "Masticamassi";
+"slug_info_power_fuse_rammstone_makobreaker" = "Terra e Acqua";
+"slug_info_description_fuse_rammstone_makobreaker" = "Fa a pezzi uno scudo o uno slug di uguale livello e si potenzia mangiando i colpi blaster.";
+
+//Xmitter and Vinedrill Fusion
+
+"slug_info_name_fuse_xmitter_vinedrill" = "Glitchsnare"; //Glitch is a malfunction equipment and Snare is a trap. For example trap or a net
+"slug_info_power_fuse_xmitter_vinedrill" = "Elettricità e Vegetale";
+"slug_info_description_fuse_xmitter_vinedrill" = "Attacco che mette fuori uso il blaster dell'avversario e confonde le tessere.";
+
+//Flaringo and Phosphoro Fusion
+
+"slug_info_name_fuse_flaringo_phosphoro" = "Sparkrain"; //Spark is the small fiery particle thrown off from a fire and rain is moisture condensed from the atmosphere that falls visibly in separate drops. For Example rainy weather.
+"slug_info_power_fuse_flaringo_phosphoro" = "Fuoco e Luce";
+"slug_info_description_fuse_flaringo_phosphoro" = "Attacco con danno da fuoco che carica leggermente tutti gli slug.";
+
+//Frostcrawler and Grenuke Fusion
+
+"slug_info_name_fuse_freeze_grenuke" = "Frostbomb"; // Small white ice crtystals formed on surfaces when the temperature falls below freezing. Bomb is an explosion.
+"slug_info_power_fuse_freeze_grenuke" = "Ghiaccio e Fuoco";
+"slug_info_description_fuse_freeze_grenuke" = "L'attacco gela l'avversario e aggiunge varie bombe che danneggiano il suo tabellone.";
+
+//Neotox and Thresher Fusion
+
+"slug_info_name_fuse_neotox_thresher" = "Zannatossica"; // Toxic is poisonous. Tusk is a long pointed tooth, usually found on elephants, walrus or wild boars.
+"slug_info_power_fuse_neotox_thresher" = "Vegetale e Metallo";
+"slug_info_description_fuse_neotox_thresher" = "L'attacco colpisce l'avversario con un getto di veleno e risulta potenziato quando Eli è ferito.";
+
+//Tormato and Jellyish Fusion
+
+"slug_info_name_fuse_tormato_jellyish" = "Bavatempesta"; // Slime is a moist, soft, and slippery substance. Storm is a violent disturbance of the atmosphere with strong winds.
+"slug_info_power_fuse_tormato_jellyish" = "Aria e Acqua";
+"slug_info_description_fuse_tormato_jellyish" = "Questo fusion shot crea uno scudo di vento difensivo mentre danneggia l'avversario e ne rallenta gli slug.";
+
+//Narwhaddle and Slyren Fusion
+
+"slug_info_name_fuse_slyren_narwaddle" = "Iperflash "; // Hyper as in overactive and flash as in a brief shine.
+"slug_info_power_fuse_slyren_narwaddle" = "Ghiaccio e Aria";
+"slug_info_description_fuse_slyren_narwaddle" = "Con un'esplosione ghiacciata incrementa la velocità degli altri slug mentre spara una raffica di colpi ipersonici.";
+
+//Hoverbug and Speedstinger Fusion
+
+"slug_info_name_fuse_hoverbug_speedstinger" = "Sfrecciata cinetica"; //Kenetic as in Kinetic energy and streak as in a motion streak of moving very quickly
+"slug_info_power_fuse_hoverbug_speedstinger" = "Metallo e Aria";
+"slug_info_description_fuse_hoverbug_speedstinger" = " Colpoveloce e Levitante: utilizza i portali e danneggia l'avversario.";
+
+//Geoshard and Slicksilver Fusion
+
+"slug_info_name_fuse_geoshard_slicksilver" = "Magnetoscheggia"; //Magna as in magnet and shard as in a small piece of broken glass
+"slug_info_power_fuse_geoshard_slicksilver" = "Metallo e Terra";
+"slug_info_description_fuse_geoshard_slicksilver" = " Slicksilver e Geoshard: danneggia gli avversari usando 3 proiettili e blocca gli slug avversari per un periodo di tempo limitato.";
+
+
+//Neurotox and Amperling Fusion
+
+"slug_info_name_fuse_ghoul_netox_ghoul_tazerling" = "Ampertox";
+"slug_info_power_fuse_ghoul_netox_ghoul_tazerling" = "Ombra oscura";
+"slug_info_description_fuse_ghoul_netox_ghoul_tazerling" = "Stordisce l'avversario e i suoi slug, provocando danno e riducendo l'energia degli slug.";
+
+//Burpy and Flatulo Rex
+
+"slug_info_name_fuse_ghoul_burpy_ghoul_gas" = "Rigurgicolpo";
+"slug_info_power_fuse_ghoul_burpy_ghoul_gas" = "Fuoco e Veleno";
+"slug_info_description_fuse_ghoul_burpy_ghoul_gas" = "Provoca danno e riduce l'energia degli slug, oscurando il tabellone dell'avversario con nuvole di gas.";
+
+//Photomo and Aquafreak Fusion
+
+"slug_info_name_fuse_ghoul_phosphoro_ghoul_aquabeek" = "Divampacqua";
+"slug_info_power_fuse_ghoul_phosphoro_ghoul_aquabeek" = "Ombra oscura";
+"slug_info_description_fuse_ghoul_phosphoro_ghoul_aquabeek" = "Danneggia l'avversario e ti regala una sferzata di energia slug, dopo averla ridotta leggermente al momento dell'utilizzo.";
+
+//Briardrill and FrostFang Fusion
+
+"slug_info_name_fuse_ghoul_vinedrill_ghoul_frost" = "Vetrospina"; //Briar is a plant with prickly stems and Shard means broke peices or fragments
+"slug_info_power_fuse_ghoul_vinedrill_ghoul_frost" = "Vite e Ghiaccio oscuro";
+"slug_info_description_fuse_ghoul_vinedrill_ghoul_frost" = "Blocca e congela il tabellone dell'avversario e contemporaneamente blocca anche il tuo tabellone per breve tempo.";
+
+//Tempesto and Pyringo Fusion
+
+"slug_info_name_fuse_ghoul_tormato_ghoul_flaringo" = "Ondafalce"; // Scythe is a tool used for cutting and a Wave is a ridge of air
+"slug_info_power_fuse_ghoul_tormato_ghoul_flaringo" = "Ombra oscura";
+"slug_info_description_fuse_ghoul_tormato_ghoul_flaringo" = "Ondafalce crea un tornado provocando allo stesso tempo un danno di livello elevato. Danneggia anche il giocatore.";
+
+//Greneater and Attacknet Fusion
+
+"slug_info_name_fuse_ghoul_grenuke_ghoul_arachnet" = "Burrbomba"; // Burr is a rough sound and Bomb is an explosion
+"slug_info_power_fuse_ghoul_grenuke_ghoul_arachnet" = "Ombra oscura";
+"slug_info_description_fuse_ghoul_grenuke_ghoul_arachnet" = "Burrbomba aggiunge diverse bombe al tabellone dell'avversario, rallentando contemporaneamente i colpi dei suoi slug. Gli slug del giocatore vengono bloccati per un tempo limitato.";
+
+/* Ghoul Slug Info */
+
+// Ghoul Burpy
+"slug_info_name_ghoul_burpy" = "Darkfurnus";
+"slug_info_power_ghoul_burpy" = "Fuoco";
+"slug_info_description_ghoul_burpy" = "Potente e rarissimo slug di fuoco, Darkfurnus colpisce l'avversario con un colpo Pyroscuro, ma infligge danni anche al tuo personaggio.";
+
+// Ghoul Frost
+"slug_info_name_ghoul_frost" = "Frostfang";
+"slug_info_power_ghoul_frost" = "Ghiaccio scuro";
+"slug_info_description_ghoul_frost" = "Frostfang utilizza la sua mossa Scivolagelo per congelare l'avversario con un colpo potente, ma non crea alcuna parete di ghiaccio.";
+
+// Ghoul Gas
+"slug_info_name_ghoul_gas" = "Flatulo Rex";
+"slug_info_power_ghoul_gas" = "Tanfo tossico";
+"slug_info_description_ghoul_gas" = "Flatulo Rex colpisce l'avversario con l'attacco Paretepuzzosa, rilasciando un fetore disgustoso al contatto che infligge danni e prosciuga gli slug dell'avversario mentre nasconde lo schema dietro a nuvole di gas.";
+
+// Ghoul Tazer
+"slug_info_name_ghoul_tazer" = "Amperling";
+"slug_info_power_ghoul_tazer" = "Zapzap";
+"slug_info_description_ghoul_tazer" = "Amperling attacca usando la sua mossa Ampershock: infligge gravi danni e stordisce l'avversario mentre blocca i tuoi slug per qualche secondo.";
+
+// Ghoul Aquabeek
+"slug_info_name_ghoul_aquabeek" = "Aquafreak";
+"slug_info_power_ghoul_aquabeek" = "Acqua Tetra";
+"slug_info_description_ghoul_aquabeek" = "Utilizzando il suo attacco Aquablade, Aquafreak colpisce l'avversario a grandissima velocità, lo danneggia ma allunga anche i tempi di carica.";
+
+// Ghoul Arachnet
+"slug_info_name_ghoul_arachnet" = "Attacknet";
+"slug_info_power_ghoul_arachnet" = "Dark Web";
+"slug_info_description_ghoul_arachnet" = "Con la sua mossa Constrictor, Attacknet imprigiona gli avversari danneggiandoli e rallentando i loro slug; contemporaneamente, blocca i tuoi slug per un tempo limitato.";
+
+// Ghoul Flaringo
+"slug_info_name_ghoul_flaringo" = "Pyringo";
+"slug_info_power_ghoul_flaringo" = "Fiamma Nera";
+"slug_info_description_ghoul_flaringo" = "L'arma segreta di Pyringo è l'attacco Beatseeker, che danneggia gli avversari ma anche il tuo personaggio.";
+
+
+// Ghoul Grenuke
+"slug_info_name_ghoul_grenuke" = "Greneater";
+"slug_info_power_ghoul_grenuke" = "Bomba Sporca";
+"slug_info_description_ghoul_grenuke" = "Greneater aggiunge varie bombe Spikesploder che danneggiano il tabellone dell'avversario allungando anche i tempi di carica.";
+
+//Ghoul Jellyish
+"slug_info_name_ghoul_jellyish" = "Jollyfist";
+"slug_info_power_ghoul_jellyish" = "Appicci-cosa";
+"slug_info_description_ghoul_jellyish" = "Jollyfist utilizza la sua mossa Exo-tox per infliggere danni e rallentare l'avversario.";
+
+// Ghoul Lock
+"slug_info_name_ghoul_lock" = "Briardrill";
+"slug_info_power_ghoul_lock" = "Rampicante";
+"slug_info_description_ghoul_lock" = "Briardrill utilizza il suo attacco Thornlash per ingarbugliare il tabellone avversario con dei viticci chiodati.";
+
+// Ghoul Neotox
+"slug_info_name_ghoul_neotox" = "Neotox";
+"slug_info_power_ghoul_neotox" = "Nero Tossina";
+"slug_info_description_ghoul_neotox" = "Neurotox usa la sua mossa Toxiclysm per creare una raffica tossica che avvelena l'avversario e al contempo esaurisce la carica dei tuoi slug.";
+
+// Ghoul Panic
+"slug_info_name_ghoul_panic" = "Nightgeist";
+"slug_info_power_ghoul_panic" = "Ombra oscura";
+"slug_info_description_ghoul_panic" = "Nightgeist spaventa gli avversari, costringendoli a sparare tutti i loro slug in una sola volta ma esaurendo anche i tuoi slug.";
+
+// Ghoul Phosphoro
+"slug_info_name_ghoul_phosphoro" = "Photomo";
+"slug_info_power_ghoul_phosphoro" = "Fotone Oscuro";
+"slug_info_description_ghoul_phosphoro" = "Mentre vola, Photomo esaurisce la carica dei tuoi slug, ma ti regala anche una sferzata di energia slug quando danneggia l'avversario.";
+
+// Ghoul Rammstone
+"slug_info_name_ghoul_rammstone" = "Grimmstone";
+"slug_info_power_ghoul_rammstone" = "Roccia";
+"slug_info_description_ghoul_rammstone" = "Grimmstone riflette il primo slug con cui si scontra mentre trasforma in pietra alcune tessere del giocatore per un periodo di tempo limitato.";
+
+// Ghoul Thresher
+"slug_info_name_ghoul_thresher" = "Thrasher";
+"slug_info_power_ghoul_thresher" = "Taglio e gnam";
+"slug_info_description_ghoul_thresher" = "Thrasher diventa più debole quando Eli è ferito.";
+
+// Ghoul Tormato
+"slug_info_name_ghoul_tormato" = "Tempesto";
+"slug_info_power_ghoul_tormato" = "Ombra oscura";
+"slug_info_description_ghoul_tormato" = "Quando colpisce l'avversario crea un tornado che riflette l'effetto di uno degli slug dell'avversario quando utilizzato.";
+
+// Ghoul Doc
+"slug_info_name_ghoul_doc" = "Doc Goon";
+"slug_info_power_ghoul_doc" = "Oscuro";
+"slug_info_description_ghoul_doc" = "Doc Goon danneggia il giocatore e lo guarisce quando si scontra con slug di livello inferiore e quando colpisce l'avversario.";
+
+// Ghoul Makobreaker
+"slug_info_name_ghoul_makobreaker" = "Megabreaker";
+"slug_info_power_ghoul_makobreaker" = "Acqua Tetra";
+"slug_info_description_ghoul_makobreaker" = "La potenza di Megabreaker aumenta divorando colpi di blaster e slug di livello inferiore; allo stesso tempo, però, danneggia anche il giocatore.";
+
+// Ghoul Yang
+//"slug_info_name_ghoul_yang" = "Negablade";
+//"slug_info_power_ghoul_yang" = "Shadow";
+//"slug_info_description_yang" = "Negablade uses its Darkwraith move to confuse opponents by clouding their vision.";
+
+/* Megamorphs */
+
+//Burpy Megamorph
+"slug_info_name_mega_burpy" = "Infuocato Megamorph";
+"slug_info_power_mega_burpy" = "Fuoco";
+"slug_info_description_mega_burpy" = "La massima evoluzione, Infuocato Megamorph crea una tempesta di fuoco fuso man mano che attraversa il campo di battaglia come una scheggia.";
+
+//Frost Megamorph
+"slug_info_name_mega_frost" = "Ghiacciolai Megamorph";
+"slug_info_power_mega_frost" = "Ghiaccio";
+"slug_info_description_mega_frost" = "La massima evoluzione, Ghiacciolai Megamorph crea una parete di ghiaccio difensiva e congela rapidamente l'avversario all'impatto.";
+
+//Tazerling Megamorph
+"slug_info_name_mega_tazer" = "Slug Scossa Megamorph";
+"slug_info_power_mega_tazer" = "Elettricità";
+"slug_info_description_mega_tazer" = "La massima evoluzione, Slug Scossa Megamorph genera una potente tempesta elettrica mentre attraversa fulmineo il campo di battaglia per infliggere pesanti danni e stordire l'avversario.";
+
+//Flatulorhinkus Megamorph
+"slug_info_name_mega_gas" = "Slug Puzzone Megamorph";
+"slug_info_power_mega_gas" = "Veleno";
+"slug_info_description_mega_gas" = "La massima evoluzione, Slug Puzzone Megamorph utilizza la pressione interna per attraversare fulmineo il campo di battaglia e rilascia una nube tossica che danneggia l'avversario.";
+
+//Megamorph Arachnet
+"slug_info_name_mega_arachnet" = "Ragno Slug Megamorph";
+"slug_info_power_mega_arachnet" = "Terra";
+"slug_info_description_mega_arachnet" = "Ultimissima evoluzione di questo slug, Ragno Slug Megamorph crea una ragnatela che provoca gravi danni e rallenta notevolmente gli slug dell'avversario.";
+
+//Megamorph Tormato
+"slug_info_name_mega_tormato" = "Tormato Megamorph ";
+"slug_info_power_mega_tormato" = "Terra";
+"slug_info_description_mega_tormato" = "Ultimissima evoluzione di questo slug, Tormato Megamorph riflette gli slug dell'avversario.";
+
+//Megamorph Grenuke
+"slug_info_name_mega_grenuke" = "Bomba slug Megamorph";
+"slug_info_power_mega_grenuke" = "Fuoco";
+"slug_info_description_mega_grenuke" = "Ultimissima evoluzione di questo slug, Bomba slug Megamorph aggiunge al tabellone dell'avversario bombe che provocano gravi danni se non vengono rimosse in tempo.";
+
+//Megamorph Thresher
+"slug_info_name_mega_thresher" = "Battitore Megamorph";
+"slug_info_power_mega_thresher" = "Metallo";
+"slug_info_description_mega_thresher" = "Ultimissima evoluzione di questo slug, Battitore Megamorph diventa nettamente più potente quando il giocatore è ferito.";
+
+//Megamorph Boon Doc
+"slug_info_name_mega_doc" = "Doc Boon Megamorph";
+"slug_info_power_mega_doc" = "Luce";
+"slug_info_description_mega_doc" = "Ultimissima evoluzione di questo slug, Doc Boon Megamorph utilizza i suoi poteri per guarire il giocatore mentre è in volo.";
+
+
+/* End Slug Info Box */
+
+/* Booster Info */
+
+// blaster_damage
+"booster_info_name_blaster_damage" = "Danno blaster";
+"booster_info_description_blaster_damage" = "Moltiplica il danno provocato dai colpi del tuo blaster.";
+
+"booster_info_name_blaster_velocity" = "Velocità blaster";
+"booster_info_description_blaster_velocity" = "Aumenta la velocità dei tuoi slug e dei colpi blaster.";
+
+"booster_info_name_autocharge" = "Autoricarica slug";
+"booster_info_description_autocharge" = "Gli slug si ricaricano automaticamente durante la sfida.";
+
+"booster_info_name_pre_igniter" = "Precarica slug";
+"booster_info_description_pre_igniter" = "All'inizio della partita i tuoi slug sono completamente carichi.";
+
+"booster_info_name_max_level" = "Moltiplicatore slug";
+"booster_info_description_max_level" = "Per la durata di una partita i tuoi slug passano al livello 3.";
+
+/* End Booster Info */
+
+
+/* Game Mod */
+
+"gamemod_info_name_blaster_damage" = "Danno blaster";
+"gamemod_info_name_blaster_damage_one" = "Danno blaster";
+"gamemod_info_description_blaster_damage" = "Danno doppio su tutti i colpi di base";
+
+"gamemod_info_name_autocharge" = "Autoricarica";
+"gamemod_info_name_autocharge_one" = "Autoricarica liv 1";
+"gamemod_info_name_autocharge_two" = "Autoricarica liv 2";
+"gamemod_info_name_autocharge_three" = "Autoricarica liv 3";
+"gamemod_info_description_autocharge" = "Gli slug si caricano automaticamente";
+
+"gamemod_info_name_pre_igniter" = "Precarica slug";
+"gamemod_info_name_pre_igniter_one" = "Precarica slug";
+"gamemod_info_description_pre_igniter" = "Gli slug iniziano completamente carichi.";
+
+"gamemod_info_name_blaster_velocity" = "Velocità blaster";
+"gamemod_info_name_blaster_velocity_one" = "Velocità blaster";
+"gamemod_info_description_blaster_velocity" = "Tutti i colpi hanno una velocità maggiore";
+
+"gamemod_info_name_no_blasters" = "Nessun blaster";
+"gamemod_info_name_no_blasters_one" = "Nessun blaster";
+"gamemod_info_description_no_blasters" = "Nessuna tessera blaster sul tabellone";
+
+"gamemod_info_name_no_health" = "Nessuna tessera cura";
+"gamemod_info_name_no_health_one" = "Nessuna tessera cura";
+"gamemod_info_description_no_health" = "Nessuna tessera cura sul tabellone";
+
+/* End Game Mod */
+
+
+/* Basic Shot Info */
+
+"basic_shot_info_name_basicShot" = "Colpo base";
+"basic_shot_info_name_acidGreen" = "Verde acido";
+"basic_shot_info_name_lightning" = "Colpo di fulmine";
+"basic_shot_info_name_majorLazer" = "Super laser";
+"basic_shot_info_name_sonicBoom" = "Bang sonico";
+"basic_shot_info_name_snot" = "Spruzzo acido";
+"basic_shot_info_name_sparkleBlade" = "Spada scintillante";
+"basic_shot_info_name_pinkerton" = "Mille bolle";
+"basic_shot_info_name_blueBird" = "Uccello del Paradiso";
+"basic_shot_info_name_violentRed" = "Rosso missile";
+"basic_shot_info_name_mellowYellow" = "Giallo paglierino";
+"basic_shot_info_name_royalPurple" = "Potere rosa";
+"basic_shot_info_name_oranges" = "Codice arancio";
+"basic_shot_info_name_tealBerry" = "Mirtillo";
+
+/* End Basic Shot Info */
+
+
+/* Character Names */
+
+"char_eli_name" = "Eli Shane";
+
+/* End Character Names */
+
+
+/* Destructible Character Names */
+
+"char_dummy_name" = "Dummy";
+"char_ghoulstation_name" = "Stazione fantasma";
+"char_trixiecage_name" = "La gabbia di Trixie";
+"char_door_name" = "";
+
+/* End Destructible Character Names */
+
+
+/* Opponent Names */
+
+"char_arclight_name" = "Shockwire";
+"char_guardbig1_name" = "Mr. Orange";
+"char_bigguard3_name" = "Han del Bar";
+"char_billy_name" = "Billy";
+"char_blakk_name" = "Dottor Blakk";
+"char_cajun_name" = "Jaques";
+"char_fav_name" = "Fav";
+"char_fire_name" = "Flame";
+"char_frost_name" = "Frost";
+"char_gabe_name" = "Gabe";
+"char_glasses_name" = "Glasses";
+"char_goon2_name" = "Locke";
+"char_goon3_name" = "Lode";
+"char_goon4_name" = "Boon the Goon";
+"char_goon_name" = "Sid the Kid";
+"char_guard_name" = "Operatore Omega
+";
+"char_jackbull_name" = "Jack Bull";
+"char_kingofsling_name" = "Re dello Sling";
+"char_kord_name" = "Kord";
+"char_marcus_name" = "Marcus";
+"char_mrsaturday_name" = "Mr. Saturday";
+"char_munch_name" = "Masticone";
+"char_nacho_name" = "Nacho";
+"char_pronto_name" = "Pronto";
+"char_robo2_name" = "Doombot 2.0";
+"char_robo_name" = "Doombot 1.0";
+"char_sedo_name" = "Sedo";
+"char_shadow_name" = "Clan dell'Ombra";
+"char_shorty_name" = "Shorty";
+"char_trixie_name" = "Trixie";
+"char_turret_name" = "Turret";
+"char_mei_name" = "Mei";
+
+// Chapter 6
+"char_voodoo_name" = "Hudu Vudu";
+"char_zombieguard_name" = "Zombied Guard";
+"char_securitygun_name" = "Auto-Cannon";
+"char_zombiechef_name" = "Zombied Chef";
+"char_inmate_name" = "Snitch";
+"char_inmate2_name" = "Dead-Eye";
+"char_turtle_name" = "Turtleton";
+"char_horn_name" = "Minotaurus";
+"char_spirex_name" = "Spirex";
+"char_madmax_name" = "Max The Madder";
+
+"char_angryblakk_name" = "Dottor Blakk Furia";
+"char_dunno_name" = "Io sono Errore";
+
+/* Chapter 7 */
+"char_guard_mech_name" = "Squadrone Omicron";
+"char_boat_pirates_name" = "Karl e Charlie";
+"char_pirate1_name" = "Nat il cumpa";
+"char_pirate_girl_name" = "Capitan Ridley";
+"char_shark_name" = "Tano lo Squalo";
+"char_pirate2_name" = "Avaster Plume";
+"char_cannon_name" = "Boo Cannoniere";
+"char_gator_name" = "Gator";
+"char_fang_name" = "Artiglio";
+"char_watts_name" = "Watts";
+"char_drake_name" = "Malvolio Drake";
+"char_eli_mech_name" = "Eli Shane";
+
+/* Chapter 8*/
+"char_evileli_name" = "Alias";
+"char_evilkord_name" = "Jeen";
+"char_eviltrixie_name" = "Trap";
+"char_mechamole_name" = "Robotalpa";
+
+/* Chapter 9*/
+"char_will_name" ="Will Shane";
+"char_fakeduelist_name" = "Sfidante errante";
+"char_shanai_name" = "Mastro invincibile";
+"char_twist_name" = "Twist";
+"char_young_blakk_name" = "Blakk giovane";
+"char_blakk_gat_name" = "Dottor Blakk";
+"char_master_name" = "Mastro invincibile";
+
+/* Chapter 10*/
+"char_scrapheepgang01_name" = "Straggus";
+"char_scrapheepgang02_name" = "Mongo";
+"char_scrapheepgang03_name" = "Saldo Osvaldo";
+"char_scrapheepgang04_name" = "Stefanino";
+"char_bossember_name" = "Boss Ember";
+"char_angrybossember_name" = "Boss Ember infuriato";
+
+/* Chapter 12*/
+"char_guard2_name" = "Operatore Omega";
+"char_darkbane_soldier1_name" = "Murg";
+"char_darkbane_soldier2_name" = "Drek";
+"char_darkbane_soldier3_name" = "Durtag";
+"char_shadowclanleader_name" = "Protettore del clan";
+"char_darkbane_soldier4_name" = "Grog";
+"char_darkbane_soldier5_name" = "Stragg";
+"char_darkbane_prison_guard_name" = "Guardia";
+"char_darkbane_nacho_name" = "Capitano";
+
+/* Chapter 13*/
+"char_darkbane_soldier6_name" = "Borbott delle Creature Oscure";
+"char_darkbane_soldier_elite1_name" = "Darkbane Elite 1";
+"char_darkbane_soldier_elite2_name" = "Darkbane Elite 2";
+"char_behemoth_name" = "Behemoth";
+"char_darkbanebrimstone_name" = "Brimstone";
+"char_angrynacho_name" = "Nacho";
+
+/* Chapter 15*/
+"char_hostile_miner_name" = "Il minatore collerico";
+"char_foreman_name" = "Il caposquadra";
+"char_viggo_minion1_name" = "Sua Pesantezza";
+"char_viggo_minion2_name" = "Il topo";
+"char_viggo_name" = "Viggo Coraggio";
+"char_viggo1_name" = "Sua Pesantezza";
+"char_viggo2_name" = "Il topo";
+
+/* Chapter 16*/
+"char_titan_name" = "Titano";
+"char_guard3_name" = "Guardia Bob";
+
+
+/* Chapter 17*/
+"char_redhook_name" = "Red Hook";
+"char_technician_name" = "Tecnico";
+
+
+/* End Opponent Names */
+
+
+
+/***** Game *****/
+
+/* Game Common */
+
+// score screen coin breakdown
+// the amount of coins earned per encounter is broken down into sections:
+// eg. "Victory   10 coins"
+//     "Badges     5 coins"
+//     "Bonus      5 coins"
+"game_coins_breakdown_victory" = "Vittoria";     // story
+"game_coins_breakdown_badges" = "Badge";       // story, bonus
+"game_coins_breakdown_achievements" = "Imprese"; // story
+"game_coins_breakdown_bonus" = "Bonus";         // endless
+"game_coins_breakdown_base" = "Base";           // treasure
+"game_coins_breakdown_damage" = "Danno";       // treasure
+"game_coins_breakdown_destroy" = "Distruggi";     // treasure
+"game_coins_breakdown_total" = "TOTALE";         // TOTALE
+
+/* End Game Common */
+
+
+
+/* Tutorials */
+
+"game_tutorial_tip_match" = "Partita"; // displayed on a tip box, informing the player to match some number of tiles
+"game_tutorial_tip_move_1" = "Sposta 1 tessera!"; // tip telling the player to move 1 tile
+"game_tutorial_tip_move_n" = "Sposta %i tessere!"; // tip telling player to move more than 1 tile.
+"game_tutorial_tip_survive" = "per sopravvivere!";
+
+/* End Tutorials */
+
+
+
+/* Treasure Game */
+
+//"game_treasure_times_up" = "Time's Up!";
+//"game_treasure_well_done" = "Well Done!";
+
+/* End Treasure Game */
+
+/***** Local Push Notification *****/
+//Haven't logged in for 1 week: 500 coins
+"log_in_1_week" = "I tuoi slug hanno un regalo per te! Accedi per ottenere monete GRATIS!";
+//Haven't logged in for 1 week: 800 coins
+"log_in_2_week" = "I tuoi slug hanno un regalo per te! Accedi per ottenere monete GRATIS!";
+//Haven't logged in for 1 week: 1500 coins
+"log_in_1_month" = "I tuoi slug hanno un regalo per te! Accedi per ottenere monete GRATIS!";
+//Haven't logged in for 1 week: 3000 coins
+"log_in_2_month" = "I tuoi slug hanno un regalo per te! Accedi per ottenere monete GRATIS!";
+//Haven't logged in for 1 week: 5000 coins
+"log_in_6_month" = "I tuoi slug hanno un regalo per te! Accedi per ottenere monete GRATIS!";
+
+"localpush_reward_popup" = "I tuoi slug hanno un regalo per te!";
+"localpush_reward_coins" = "monete";
+
+/***** Daily Gifts Notification *****/
+"daily_challenges_now" = "Sfide quotidiane ora disponibili! Gioca per vincere slug GRATUITI!";
+"daily_gift_coins" = "Regalo quotidiano ora disponibile! Accedi per ottenere monete GRATIS!";
+"daily_gift_boosters" = "Regalo quotidiano ora disponibile! Accedi per ottenere un potenziatore GRATUITO!";
+"daily_gift_blaster_damage" = "Regalo quotidiano ora disponibile! Accedi per ottenere un potenziatore Danno blaster GRATUITO!";
+"daily_gift_blaster_speed" = "Regalo quotidiano ora disponibile! Accedi per ottenere un potenziatore Velocità blaster GRATUITO!";
+"daily_gift_auto_charger" = "Regalo quotidiano ora disponibile! Accedi per ottenere un'autoricarica slug GRATUITA!";
+"daily_gift_pre_igniter" = "I tuoi slug hanno un regalo per te! Accedi per ottenere una precarica GRATUITA!";
+"slug_gift_coins" = "I tuoi slug hanno un regalo per te! Accedi per ottenere monete GRATIS!";
+
+/***** Video Ad Confirmation Box *****/
+"video_ad_title" = "";
+"video_ad_description" = "Vuoi guardare un video per guadagnare gettoni extra?";
+"video_ad_watch_button" = "Sì";
+"video_ad_thank_you" = "Congratulazioni! Hai vinto";
+"video_ad_150_coins" = "Guarda un video per ottenere 150 monete gratuite!";
+"video_ad_200_coins" = "Guarda un video per ottenere 200 monete gratuite!";
+
+/***** SlugSeeker *****/
+
+"name_cavern_slug_seeker_name" = "Cercatore di slug";
+
+/* Cavern 1 */
+"cv_cavern1_name" = "Herringbone Cavern";
+"cv_cavern1_subtitle" = "";
+
+//Encounter 1
+"enc_cv1e1_title" = "Duello 1";
+
+//Encounter 2
+"enc_cv1e2_title" = "Duello 2";
+
+//Encounter 3
+"enc_cv1e3_title" = "Duello 3";
+
+//Encounter 4
+"enc_cv1e4_title" = "Duello 4";
+
+//Encounter 5
+"enc_cv1e5_title" = "Round bonus";
+
+//Encounter 6
+"enc_cv1e6_title" = "Duello 6";
+
+//Encounter 7
+"enc_cv1e7_title" = "Duello 7";
+
+//Encounter 8
+"enc_cv1e8_title" = "Duello 8";
+
+//Encounter 9
+"enc_cv1e9_title" = "Duello 9";
+
+//Encounter 10
+"enc_cv1e10_title" = "Round bonus";
+
+//Encounter 11
+"enc_cv1e11_title" = "Duello 11";
+
+//Encounter 12
+"enc_cv1e12_title" = "Duello 12";
+
+//Encounter 13
+"enc_cv1e13_title" = "Duello 13";
+
+//Encounter 14
+"enc_cv1e14_title" = "Duello 14";
+
+//Encounter 15
+"enc_cv1e15_title" = "Round bonus";
+
+/* End Cavern 1 */
+
+/* Cavern 2 */
+"cv_cavern2_name" = "Ai margini oscuri";
+"cv_cavern2_subtitle" = "";
+
+//Encounter 1
+"enc_cv2e1_title" = "Duello 1";
+
+//Encounter 2
+"enc_cv2e2_title" = "Duello 2";
+
+//Encounter 3
+"enc_cv2e3_title" = "Duello 3";
+
+//Encounter 4
+"enc_cv2e4_title" = "Duello 4";
+
+//Encounter 5
+"enc_cv2e5_title" = "Round bonus";
+
+//Encounter 6
+"enc_cv2e6_title" = "Duello 6";
+
+//Encounter 7
+"enc_cv2e7_title" = "Duello 7";
+
+//Encounter 8
+"enc_cv2e8_title" = "Duello 8";
+
+//Encounter 9
+"enc_cv2e9_title" = "Duello 9";
+
+//Encounter 10
+"enc_cv2e10_title" = "Round bonus";
+
+//Encounter 11
+"enc_cv2e11_title" = "Duello 11";
+
+//Encounter 12
+"enc_cv2e12_title" = "Duello 12";
+
+//Encounter 13
+"enc_cv2e13_title" = "Duello 13";
+
+//Encounter 14
+"enc_cv2e14_title" = "Duello 14";
+
+//Encounter 15
+"enc_cv2e15_title" = "Round bonus";
+
+/* End Cavern 2 */
+
+/* Cavern 3 */
+"cv_cavern3_name" = "Deep Caverns";
+"cv_cavern3_subtitle" = "";
+
+//Encounter 1
+"enc_cv3e1_title" = "Duello 1";
+
+//Encounter 2
+"enc_cv3e2_title" = "Duello 2";
+
+//Encounter 3
+"enc_cv3e3_title" = "Duello 3";
+
+//Encounter 4
+"enc_cv3e4_title" = "Duello 4";
+
+//Encounter 5
+"enc_cv3e5_title" = "Round bonus";
+
+//Encounter 6
+"enc_cv3e6_title" = "Duello 6";
+
+//Encounter 7
+"enc_cv3e7_title" = "Duello 7";
+
+//Encounter 8
+"enc_cv3e8_title" = "Duello 8";
+
+//Encounter 9
+"enc_cv3e9_title" = "Duello 9";
+
+//Encounter 10
+"enc_cv3e10_title" = "Round bonus";
+
+//Encounter 11
+"enc_cv3e11_title" = "Duello 11";
+
+//Encounter 12
+"enc_cv3e12_title" = "Duello 12";
+
+//Encounter 13
+"enc_cv3e13_title" = "Duello 13";
+
+//Encounter 14
+"enc_cv3e14_title" = "Duello 14";
+
+//Encounter 15
+"enc_cv3e15_title" = "Round bonus";
+
+/* End Cavern 3 */
+
+/* Cavern 4 */
+"cv_cavern4_name" = "Il ballo di Natale degli slug";
+"cv_cavern4_subtitle" = "";
+
+//Encounter 1
+"enc_cv4e1_title" = "Duello 1";
+
+//Encounter 2
+"enc_cv4e2_title" = "Duello 2";
+
+//Encounter 3
+"enc_cv4e3_title" = "Duello 3";
+
+//Encounter 4
+"enc_cv4e4_title" = "Duello 4";
+
+//Encounter 5
+"enc_cv4e5_title" = "Round bonus";
+
+//Encounter 6
+"enc_cv4e6_title" = "Duello 6";
+
+//Encounter 7
+"enc_cv4e7_title" = "Duello 7";
+
+//Encounter 8
+"enc_cv4e8_title" = "Duello 8";
+
+//Encounter 9
+"enc_cv4e9_title" = "Duello 9";
+
+//Encounter 10
+"enc_cv4e10_title" = "Round bonus";
+
+//Encounter 11
+"enc_cv4e11_title" = "Duello 11";
+
+//Encounter 12
+"enc_cv4e12_title" = "Duello 12";
+
+//Encounter 13
+"enc_cv4e13_title" = "Duello 13";
+
+//Encounter 14
+"enc_cv4e14_title" = "Duello 14";
+
+//Encounter 15
+"enc_cv4e15_title" = "Round bonus";
+
+/* End Cavern 4 */
+
+
+/* Cavern 5 */
+"cv_cavern5_name" = "Dojang Grotto";
+"cv_cavern5_subtitle" = "";
+
+//Encounter 1
+"enc_cv5e1_title" = "Duello 1";
+
+//Encounter 2
+"enc_cv5e2_title" = "Duello 2";
+
+//Encounter 3
+"enc_cv5e3_title" = "Duello 3";
+
+//Encounter 4
+"enc_cv5e4_title" = "Duello 4";
+
+//Encounter 5
+"enc_cv5e5_title" = "Round bonus";
+
+//Encounter 6
+"enc_cv5e6_title" = "Duello 6";
+
+//Encounter 7
+"enc_cv5e7_title" = "Duello 7";
+
+//Encounter 8
+"enc_cv5e8_title" = "Duello 8";
+
+//Encounter 9
+"enc_cv5e9_title" = "Duello 9";
+
+//Encounter 10
+"enc_cv5e10_title" = "Round bonus";
+
+//Encounter 11
+"enc_cv5e11_title" = "Duello 11";
+
+//Encounter 12
+"enc_cv5e12_title" = "Duello 12";
+
+//Encounter 13
+"enc_cv5e13_title" = "Duello 13";
+
+//Encounter 14
+"enc_cv5e14_title" = "Duello 14";
+
+//Encounter 15
+"enc_cv5e15_title" = "Round bonus";
+
+/* End Cavern 5 */
+
+/* Cavern 6 */
+"cv_cavern6_name" = "Spore Selvagge";
+"cv_cavern6_subtitle" = "";
+
+//Encounter 1
+"enc_cv6e1_title" = "Duello 1";
+
+//Encounter 2
+"enc_cv6e2_title" = "Duello 2";
+
+//Encounter 3
+"enc_cv6e3_title" = "Duello 3";
+
+//Encounter 4
+"enc_cv6e4_title" = "Duello 4";
+
+//Encounter 5
+"enc_cv6e5_title" = "Round bonus";
+
+//Encounter 6
+"enc_cv6e6_title" = "Duello 6";
+
+//Encounter 7
+"enc_cv6e7_title" = "Duello 7";
+
+//Encounter 8
+"enc_cv6e8_title" = "Duello 8";
+
+//Encounter 9
+"enc_cv6e9_title" = "Duello 9";
+
+//Encounter 10
+"enc_cv6e10_title" = "Round bonus";
+
+//Encounter 11
+"enc_cv6e11_title" = "Duello 11";
+
+//Encounter 12
+"enc_cv6e12_title" = "Duello 12";
+
+//Encounter 13
+"enc_cv6e13_title" = "Duello 13";
+
+//Encounter 14
+"enc_cv6e14_title" = "Duello 14";
+
+//Encounter 15
+"enc_cv6e15_title" = "Round bonus";
+
+/* End Cavern 6 */
+
+/* Cavern 7 */
+"cv_cavern7_name" = "Caverna di risacca";
+"cv_cavern7_subtitle" = "";
+
+//Encounter 1
+"enc_cv7e1_title" = "Duello 1";
+
+//Encounter 2
+"enc_cv7e2_title" = "Duello 2";
+
+//Encounter 3
+"enc_cv7e3_title" = "Duello 3";
+
+//Encounter 4
+"enc_cv7e4_title" = "Duello 4";
+
+//Encounter 5
+"enc_cv7e5_title" = "Round bonus";
+
+//Encounter 6
+"enc_cv7e6_title" = "Duello 6";
+
+//Encounter 7
+"enc_cv7e7_title" = "Duello 7";
+
+//Encounter 8
+"enc_cv7e8_title" = "Duello 8";
+
+//Encounter 9
+"enc_cv7e9_title" = "Duello 9";
+
+//Encounter 10
+"enc_cv7e10_title" = "Round bonus";
+
+//Encounter 11
+"enc_cv7e11_title" = "Duello 11";
+
+//Encounter 12
+"enc_cv7e12_title" = "Duello 12";
+
+//Encounter 13
+"enc_cv7e13_title" = "Duello 13";
+
+//Encounter 14
+"enc_cv7e14_title" = "Duello 14";
+
+//Encounter 15
+"enc_cv7e15_title" = "Round bonus";
+
+/* End Cavern 7 */
+
+
+
+/***** Story *****/
+
+/* Treasure Chapter */
+
+//"ch_treasure_name" = "Treasure";
+//"ch_treasure_subtitle" = "";
+
+// encounters
+//"enc_treasure_large_title" = "Treasure Chamber";
+//"enc_treasure_small_title" = "Treasure Den";
+
+/* End Treasure Chapter */
+
+/* Chapter 1 */
+"ch_chapter1_name" = "Capitolo 1";
+"ch_chapter1_subtitle" = "Addestramento";
+
+//Encounter 1
+"enc_c1e1_title" = "Troll delle Caverne";
+
+//Encounter 2
+"enc_c1e2_title" = "In cura";
+
+//Encounter 3
+"enc_c1e3_title" = "Slinger di slug";
+
+//Encounter 4
+"enc_c1e4_title" = "Pronto il Magnifico";
+
+/* End Chapter 1 */
+
+
+
+/* Chapter 2 */
+
+"ch_chapter2_name" = "Capitolo 2";
+"ch_chapter2_subtitle" = "Il Torneo";
+
+//Encounter 1
+"enc_c2e1_title" = "Primo round";
+
+//Encounter 2
+"enc_c2e2_title" = "Un raffreddore";
+
+//Encounter 3
+"enc_c2e3_title" = "Luci, motore, azione!";
+
+//Encounter 4
+"enc_c2e4_title" = "Parafulmine";
+
+//Encounter 5
+"enc_c2e5_title" = "Re e giullari";
+
+//Encounter 6
+"enc_c2e6_title" = "Quarti di finale";
+
+//Encounter 7
+"enc_c2e7_title" = "In triplice copia";
+
+
+
+//Encounter 8
+"enc_c2e8_title" = "Attenzione!";
+
+//Encounter 9
+"enc_c2e9_title" = "Round bonus";
+
+//Encounter 10
+"enc_c2e10_title" = "Intervallo";
+
+//Encounter 11
+"enc_c2e11_title" = "Il toro";
+
+/* End Chapter 2 */
+
+
+
+/* Chapter 3 */
+"ch_chapter3_name" = "Capitolo 3";
+"ch_chapter3_subtitle" = "La Hooligang";
+
+//Encounter 1
+"enc_c3e1_title" = "Rapito";
+
+//Encounter 2
+"enc_c3e2_title" = "Vendetta";
+
+
+
+//Encounter 3
+"enc_c3e3_title" = "Dusty Gulch";
+
+//Encounter 4
+"enc_c3e4_title" = "Mercenario";
+
+//Encounter 5
+"enc_c3e5_title" = "Scambio talpa";
+
+//Encounter 6
+"enc_c3e6_title" = "La venuta del Regno";
+
+//Encounter 7
+"enc_c3e7_title" = "Vetri rotti";
+
+//Encounter 8
+"enc_c3e8_title" = "Preparativi";
+
+//Encounter 9
+"enc_c3e9_title" = "La Hooligang";
+
+
+
+//Encounter 10
+"enc_c3e10_title" = "Round bonus";
+
+//Encounter 11
+"enc_c3e11_title" = "Catena di comando";
+
+
+/* End Chapter 3 */
+
+
+
+/* Chapter 4 */
+
+"ch_chapter4_name" = "Capitolo 4";
+"ch_chapter4_subtitle" = "Tra le fiamme";
+
+//Encounter 1
+"enc_c4e1_title" = "Clan dell'Ombra";
+
+//Encounter 2
+"enc_c4e2_title" = "Rivincita";
+
+//Encounter 3
+"enc_c4e3_title" = "Mettiamoci a tavola";
+
+//Encounter 4
+"enc_c4e4_title" = "Doombot 1.0";
+
+//Encounter 5
+"enc_c4e5_title" = "Lava ovunque";
+
+//Encounter 6
+"enc_c4e6_title" = "Potenza di fuoco";
+
+//Encounter 7
+"enc_c4e7_title" = "Blocco stradale";
+
+//Encounter 8
+"enc_c4e8_title" = "Ombre di Acqua Tetra";
+
+//Encounter 9
+"enc_c4e9_title" = "Il giorno più triste";
+
+//Encounter 10
+"enc_c4e10_title" = "Mano destra";
+
+//Encounter 11
+"enc_c4e11_title" = "Round bonus";
+
+/* End Chapter 4 */
+
+
+
+/* Chapter 5 */
+
+"ch_chapter5_name" = "Capitolo 5";
+"ch_chapter5_subtitle" = "Acqua di Blakk";
+
+//Encounter 1
+"enc_c5e1_title" = "Tocco terapeutico";
+
+//Encounter 2
+"enc_c5e2_title" = "Chi offre di più";
+
+//Encounter 3
+"enc_c5e3_title" = "Conflitto senza fine";
+
+//Encounter 4
+"enc_c5e4_title" = "Nuovo e migliorato";
+
+//Encounter 5
+"enc_c5e5_title" = "Attenzione attenzione";
+
+//Encounter 6
+"enc_c5e6_title" = "Ministero della Difesa";
+
+
+
+//Encounter 7
+"enc_c5e7_title" = "Masticone alla riscossa";
+
+//Encounter 8
+"enc_c5e8_title" = "Il momento di Locke";
+
+
+//Encounter 9
+"enc_c5e9_title" = "Mostri";
+
+//Encounter 10
+"enc_c5e10_title" = "Blackout";
+
+
+/* End Chapter 5 */
+
+
+
+/* Chapter 6 */
+
+"ch_chapter6_name" = "Capitolo 6";
+"ch_chapter6_subtitle" = "Il giorno del giudizio";
+
+//Encounter 1
+"enc_c6e1_title" = "Fregato";
+
+//Encounter 2
+"enc_c6e2_title" = "Round bonus";
+
+//Encounter 3
+"enc_c6e3_title" = "Evasione";
+
+//Encounter 4
+"enc_c6e4_title" = "Violazione di sicurezza";
+
+//Encounter 5
+"enc_c6e5_title" = "Cena";
+
+//Encounter 6
+"enc_c6e6_title" = "Rinculo!";
+
+//Encounter 7
+"enc_c6e7_title" = "Vendetta";
+
+//Encounter 8
+"enc_c6e8_title" = "A tutto mostro";
+
+
+
+//Encounter 9
+"enc_c6e9_title" = "Follia pura";
+
+//Encounter 10
+"enc_c6e10_title" = "La prova del fuoco";
+
+/* End Chapter 6 */
+
+/* Chapter 7 */
+
+"ch_chapter7_name" = "Capitolo 7";
+"ch_chapter7_subtitle" = "Avanti tutta";
+
+//Encounter 1
+"enc_c7e1_title" = "Flumes";
+
+//Encounter 2
+"enc_c7e2_title" = "Pirati!";
+
+//Encounter 3
+"enc_c7e3_title" = "La battuta vincente";
+
+//Encounter 4
+"enc_c7e4_title" = "Albero maestro";
+
+//Encounter 5
+"enc_c7e5_title" = "Il primo Capitano";
+
+//Encounter 6
+"enc_c7e6_title" = "Squali in acqua";
+
+//Encounter 7
+"enc_c7e7_title" = "Palla di cannone";
+
+//Encounter 8
+"enc_c7e8_title" = "Round bonus";
+
+//Encounter 9
+"enc_c7e9_title" = "Sulla banchina";
+
+//Encounter 10
+"enc_c7e10_title" = "Capitan Malvolio Drake";
+
+
+
+/* End Chapter 7 */
+
+/* Chapter 8 */
+
+"ch_chapter8_name" = "Capitolo 8";
+"ch_chapter8_subtitle" = "Il nuovo re";
+
+//Encounter 1
+"enc_c8e1_title" = "Il messaggio";
+
+//Encounter 2
+"enc_c8e2_title" = "Informazioni";
+
+//Encounter 3
+"enc_c8e3_title" = "Bim bum bam";
+
+//Encounter 4
+"enc_c8e4_title" = "Il regno della talpa";
+
+//Encounter 5
+"enc_c8e5_title" = "The Shame Gang";
+
+//Encounter 6
+"enc_c8e6_title" = "Imbroglione";
+
+//Encounter 7
+"enc_c8e7_title" = "Un vero peccato";
+
+//Encounter 8
+"enc_c8e8_title" = "Round bonus";
+
+//Encounter 9
+"enc_c8e9_title" = "Un re a ogni angolo";
+
+//Encounter 10
+"enc_c8e10_title" = "Potere alle talpe";
+
+/* End Chapter 8 */
+
+/* Chapter 9 */
+
+"ch_chapter9_name" = "Capitolo 9";
+"ch_chapter9_subtitle" = "Imbattibile";
+
+//Encounter 1 - The Trips
+"enc_c9e1_title" = "Tre sfidanti";
+
+//Encounter 2
+"enc_c9e2_title" = "Round bonus";
+
+//Encounter 3 - Sid the Kid
+"enc_c9e3_title" = "Indegno";
+
+//Encounter 4 - King of Sling
+"enc_c9e4_title" = "Re o Padrone";
+
+//Encounter 5 - Trixie
+"enc_c9e5_title" = "Con amici così";
+
+//Encounter 6 - Fake Duelist
+"enc_c9e6_title" = "L'uomo misterioso";
+
+//Encounter 7 - Unbeatable Master
+"enc_c9e7_title" = "La prova";
+
+//Encounter 8 - Young Dr. Blakk
+"enc_c9e8_title" = "C'era una volta";
+
+//Encounter 9 - Twist
+"enc_c9e9_title" = "Per-verso";
+
+//Encounter 10 - Dr. Blakk
+"enc_c9e10_title" = "Prima il maestro";
+
+/* End Chapter 9 */
+
+/* Chapter 10 */
+
+"ch_chapter10_name" = "Capitolo 10";
+"ch_chapter10_subtitle" = "In fondo in fondo";
+
+//Encounter 1 - Broken Auto-Cannon
+"enc_c10e1_title" = "Rottamazione";
+
+//Encounter 2 - Doombot 1.0 & Doombot 2.0
+"enc_c10e2_title" = "Il bot colpisce ancora";
+
+//Encounter 3 - Mecha-Mole
+"enc_c10e3_title" = "Mostro meccanico";
+
+//Encounter 4 - Tough Guy Gang Member #1 -
+"enc_c10e4_title" = "Tutti contro tutti";
+
+//Encounter 5 - Tough Guy Gang Member #2 - Welder
+"enc_c10e5_title" = "Territorio nemico";
+
+//Encounter 6 - Tough Guy Gang Member #3 - Neckbrace
+"enc_c10e6_title" = "Il prezzo dei rottami";
+
+//Encounter 7 - Tough Guy Gang Member #4 - Troll
+"enc_c10e7_title" = "Il più forte";
+
+//Encounter 8 - Boss Ember
+"enc_c10e8_title" = "Il grande Boss";
+
+//Encounter 9
+"enc_c10e9_title" = "Round bonus";
+
+//Encounter 10 - Angry Boss Ember
+"enc_c10e10_title" = "Il grandissimo Boss";
+
+/* End Chapter 10 */
+
+/* Chapter 11 */
+
+"ch_chapter11_name" = "Capitolo 11";
+"ch_chapter11_subtitle" = "Gli attaccabrighe";
+
+//Encounter 1 - Glasses
+"enc_c11e1_title" = "Noccioline!";
+
+//Encounter 2 - Shorty
+"enc_c11e2_title" = "Tagliuzzato";
+
+//Encounter 3 - Billy
+"enc_c11e3_title" = "La dieta di Billy";
+
+//Encounter 4 - Jeen
+"enc_c11e4_title" = "Distensioni su panca";
+
+//Encounter 5 - Trapsie
+"enc_c11e5_title" = "In trappola";
+
+//Encounter 6 - Alias
+"enc_c11e6_title" = "Il più affascinante";
+
+//Encounter 7 - Welder Walter and Lil Stevie
+"enc_c11e7_title" = "Malvagio";
+
+//Encounter 8 - Mongo
+"enc_c11e8_title" = "Volontariato";
+
+//Encounter 9 - Straggus
+"enc_c11e9_title" = "Lampadine fioche";
+
+//Encounter 10 - Billy, Alias and Straggus
+"enc_c11e10_title" = "Il potere dell'amicizia";
+
+/* End Chapter 11 */
+
+/* Chapter 12 */
+
+"ch_chapter12_name" = "Capitolo 12";
+"ch_chapter12_subtitle" = "Il grande buio";
+
+//Encounter 1 - Blakk Soldier & John Bull
+"enc_c12e1_title" = "All'angolo";
+
+//Encounter 2 - Nacho
+"enc_c12e2_title" = "Vertigini";
+
+//Encounter 3 - Darkbane Soldier 1
+"enc_c12e3_title" = "Palle di fuoco";
+
+//Encounter 4 - Darkbane Soldier 2
+"enc_c12e4_title" = "Roarrr";
+
+//Encounter 5 - Darkbane Soldier 3
+"enc_c12e5_title" = "Ancora palle di fuoco!";
+
+//Encounter 6 - Shadow Clan Protector
+"enc_c12e6_title" = "Guardiani";
+
+//Encounter 7 - Prison Door
+"enc_c12e7_title" = "Scelte difficili";
+
+//Encounter 8 - Prison Guards
+"enc_c12e8_title" = "Suona l'allarme";
+
+//Encounter 9 - Prison Warden
+"enc_c12e9_title" = "Versi da prigione";
+
+//Encounter 10 - Darkbane Nacho
+"enc_c12e10_title" = "Mano destra";
+
+/* End Chapter 12 */
+
+
+/* Chapter 13 */
+
+"ch_chapter13_name" = "Capitolo 13";
+"ch_chapter13_subtitle" = "Fuoco e zolfo";
+
+//Encounter 1 - Darkbane 1
+"enc_c13e1_title" = "Nell'oscurità";
+
+//Encounter 2 - Darkbane 2
+"enc_c13e2_title" = "La prova del fuoco";
+
+//Encounter 3 - Darkbane 3
+"enc_c13e3_title" = "Guanto di sfida";
+
+//Encounter 4 - Prison Warden
+"enc_c13e4_title" = "Pessimi versi";
+
+//Encounter 5 - Bonus Round - Brimstone's Throne
+"enc_c13e5_title" = "Round bonus";
+
+//Encounter 6 - Darkbane Elite 1 & 2
+"enc_c13e6_title" = "Elite";
+
+//Encounter 7 - Darkbane Nacho
+"enc_c13e7_title" = "Magia nera";
+
+//Encounter 8 - Angry Nacho
+"enc_c13e8_title" = "Segreti";
+
+//Encounter 9 - Behemoth
+"enc_c13e9_title" = "Ostinazione";
+
+//Encounter 10 - Brimstone
+"enc_c13e10_title" = "Destino";
+
+/* End Chapter 13 */
+
+
+/* Chapter 14 */
+
+"ch_chapter14_name" = "Capitolo 14";
+"ch_chapter14_subtitle" = "Solo nei tuoi sogni";
+
+//Encounter 1 - Pronto, Kord and Trixie
+"enc_c14e1_title" = "Un attimo di pausa";
+
+//Encounter 2 - Dr.Blakk
+"enc_c14e2_title" = "Amnesia";
+
+//Encounter 3 - Spirex
+"enc_c14e3_title" = "Ragnatele";
+
+//Encounter 4 - Eli
+"enc_c14e4_title" = "Faccia a faccia";
+
+//Encounter 5 - Young Blakk
+"enc_c14e5_title" = "Dal passato con furore";
+
+//Encounter 6 - Behemoth
+"enc_c14e6_title" = "Grandi avversari";
+
+//Encounter 7 - Angry Blakk
+"enc_c14e7_title" = "Un caratteraccio";
+
+//Encounter 8 - Unbeatable Master
+"enc_c14e8_title" = "La vera saggezza";
+
+//Encounter 9 - Gat Blakk
+"enc_c14e9_title" = "Gat Attack";
+
+//Encounter 10 - Will Shane
+"enc_c14e10_title" = "Ci rivediamo";
+
+/* End Chapter 14 */
+
+/* Chapter 15 */
+
+"ch_chapter15_name" = "Capitolo 15";
+"ch_chapter15_subtitle" = "Back to Blakk";
+
+//Encounter 1 - Dr.Blakk
+"enc_c15e1_title" = "C'era una volta";
+
+//Encounter 2 -
+"enc_c15e2_title" = "Tempi duri";
+
+//Encounter 3 -
+"enc_c15e3_title" = "In azione";
+
+//Encounter 4 -
+"enc_c15e4_title" = "Tremate tremate";
+
+//Encounter 5 - Will Shane
+"enc_c15e5_title" = "Dalla parte sbagliata";
+
+//Encounter 6 -
+"enc_c15e6_title" = "In vantaggio";
+
+//Encounter 7 - Will Shane
+"enc_c15e7_title" = "Un passo avanti";
+
+//Encounter 8 - Behemoth
+"enc_c15e8_title" = "Oscura conoscenza";
+
+//Encounter 9 - Bonus
+"enc_c15e9_title" = "Round bonus";
+
+//Encounter 10 - Will Shane
+"enc_c15e10_title" = "Destino";
+
+//Encounter 11 - Dr.Blakk
+"enc_c15e11_title" = "Un pezzo del puzzle";
+
+/* End Chapter 15 */
+
+/* Chapter 16 */
+
+"ch_chapter16_name" = "Capitolo 16";
+"ch_chapter16_subtitle" = "Attraversamento ombre";
+
+//Encounter 1 - Blakk Guard
+"enc_c16e1_title" = "Alpha Force";
+
+//Encounter 2 - Doombot
+"enc_c16e2_title" = "Bot da battaglia";
+
+//Encounter 3 - Elite Blakk Guard
+"enc_c16e3_title" = "Delta Force";
+
+//Encounter 4 - Locke and Lode
+"enc_c16e4_title" = "Diversivi";
+
+//Encounter 5 - Darkbane Hartag and Darkbane Drek
+"enc_c16e5_title" = "Gli amici del mio nemico";
+
+//Encounter 6 - Darkbane Prison Warden
+"enc_c16e6_title" = "Fuoco intenso";
+
+//Encounter 7 - Nacho
+"enc_c16e7_title" = "Alleanze";
+
+//Encounter 8 - Bonus
+"enc_c16e8_title" = "Round bonus";
+
+//Encounter 9 - Titan
+"enc_c16e9_title" = "Apriscatole";
+
+//Encounter 10 - Nacho
+"enc_c16e10_title" = "Aprire la strada";
+
+/* End Chapter 16 */
+
+/* Chapter 17 */
+
+"ch_chapter17_name" = "Capitolo 17";
+"ch_chapter17_subtitle" = "Oscuro come la notte";
+
+//Encounter 1 - Red Hook
+"enc_c17e1_title" = "Potenza di fuoco";
+
+//Encounter 2 - Elite Blakk Guard
+"enc_c17e2_title" = "Nuove alleanze";
+
+//Encounter 3 - Nacho
+"enc_c17e3_title" = "Agente dell'oscurità";
+
+//Encounter 4 - Technician
+"enc_c17e4_title" = "Scienza oscura";
+
+//Encounter 5 - Bonus
+"enc_c17e5_title" = "Corruzione di massa";
+
+//Encounter 6 - Elite Blakk Guard
+"enc_c17e6_title" = "Cuore della cittadella";
+
+//Encounter 7 - Dr. Blakk
+"enc_c17e7_title" = "Vecchi amici";
+
+//Encounter 8 - Darkbane
+"enc_c17e8_title" = "Il portale si apre 1";
+
+//Encounter 8 - Darkbane
+"enc_c17e9_title" = "Il portale si apre 2";
+
+//Encounter 9 - Dr. Blakk
+"enc_c17e10_title" = "Oscuro come la notte";
+
+//Encounter 10 - Bonus
+"enc_c17e11_title" = "Chiaro come il giorno";
+
+/* End Chapter 17 */

@@ -1,0 +1,1156 @@
+/*
+ Dialogue.strings
+ slugpuzzle
+ 
+ Created by Dennis Leong on 2014-07-15.
+ 
+ */
+
+/* Cavern 1 */
+
+//Cavern 1
+"name_cavern1_name" = "Caverna Espina de Pescado";
+//Encounter 1
+"enc_cv1e1o1_dialog_1a" = "Dicen que hay slugs Aguijón raros por aquí...";
+//Encounter 2
+"enc_cv1e2o1_dialog_1a" = "¡Largo de aquí! ¡Los slugs son míos!";
+//Encounter 3
+"enc_cv1e3o1_dialog_1a" = "Dicen que hay slugs Cristálida raros por aquí...";
+//Encounter 4
+"enc_cv1e4o1_dialog_1a" = "¡Todos los slugs me pertenecen!";
+//Encounter 6
+"enc_cv1e6o1_dialog_1a" = "¡El slug raro es mío!";
+//Encounter 7
+"enc_cv1e7o1_dialog_1a" = "¡Todos los slugs me pertenecen!";
+//Encounter 8
+"enc_cv1e8o1_dialog_1a" = "¡La victoria es mía!";
+//Encounter 9
+"enc_cv1e9o1_dialog_1a" = "¿Sientes el poder?";
+//Encounter 11
+"enc_cv1e11o1_dialog_1a" = "¡El slug raro es mío!";
+//Encounter 12
+"enc_cv1e12o1_dialog_1a" = "¡La victoria es mía!";
+//Encounter 13
+"enc_cv1e13o1_dialog_1a" = "¡Todos los slugs me pertenecen!";
+//Encounter 14
+"enc_cv1e14o1_dialog_1a" = "Je, je... ¡He encontrado un slug!";
+
+/* End Cavern 1 */
+
+/* Cavern 2 */
+
+//Cavern 2
+"name_cavern2_name" = "Periferia Oscura";
+//Encounter 1
+"enc_cv2e1o1_dialog_1a" = "Dicen que hay slugs Hipnogrifos raros por aquí...";
+//Encounter 2
+"enc_cv2e2o1_dialog_1a" = "¡La victoria es mía!";
+//Encounter 3
+"enc_cv2e3o1_dialog_1a" = "Dicen que hay slugs Plata Astuta raros por aquí...";
+//Encounter 4
+"enc_cv2e4o1_dialog_1a" = "¿Sientes el poder?";
+//Encounter 6
+"enc_cv2e6o1_dialog_1a" = "¡El slug raro es mío!";
+//Encounter 7
+"enc_cv2e7o1_dialog_1a" = "¡Largo de aquí! ¡Los slugs son míos!";
+//Encounter 8
+"enc_cv2e8o1_dialog_1a" = "¡La victoria es mía!";
+//Encounter 9
+"enc_cv2e9o1_dialog_1a" = "¡Este no es lugar para escoria como tú!";
+//Encounter 11
+"enc_cv2e11o1_dialog_1a" = "¡La victoria es mía!";
+//Encounter 12
+"enc_cv2e12o1_dialog_1a" = "¡Todos los slugs me pertenecen!";
+//Encounter 13
+"enc_cv2e13o1_dialog_1a" = "¡Este no es lugar para escoria como tú!";
+//Encounter 14
+"enc_cv2e14o1_dialog_1a" = "¡Este lugar es sagrado! ¡Largo de aquí!";
+
+/* End Cavern 2 */
+
+/* Cavern 3 */
+
+//Cavern 3
+"name_cavern3_name" = "Cavernas Profundas";
+//Encounter 1
+"enc_cv3e1o1_dialog_1a" = "Bienvenido a las profundidades... ¡Aquí es donde morirás!";
+//Encounter 2
+"enc_cv3e2o1_dialog_1a" = "¡Los slugs Diablo raros jamás serán tuyos!";
+//Encounter 3
+"enc_cv3e3o1_dialog_1a" = "¡No tienes nada que hacer en las Cavernas Profundas, Shane!";
+//Encounter 4
+"enc_cv3e4o1_dialog_1a" = "¡Siente nuestro poder!";
+//Encounter 6
+"enc_cv3e6o1_dialog_1a" = "¡Arderás, Shane!";
+//Encounter 7
+"enc_cv3e7o1_dialog_1a" = "¿Qué crees que estás haciendo, Shane?";
+//Encounter 8
+"enc_cv3e8o1_dialog_1a" = "¡Los slugs Diablo raros nunca serán tuyos!";
+//Encounter 9
+"enc_cv3e9o1_dialog_1a" = "¡Siente el poder de mi ira!";
+//Encounter 11
+"enc_cv3e11o1_dialog_1a" = "¡No tienes nada que hacer en las Cavernas Profundas, Shane!";
+//Encounter 12
+"enc_cv3e12o1_dialog_1a" = "¡Todos los slugs me pertenecen!";
+//Encounter 13
+"enc_cv3e13o1_dialog_1a" = "¡GRAAAWWWRRR!";
+//Encounter 14
+"enc_cv3e14o1_dialog_1a" = "Bienvenido a mis dominios... ¡Ahora, siente el poder de mi ira!";
+
+/* End Cavern 3 */
+
+/* Cavern 4 */
+
+//Cavern 4
+"name_cavern4_name" = "Caverna Danza de la Nieve de Navislug";
+//Encounter 1
+"enc_cv4e1o1_dialog_1a" = "Dicen que hay slugs Slirena raros por aquí...";
+//Encounter 2
+"enc_cv4e2o1_dialog_1a" = "¡Feliz Navislug, Eli!";
+//Encounter 3
+"enc_cv4e3o1_dialog_1a" = "Dicen que hay slugs Narvahelados especiales por aquí...";
+//Encounter 4
+"enc_cv4e4o1_dialog_1a" = "¿Listo para arrasar estas Navislug, Shane?";
+//Encounter 6
+"enc_cv4e6o1_dialog_1a" = "¡Feliz Navislug!";
+//Encounter 7
+"enc_cv4e7o1_dialog_1a" = "¡La Navislug está para pelear y repartir felicidad!";
+//Encounter 8
+"enc_cv4e8o1_dialog_1a" = "¡La Navislug es mi fiesta favorita!";
+//Encounter 9
+"enc_cv4e9o1_dialog_1a" = "¿Listo para arrasar estas Navislug, Shane?";
+//Encounter 11
+"enc_cv4e11o1_dialog_1a" = "¡Feliz Navislug, Eli!";
+//Encounter 12
+"enc_cv4e12o1_dialog_1a" = "¡La Navislug está para pelear y repartir felicidad!";
+//Encounter 13
+"enc_cv4e13o1_dialog_1a" = "¿Listo para arrasar estas Navislug, Shane?";
+//Encounter 14
+"enc_cv4e14o1_dialog_1a" = "¡Vamos a darles caña a los slugs de Navislug!";
+
+/* End Cavern 4 */
+
+/* Cavern 5 */
+
+//Cavern 5
+"name_cavern5_name" = "Gruta Dojang";
+//Encounter 1
+"enc_cv5e1o1_dialog_1a" = "Me han dicho que aquí se pueden encontrar slugs Firenzar...";
+//Encounter 2
+"enc_cv5e2o1_dialog_1a" = "¡Vamos, Shane!";
+//Encounter 3
+"enc_cv5e3o1_dialog_1a" = "¡Los Tíos Duros somos los mejores! ¡Estamos pillando todas las slugs!";
+//Encounter 4
+"enc_cv5e4o1_dialog_1a" = "¿¡Cómo te atreves a volver a este sitio, Eli Shane!?";
+//Encounter 6
+"enc_cv5e6o1_dialog_1a" = "Me han dicho que aquí se pueden encontrar slugs Firenzar...";
+//Encounter 7
+"enc_cv5e7o1_dialog_1a" = "¡Los rumores dicen que aquí se puede atrapar a la legendaria slug Midas!";
+//Encounter 8
+"enc_cv5e8o1_dialog_1a" = "Vamos a arrasar de una vez por todas, Shane.";
+//Encounter 9
+"enc_cv5e9o1_dialog_1a" = "Los recuerdos del Paladín Imbatible perduran en este lugar... ¡Vete ya!";
+//Encounter 11
+"enc_cv5e11o1_dialog_1a" = "¿Vienes a unirte a la caza, Shane?";
+//Encounter 12
+"enc_cv5e12o1_dialog_1a" = "¡Me han dicho que aquí se puede encontrar a la legendaria slug Midas!";
+//Encounter 13
+"enc_cv5e13o1_dialog_1a" = "Voy a hacerme con todas las slugs... ¡Y las demonizaré a TODAS!";
+//Encounter 14
+"enc_cv5e14o1_dialog_1a" = "En nombre del Maestro Shanai... ¡Deja este lugar en paz!";
+
+/* End Cavern 5 */
+
+/* Cavern 6 */
+
+/*Cavern 6*/
+"name_cavern6_name" = "Caverna esporas salvajes";
+//Encounter 1
+"enc_cv6e1o1_dialog_1a" = "¡Sal de ahí, Shane!";
+//Encounter 2
+"enc_cv6e2o1_dialog_1a" = "00111100011000011110110101";
+//Encounter 3
+"enc_cv6e3o1_dialog_1a" = "¡¡Vigila tu retaguardia, Shane!!";
+//Encounter 4
+"enc_cv6e4o1_dialog_1a" = "Mira Loki, alguien ha venido a arruinar nuestra visita. ¡Sal aquí, Eli!";
+//Encounter 6
+"enc_cv6e6o1_dialog_1a" = "¡Vamos a arrasar, Eli Shane!";
+//Encounter 7
+"enc_cv6e7o1_dialog_1a" = "Bzzzz… ¡Clinc, clanc!";
+//Encounter 8
+"enc_cv6e8o1_dialog_1a" = "Sabía que vendrías, Eli Shane.";
+//Encounter 9
+"enc_cv6e9o1_dialog_1a" = "¡Esta caverna es el hogar de Loki! No perteneces a este sitio.";
+//Encounter 11
+"enc_cv6e11o1_dialog_1a" = "Creo que acabo de ver un slug Gaser";
+//Encounter 12
+"enc_cv6e12o1_dialog_1a" = "¡Esta vez no podrás conmigo!";
+//Encounter 13
+"enc_cv6e13o1_dialog_1a" = "¡La venganza será mía!";
+//Encounter 14
+"enc_cv6e14o1_dialog_1a" = "Los matones tienen que permanecer juntos... en una única familia diabólica.";
+
+/* End Cavern 6 */
+
+/* Cavern 7 */
+
+/*Cavern 7*/
+"name_cavern7_name" = "Caverna Del Río Subterráneo";
+//Encounter 1
+"enc_cv7e1o1_dialog_1a" = "¿Qué miras?";
+//Encounter 2
+"enc_cv7e2o1_dialog_1a" = "¡El tesoro es mío! ¡No te lo pienso dar!";
+//Encounter 3
+"enc_cv7e3o1_dialog_1a" = "¡Drilo será ganador!";
+//Encounter 4
+"enc_cv7e4o1_dialog_1a" = "¿Qué andáis haciendo tiradores de slugs? El slug diablo es mío y no lo pienso compartir.";
+//Encounter 6
+"enc_cv7e6o1_dialog_1a" = "¡Drilo ha perdido, pero Turtleton se hará con la victoria!";
+//Encounter 7
+"enc_cv7e7o1_dialog_1a" = "He encontrado el tesoro... ¡Es tan bonito y cuadradito!";
+//Encounter 8
+"enc_cv7e8o1_dialog_1a" = "¡Drilo va a ganar esta vez!";
+//Encounter 9
+"enc_cv7e9o1_dialog_1a" = "El mapa dice que el Megamorfo debería estar aquí.";
+//Encounter 11
+"enc_cv7e11o1_dialog_1a" = "¡Grrrrr!";
+//Encounter 12
+"enc_cv7e12o1_dialog_1a" = "¿Qué era aquello? No se parecía a nada que haya visto antes...";
+//Encounter 13
+"enc_cv7e13o1_dialog_1a" = "¿Tú otra vez? Tengo el mapa para el elemental... y no te lo pienso dar.";
+//Encounter 14
+"enc_cv7e14o1_dialog_1a" = "Estoy bastante seguro de que acabo de ver un slug elemental.";
+
+/* End Cavern 7 */
+
+
+/* Chapter 1 */
+
+//Encounter 4
+"enc_c1e4o1_dialog_1a" = "El Magnífico Pronto no se contendrá por luchar contra un novato! Prepárate para ser derrotado!";
+"enc_c1e4o1_dialog_2a" = "De acuerdo...";
+"enc_c1e4o1_dialog_3a" = "Es un honor servir a Slugterra con un tirador de tanto talento. Pronto te prestará su slug preferiti, Apestosa!";
+"enc_c1e4o1_dialog_4a" = "Puagg... quiero decir..., gracias Pronto!";
+
+/* End Chapter 1 */
+
+/* Chapter 2 */
+
+
+//Encounter 1
+"enc_c2e1o1_dialog_1a" = "Fíjate Eructín, nuestro primer Torneo.";
+"enc_c2e1o1_dialog_2a" = "Necesitarás algo más que una slug Infernal para ganarme, chaval!";
+"enc_c2e1o1_dialog_3a" = "No soy sólo un chaval, soy Eli Shane!";
+"enc_c2e1o1_dialog_4a" = "No me puedo creer que haya perdido contra un chaval.";
+
+//Encounter 2
+"enc_c2e2o1_dialog_1a" = "Mi Oruga de Hielo te va a dejar tiritando!";
+"enc_c2e2o1_dialog_2a" = "A por ellos Eructín!";
+"enc_c2e2o1_dialog_3a" = "Me rindo! Supongo que eso significa que pierdo mi Oruga de Hielo!";
+"enc_c2e2o1_dialog_4a" = "Ey pequeña. ¿Te gusta el nombre de Congeladora?";
+
+//Encounter 3
+"enc_c2e3o1_dialog_1a" = "Ey oye! ¿Para que llevas esa cámara?";
+"enc_c2e3o1_dialog_2a" = "Estoy grabando un documental que se llamará 'Trixie Sting: La chica que venció a Eli Shane'.";
+"enc_c2e3o1_dialog_3a" = "Creo que ese nombre no está del todo afinado.";
+"enc_c2e3o1_dialog_4a" = "Eres buena! ¿Te gustaría formar parte de la Banda de Shane?";
+"enc_c2e3o1_dialog_5a" = "¿Pelear por la justicia junto al nuevo Shane? Cuenta conmigo!";
+
+//Encounter 4
+"enc_c2e4o1_dialog_1a" = "¿Eres buen conductor de electricidad, Eli Shane?";
+"enc_c2e4o1_dialog_2a" = "¿Por qué lo preguntas?";
+"enc_c2e4o1_dialog_3a" = "CARGA!!!!";
+"enc_c2e4o1_dialog_4a" = "Creo que es hora de que recargues las pilas...";
+
+//Encounter 5
+"enc_c2e5o1_dialog_1a" = "No te preocupes, te podré dar mi autógrafo más tarde, después de vencerte!";
+"enc_c2e5o1_dialog_2a" = "Imposible! Nadie puede vencer al Rey del Disparo!";
+"enc_c2e5o1_dialog_3a" = "Quizás deberías llamarte el Príncipe del Disparo.";
+
+//Encounter 6
+"enc_c2e6o1_dialog_1a" = "Ey Pronto! ¿Cómo estás?";
+"enc_c2e6o1_dialog_2a" = "No intentes distraer a Pronto con parole amigables!";
+
+//Encounter 7
+"enc_c2e7o1_dialog_1a" = "Tenemos tres razones por las que no vas a pasar esta ronda.";
+"enc_c2e7o1_dialog_2a" = "Una menos...";
+
+"enc_c2e7o2_dialog_1a" = "No peleas limpio!";
+"enc_c2e7o2_dialog_2a" = "Sólo sigo dos reglas. Ganar cada duelo y no perder nunca.";
+
+"enc_c2e7o3_dialog_1a" = "Sólo queda uno…o una";
+"enc_c2e7o3_dialog_2a" = "No es justo. No nos dijiste que tres era tu número de la suerte.";
+"enc_c2e7o3_dialog_3a" = "Lo conseguimos Eructín! Estamos en la final!";
+"enc_c2e7o3_dialog_3b" = "Sabía que lo conseguiríamos!";
+
+//Encounter 8
+"enc_c2e8o1_dialog_1a" = "Ey Eli. Lo has hecho muy bien hasta ahora, pero ten cuidado.";
+"enc_c2e8o1_dialog_1b" = "He oído rumores de que alguien ha puesto precio a tu cabeza.";
+"enc_c2e8o1_dialog_2a" = "¿Quién querría ir tras de mí?";
+"enc_c2e8o1_dialog_3a" = "No todos en Slugterra eran fans de tu padre. Será alguien que no quiere ver una nueva Banda de Shane!";
+"enc_c2e8o1_dialog_4a" = "Recuerda lo que te he dicho! Vigila tu espalda!";
+
+//Encounter 9
+
+//Encounter 10
+"enc_c2e10o1_dialog_1a" = "Me parece que no vas a llegar a la final del Torneo, Eli Shane.";
+"enc_c2e10o1_dialog_1b" = "Billy dice que vuelvas arrastrándote hasta la roca donde has estado escondido todos estos años….";
+"enc_c2e10o1_dialog_2a" = "Pagarás por esto, Shane.";
+"enc_c2e10o1_dialog_3a" = "Espera! ¿Quién es Billy? ¿Y por qué vas tras de mí? Vuelve aquí!";
+
+//Encounter 11
+"enc_c2e11o1_dialog_1a" = "Prepárate. Mi jefe te quiere fuera de juego! No es nada personal.";
+"enc_c2e11o1_dialog_2a" = "Tú también trabajas para Billy? Dónde está?";
+"enc_c2e11o1_dialog_3a" = "Tienes mucho que aprender de este lugar, Shane…Y yo voy a ser tu primer maestro.";
+"enc_c2e11o1_dialog_4a" = "Puede que hayas ganado el Torneo, pero no tienes ni idea de lo que se te viene encima.";
+
+/* End Chapter 2 */
+
+
+
+/* Chapter 3 */
+
+//Encounter 1
+"enc_c3e1o1_dialog_1a" = "¿Por qué os lleváis a Trixie!?";
+"enc_c3e1o1_dialog_2a" = "Estaba en el lugar equivocado en el momento equivocado. Ahora retrocede si no quieres correr la misma suerte.";
+"enc_c3e1o1_dialog_3a" = "Eres mejor de lo que pensaba. Pero has llegado tarde. Retirada!";
+
+//Encounter 2
+"enc_c3e2o1_dialog_1a" = "Eli Shane! Nos has hecho quedar como idiotas! Juega con fuego y te quemarás!";
+
+"enc_c3e2o2_dialog_1a" = "Quieto!";
+"enc_c3e2o2_dialog_2a" = "¿No sabes cuándo hay que parar?";
+
+"enc_c3e2o3_dialog_1a" = "Te ha ganado con todas las de la ley! Supéralo!";
+"enc_c3e2o3_dialog_2a" = "Supera ÉSTO!";
+"enc_c3e2o3_dialog_3a" = "Esto no acaba aquí!";
+
+//Encounter 3
+"enc_c3e3o1_dialog_1a" = "Billy dice que me perdonará si consigo pararte aquí.";
+"enc_c3e3o1_dialog_1b" = "Y quizás me deje pasarme por la Guarida de los Hooligang.";
+"enc_c3e3o1_dialog_2a" = "Nooo!. Ahora nunca me dejarán ser parte de los Hooligang.";
+
+//Encounter 4
+"enc_c3e4o1_dialog_1a" = "Genial. Otro secuaz de Billy.";
+"enc_c3e4o1_dialog_2a" = "No trabajo para Billy! Trabajo para Doctor... No importa para quien trabaje.";
+"enc_c3e4o1_dialog_2b" = "No importará nada dentro de un minuto cuando haya acabado contigo.";
+"enc_c3e4o1_dialog_3a" = "Uh oh. El jefe no va a estar contento con esto.";
+
+//Encounter 5
+"enc_c3e5o1_dialog_1a" = "Parece que Billy no se las puede arreglar en una batalla, así que yo, Sedo el Magnífico, ha sido llamado para destruirte!";
+"enc_c3e5o1_dialog_2a" = "La próxima vez que veas a Sedo, no será tan agradable!";
+
+//Encounter 6
+"enc_c3e6o1_dialog_1a" = "¿Rey del Disparo? ¿Qué estás haciendo aquí?";
+"enc_c3e6o1_dialog_2a" = "Te estaba buscando! He venido a recuperar mi título!";
+"enc_c3e6o1_dialog_3a" = "Algún día te rebataré el trono, Eli Shane.";
+
+//Encounter 7
+"enc_c3e7o1_dialog_1a" = "Ahh! ¿De dónde has salido?";
+"enc_c3e7o1_dialog_2a" = "¿Qué habéis hecho con Trixie?";
+"enc_c3e7o1_dialog_3a" = "Déjame en paz! Yo no sé nada.";
+"enc_c3e7o1_dialog_4a" = "¿Dónde está Trixie?";
+"enc_c3e7o1_dialog_5a" = "Esto…No ésta en nuestra Guarida, así que no vayas allí.";
+
+//Encounter 8
+"enc_c3e8o1_dialog_1a" = "Ey Eli! Deberíamos practicar un poco antes de ir a la Guarida de los Hooligang. Son buenos tiradores.";
+"enc_c3e8o1_dialog_2a" = "De acuerdo Kord! Pero no seas suave conmigo. Soy bastante mejor que la última vez que nos enfrentamos.";
+"enc_c3e8o1_dialog_3a" = "Uuuf. No estabas bromeando. Los Hooligang ni te verán venir.";
+"enc_c3e8o1_dialog_4a" = "A por ellos!";
+
+//Encounter 9
+"enc_c3e9o1_dialog_1a" = "No estáis trabajando solos. ¿Para quién habéis secuestrado a Trixie?";
+"enc_c3e9o1_dialog_2a" = "Yo no trabajo para nadie! Oh, excepto para Billy... y también para el Doctor Blakk... ups!";
+"enc_c3e9o1_dialog_3a" = "¿Dr. Blakk? ¿Quién es ese?";
+"enc_c3e9o1_dialog_4a" = "Como si te lo fuera a decir. A por él, Glasses!";
+
+"enc_c3e9o2_dialog_1a" = "Sorpresa!";
+
+"enc_c3e9o3_dialog_1a" = "Eres igual que tu padre! No podemos tener a un Shane husmeando en nuestros asuntos!";
+"enc_c3e9o3_dialog_2a" = "Esto no acaba aquí, Eli Shane! Dr. Blakk es un hombre poderoso que consigue lo que quiere! Larguémonos de aquí!";
+
+//Encounter 10
+
+//Encounter 11
+"enc_c3e11o1_dialog_1a" = "¿Qué has hecho con esa slug?";
+"enc_c3e11o1_dialog_2a" = "Dr. Blakk la demonizó! Ahora vas a saber lo que es la verdadera potencia!";
+"enc_c3e11o1_dialog_3a" = "Las Slugs son la clave de todo! ¿Cómo podéis hacerle eso?";
+"enc_c3e11o1_dialog_4a" = "Dr. Blakk va a demonizar todas y cada una de las slugs! No puedes detenerle!";
+
+"enc_c3e11o2_dialog_1a" = "No puedo mirar a otro lado mientras convertís a las slugs en monstruos!";
+"enc_c3e11o2_dialog_2a" = "Tarde chaval! Diablo Nacho está entregando otro pedido de diablos a Dr. Blakk ahora mismo!";
+"enc_c3e11o2_dialog_3a" = "¿Dónde está ese pedido?";
+"enc_c3e11o2_dialog_4a" = "Están en la Scorched Sparks Cavern... pero Nacho te volará por los aires si te acercas. ¡Búm!";
+
+/* End Chapter 3 */
+
+
+
+/* Chapter 4 */
+
+
+//Encounter 1
+"enc_c4e1o1_dialog_1a" = "¿Dónde estás, Pronto? Éste parece ser territorio del Clan Sombra...";
+"enc_c4e1o1_dialog_2a" = "Grrrrr!";
+"enc_c4e1o1_dialog_3a" = "Parece ser el territorio del Clan Sombra por que lo ES!";
+"enc_c4e1o1_dialog_4a" = "Larguémonos de aquí!";
+
+//Encounter 2
+"enc_c4e2o1_dialog_1a" = "Vamos Eructín! Debemos encontrar a ese tal Nacho y evitar que siga demonizando más slugs!";
+"enc_c4e2o1_dialog_2a" = "Eli Shane! No puedo dejar que interfieras en este pedido!";
+"enc_c4e2o1_dialog_3a" = "Te he subestimado! No volverá a pasar!";
+
+//Encounter 3
+"enc_c4e3o1_dialog_1a" = "Woah! Eres un tío grande!";
+"enc_c4e3o1_dialog_2a" = "Serás carne para hamburguesas cuando termine contigo.";
+"enc_c4e3o1_dialog_3a" = "¿Quieres unas patatas para acompañar?";
+
+//Encounter 4
+"enc_c4e4o1_dialog_1a" = "000100100001001";
+"enc_c4e4o1_dialog_2a" = "Ey Tontobot! No hablo binario!";
+"enc_c4e4o1_dialog_3a" = "000100100001001 == A.T.A.Q.U.E.";
+"enc_c4e4o1_dialog_4a" = "Ha habido un problema con Tontobot y necesita apagarse. Rogamos disculpe cualquier molestia ocasionada.";
+
+//Encounter 5
+"enc_c4e5o1_dialog_1a" = "Dr. Blakk me prometió algunos diablos si le ayudo a proteger su pedido.";
+"enc_c4e5o1_dialog_2a" = "Si trabajas para Dr. Blakk, debo detenerte.";
+"enc_c4e5o1_dialog_3a" = "No te va a resultar tan fácil chaval. Da media vuelta mientras puedas.";
+
+//Encounter 6
+"enc_c4e6o1_dialog_1a" = "Qué es ese sonido?";
+"enc_c4e6o1_dialog_2a" = "Pew pew pew!";
+"enc_c4e6o1_dialog_3a" = "BiiiP Buuup bluuuu----";
+"enc_c4e6o1_dialog_4a" = "Oye no te enciendas!";
+
+//Encounter 7
+"enc_c4e7o1_dialog_1a" = "¿Os sabéis todos el plan? Ni siquiera la Banda de Shane será capaz de cogernos tras estos muros de hielo!";
+"enc_c4e7o1_dialog_2a" = "¿Ese es tu plan maestro? ¿Esconderte tras un poco de agua congelada?";
+"enc_c4e7o1_dialog_3a" = "Está aquí! ATACAR!";
+"enc_c4e7o1_dialog_4a" = "Hotel Uniform India Delta Alfa!";
+"enc_c4e7o1_dialog_4b" = "Que significa HUIDA!!!";
+
+//Encounter 8
+"enc_c4e8o1_dialog_1a" = "¿Qué está haciendo el Clan Sombra aquí?";
+"enc_c4e8o1_dialog_2a" = "Grrrrrr!";
+"enc_c4e8o1_dialog_3a" = "Ok. Menos preguntas y más pelea!";
+"enc_c4e8o1_dialog_4a" = "Esperemos que eso les mantenga lejos. Debemos deshacernos de este pedido antes de llamar más la atención.";
+
+//Encounter 9
+"enc_c4e9o1_dialog_1a" = "Llámamé Señor Sábado...";
+"enc_c4e9o1_dialog_2a" = "Prefiero llamarte Marioneta de Blakk.";
+"enc_c4e9o1_dialog_3a" = "El Señor Sábado no es ninguna marioneta! Cómete esta!";
+"enc_c4e9o1_dialog_4a" = "El Señor Sábado volverá... con refuerzos.";
+"enc_c4e9o1_dialog_5a" = "No te preocupes Eructín! Ya casi estamos!";
+
+//Encounter 10
+"enc_c4e10o1_dialog_1a" = "¿Qué crees que vas a ganar irrumpiendo aquí?";
+"enc_c4e10o1_dialog_2a" = "Eres un monstruo. No volverás a corromper slugs NUNCA MÁS.";
+"enc_c4e10o1_dialog_3a" = "Tienes razón. Soy un monstruo, pero tú eres sólo un chaval. ¿Quien crees que ganará este duelo?";
+"enc_c4e10o1_dialog_4a" = "Se acabaron tus demonios, Nacho.";
+"enc_c4e10o1_dialog_5a" = "Esta es sólo una de las decenas de Estaciones de Demonización que tenemos. ";
+"enc_c4e10o1_dialog_5b" = "La refinería de Agua Oscura convertirá a todos tus queridos slugs en diablos! Has perdido, Shane.";
+"enc_c4e10o1_dialog_6a" = "¿Cómo?! No...";
+
+//Encounter 11
+
+/* End Chapter 4 */
+
+
+
+/* Chapter 5 */
+
+
+//Encounter 1
+"enc_c5e1o1_dialog_1a" = "Dr. Blakk ha conseguido que mis slugs se volvieran más fuertes. Está vez te derrotaré!";
+"enc_c5e1o1_dialog_2a" = "¿Has dejado que Dr. Blakk corrompiera tus slugs? Puedo sanarlas. Deja que te ayude.";
+"enc_c5e1o1_dialog_3a" = "Ni de coña! Duelo!";
+"enc_c5e1o1_dialog_4a" = "Bien! Ahora tus slugs están sanadas.";
+
+//Encounter 2
+"enc_c5e2o1_dialog_1a" = "Oh no. Sedo! Tú también trabajas para Blakk?";
+"enc_c5e2o1_dialog_2a" = "El increíble Sedo trabaja para el mejor pagador. ¿Tienes una contraoferta?";
+"enc_c5e2o1_dialog_3a" = "...";
+"enc_c5e2o1_dialog_4a" = "Sedo lo suponía…";
+
+//Encounter 3
+"enc_c5e3o1_dialog_1a" = "Me has vacilado dos veces. No dejaré que lo vuelvas a hacer.";
+"enc_c5e3o1_dialog_2a" = "Peleas en el bando equivocado John Bull. Si aún no te has dado cuenta, me temo que nunca lo harás.";
+"enc_c5e3o1_dialog_3a" = "Estoy en el bando ganador, Shane, y tengo la slug que lo demostrará.";
+"enc_c5e3o1_dialog_4a" = "Largo de aquí, John. No volverás a ayudar a Blakk a demonizar slugs nunca más.";
+
+//Encounter 4
+"enc_c5e4o1_dialog_1a" = "Tontobot 2.0 ha llegado! Tontobot 2.0 es literalmente el doble de Tontobot de lo que era Tontobot 1.0.";
+"enc_c5e4o1_dialog_2a" = "Estás seguro de querer esto Tontobot?";
+"enc_c5e4o1_dialog_3a" = "Tontobot no puedo evitarlo. Tontobot está programado así.";
+"enc_c5e4o1_dialog_4a" = "Eli Shane tiene razón. A Tontobot 2.0 le gustaría cesar con esta vida de violencia.";
+"enc_c5e4o1_dialog_4b" = "Tontobot 2.0 se convertirá en pintor y beneficiará a la sociedad con su arte.";
+
+//Encounter 5
+"enc_c5e5o1_dialog_1a" = "Pensé que habías dicho no ser la marioneta de Blakk.";
+"enc_c5e5o1_dialog_2a" = "Blakk ha duplicado mi paga. El Señor Sábado sabe reconocer una buena oferta cuando se le ofrece.";
+"enc_c5e5o1_dialog_3a" = "Me has vencido, Shane, pero escúchame bien. Volveré a por ti.";
+
+//Encounter 6
+"enc_c5e6o1_dialog_1a" = "Shorty! Glasses! Billy! Por favor parar ya. Demonizar slugs es un enorme error. Slugterra no podrá soportarlo.";
+"enc_c5e6o1_dialog_2a" = "Estás celoso de que nuestras slugs sean tan poderosas. Voy a demostrarte lo que es ser un verdadero Tirador.";
+
+"enc_c5e6o2_dialog_1a" = "No te preocupes Shorty, mi Diablo de Hielo no puede perder. Derrotaré a Eli.";
+"enc_c5e6o2_dialog_2a" = "¿Es que no lo entiendes? Estáis ayudando a Blakk a destruirlo todo. Tenéis que parar.";
+"enc_c5e6o2_dialog_3a" = "Oof. Billy, ayúdanos!";
+
+"enc_c5e6o3_dialog_1a" = "Billy, por favor... escúchame un momento…estás cometiendo un gran error.";
+"enc_c5e6o3_dialog_2a" = "Demasiado tarde, Eli. Ya hemos tomado nuestra decisión.";
+"enc_c5e6o3_dialog_3a" = "Nunca es demasiado tarde. ¿Dónde está Blakk?";
+
+//Encounter 7
+"enc_c5e7o1_dialog_1a" = "Mmmm Zampa! Masca!";
+"enc_c5e7o1_dialog_2a" = "Me imagino que no hay forma de convencerte para que no me ataques.";
+"enc_c5e7o1_dialog_3a" = "Lo único que me gusta más que llenar mi barriga es vencerte.";
+"enc_c5e7o1_dialog_4a" = "Tengo que encontrar a Blakk y terminar con esto.";
+
+//Encounter 8
+"enc_c5e8o1_dialog_1a" = "Así que la Banda de Shane ha caído en nuestra trampa!";
+"enc_c5e8o1_dialog_1b" = "Cuando termine contigo voy a llevar tus slugs a Blakk para que las demonice!";
+"enc_c5e8o1_dialog_2a" = "Jamás permitiré que pongas tus sucias manos cerca de mis slugs.";
+"enc_c5e8o1_dialog_3a" = "Lode! Prepárate. Voy a acabar con este chaval.";
+
+"enc_c5e8o2_dialog_1a" = "Lode! No tienes que hacer lo que te dice Locke. Deja que cure a tus slugs.";
+"enc_c5e8o2_dialog_2a" = "Puede que Locke haya perdido pero yo voy a destrozarte! Boom!";
+"enc_c5e8o2_dialog_3a" = "Corre! Corre!";
+
+//Encounter 9
+"enc_c5e9o1_dialog_1a" = "Cuando tu padre te hablaba de monstruos que te sacudían en medio de la noche, él estaba hablando de mí, Shane.";
+"enc_c5e9o1_dialog_1b" = "Soy lo que te han enseñado a temer. Soy la oscuridad. Soy la desesperación.";
+"enc_c5e9o1_dialog_1c" = "Soy diablos, fantasmas y demonios. Soy tu peor pesadilla, Eli Shane.";
+"enc_c5e9o1_dialog_2a" = "Mi padre me contó otra historia.";
+"enc_c5e9o1_dialog_2b" = "Una en la que los monstruos siempre perdían porque el miedo no les hacía más poderosos... Pero yo no te tengo miedo.";
+"enc_c5e9o1_dialog_3a" = "Te he vencido Nacho. Ahora dime dónde está Blakk.";
+
+//Encounter 10
+"enc_c5e10o1_dialog_1a" = "Puedes luchar cuanto quieras, pero yo gobernaré sobre TODO Slugterra.";
+"enc_c5e10o1_dialog_1b" = "He creado un nuevo orden mundial, y tú, Eli Shane serás aplastado por la maquinaria del progreso.";
+"enc_c5e10o1_dialog_2a" = "Serás el gobernante de nada. Sin las slugs, Slugterra moriría.";
+"enc_c5e10o1_dialog_3a" = "AAARRRGGGG!";
+
+"enc_c5e10o2_dialog_1a" = "NO... ME... DETENDRÁS!!!";
+"enc_c5e10o2_dialog_2a" = "Se acabó, Eructín! Lo conseguimos! Paramos a Blakk!";
+
+/* End Chapter 5 */
+
+
+
+/* Chapter 6 */
+
+
+//Encounter 1
+"enc_c6e1o1_dialog_1a" = "Buenas tardes, Maestro Shane.";
+"enc_c6e1o1_dialog_2a" = "¿Quién eres? ¿Por qué me estás siguiendo?";
+"enc_c6e1o1_dialog_3a" = "Debes de creer que has escapado, pero la jungla guarda muchas sorpresas.";
+
+//Encounter 2
+
+//Encounter 3
+"enc_c6e3o1_dialog_1a" = "Lista de cómo escapar de prisión. Paso uno: conseguir munición. Hecho! Paso dos: salir de la celda. Hecho!";
+"enc_c6e3o1_dialog_2a" = "Graaarrraaa!";
+"enc_c6e3o1_dialog_3a" = "Paso tres: que no me zombifiquen!";
+"enc_c6e3o1_dialog_4a" = "Urrrrrrgggg!";
+"enc_c6e3o1_dialog_5a" = "Ah. Puede que los zombies sean terroríficos, pero tienen malísima puntería.";
+
+//Encounter 4
+"enc_c6e4o1_dialog_1a" = "Prisionero #371. Por favor regrese a su celda. Si no obedece será duramente amonestado.";
+"enc_c6e4o1_dialog_2a" = "Asumiré el riesgo. Voy a enseñarle a esta máquina como es un verdadero Tirador.";
+
+//Encounter 5
+"enc_c6e5o1_dialog_1a" = "Arrrrg!";
+"enc_c6e5o1_dialog_2a" = "No, muchas gracias. La sopa de sesos no me sienta del todo bien.";
+"enc_c6e5o1_dialog_3a" = "...Uuuurrrg.";
+"enc_c6e5o1_dialog_4a" = "Esto no pinta bien. Será mejor llegar hasta el fondo del asunto antes de que alguien salga herido.";
+
+//Encounter 6
+"enc_c6e6o1_dialog_1a" = "Ey! Tú no eres un zombi!";
+"enc_c6e6o1_dialog_2a" = "Y esa es la razón por la que te voy a quitar esas slugs y ese arma.";
+
+//Encounter 7
+"enc_c6e7o1_dialog_1a" = "He estado aquí encerrado durante 23 años gracias a Will Shane. Me quitó mis slugs, mi arma y mi meca.";
+"enc_c6e7o1_dialog_1b" = "Ahora es mi turno, Shane. Esta será mi venganza.";
+
+//Encounter 8
+"enc_c6e8o1_dialog_1a" ="Parecéis enfadados chicos. Quizás necesitéis unas vacaciones.";
+"enc_c6e8o1_dialog_2a" = "El Sr. Sábado nos contrató para hacer una limpieza por aquí. Es hora de tirar la basura.";
+"enc_c6e8o1_dialog_3a" = "Esto apesta. Voy a tomarme la semana libre.";
+
+"enc_c6e8o2_dialog_1a" = "Necesitamos más días de baja por enfermedad.";
+
+"enc_c6e8o3_dialog_1a" = "Puede que seas bueno, Eli Shane, pero no vas a ganar este duelo.";
+"enc_c6e8o3_dialog_2a" = "Ya basta! Vamos a hacer huelga!";
+
+//Encounter 9
+"enc_c6e9o1_dialog_1a" = "Idiota! Te aplastaré como una cucaracha!";
+
+//Encounter 10
+"enc_c6e10o1_dialog_1a" = "Estás demostrando ser un problema más grande de lo que pensábamos. Pero puedes seguir siendo útil, Shane.";
+"enc_c6e10o1_dialog_1b" = "¿Una última palabra antes de unirte a mi ejército de zombis?";
+"enc_c6e10o1_dialog_2a" = "No eres mejor que Blakk y sus diablos. Tus días de controlar mentes han terminado, Sábado.";
+"enc_c6e10o1_dialog_3a" = "Devuélveme a Eructín!";
+
+/* End Chapter 6 */
+
+/* Chapter 7 */
+
+
+//Encounter 1
+"enc_c7e1o1_dialog_1a" = "Banda de Shane! Parar vuestras mecas ahora mismo!";
+"enc_c7e1o1_dialog_1b" = "Debo devolveros a prisión o Blakk me quitará mis privilegios en la cafetería.";
+"enc_c7e1o1_dialog_2a" = "Dile a tu amo que no hay celda que retenga a la Banda de Shane.";
+
+//Encounter 2
+"enc_c7e2o1_dialog_1a" = "Vaya! Bonito disfraz. ¿Quién se supone que eres?";
+"enc_c7e2o1_dialog_2a" = "No es un disfraz. Soy un caballero de la fortuna";
+"enc_c7e2o1_dialog_2b" = "…un espadachín, un bucanero. Practico el dulce intercambio comercial.";
+"enc_c7e2o1_dialog_3a" = "Oh, eso me parece una vida de pirata!";
+
+//Encounter 3
+"enc_c7e3o1_dialog_1a" = "Oye. Puedo ver mi casa desde aquí!";
+"enc_c7e3o1_dialog_2a" = "¿Estás saqueando la ciudad en la que vives?";
+"enc_c7e3o1_dialog_3a" = "Aquí es donde dice el mapa que debemos ir, y eso haremos. De otro modo no seríamos piratas.";
+"enc_c7e3o1_dialog_4a" = "Creo que mejor me voy a casa.";
+
+//Encounter 4
+"enc_c7e4o1_dialog_1a" = "He entrenado setenta y cinco formas diferentes de combate. Ni de coña pasas por aquí!";
+
+//Encounter 5
+"enc_c7e5o1_dialog_1a" = "¿Qué hacen ustedes tiradores en mi barco?";
+"enc_c7e5o1_dialog_1b" = "Alto! Están intentando desencadenar un motín!";
+"enc_c7e5o1_dialog_2a" = "Nunca me cogerán vivo! Me hundiré con mi  barco!";
+
+//Encounter 6
+"enc_c7e6o1_dialog_1a" = "Encontramos el mapa del tesoro limpiamente. Ahora fuera de nuestro camino!";
+"enc_c7e6o1_dialog_2a" = "Me pregunto por qué hay tantas copias de éste mapa flotando por ahí.";
+
+//Encounter 7
+"enc_c7e7o1_dialog_1a" = "Eso si que es un gran cañón. ¿Por qué en lugar de dispararnos, no te largas?";
+"enc_c7e7o1_dialog_2a" = "Boom!" ;
+"enc_c7e7o1_dialog_3a" = "Creo que eso responde a tu pregunta!";
+
+//Encounter 8
+
+//Encounter 9
+"enc_c7e9o1_dialog_1a" = "Gator tiene el mapa secreto. Gator debe conseguir el tesoro el primero para que Gator pueda retirarse de la vida de pirata.";
+"enc_c7e9o1_dialog_1b" = "Gator será ganador!";
+"enc_c7e9o1_dialog_2a" = "Tarde Gator";
+
+//Encounter 10
+"enc_c7e10o1_dialog_1a" = "Whoa, eres una gran tipo.";
+"enc_c7e10o1_dialog_2a" = "Grunt.";
+"enc_c7e10o1_dialog_3a" = "Grunt.";
+
+"enc_c7e10o2_dialog_1a" = "El Capitán está ocupado ahora mismo pirateando. ¿Podrías volver más tarde?";
+
+"enc_c7e10o3_dialog_1a" = "Has destrozado mi barco, dispersado a mi tripulación, pirateado mi tesoro pirata y ahora ¿te vas a enfrentar a mí?" ;
+"enc_c7e10o3_dialog_1b" = "Tienes valor. Pero se necesita más que eso para abatir a un maestro pirata.";
+"enc_c7e10o3_dialog_2a" = "No! Mi Tesoro!" ;
+
+/* End Chapter 7 */
+
+/* Chapter 8 */
+
+
+//Encounter 1
+"enc_c8e1o1_dialog_1a" = "Shane! Tras mi última humillación el Dr.Blakk me quitó mis demonios.";
+"enc_c8e1o1_dialog_1b" = "No dejaré que vuelvas a vencerme.";
+
+//Encounter 2
+"enc_c8e2o1_dialog_1a" = "Hay muchos bandidos por esta zona.";
+"enc_c8e2o1_dialog_1b" = "Quizás alguno sepa que es lo que sucede en el Reino Topoide.";
+"enc_c8e2o1_dialog_2a" = "Ahh, otra vez no!";
+
+//Encounter 3
+"enc_c8e3o1_dialog_1a" = "Acabemos con esto. Tenemos trabajo que hacer. Y no te vas a interponer en nuestro camino esta vez, Shane.";
+"enc_c8e3o2_dialog_1a" = "No! Va explotar todo!";
+
+//Encounter 4
+"enc_c8e4o1_dialog_1a" = "La Banda de Shane está aquí! Activar la alarma! Hacer saltar las trampas!";
+"enc_c8e4o1_dialog_2a" = "Vale... Así que el pasar desapercibidos no ha funcionado. De todos modos conseguimos entrar. Acabemos con esto!";
+"enc_c8e4o2_dialog_1a" = "Aunque me ganes, un centenar más de tiradores me reemplazarán.";
+"enc_c8e4o2_dialog_2a" = "Oh Espera. Todos han huido.";
+
+//Encounter 5
+"enc_c8e5o1_dialog_1a" = "Jeen es capaz de partir ladrillos por la mitad con su bigote.";
+
+//Encounter 6
+"enc_c8e6o1_dialog_1a" = "Jeen es un verdadero pusilánime. Creo que pronto te darás cuenta que yo no lo soy.";
+"enc_c8e6o1_dialog_2a" = "Aun no has visto nada.  El líder de la Banda del Dolor te va a mostrar lo que es el verdadero poder!";
+
+//Encounter 7
+"enc_c8e7o1_dialog_1a" = "Ey, te pareces a mí...";
+"enc_c8e7o1_dialog_1b" = "Pero menos guapo!";
+
+//Encounter 8
+
+//Encounter 9
+"enc_c8e9o1_dialog_1a" = "El formidable Sedo se ha convertido en el Rey de los Topoides.";
+"enc_c8e9o1_dialog_1b" = "Suelta esa corona impostor!";
+
+//Encounter 10
+"enc_c8e10o1_dialog_1a" = "El Sensacional Sedo no será vencido por alguien como tú. Sedo vencerá!";
+"enc_c8e10o1_dialog_2a" = "Nooooo! Mi Meca-Topoide! La has roto!";
+
+/* End Chapter 8 */
+
+/* Chapter 9 */
+
+
+//Encounter 1 - The Trips
+"enc_c9e1o1_dialog_1a" = "Tres veces el poder del fuego significa que tienes tres veces la oportunidad de ser escogido.";
+"enc_c9e1o2_dialog_1a" = "No. No nos iremos.";
+"enc_c9e1o3_dialog_1a" = "Soy el más válido de mis hermanos. La Maestra Imbatible me escogerá a mí, seguro!";
+
+//Encounter 2
+
+//Encounter 3 - Sid the Kid
+"enc_c9e3o1_dialog_1a" = "Cuando la Maestra me vea vencerte, se dará cuenta que soy su siguiente pupilo.";
+"enc_c9e3o1_dialog_2a" = "Ni de coña!";
+
+//Encounter 4 - King of Sling
+"enc_c9e4o1_dialog_1a" = "Una vez desvele los secretos de la Maestra Imbatible, mi reino será mejor dirigido que nunca que nunca!";
+"enc_c9e4o1_dialog_2a" = "Eso no importa. Un verdadero rey sirve, no manda.";
+
+//Encounter 5 - Trixie
+"enc_c9e5o1_dialog_1a" = "Ey Trixie! Gracias por venir a apoyarme.";
+"enc_c9e5o1_dialog_2a" = "¿Apoyarte? He venido a competir.  Creías que todo esto era sólo por tí?";
+
+//Encounter 6 - Fake Duelist
+"enc_c9e6o1_dialog_1a" = "Tan sólo un rival entre la Maestra y mi entrenamiento con ella.";
+"enc_c9e6o1_dialog_1b" = "El único problema es que no se quién es este tipo.";
+
+//Encounter 7 - Unbeatable Master
+"enc_c9e7o1_dialog_1a" = "Muy bien, bloquea las rodillas, veamos que puedes dar. Esto no es un duelo, es una evaluación.";
+"enc_c9e7o1_dialog_1b" = "La decisión será sólo mía.";
+
+//Encounter 8 - Young Dr. Blakk
+"enc_c9e8o1_dialog_1a" = "Pasé toda la noche calibrando mi arma .Tu derrota es inevitable.";
+"enc_c9e8o1_dialog_2a" = "El arma no hace al tirador, Tadeus!";
+"enc_c9e8o1_dialog_2b" = "Vas a perder!";
+
+//Encounter 9 - Twist
+"enc_c9e9o1_dialog_1a" = "No vas a ganar, Twist!";
+"enc_c9e9o1_dialog_2a" = "Nunca se sabe, Eli.";
+"enc_c9e9o1_dialog_3a" = "Estás respaldando al tipo equivocado, Twist... Y lo sabes.";
+
+//Encounter 10 - Dr. Blakk
+"enc_c9e10o1_dialog_1a" = "No.";
+"enc_c9e10o1_dialog_2a" = "Perdóname.";
+"enc_c9e10o1_dialog_3a" = "He dicho no. Se acabó. No volverás a dañar a otra persona inocente y marcharte como si nada.";
+
+/* End Chapter 9 */
+
+/* Chapter 10 */
+
+
+//Encounter 1 - Broken Auto-Cannon
+"enc_c10e1o1_dialog_1a" = "EL nuevo Alcaide me envío al Montón Chatarra por tu culpa, Prisionero #371.";
+"enc_c10e1o1_dialog_1b" = "Tendré mi ven-bzzzzzzt-ganza.";
+
+//Encounter 2 - Doombot 1.0 & Doombot 2.0
+"enc_c10e2o1_dialog_1a" = "Tontobot 1.0? Que estás haciendo aquí?";
+"enc_c10e2o1_dialog_2a" = "Después de que el programa Tontobot fuera interrumpido, todos los Tontobots fuimos enviados aquí.";
+"enc_c10e2o1_dialog_2b" = "Tontobot 1.0 iniciando programa de batalla!";
+"enc_c10e2o2_dialog_1a" = "Tontobot 2.0 desmontar? No desmontar!";
+"enc_c10e2o2_dialog_1b" = "Tontobot 2.0 iniciando programa de batalla!";
+
+//Encounter 3 - Mecha-Mole
+"enc_c10e3o1_dialog_1a" = "RAAA-bzzzzzzzzt-AAAAAWR";
+"enc_c10e3o1_dialog_1b" = "Ese ruido ya lo he oído antes...";
+
+//Encounter 4 - Tough Guy Gang Member #1 -
+"enc_c10e4o1_dialog_1a" = "Esta área está restringida si no tiene permiso del Jefe Ember.";
+"enc_c10e4o1_dialog_1b" = "Abandona el Almacén Profundo y deja aquí tus slugs y tu arma.";
+"enc_c10e4o1_dialog_2a" = "Eso no va a pasar.";
+
+//Encounter 5 - Tough Guy Gang Member #2 - Welder
+"enc_c10e5o1_dialog_1a" = "¿Quién sois?";
+"enc_c10e5o1_dialog_2a" = "La Banda de Shane. Quizás hayas oído hablar de nosotros.";
+"enc_c10e5o1_dialog_3a" = "Si, y quizás tu hayas oído hablar de nosotros. Somos Los Tíos Duros.";
+
+//Encounter 6 - Tough Guy Gang Member #3 - Neckbrace
+"enc_c10e6o1_dialog_1a" = "Algunas cosas de aquí pueden ser gratis, pero el llevártelas no lo es.";
+"enc_c10e6o1_dialog_1b" = "Le debes una buena al Jefe Ember por esto.";
+
+//Encounter 7 - Tough Guy Gang Member #4 - Troll
+"enc_c10e7o1_dialog_1a" = "Venga, colegas. Ese cristal vale menos que vosotros. Dejar que nos lo llevemos y nos iremos de aquí.";
+"enc_c10e7o1_dialog_2a" = "Bien, que sea el Jefe Ember quien decida eso.";
+
+//Encounter 8 - Boss Ember
+"enc_c10e8o1_dialog_1a" = "Soy el guardián del Alamacén Profundo. Ningún objeto o cliente deja este lugar sin mi permiso.";
+"enc_c10e8o1_dialog_1b" = "Este es el trato, Shane. Tú y yo. Uno a uno. Si ganas, te llevas el Cristal Vitalis. Si pierdes, me quedo con tu arma.";
+
+//Encounter 9
+
+//Encounter 10 - Angry Boss Ember
+"enc_c10e10o1_dialog_1a" = "Eres un tramposo, Ember. ¡He ganado con todas las de la ley! ¡Dame el cristal Vitalis!";
+"enc_c10e10o1_dialog_2a" = "Metí. No vas a ir a ninguna parte, Shane. Este es MI desguace.";
+
+/* End Chapter 10 */
+
+/* Chapter 11 */
+
+//Encounter 1 - Glasses
+"enc_c11e1o1_dialog_1a" = "¡Manos arriba! ¡Los Hooligang estamos hambrientos, sedientos y deseosos de ponernos ciegos de vasos de leche y cacahuetes!";
+
+//Encounter 2 - Shorty
+"enc_c11e2o1_dialog_1a" = "¡Aquí donde me ves, he sido cocinero antes que villano! ¡Os voy a limpiar, pelar, triturar y servir con una manzana en la boca!";
+
+//Encounter 3 - Billy
+"enc_c11e3o1_dialog_1a" = "¿Otra vez tú?";
+"enc_c11e3o1_dialog_1b" = "¡Fuera de mi vista, Eli! ¡Tengo un hambre que me muero, y llevo tres días comiendo pienso para slugs!";
+"enc_c11e3o1_dialog_2a" = "¿Por qué has...? No, bien pensado, déjalo. Mejor no pregunto.";
+
+//Encounter 4 - Jeen
+"enc_c11e4o1_dialog_1a" = "¿Qué estáis haciendo aquí? ¿Es que estáis conchabados con los Hooligang?";
+"enc_c11e4o1_dialog_1b" = "¡La Banda del Dolor clama venganza! ¡Jeen va a aplastar a Eli Shane con el poder de sus patillas!";
+"enc_c11e4o1_dialog_1c" = "¿Seguro que no habéis venido con los Hooligang? Lo digo por que acaban de pasar por aquí...";
+
+//Encounter 5 - Trapsie
+"enc_c11e5o1_dialog_1a" = "¡Tal vez hayas podido con las patillas de Jeen, pero no podrás conmigo!";
+
+//Encounter 6 - Alias
+"enc_c11e6o1_dialog_1a" = "Vaya, vaya, pero si es mi hermano gemelo menos agraciado... ¡Sedo es historia! ¡Ahora yo estoy al mando de la Banda del Dolor, y ardo en deseos de vengarme!";
+
+//Encounter 7 - Welder Walter & Lil Stevie
+"enc_c11e7o1_dialog_1a" = "¿Los Tíos Duros? ¿Cómo es que ya no trabajáis para el Jefe Ember?";
+"enc_c11e7o1_dialog_1b" = "Nos han despedido por no ser lo bastante duros... ¡Ahora andamos buscando bronca y, de paso, otro trabajo!";
+"enc_c11e7o1_dialog_2a" = "Oye, Eli... ¿No tendréis un hueco en vuestra banda, por casualidad? Mirad, este es mi curriculum.";
+
+//Encounter 8 - Mongo
+"enc_c11e8o1_dialog_1a" = "¡Ahora me dedico al voluntariado! ¡Gratis!";
+"enc_c11e8o1_dialog_2a" = "¡Me presento voluntario para batirme en duelo con Eli! ¡Ahora mismo!";
+
+//Encounter 9 - Straggus
+"enc_c11e9o1_dialog_1a" = "No puedo permitirme ni comprar nuevas bombillas para mi casco de supervillano... ¡Estoy que trino!";
+
+//Encounter 10 - Billy, Alias & Straggus
+"enc_c11e10o1_dialog_1a" = "Los Hooligang, la Banda del Dolor y los Tíos Duros? ¿Qué hacéis aquí?";
+"enc_c11e10o1_dialog_1b" = "¡Unos estamos hambrientos, otros queremos vengarnos y lucir palmito y otros buscamos trabajo! ¡Cuando unimos fuerzas, nada puede detenernos!";
+"enc_c11e10o2_dialog_2a" = "¡Gracias a mi sed de venganza, he hecho nuevos amigos tan malvados como yo!";
+"enc_c11e10o3_dialog_3a" = "¡He descubierto que es más fácil hacer realidad mis maléficos objetivos con la ayuda de unos buenos amigos!";
+"enc_c11e10o3_dialog_4a" = "¡Largaos con la música a otra parte, tíos!";
+"enc_c11e10o3_dialog_5a" = "No me puedo creer que hayamos perdido pese al poder de la amistad entre villanos...";
+
+/* End Chapter 11 */
+
+/* Chapter 12 */
+
+
+//Encounter 1 - Blakk Soldier & John Bull
+"enc_c12e1o1_dialog_1a" = "¡Alto ahí, rufián! ¡Quedas arrestado en nombre del doctor Thadeus Blakk!";
+"enc_c12e1o1_dialog_2a" = "¿Arrestado? ¿De qué se me acusa?";
+"enc_c12e1o1_dialog_1b" = "¡De practicar el tiro sin autorización!";
+"enc_c12e1o1_dialog_3a" = "¡No tienes escapatoria, Shane! ¡Tienes un abismo enorme detrás!";
+
+//Encounter 2 - Nacho
+"enc_c12e2o1_dialog_1a" = "¡Danos tu arma y no seremos piadosos contigo!";
+"enc_c12e2o1_dialog_2a" = "Gracias por la oferta, pero no.";
+"enc_c12e2o1_dialog_3a" = "¡No mires atrás, Eli! ¡Hay una buena caída!";
+"enc_c12e2o2_dialog_4a" = "¿Te dan miedo las alturas, Nacho? ¡Lo digo porque a mí no!";
+
+//Encounter 3 - Darkbane Soldier 1
+"enc_c12e3o1_dialog_1a" = "¡Caray! ¿Qué sé supone que eres?";
+"enc_c12e3o1_dialog_1b" = "¡¡¡WAAARGH!!!";
+"enc_c12e3o1_dialog_2a" = "¡Cuidado con las bolas de fuego!";
+
+//Encounter 4 - Darkbane Soldier 2
+"enc_c12e4o1_dialog_1a" = "¡Otro más! ¿De dónde salen esos tipos?";
+
+//Encounter 5 - Darkbane Soldier 3
+"enc_c12e5o1_dialog_1a" = "¡Waaargh!";
+"enc_c12e5o1_dialog_2b" = "¡Vamos, Eructín! Tenemos que llegar al fondo de este asunto.";
+
+//Encounter 6 - Shadow Clan Protector
+"enc_c12e6o1_dialog_1a" = "¡Alto! ¡Esto es un lugar sagrado! ¡No podéis pasar!";
+"enc_c12e6o1_dialog_2a" = "¡Espera! ¡Pero si soy Eli Shane!";
+"enc_c12e6o1_dialog_3a" = "¡El portal slug se está debilitando! ¡Si de verdad eres Shane, debes proteger el portal y acabar con los Darkbane!";
+"enc_c12e6o1_dialog_4a" = "No sé ni quiénes son esos tales Darkbane, pero vale. ¡Te ayudaré!";
+"enc_c12e6o1_dialog_3b" = "Las Cavernas Profundas están llenas de una energía oscura que lo corrompe todo... ¡No bajes la guardia, joven Shane!";
+
+//Encounter 7 - Prison Door
+"enc_c12e7o1_dialog_1a" = "Muy bien, Eructín... Espero que sepas lo que haces. ¡Echa la puerta abajo!";
+
+//Encounter 8 - Prison Guards
+"enc_c12e8o1_dialog_1a" = "¡El prisionero se escapa! ¡Dad la alarma!";
+"enc_c12e8o1_dialog_2a" = "¡Tus demonios no te salvarán, escoria humana!";
+"enc_c12e8o1_dialog_3a" = "¡Vamos, Eructín! ¡Tenemos que largarnos de aquí a toda velocidad!";
+
+//Encounter 9 - Prison Warden
+"enc_c12e9o1_dialog_1a" = "¡He escrito un poema! Se titula «Escoria humana, regresa a tu celda». ¿Quieres oírlo?";
+"enc_c12e9o1_dialog_2a" = "Esto... Vale.";
+"enc_c12e9o1_dialog_1b" = "«El fuego es rojo, las rocas negras. Escoria humana, regresa a tu celda.»";
+"enc_c12e9o1_dialog_2b" = "Qué talento para la poesía...";
+
+//Encounter 10 - Darkbane Nacho
+"enc_c12e10o1_dialog_1a" = "Eso sí que no me lo esperaba, Shane... ¡Nunca pensé que demonizarías tus propias slugs para salvarte!";
+"enc_c12e10o1_dialog_2a" = "¡No me has dejado otra opción! ¡No puedo permitir que invadas Slugterra!";
+"enc_c12e10o1_dialog_3a" = "¿Acaso has olvidado dónde estás? ¡Estás en las profundidades de las Cavernas Profundas! Ya es demasiado tarde, Eli Shane...";
+"enc_c12e10o1_dialog_3b" = "¡El Behemoth destruirá tu querido portal slug y los Darkbane ocuparán el lugar que les corresponde en Slugterra!";
+
+/* End Chapter 12 */
+
+/* Chapter 13 */
+
+
+//Encounter 1 - Darkbane 1
+"enc_c13e1o1_dialog_1a" = "Creo que puedo ir olvidándome de huir discretamente...";
+
+//Encounter 2 - Darkbane 2
+"enc_c13e2o1_dialog_1a" = "¡Por el honor de los Darkbane!";
+
+//Encounter 3 - Darkbane 3
+"enc_c13e3o1_dialog_1a" = "¡No tienes escapatoria!";
+
+//Encounter 4 - Prison Warden
+"enc_c13e4o1_dialog_1a" = "¡He escrito otro poema!";
+"enc_c13e4o1_dialog_2a" = "¿Por qué será que no me sorprende?";
+"enc_c13e4o1_dialog_1b" = "«Escoria humana, sucia e infecta; escoria vil, despreciable y abyecta; haz el favor de regresar a tu celda.»";
+"enc_c13e4o1_dialog_2b" = "¡Es aún peor que el anterior!";
+
+//Encounter 5 - Bonus Round - Brimstone's Throne
+
+//Encounter 6 - Darkbane Elite 1 & 2
+"enc_c13e6o1_dialog_1a" = "¡Hey, chicos!";
+"enc_c13e6o1_dialog_2a" = "¡No podrás vencer a la élite de los Darkbane!";
+"enc_c13e6o1_dialog_3a" = "¡Arrodíllate ante nosotros y te daremos una muerte rápida!";
+
+//Encounter 7 - Darkbane Nacho
+"enc_c13e7o1_dialog_1a" = "¡No tienes nada que hacer ante la magia de los Darkbane!";
+"enc_c13e7o1_dialog_2a" = "¡Mis slugs y yo os daremos vuestro merecido! ¡Ellas son las verdaderas guardianas de Slugterra!";
+
+//Encounter 8 - Angry Nacho
+"enc_c13e8o1_dialog_1a" = "¡Nacho! ¿Qué es esto? ¿Eres un Darkbane?";
+"enc_c13e8o1_dialog_2a" = "Ahora ya conoces mi secreto. Ni siquiera el doctor Blakk lo sabe.";
+"enc_c13e8o1_dialog_1b" = "¡No voy a permitir que te vayas, Eli!";
+
+//Encounter 9 - Behemoth
+"enc_c13e9o1_dialog_1a" = "Woah! Eres un tío grande!";
+"enc_c13e9o1_dialog_2a" = "¡Raaargh!";
+"enc_c13e9o1_dialog_3a" = "¡Cuanto más grandes son, más dura es la caída!";
+
+//Encounter 10 - Brimstone
+"enc_c13e10o1_dialog_1a" = "¡Los Darkbane volveremos a ser los amos de Slugterra! ¡Es nuestro destino!";
+"enc_c13e10o1_dialog_2a" = "¡No te dejaré pasar!";
+"enc_c13e10o1_dialog_1b" = "¡Destruiré esta caverna! ¡Convertiré el portal en un cráter ardiente!";
+"enc_c13e10o1_dialog_3a" = "¡NOOO! ¡No puedo fracasar ahora, después de tanto tiempo!";
+"enc_c13e10o1_dialog_4a" = "¡Eructín! ¡Manda a Brimstone de vuelta a su casa!";
+
+/* End Chapter 13 */
+
+/* Chapter 14 */
+
+
+//Encounter 1 - Pronto, Kord and Trixie
+"enc_c14e1o1_dialog_1a" = "¿Listo para practicar, Pronto?";
+"enc_c14e1o1_dialog_1b" = "¡Pronto siempre está preparado para luchar! ¿Sabías que Pronto es un tirador de slugs famoso entre los topoides?";
+"enc_c14e1o2_dialog_2a" = "¡No te descuides, Eli! Los tiradores de slug deben hacer ejercicio para mantenerse a punto.";
+"enc_c14e1o2_dialog_2b" = "¡Venga!";
+"enc_c14e1o3_dialog_3a" = "¡Eli, pareces cansado! ¡Así será más fácil vencerte en un duelo!";
+"enc_c14e1o3_dialog_3b" = "¿Sabes qué? Tengo un poco de sueño.";
+
+//Encounter 2 - Dr.Blakk
+"enc_c14e2o1_dialog_1a" = "¡Blakk! ¿Qué haces aquí? ¡Tú no participas en los torneos de tiro de slugs!";
+"enc_c14e2o1_dialog_1b" = "¡Es la primera vez que te veo! ¡Prepárate para luchar, forastero!";
+
+//Encounter 3 - Spirex
+"enc_c14e3o1_dialog_1a" = "¡Eli Shane! ¡Estás más enredado en tus sueños que una mosca en una tela de araña!";
+
+//Encounter 4 - Eli
+"enc_c14e4o1_dialog_1a" = "¡Eres... yo! ¿Qué está ocurriendo aquí?";
+"enc_c14e4o1_dialog_2a" = "¡Espera un momento! ¡Yo soy el verdadero Eli Shane!";
+
+//Encounter 5 - Young Blakk
+"enc_c14e5o1_dialog_1a" = "¡Tu cara me suena! Pareces... el Dr. Blakk de joven.";
+
+//Encounter 6 - Behemoth
+"enc_c14e6o1_dialog_1a" = "¡Vaya, qué grande eres! ¿Cómo has entrado en el torneo? ¡No tienes armas!";
+"enc_c14e6o1_dialog_2a" = "¡Rrrrrraaaau!";
+
+//Encounter 7 - Angry Blakk
+"enc_c14e7o1_dialog_1a" = "¡Otra vez tú! ¿Por qué insistes en interponerte en mi camino?";
+"enc_c14e7o1_dialog_2a" = "¡Siempre has tenido mal genio!";
+
+//Encounter 8 - Unbeatable Master
+"enc_c14e8o1_dialog_1a" = "¡La vida es solo una ilusión, Eli! La verdadera sabiduría se encuentra en los sueños. ¡Busca aquel que tanto anhelas!";
+"enc_c14e8o1_dialog_2a" = "¡Espera! ¿Cómo sabré que he encontrado a esta persona?";
+"enc_c14e8o1_dialog_2b" = "Tu corazón sabe lo que tu mente aún no conoce.";
+
+//Encounter 9 - Gat Blakk
+"enc_c14e9o1_dialog_1a" = "¡Eso no parece un arma reglamentaria!";
+"enc_c14e9o1_dialog_2a" = "¡Puede que sea tu sueño, Eli Shane, pero me vengaré! ¡Prepárate para morir!";
+
+//Encounter 10 - Will Shane
+"enc_c14e10o1_dialog_1a" = "¡Eli! Te has enfrentado a muchos peligros a lo largo de tus viajes. Veamos lo que has aprendido.";
+"enc_c14e10o1_dialog_2a" = "¡Papá, estás vivo! Te he buscado por todas partes...";
+"enc_c14e10o1_dialog_3a" = "Estoy muy orgulloso de ti, hijo. Eres un verdadero Shane.";
+"enc_c14e10o1_dialog_3b" = "¡Vuelve conmigo! Tengo tanto que preguntarte...";
+"enc_c14e10o1_dialog_3c" = "¡Ahora eres un Shane, Eli! Nos volveremos a ver, cuando todo parezca derrumbarse. Adiós, hijo.";
+
+/* End Chapter 14 */
+
+/* Chapter 15 */
+
+
+//Encounter 1 - Dr.Blakk
+"enc_c15e1o1_dialog_1a" = "¡Veo que has recibido mi mensaje!";
+"enc_c15e1o2_dialog_1a" = "¿Por qué me has traído aquí, Blakk?";
+"enc_c15e1o1_dialog_2a" = "Es un lugar muy importante, Eli. ¿Sabes por qué? Te contaré una historia.";
+
+//Encounter 2 - Angry Miner
+"enc_c15e2o1_dialog_1a" = "¡Esta es la mina de Viggo Dare! ¡Aquí los nuevos obreros deben saber a qué atenerse!";
+"enc_c15e2o2_dialog_1b" = "¡No quiero problemas!";
+
+//Encounter 3 - Foreman
+"enc_c15e3o1_dialog_1a" = "¡Déjame pasar!";
+"enc_c15e3o2_dialog_1a" = "No puedes salir de aquí por las buenas. ¡Ahora perteneces a Viggo Dare!";
+
+//Encounter 4 - The Heavy, The Rat
+"enc_c15e4o1_dialog_1a" = "¡Anda, mira! ¡Es el fugitivo!";
+"enc_c15e4o1_dialog_2a" = "¡Tenemos que llevarte de vuelta a la mina! Órdenes del jefe.";
+
+//Encounter 5 - Young Will Shane
+"enc_c15e5o1_dialog_1a" = "¡Alto! ¿Le has dado una paliza a dos ciudadanos?";
+"enc_c15e5o2_dialog_1a" = "¿Qué? Esos son los hombres de Viggo Dare. ¡Ellos me atacaron!";
+"enc_c15e5o2_dialog_1b" = "¡Soy Shane! ¡Te lo pensarás dos veces antes de dar problemas en esta caverna!";
+
+//Encounter 6 - Viggo, Dare, The Rat
+"enc_c15e6o1_dialog_1a" = "¡Otra vez tú! El jefe se va a poner de mal humor...";
+"enc_c15e6o1_dialog_1b" = "¡Me has causado muchos problemas! Vuelve a la mina antes de que sea yo el que te arrastre hacia allí.";
+"enc_c15e6o2_dialog_1a" = "¡Estoy harto de que zarandeen! ¡Esta es mi caverna! Tira el arma y te dejaré salir de aquí.";
+"enc_c15e6o3_dialog_1a" = "¡Tus hombres son ahora mis hombres! ¡Tus minas son ahora mis minas! ¡Esta caverna ahora es mía y tú estás invadiendo mi propiedad!";
+"enc_c15e6o3_dialog_1b" = "¡Lárgate!";
+
+//Encounter 7 - Will Shane
+"enc_c15e7o1_dialog_1a" = "¡Blakk! ¡No permitiré que eches a esta gente de su tierra solo para que hagas pasar un tren por aquí!";
+"enc_c15e7o2_dialog_2a" = "¡No puedes interponerte al progreso, Shane! ¡El Slugterra exprés es el futuro!";
+"enc_c15e7o1_dialog_3a" = "¡Hoy me has derrotado, pero no estás por encima de la ley!";
+"enc_c15e7o2_dialog_3a" = "¡Ahí es donde te equivocas! ¡Los ricos y poderosos hacen las leyes! ¡Yo soy la ley!";
+"enc_c15e7o1_dialog_4a" = "Te equivocas. Eres mala persona y los slugs no quieren luchar para ti. ¡Puedo verlo en sus ojos!";
+"enc_c15e7o2_dialog_4a" = "¡Todos se doblegarán a mi voluntad, hasta los slugs! No son más que herramientas que me ayudarán a construir mi imperio.";
+
+//Encounter 8 - Brimestone
+"enc_c15e8o1_dialog_1a" = "¿Dónde estoy?";
+"enc_c15e8o1_dialog_2a" = "¡El poder es la única moneda aquí!";
+"enc_c15e8o1_dialog_2b" = "¡Te has ganado tu lugar! Permíteme ofrecerte algo a cambio.";
+
+//Encounter 10 - Will Shane
+"enc_c15e10o1_dialog_1a" = "¿Por qué me has traído aquí, Blakk?";
+"enc_c15e10o2_dialog_2a" = "¡Eres como una piedra en el zapato! Tengo una cantidad de poder que jamás imaginarías.";
+"enc_c15e10o1_dialog_3a" = "¿Qué has hecho?";
+"enc_c15e10o2_dialog_3a" = "¡He sometido a los slugs a mi voluntad! ¡He desatado su verdadero poder!";
+
+//Encounter 11 - Dr.Blakk
+"enc_c15e11o1_dialog_1a" = "Como ves, Eli, estás justo en el lugar en el que derroté a Will Shane.";
+"enc_c15e11o1_dialog_2a" = "¿¡Qué le has hecho a mi padre!?";
+"enc_c15e11o1_dialog_3a" = "Desapareció en la oscuridad. ¡No quedó ni su sombra!";
+"enc_c15e11o1_dialog_3b" = "Pero la historia no acaba aquí, Eli Shane. Mis planes están tomando forma y pronto todo estará claro.";
+"enc_c15e11o1_dialog_3c" = "¡Ah, ya los oigo venir!";
+
+/* End Chapter 15 */
+
+/* Chapter 16 */
+
+
+//Encounter 1 - Delta Operator
+"enc_c16e1o1_dialog_1a" = "¡Vuelve! ¡Esta gente no ha hecho nada!";
+"enc_c16e1o1_dialog_2a" = "¡Fuerza Alfa enfrentándose al enemigo!";
+"enc_c16e1o2_dialog_1a" = "¡Retirada! ¡Formación escalonada!";
+
+//Encounter 2 - Doombot 1.0
+"enc_c16e2o1_dialog_1a" = "10011011010101001";
+
+//Encounter 3 - Mr. Orange
+"enc_c16e3o1_dialog_1a" = "¡Fuerza Delta atacando!";
+
+//Encounter 4 - Locke and Load
+"enc_c16e4o1_dialog_1a" = "¿Qué haces aquí, Locke?";
+"enc_c16e4o1_dialog_2a" = "¡El jefe dijo que creáramos una distracción y eso hacemos!";
+"enc_c16e4o2_dialog_1a" = "Dr. Blakk quiere que lo dejes en paz. ¡Tiene un plan y no planea contártelo!";
+"enc_c16e4o2_dialog_2a" = "¡Gracias! ¡No se lo diré a nadie!";
+
+//Encounter 5 - Darkbane Drek and Darkbane Hartag
+"enc_c16e5o1_dialog_1a" = "¿Adónde llevas los Darkbane?";
+"enc_c16e5o2_dialog_1a" = "¡Graaah! ¡Súbete al carro!";
+"enc_c16e5o2_dialog_1b" = "¡Gruuugh!";
+
+//Encounter 6 - Prison Warden
+"enc_c16e6o1_dialog_1a" = "¡Te he escrito un poema!";
+"enc_c16e6o1_dialog_1b" = "Ya estamos...";
+"enc_c16e6o2_dialog_1a" = "El fuego arde en llamas en la profunda oscuridad; ¿qué Darkbane podría equiparar su bravosidad?";
+"enc_c16e6o3_dialog_1a" = "¡Vaya, sí que has mejorado!";
+
+//Encounter 7 - Nacho
+"enc_c16e7o1_dialog_1a" = "¡Se aproxima una oleada oscura! ¡La sombra se cruza en tu camino, Shane! ¡Se han forjado nuevas alianzas!";
+"enc_c16e7o2_dialog_2a" = "¡No dejaré que les hagas daño!";
+
+//Encounter 8 - Bonus Round - Prison Wagon
+
+//Encounter 9 - Titan
+"enc_c16e10o1_dialog_1a" = "¿Dónde están los abrelatas cuando más los necesitas?";
+
+//Encounter 10 - Angry Nacho
+"enc_c16e11o1_dialog_1a" = "¿Crees que puedes ganar? El Darkbane recuperará sus tierras.";
+"enc_c16e11o1_dialog_2a" = "Te he detenido antes, puedo volver a hacerlo.";
+"enc_c16e11o1_dialog_3a"= "¡Un ejército espera para invadir Slugterra en la oscuridad!";
+"enc_c16e11o1_dialog_3b" = "¿Dónde está el ejército?";
+"enc_c16e11o1_dialog_3c" = "Disfruta de tus últimos días de paz. ¡El Dr. Blakk está preparando su plan!";
+
+/* End Chapter 16 */
+
+/* Chapter 17 */
+
+
+//Encounter 1 - Red Hook
+"enc_c17e1o1_dialog_1a" = "Garfio Rojo... tienes un aspecto diferente...";
+"enc_c17e1o2_dialog_1a" = "¡Desenfunda tu arma Eli!";
+"enc_c17e1o3_dialog_1a" = "¡¿!?¡¿!?";
+"enc_c17e1o1_dialog_2a" = "Bueno, ahora ya lo sabes. ¡Es una trampa! No deberías haber venido aquí.";
+"enc_c17e1o2_dialog_2a" = "¿Qué has hecho Garfio Rojo?";
+"enc_c17e1o1_dialog_3a" = "Eli, ¡gracias al cielo que has venido! El doctor Blakk ha intentado secuestrarme. Está trabajando en algo terrible, una máquina...";
+"enc_c17e1o2_dialog_3a" = "¡Sea lo que sea no puede ser bueno!";
+"enc_c17e1o3_dialog_3a" = "¡Tienes que ir a la ciudad y detener a Blakk!";
+
+//Encounter 2 - Darkbane Guards
+"enc_c17e2o1_dialog_1a" = "¿Veneno Oscuro? ¡¿¡¿Aquí?!?!";
+"enc_c17e2o2_dialog_1a" = "El Doctor Blakk nos ordenó trabajar con los Veneno Oscuro, pero nos dan un poco de miedo.";
+"enc_c17e2o3_dialog_1a" = "¡¡¡Graaaarrrrrrrrr!!!";
+
+//Encounter 3 - Nacho
+"enc_c17e3o1_dialog_1a" = "¡Sabía que vendrías, Eli! No puedes dejar de ser el héroe.";
+"enc_c17e3o2_dialog_1a" = "¡Fuera de mi camino, Nacho!";
+
+//Encounter 4 - Technician
+"enc_c17e4o1_dialog_1a" = "¡Se supone que no deberías estar aquí! Estos diablos son peligrosos.";
+
+//Encounter 5 - Bonus Round
+
+//Encounter 6 - Elite Guard
+"enc_c17e6o1_dialog_1a" = "¡Alto! ¡Área restringida!";
+"enc_c17e6o2_dialog_1a" = "¡Código rojo! Intruso en el nivel tres.";
+
+//Encounter 7 - Dr Blakk
+"enc_c17e7o1_dialog_1a" = "¡Saludos, Shane! ¡Qué oportuno que estés aquí para ver caer a Slugterra!";
+"enc_c17e7o1_dialog_2a" = "¿Qué has hecho Blakk?";
+"enc_c17e7o1_dialog_3a" = "¡Ven y enfréntate a tu destino!";
+
+//Encounter 8 - Darkbane Elite
+"enc_c17e8o1_dialog_1a" = "¡Nooooooo!";
+"enc_c17e8o1_dialog_2a" = "¡Hacia la victoria!";
+"enc_c17e8o1_dialog_3a" = "¡Recuperaremos lo que es nuestro!";
+"enc_c17e8o1_dialog_4a" = "¡Por fin! Después de un milenio el Veneno Oscuro ha vuelto a casa. ¡Acongójate ante tu nuevo maestro!";
+
+//Encounter 9 - Dr. Blakk
+"enc_c17e9o1_dialog_1a" = "No... no... NO... ¡Arrrghhh!";
+"enc_c17e9o1_dialog_2a" = "¡Esta es la última vez, Blakk! ¡Nunca más!";
+"enc_c17e9o1_dialog_3a" = "¡¡¡Lo has arruinado todo!!!";
+"enc_c17e9o1_dialog_4a" = "Por mi padre, por mis amigos, por los slugs, por toda Slugterra... ¡¡¡NUNCA MÁS!!!";
+
+//Encounter 10 - Bonus Round
+
+/* End Chapter 17 */
+

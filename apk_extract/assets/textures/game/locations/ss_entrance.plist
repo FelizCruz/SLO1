@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>location/entrance/bg.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,2},{490,368}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{490,368}}</string>
+                <key>sourceSize</key>
+                <string>{490,368}</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>2</integer>
+            <key>realTextureFileName</key>
+            <string>ss_entrance.pvr.ccz</string>
+            <key>size</key>
+            <string>{512,512}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:e707dcfcb2e79d9dab86e11e9153d3c7:262c8c4acd2ff1ca3050f4e24f1f3f3f:fdb32a681fbe6dd2d43ef8c380f39aa5$</string>
+            <key>textureFileName</key>
+            <string>ss_entrance.pvr.ccz</string>
+        </dict>
+    </dict>
+</plist>

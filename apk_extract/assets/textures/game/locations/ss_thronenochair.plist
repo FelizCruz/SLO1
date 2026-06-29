@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>location/thronenochair/bg.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,2},{490,368}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{490,368}}</string>
+                <key>sourceSize</key>
+                <string>{490,368}</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>2</integer>
+            <key>realTextureFileName</key>
+            <string>ss_thronenochair.pvr.ccz</string>
+            <key>size</key>
+            <string>{512,512}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:d5c08d21a35fb07079bed39cd54b0b29:b224de0fbde29a6b2556fad396e7a4e2:89002f70d4001dff464969d9174ec558$</string>
+            <key>textureFileName</key>
+            <string>ss_thronenochair.pvr.ccz</string>
+        </dict>
+    </dict>
+</plist>

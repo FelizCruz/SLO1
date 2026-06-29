@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>location/undertowcavern1/bg.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,2},{500,375}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{500,375}}</string>
+                <key>sourceSize</key>
+                <string>{500,375}</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>2</integer>
+            <key>realTextureFileName</key>
+            <string>ss_undertowcavern1.pvr.ccz</string>
+            <key>size</key>
+            <string>{512,512}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:c46ee657b50ba4ae27b54808c0aebb47:a27c8e7553d4493a3e8c406c870d2dd2:302790ca75569a091cd31795a73fe398$</string>
+            <key>textureFileName</key>
+            <string>ss_undertowcavern1.pvr.ccz</string>
+        </dict>
+    </dict>
+</plist>

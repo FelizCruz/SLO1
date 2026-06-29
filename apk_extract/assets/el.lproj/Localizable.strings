@@ -1,0 +1,2463 @@
+/*
+ Localizable.strings
+ Slugterra: Slug it Out!
+ 
+ Created by Jeremy Peterson on 13-01-31.
+ 
+ Main localized strings table for the game.
+ 
+ */
+
+
+/* Common UI */
+
+"dialog_button_ok" = "OK"; // Confirmation button text.
+"dialog_button_yes" = "Ναι"; // Confirmation button text.
+"dialog_button_no" = "Όχι"; // Confirmation button text.
+//"button_ok" = "OK"; // Confirmation button text.
+"button_cancel" = "Ακύρωση"; // Confirmation button text.
+//"button_accept" = "Accept"; // Confirmation button text.
+//"button_exit" = "Exit"; // Confirmation button text.
+//"button_nav_next" = "Next"; // Confirmation button text.
+//"button_nav_back" = "Back"; // Confirmation button text.
+//"button_go_now" = "Go Now!"; // Confirmation button text.
+/* End Common UI */
+
+
+
+/* Top HUD */
+
+"tophud_button_get_more_coins" = "ΠΕΡΙΣΣΟΤΕΡΑ ΚΕΡΜΑΤΑ";
+
+/* End Top HUD */
+
+/* Chapter 1 */
+
+//Encounter 1
+"enc_c1e1o1_dialog_1a" = "Τέλεια! Πάντα ήθελα να γνωρίσω ένα τρολ!";
+"enc_c1e1o1_dialog_2a" = "Είμαι ο Κόρντ Ζέιν. Δεν είσαι από εδώ γύρω, σωστά;";
+"enc_c1e1o1_dialog_2b" = "Ας σε διδάξω πώς να υπερασπίζεσαι τον εαυτό σου. Κοίτα τα εικονίδια κάτω.";
+"enc_c1e1o1_dialog_3a" = "Κούνησε τα εικονίδια ακουμπώντας ένα και σέρνοντάς το προς το διπλανό.";
+"enc_c1e1o1_dialog_4a" = "Καλή δουλειά, νεαρέ. Αρκετά.";
+"enc_c1e1o1_dialog_5a" = "ΟΚ, Ηλάι, θα σου δείξω πώς να συνδυάζεις τα εικονίδια τώρα.";
+"enc_c1e1o1_dialog_6a" = "Τώρα δες εάν μπορείς να συνδυάσεις τρία μαζί.";
+"enc_c1e1o1_dialog_7a" = "Ουφ! Αυτή ήταν η πρώτη βολή που έριξες ποτέ; Δεν μπορώ να καταλάβω πώς κατάφερες να με πετύχεις.";
+"enc_c1e1o1_dialog_7b" = "Βάζω στοίχημα ότι δεν μπορείς να το ξανακάνεις.";
+"enc_c1e1o1_dialog_8a" = "Κούνησε τα εικονίδια για να κάνεις κι άλλο συνδυασμό!";
+"enc_c1e1o1_dialog_9a" = "Άουτς! ΟΚ, ώστε είσαι αρκετά καλός στις βολές λοιπόν… αλλά δεν είσαι ο μόνος με εκτοξευτή! Ας μονομαχήσουμε!";
+"enc_c1e1o1_dialog_10a" = "Ου, Ο! Ουφ! Γιατί το έκανες αυτό; Α, σωστά, εγώ σου το είπα…";
+
+//Encounter 2
+"enc_c1e2o1_dialog_1a" = "Πολύ καλή δουλειά, νεαρέ! Επόμενο βήμα: ανάρρωση.";
+"enc_c1e2o1_dialog_2a" = "Συνδύασε τρία πράσινα εικονίδια γιατρειάς για να ξαναγεμίσεις την μπάρα υγείας σου.";
+"enc_c1e2o1_dialog_3a" = "Αισθάνεσαι καλύτερα; Ωραία!";
+"enc_c1e2o1_dialog_4a" = "Συγγνώμη, ο εκτοξευτής μου είναι λίγο ευαίσθητος. Καλύτερα να θεραπευτείς ξανά.";
+"enc_c1e2o1_dialog_5a" = "Προσπάθησε να συνδυάσεις τέσσερα εικονίδια υγείας.";
+"enc_c1e2o1_dialog_6a" = "Όσο περισσότερα εικονίδια μπορείς να συνδυάσεις με μία κίνηση, τόσο το καλύτερο!";
+"enc_c1e2o1_dialog_6b" = "Τώρα ας δούμε πόσο μπορείς να αντέξεις σε μια μονομαχία.";
+"enc_c1e2o1_dialog_7a" = "Πφφ… Ήμουν τόσο κοντά στο να κερδίσω.";
+"enc_c1e2o1_dialog_8a" = "Δεν υποτίθεται πως θα με δίδασκες;";
+"enc_c1e2o1_dialog_9a" = "Ναι, σωστά. Εε…ήταν μια δοκιμασία αυτό…και πέρασες!";
+
+//Encounter 3
+"enc_c1e3o1_dialog_1a" = "Φίλε! Αυτό που έχεις εκεί είναι σαλιγκάρι Ινφέρνους;";
+"enc_c1e3o1_dialog_2a" = "Το λένε Μπέρμπι. Είναι φανταστικός!";
+"enc_c1e3o1_dialog_3a" = "Τα σαλιγκάρια Ινφέρνους μεταμορφώνονται σε πανίσχυρα πλάσματα της φωτιάς.";
+"enc_c1e3o1_dialog_4a" = "Ο Μπέρμπι θέλει να εξασκηθεί στη μεταμόρφωση.";
+"enc_c1e3o1_dialog_5a" = "Συνδύασε εικονίδια της φωτιάς για να ενδυναμώσεις την επίθεση του Μπέρμπι.";
+"enc_c1e3o1_dialog_6a" = "Συνέχισε! Χρειάζεται περισσότερο.";
+"enc_c1e3o1_dialog_7a" = "Συνδυάζοντας πέντε εικονίδια φωτιάς ο Μπέρμπι θα φορτιστεί κατευθείαν ένα επίπεδο.";
+"enc_c1e3o1_dialog_8a" = "Τώρα που ο Μπέρμπι δυνάμωσε, κάνε κλικ στο σαλιγκάρι σου για να απελευθερώσει τη νέα του επίθεση!";
+"enc_c1e3o1_dialog_9a" = "ΕΕΕ! ΟΚ. Νομίζω πως τα καταφέρνεις μια χαρά. Μονομαχία!";
+"enc_c1e3o1_dialog_10a" = "Άουτς! Την επόμενη φορά προσπάθησε να μη μου κάψεις το παντελόνι!";
+"enc_c1e3o1_dialog_10b" = "Νομίζω ότι πρέπει να ετοιμαστείς για την πρώτη σου αληθινή μονομαχία! PRONTO!!!";
+
+/* End Chapter 1 */
+
+/* Slug Seeker Cavern */
+
+"name_cavern_seeker_catch_name" = "Παγίδα στα σπήλαια Slug Seeker!";
+
+"name_cavern_seeker_watch_video_name" = "Δες το βίντεο και ξεκλείδωσε τη σπηλιά τώρα!";
+
+"name_cavern_seeker_chest_reward_name" = "Κάνε κλικ σε ένα σεντούκι για να πάρεις την ανταμοιβή σου!";
+
+"name_cavern_seeker_lose_booster_name" = "Χρειάζεσαι βοήθεια; Προσπάθησε ξανά με έναν ενισχυτή!";
+
+"name_cavern_seeker_lose_name" = "Μην τα παρατάς! Νίκησε για να διεκδικήσεις την ανταμοιβή σου!";
+
+"name_cavern_seeker_win_coins_name" = "Συγχαρητήρια! Κέρδισες <Coin Variable> νομίσματα!";
+
+"name_cavern_seeker_win_slugs_name" = "Συγχαρητήρια! Βρήκες ένα νέο σαλιγκάρι!";
+
+"name_cavern_seeker_win_characters_name" = "Συγχαρητήρια! Βρήκες έναν νέο χαρακτήρα!";
+
+"name_cavern_seeker_win_boosters_name" = "Συγχαρητήρια! Βρήκες έναν νέο ενισχυτή!";
+
+"name_cavern_seeker_unlocked_name" = "Ένα σπήλαιο Slug Seeker άνοιξε! Εξερεύνησέ το και βρες ΔΩΡΕΑΝ σπάνια σαλιγκάρια τώρα!";
+
+/* End Slug Seeker Cavern */
+
+/* Tutorial Popups */
+"tutorial_popup_starting_msg2" = "Πάτησε το  \"Κουμπί Αγοράστε\” για να αποκτήσεις ένα σαλιγκάρι!";
+"tutorial_popup_starting_msg3" = "Σύρε το σαλιγκάρι στη σχισμή για να το εξοπλίσεις! Τώρα είσαι έτοιμος για μονομαχία!";
+"tutorial_popup_starting_msg4" = "%@ είναι ξεκλείδωτο! Πήγαινε να το αγοράσεις για να ολοκληρώσεις τη σειρά των σαλιγκαριών σου!"; // %@ will be replaced with the name of a slug.
+"tutorial_popup_starting_msg_coin" = "Παίρνεις";
+
+
+/* End Tutorial Popups */
+
+/* Challenge Mode */
+
+/* Gridlock */
+
+//Encounter 1 - Tutorial
+"name_gridlock_challenge" = "Γκρίντλοκ";
+"enc_gridlock_e1_dialog_1a" = "Τι συμβαίνει εδώ;";
+"enc_gridlock_e1_dialog_2a" = "Αυτή είναι μια ειδική πρόκληση. Οι αντίπαλοί σου είναι πολύ δυνατοί, αλλά χάνουν σιγά-σιγά την υγεία τους. Αρκεί να τους κρατήσεις έξω αρκετά!";
+"enc_gridlock_e1_dialog_3a" = "Μερικά εικονίδια είναι κλειδωμένα στη θέση τους, γι΄ αυτό πρόσεχε!";
+"enc_gridlock_e1_dialog_4a" = "Εντάξει, ας το κάνουμε!";
+"enc_gridlock_e1_dialog_1b" = "Καλή δουλειά! Όμως πρόσεξε, τα πράγματα θα γίνουν πιο δύσκολα στις επόμενες μονομαχίες!";
+"enc_gridlock_e1_dialog_2b" = "Σε περιμένουν επικά έπαθλα αν κερδίσεις όλες τις μονομαχίες! Μπορείς να τα καταφέρεις!";
+
+/* Bombastic */
+
+//Encounter 1 - Tutorial
+"name_bombs_challenge" = "Μπομπάστικ";
+"enc_bombastic_e1_dialog_1a" = "Τι συμβαίνει εδώ;";
+"enc_bombastic_e1_dialog_2a" = "Αυτή είναι μια ειδική πρόκληση. Το blaster σου έχει ρυθμιστεί στο over-drive κι έτσι τα σαλιγκάρια σου ρίχνουν αυτόματα. Όσο περισσότερα εικονίδια ταιριάξεις, τόσο πιο δυνατές θα είναι οι βολές σου!";
+"enc_bombastic_e1_dialog_3a" = "Οι αντίπαλοί σου είναι πολύ δυνατοί, αλλά χάνουν σιγά-σιγά την υγεία τους. Αρκεί να τους κρατήσεις έξω αρκετά! Και κάτι ακόμα: ΒΟΜΒΕΣ!";
+"enc_bombastic_e1_dialog_4a" = "Εντάξει, ας το κάνουμε!";
+"enc_bombastic_e1_dialog_1b" = "Καλή δουλειά! Όμως πρόσεξε, τα πράγματα θα γίνουν πιο δύσκολα στις επόμενες μονομαχίες!";
+"enc_bombastic_e1_dialog_2b" = "Σε περιμένουν επικά έπαθλα αν κερδίσεις όλες τις μονομαχίες! Μπορείς να τα καταφέρεις!";
+
+
+/* Draino */
+
+//Encounter 1 - Tutorial
+"name_draino_challenge" = "Ντρέινο";
+"enc_draino_e1_dialog_1a" = "Τι συμβαίνει εδώ;";
+"enc_draino_e1_dialog_2a" = "Αυτή είναι μια ειδική πρόκληση. Η ενέργεια σαλιγκαριού σου εξαντλείται! Ταίριαξε γρήγορα τα εικονίδια για να κρατήσεις τα σαλιγκάρια σου δυνατά!";
+"enc_draino_e1_dialog_3a" = "Εντάξει, ας το κάνουμε!";
+"enc_draino_e1_dialog_1b" = "Καλή δουλειά! Όμως πρόσεξε, τα πράγματα θα γίνουν πιο δύσκολα στις επόμενες μονομαχίες!";
+"enc_draino_e1_dialog_2b" = "Σε περιμένουν επικά έπαθλα αν κερδίσεις όλες τις μονομαχίες! Μπορείς να τα καταφέρεις!";
+
+
+/* Stunlock */
+
+//Encounter 1 - Tutorial
+"name_stunlock_challenge" = "Στάνλοκ";
+"enc_stunlock_e1_dialog_1a" = "Τι συμβαίνει εδώ;";
+"enc_stunlock_e1_dialog_2a" = "Αυτή είναι μια ειδική πρόκληση. Οι αντίπαλοί σου είναι πολύ δυνατοί, αλλά χάνουν σιγά-σιγά την υγεία τους. Αρκεί να τους κρατήσεις έξω αρκετά!";
+"enc_stunlock_e1_dialog_3a" = "Εντάξει, ας το κάνουμε!";
+"enc_stunlock_e1_dialog_1b" = "Καλή δουλειά! Όμως πρόσεξε, τα πράγματα θα γίνουν πιο δύσκολα στις επόμενες μονομαχίες!";
+"enc_stunlock_e1_dialog_2b" = "Σε περιμένουν επικά έπαθλα αν κερδίσεις όλες τις μονομαχίες! Μπορείς να τα καταφέρεις!";
+
+/* Sudden Death */
+
+//Encounter 1 - Tutorial
+"name_sudden_death_challenge" = "Αιφνίδιος θάνατος";
+"enc_sudden_e1_dialog_1a" = "Τι συμβαίνει εδώ;";
+"enc_sudden_e1_dialog_2a" = "Αυτή είναι μια ειδική πρόκληση. Άκου προσεκτικά:  Μη χτυπηθείς! Αν χτυπηθείς μία φορά, θα χάσεις τη μονομαχία! Κράτα δυνατή άμυνα και μην αφήσεις τίποτα να περάσει!";
+
+"enc_sudden_e1_dialog_2a2" = "Αυτή είναι μια ειδική πρόκληση. Προσοχή, η υγεία σου είναι πολύ χαμηλή! Απόφυγε να χτυπηθείς και θεράπευε τον εαυτό σου όποτε μπορείς!";
+"enc_sudden_e1_dialog_3a" = "Το blaster σου έχει ρυθμιστεί στο over-drive κι έτσι τα σαλιγκάρια σου ρίχνουν αυτόματα. Όσο περισσότερα εικονίδια ταιριάξεις, τόσο πιο δυνατές θα είναι οι βολές σου!";
+"enc_sudden_e1_dialog_4a" = "Εντάξει, ας το κάνουμε!";
+"enc_sudden_e1_dialog_1b" = "Καλή δουλειά! Όμως πρόσεξε, τα πράγματα θα γίνουν πιο δύσκολα στις επόμενες μονομαχίες!";
+"enc_sudden_e1_dialog_2b" = "Σε περιμένουν επικά έπαθλα αν κερδίσεις όλες τις μονομαχίες! Μπορείς να τα καταφέρεις!";
+
+
+/* Mixed Bag */
+
+//Encounter 1 - Tutorial
+"name_mixed_bag_challenge" = "Μικτή Τσάντα";
+"name_initiation_challenge" = "Μύηση";
+"enc_mix_e1_dialog_1a" = "Τι συμβαίνει εδώ;";
+"enc_mix_e1_dialog_2a" = "Αυτές οι μονομαχίες δεν έχουν ειδικούς κανόνες. Είναι ΠΡΑΓΜΑΤΙΚΑ πολύ σκληρές! Είσαι έτοιμος;";
+"enc_mix_e1_dialog_3a" = "Εντάξει, ας το κάνουμε!";
+"enc_mix_e1_dialog_1b" = "Καλή δουλειά! Όμως πρόσεξε, τα πράγματα θα γίνουν πιο δύσκολα στις επόμενες μονομαχίες!";
+"enc_mix_e1_dialog_2b" = "Σε περιμένουν επικά έπαθλα αν κερδίσεις όλες τις μονομαχίες! Μπορείς να τα καταφέρεις!";
+
+/* Challenge Mode end */
+
+/* Equipment Scenes */
+
+// common
+"equip_active" = "Ενεργό";
+"equip_dialog_insufficient_coins_title" = "Δεν μπορείς να αγοράσεις '%@'!"; // Error message for purchase of virtual item. %@ will be replaced with the item name.
+"equip_dialog_insufficient_coins_msg" = "Δεν έχεις αρκετά κέρματα για να αγοράσεις '%@'./Θέλεις να βρεις περισσότερα τώρα;"; // Error message for purchase of virtual item. %@ will be replaced with the item name.
+"equip_dialog_purchase_confirm_title" = "Αγορά '%@';"; // Confirmation text for purchase of virtual item. %@ will be replaced with the item name.
+"equip_dialog_purchase_confirm_msg" = "Θέλεις να αγοράσεις '%@' με %i κέρματα;"; // Confirmation text for purchase of virtual item. %@ will be replaced with the item name.
+
+// boosters page title
+"equip_boosters_title" = "Ενισχυτές"; // Ενισχυτές are game upgrades, like power-ups.
+
+// slugs page title
+"equip_slugs_title" = "Σαλιγκάρια"; // Use glossary.
+"equip_slugs_dialog_condition" = "Ξεκλείδωσε μέσα από το Story Mode "; // Telling the user that a slug is earned through playing story mode.
+"equip_slugs_slug_seeker_condition" = "Ξεκλείδωσε μέσα από το Slug Seeker Mode"; // Telling the user that a slug is earned through playing slug seeker mode.
+"equip_slugs_sale" = "Εκπτώσεις"; // Over top of slug when its on a sale
+
+// avatars page title
+"equip_avatars_title" = "Χαρακτήρες"; // Used to denote character skins for players to select.
+"equip_avatars_unlock" = "Νίκησε %i εχθρούς στην λειτουργία Ατελείωτη";
+
+// basic shots page title
+"equip_basic_shots_title" = "Βολές";
+
+// game mods page title
+"equip_gamemods_title" = "Παιχνίδι"; // Game mods modify certain game conditions for both players in a multiplayer match.
+
+/* End Equipment Scenes */
+
+
+
+/* In-App Purchases */
+"iap_coin_small_name" = "5.000 Κέρματα";
+"iap_coin_small_description" = " "; // Do not translate this string, leave as a single space.
+
+"iap_coin_large_name" = "10.000 Κέρματα";
+"iap_coin_large_description" = "25% Επιπλέον";
+
+"iap_coin_huge_name" = "25.000 Κέρματα";
+"iap_coin_huge_description" = "50% Επιπλέον";
+
+"iap_coin_massive_name" = "100.000 Κέρματα";
+"iap_coin_massive_description" = "75% Επιπλέον";
+
+//"iap_slug_midas_name" = "Midas";
+//"iap_slug_midas_description" = "More Coins in Battle";
+
+/* End In-App Purchases */
+
+
+
+/* Chapter Select Scene */
+
+// scene title
+"chapter_select_title" = "Επιλογή Κεφαλαίου";
+
+// dialog: player requires 4 slugs to enter a treasure encounter
+"chapter_select_dialog_treasure_slugs_required_title" = "Απαιτούνται Τέσσερα Σαλιγκάρια";
+"chapter_select_dialog_treasure_slugs_required_msg" = "Χρειάζεσαι 4 σαλιγκάρια οπλισμένα για να παίξεις στις αναμετρήσεις του Θησαυρού";
+
+/* End Chapter Select Scene */
+
+
+
+/* Cut Scene */
+
+"cutscene_button_skip" = "Όχι τώρα"; // Button text for skipping cut scenes.
+//"cutscene_button_ok" = " OK"; // Button text for skipping cut scenes.
+
+/* End Cut Scene */
+
+
+/* Challenge Select Scene */
+"challenge_mode_select" = "Επιλογή πρόκλησης";
+"challenge_number" = "Πρόκληση %i";
+"challenge_expiration" = "Έχει λήξει";
+"challenge_exit_expired" = "Αυτή η πρόκληση πρόκειται να λήξει! Είσαι σίγουρος ότι θέλεις να πραγματοποιήσεις έξοδο;";
+"challenge_quit_encounter" = "Έχασες στη μονομαχία; Θα πρέπει να πληρώσεις νομίσματα για να ξαναδοκιμάσεις!";
+"challenge_win_overlay" = "Ξεκλειδώθηκε νέο σεντούκι! Κέρδισε όλες τις μονομαχίες για να πάρεις την ανταμοιβή σου!";
+"challenge_reward_screen" = "Κέρδισες! Πάρε την ανταμοιβή σου!";
+"challenge_slug_lock" = "Κλειδωμένα σαλιγκάρια";
+"challenge_lose_screen" = "Μην τα παρατάς! Κέρδισε όλες τις μονομαχίες για να πάρεις την ανταμοιβή σου!";
+/* End Challenge Select Scene */
+
+
+
+/* In-App Purchase Scene */
+
+// store scene title
+"store_title" = "Κατάστημα";
+
+// currently for 'sale' badge in coin shop
+"store_sale" = "Πώληση";
+
+// restore button
+//"store_restore_label" = "Restore";
+
+// dialog: store access restricted by device settings
+"store_dialog_access_restricted_title" = "Απενεργοποιημένες συναλλαγές";
+"store_dialog_access_restricted_msg" = "Οι συναλλαγές εντός εφαρμογής έχουν απενεργοποιηθεί στις ρυθμίσεις της συσκευής.";
+
+// dialog: network has been locally disabled in device settings
+"store_dialog_no_network_title" = "Αδύνατη πρόσβαση στο δίκτυο";
+"store_dialog_no_network_msg" = "Παρακαλούμε συνδέσου στο δίκτυο και προσπάθησε ξανά.";
+
+// dialog: could not establish connection to the Apple Servers
+"store_dialog_connection_failed_title" = "Αποτυχία σύνδεσης στο Κατάστημα";
+"store_dialog_connection_failed_msg" = "Δεν είναι δυνατή η σύνδεση στο δίκτυο. Παρακαλούμε έλεγξε τις ρυθμίσεις σου και προσπάθησε ξανά.";
+
+// dialog: retrieval of In-App Purchase product info failed
+"store_dialog_update_failed_title" = "Αποτυχία Ανάκτησης Πληροφοριών του Προϊόντος";
+"store_dialog_update_failed_msg" = "Δεν μπόρεσες να ανακτήσεις τις πληροφορίες του προϊόντος από τον διακομιστή. Θες να ξαναδοκιμάσεις;";
+
+// dialog: this iTunes account is not authorized for payment
+"store_dialog_payment_not_authorized_title" = "Μη Εξουσιοδοτημένη Πληρωμή";
+"store_dialog_payment_not_authorized_msg" = "Ο λογαριασμός σου δεν είναι εξουσιοδοτημένος για πληρωμές.";
+
+// dialog: transaction was successfully completed
+"store_dialog_transaction_success_title" = "Επιτυχία";
+"store_dialog_transaction_success_msg" = "Επιτυχής συναλλαγή '%@'!";
+
+// dialog: there was an error during the payment transaction
+"store_dialog_transaction_failed_title" = "Σφάλμα Ενέργειας";
+"store_dialog_transaction_failed_msg" = "Αποτυχία ενέργειας: %@";
+
+/* end In-App Purchase Scene */
+
+
+
+/* Code Redeem Scene */
+
+// scene title
+"coderedeem_title" = "ΧΡΗΣΗ ΚΩΔΙΚΟΥ";
+
+"coderedeem_statement" = "Βρες τους κωδικούς στα επίσημα παιχνίδια Slugterra και πληκτρολόγησέ τους εδώ για να ανακαλύψεις φανταστικά περιεχόμενα!";
+
+// code enter box labels
+"coderedeem_codebox_title" = "Χρησιμοποίησε τον Κωδικό"; // "Promo" is short for "promotional". These promotional codes are 6-letter codes packaged with toys.
+"coderedeem_codebox_instructions" = "Πληκτρολόγησε εδώ τον κωδικό σου για να ανακαλύψεις φανταστικά περιεχόμενα!"; // "Promo" is short for "promotional". These promotional codes are 6-letter codes packaged with toys.
+//"coderedeem_codebox_button_ok" = "OK!";
+"coderedeem_codebox_textfield_placeholder" = "Πληκτρολόγησε τον Κωδικό";
+
+// prize display box
+"coderedeem_prizebox_congrats" = "Συγχαρητήρια!";
+"coderedeem_prizebox_you_just_revealed" = "Μόλις ανακάλυψες";
+
+// Unlocking characters in Use Code screen.
+"coderedeem_character" = "%1$d %2$@"; // Do not translate.
+"coderedeem_character_singular" = "Χαρακτήρας";
+"coderedeem_character_plural" = "Χαρακτήρες";
+"coderedeem_character_description" = "Παίξε με διαφορετικούς χαρακτήρες!";
+"coderedeem_none_title" = "Έχεις ήδη τα πάντα!";
+"coderedeem_none_message" = "Χάρισε αυτό τον κωδικό σε ένα φίλο σου!";
+
+// Error messages for Use Code screen.
+"coderedeem_fail_network_title" = "Σφάλμα Δικτύου";
+"coderedeem_fail_network_message" = "Προέκυψε σφάλμα δικτύου. Παρακαλούμε βεβαιώσου ότι έχεις συνδεθεί στο Διαδίκτυο και προσπάθησε ξανά.";
+"coderedeem_fail_used_title" = "Ήδη Χρησιμοποιημένος Κωδικός";
+"coderedeem_fail_used_message" = "Αυτός ο κωδικός χρησιμοποιείται ήδη και δεν μπορεί να χρησιμοποιηθεί ξανά. Εάν χρειάζεσαι βοήθεια με τον κωδικό σας, επικοινώνησε μαζί μας στη διεύθυνση interactive.support@dhxmedia.com";
+"coderedeem_fail_server_title" = "Σφάλμα Διακομιστή";
+"coderedeem_fail_server_message" = "Το αίτημά σου δεν ολοκληρώθηκε. Παρακαλούμε βεβαιώσου ότι έχεις συνδεθεί στο Διαδίκτυο και προσπάθησε ξανά. ";
+"coderedeem_fail_invalid_title" = "Μη Έγκυρος Κωδικός ";
+"coderedeem_fail_invalid_message" = "Αυτός ο κωδικός δεν λειτουργεί. Αν πιστεύεις ότι αυτός ο κωδικός θα έπρεπε να λειτουργεί, επικοινώνησε μαζί μας στη διεύθυνση interactive.support@dhxmedia.com";
+
+/* End Code Redeem Scene */
+
+
+
+/* Versus Scene */
+
+"versus_loading" = "Φόρτωση…";
+"versus_fight" = "Μάχη!";
+"versus_multiplayer_waiting" = "Περίμενε…";
+"versus_slugs_replaced_chapter6" = "Απαγωγή!";
+"versus_slugs_has_been_replaced_chapter6" = "Ο Μπέρμπι απήχθη από τον Κος Σάββατο! Πήγαινε να τον σώσεις!";
+/* End Versus Scene */
+
+/* Ghoul Scene */
+
+"ghoul_equip_unleash_text" = "Εξόπλισε σαλιγκάρια γκουλ και εξαπόλυσε τις άγριες δυνάμεις τους!";
+"ghoul_slugs_text" = "Σαλιγκάρια γκουλ";
+"ghoul_get_now_text" = "Απόκτησέ τα τώρα!";
+"ghoul_slugs_only_text" = "Μόνο γκούλ";
+"ghoul_slug_only_extended_text" = "Μόνο σαλιγκάρια γκούλ";
+"ghoul_slug_replace_extended_text" = "Τα σαλιγκάρια έχουν αντικατασταθεί!";
+"ghoul_slug_replace_text" = "Τα σαλιγκάρια αντικαταστάθηκαν!";
+
+/* End Ghoul Scene */
+
+
+
+/* Score Scene */
+
+"score_time_label" = "ΧΡΟΝΟΣ %i:%02i";
+//"score_button_retry" = "Retry";
+
+/* End Score Scene */
+
+
+
+/* Slug Unlock Sequence */
+
+"slug_unlock_level" = "Επίπεδο %i";
+
+/* End Slug Unlock Sequence */
+
+
+
+/* Main Menu */
+
+"main_menu_play_story_mode" = "Story Mode";
+"main_menu_play_adventure_mode" = "Adventure Mode";
+"main_menu_play_challenge_mode" = "Challenge Mode";
+"main_menu_play_multiplayer" = "Multiplayer";
+
+"main_menu_challenge_mode_locked_title" = "Κλειδωμένο Challenge Mode!";
+"main_menu_challenge_mode_locked_msg" = "Για να παίξεις στο Challenge Mode χρειάζεσαι τουλάχιστον 4 σαλιγκάρια.";
+
+"main_menu_multiplayer_mode_locked_title" = "Κλειδωμένο Multiplayer Mode!";
+"main_menu_multiplayer_mode_locked_msg" = "Για να παίξεις στο Multiplayer Mode χρειάζεσαι τουλάχιστον 4 σαλιγκάρια.";
+
+"main_menu_adventure_mode_locked_title" = "Κλειδωμένο Adventure Mode!";
+"main_menu_adventure_mode_locked_msg" = "Για να παίξεις στο Adventure Mode χρειάζεσαι τουλάχιστον 4 σαλιγκάρια.";
+
+"main_menu_button_play" = "Παίξε!";
+"main_menu_button_use_code" = "Βάλε Κωδικό";
+
+/* End Main Menu */
+
+
+
+/* Pause Menu */
+
+//"pause_menu_button_quit" = "Quit";
+//"pause_menu_button_restart" = "Restart";
+//"pause_menu_button_resume" = "Resume";
+
+"pause_menu_dialog_confirm_quit_title" = "Έξοδος";
+"pause_menu_dialog_confirm_quit_msg" = "Θέλεις σίγουρα να εγκαταλείψεις;";
+
+"pause_menu_dialog_confirm_restart_title" = "Επανεκκίνηση";
+"pause_menu_dialog_confirm_restart_msg" = "Θέλεις σίγουρα να ξαναρχίσεις;";
+
+/* End Pause Menu */
+
+
+
+/* Defeat Scene */
+
+//"defeat_button_retry" = "Retry";
+//"defeat_button_booster" = "Go Now!";
+//"defeat_label_need_boost" = "Need A Boost?";
+
+/* Defeat and Victory Scene THIS NEEDS TO BE IMPLEMENTED IN OTHER LOCALIZATION */
+"defeat_label_booster_msg" = "Εξοπλίσου με ενισχυτή και εκτοξεύσου στον επόμενο γύρο!";
+"defeat_label_skin_msg" = "Παίξτε το αγαπημένο σας χαρακτήρα!";
+"win_lose_buy_btn_msg" = "Αποκτήστε Τον Τώρα!";
+"win_lose_upgrade_btn_msg" = "Αναβάθμιση Τώρα";
+
+/* End Defeat Scene */
+
+
+
+/* Story End Scene */
+"story_end_button_play_multiplayer" = "Παίξε Multiplayer";
+"story_end_title" = "Μονομάχησε με τους φίλους σου!";
+"story_end_msg_1" = "Δεν τελειώνει εδώ!";
+"story_end_msg_2" = "Συνέχισε τις μάχες στο Multiplayer Mode!";
+
+/* End Story End Scene */
+
+
+
+
+/* Options Scene */
+
+"options_title" = "ΕΠΙΛΟΓΕΣ";
+
+//"options_button_reset_data" = "Reset Story";
+"options_button_credits" = "Ευχαριστίες";
+
+"options_dialog_reset_data_title" = "Είσαι σίγουρος;";
+"options_dialog_reset_data_msg" = "Θα διαγραφεί η πρόοδός σου στο Story Mode! Δε θα χάσεις τα νομίσματά σου ή ότι έχεις αγοράσει. Θέλεις σίγουρα να το κάνεις;";
+
+/* End Options Scene */
+
+
+
+/* News Scene */
+
+"news_title" = "Νέα";
+
+/* End News Scene */
+
+
+
+/* Endless (Custom Loadout) Scene */
+
+"endless_congrats" = "Συγχαρητήρια!";
+"endless_local_highscore" = "Highscore!";
+
+"endless_leaderboard_tab_gamecenter" = "Game Center";
+"endless_leaderboard_tab_local" = "Κατάταξη";
+
+"endless_dialog_leaderboard_title" = "Συμπλήρωσε όνομα!";
+"endless_dialog_leaderboard_msg" = "Συμπλήρωσέ το όνομά σου για τον πίνακα κατάταξης.";
+
+"endless_local_highscore_textfield_placeholder" = "Όνομα";
+
+//"endless_button_quit" = "Quit";
+//"endless_button_replay" = "Replay";
+
+"endless_title" = "Challenge Mode";
+
+"endless_mode" = "Ατελείωτη";
+
+"endless_local_leaderboard_title" = "Highscores";
+
+"endless_label_results" = "Score: %d  Νομίσματα: %d";
+
+/* End Endless (Custom Loadout) Scene */
+
+
+/* Challenge Mode */
+
+"encounter_win" = "Το σεντούκι ξεκλειδώθηκε! Τελείωσε όλες τις μονομαχίες για να πάρεις την ανταμοιβή σου!";
+
+"replay_encounter" = "Θέλεις να ξοδέψεις Χ νομίσματα για να παίξεις ξανά αυτή τη μονομαχία;";
+
+"quit_encounter" = "Είσαι σίγουρος; Θα πρέπει να ξοδέψεις νομίσματα για να ξαναπαίξεις αυτή τη μονομαχία αργότερα.";
+
+"completed_challenges" = "Συγχαρητήρια, ολοκλήρωσες όλες τις προκλήσεις σου! Μπες ξανά σύντομα για ακόμα περισσότερες!";
+
+/* End Challenge Mode */
+
+/* Treasure Select Scene */
+
+//"treasure_select_title" = "Treasure Vault";
+
+/* End Treasure Select Scene */
+
+
+
+/* Busy Layer */
+
+"busy_layer_please_wait" = "Παρακαλούμε περίμενε…";
+
+/* End Busy Layer */
+
+
+
+/* Game Center */
+
+"game_center_dialog_title" = "Δεν έχεις εισέλθει στο Game Center";
+"game_center_dialog_message" = "Μπες για να έχεις πρόσβαση στα επιτεύγματα, τον πίνακα κατάταξης και το Multiplayer Mode.";
+"google_play_dialog_title" = "Δεν έχεις εισέλθει στο Google Play";
+"google_play_dialog_message" = "Μπες για να έχεις πρόσβαση στα επιτεύγματα, τον πίνακα κατάταξης και το Multiplayer Mode.";
+"game_center_dialog_no" = "Όχι τώρα";
+"game_center_dialog_yes" = "Ναι!";
+
+/* End Game Center */
+
+
+
+/* Multiplayer Screens */
+
+"multiplayer_header_title" = "Multiplayer";
+
+"multiplayer_end_screen_you_won" = "ΚΕΡΔΙΣΕΣ!";
+"multiplayer_end_screen_you_lost" = "ΕΧΑΣΕΣ";
+"multiplayer_end_screen_label_coins" = "Νομίσματα: +%i";
+"multiplayer_end_screen_label_points" = "Πόντοι: +%i";
+"multiplayer_end_screen_label_rank" = "Κατάταξη:";
+"multiplayer_end_screen_ok" = "OK";
+"multiplayer_end_screen_label_rank_formatted" = "Κατάταξη: %d";
+
+"multiplayer_lobby_label_welcome" = "Καλωσήρθες, %@!"; // %@ will be replaced with the player's Game Center name.
+"multiplayer_lobby_label_wins" = "ΝΙΚΕΣ";
+//"multiplayer_lobby_button_back" = "Back";
+//"multiplayer_lobby_button_play" = "Play";
+//"multiplayer_lobby_button_leave" = "Leave";
+//"multiplayer_lobby_leave_title" = "";
+"multiplayer_lobby_leave_message" = "Θέλεις σίγουρα να εξέλθεις;";
+//"multiplayer_lobby_button_ready" = "Ready";
+"multiplayer_lobby_button_not_ready" = "Ακύρωση";
+"multiplayer_lobby_message_waiting" = "Περίμενε για τον Αντίπαλο…";
+"multiplayer_lobby_message_loading" = "Φόρτωση Παιχνιδιού…";
+"multiplayer_lobby_message_synchronizing" = "Συγχρονισμός…";
+
+"multiplayer_game_message_syncing" = "Συντονισμός Παιχνιδιού…";
+//"multiplayer_game_label_leave" = "Leave";
+
+"multiplayer_tabpane_games_played" = "Σύνολο: %i";
+"multiplayer_tabpane_games_won" = "Νίκες: %i";
+"multiplayer_tabpane_longest_streak" = "Kαλύτερο Σερί: ";
+"multiplayer_tabpane_current_streak" = "Σερί: ";
+"multiplayer_tabpane_header_game_center" = "Game Center";
+"multiplayer_tabpane_header_google_play" = "Google Play";
+"multiplayer_tabpane_header_stats" = "Στατιστικά";
+"multiplayer_tabpane_no_data" = "Χωρίς δεδομένα";
+
+"multiplayer_remote_state_connecting" = "Σύνδεση…";
+"multiplayer_remote_state_disconnected" = "Αποσυνδεθήκατε";
+"multiplayer_remote_state_getting_ready" = "Ετοιμαστείτε";
+"multiplayer_remote_state_ready" = "Έτοιμοι";
+"multiplayer_remote_state_loading_game" = "Φόρτωση Παιχνιδιού…";
+"multiplayer_remote_state_loaded_waiting" = "Φόρτωση και αναμονή";
+"multiplayer_remote_state_choosing_slugs" = "Επιλογή Σαλιγκαριών";
+"multiplayer_remote_state_choosing_game_mods" = "Επιλογή Παιχνιδιού";
+//"multiplayer_remote_state_choosing_emoticon" = "Choosing Emoticon";
+"multiplayer_remote_state_playing_game" = "Παιχνίδι";
+"multiplayer_remote_state_viewing_score" = "Score";
+
+"multiplayer_interrupt_network_error_formatted" = "Προέκυψε σφάλμα δικτύου."; // The "\n" represents a new line character. Please use it in the translation to separate the two lines of text.
+"multiplayer_interrupt_network_error_unknown" = "Προέκυψε σφάλμα δικτύου:\n;Αγνωστο Σφάλμα."; // The "\n" represents a new line character. Please use it in the translation to separate the two lines of text.
+"multiplayer_interrupt_disconnected_title" = "Αποσυνδέθηκε ο παίκτης";
+"multiplayer_interrupt_disconnected_message" = "Χάθηκε η σύνδεση στο '%@'.";
+"multiplayer_interrupt_left_title" = "Ο παίκτης εγκατέλειψε";
+"multiplayer_interrupt_left_message" = "Ο παίκτης '%@' έφυγε από το παιχνίδι.";
+"multiplayer_interrupt_lobby_title" = "Ο παίκτης επέστρεψε στο Lobby";
+"multiplayer_interrupt_lobby_message" = "Ο παίκτης '%@' επέστρεψε στο Lobby των παικτών.";
+"multiplayer_interrupt_laggy_title" = "Κακή σύνδεση";
+"multiplayer_interrupt_laggy_message" = "Η σύνδεση με τον αντίπαλο είναι ασθενής.\nΤο παιχνίδι δεν μπορεί να λειτουργήσει σωστά υπό αυτές τις συνθήκες."; // The "\n" represents a new line character. Please use it in the translation to separate the two lines of text.
+
+/* End Multiplayer Screens */
+
+
+
+/* Credits */
+
+"credits_title_intro" = "Αναπτύχθηκε με τη συμμετοχή των";
+"credits_title_creative_lead" = "Υπεύθυνος Δημιουργικού";
+"credits_title_project_manager" = "Γενικός Manager";
+"credits_title_lead_programmer" = "Υπεύθυνος Προγραμματιστής";
+"credits_title_lead_artist" = "Καλλιτεχνική Επιμέλεια";
+"credits_title_programming" = "Προγραμματισμός";
+"credits_title_art" = "Εικαστικό";
+"credits_title_level_design" = "Σχεδιασμός επιπέδων";
+"credits_title_sound_engineering" = "Ηχοληψία";
+"credits_title_music" = "Μουσική";
+"credits_title_voice_acting" = "Μεταγλώττιση";
+"credits_title_special_thanks" = "Θερμές ευχαριστίες";
+"credits_title_executive_producers" = "Βοηθοί Παραγωγής";
+"credits_title_producer" = "Παραγωγός";
+"credits_title_head_of_licensing" = "Υπεύθυνος Παγκόσμιας Αδειοδότησης και Προώθησης";
+"credits_title_director_of_brand" = "Υπεύθυνος Ανάπτυξης Brand";
+"credits_title_marketing_manager" = "Υπεύθυνος Marketing";
+"credits_title_director_finance" = "Οικονομικός Διευθυντής";
+"credits_title_general_counsel" = "Γενικός Σύμβουλος";
+"credits_title_it" = "Τμήμα Πληροφορικής";
+"credits_title_many_thanks" = "Πολλές ευχαριστίες στους συντελεστές του";
+
+/* End Credits */
+
+
+/* Slug Events */
+
+"event_name_double_coins" = "Διπλασίασε τα κέρδη!";
+"event_name_info_double_coins" = "Σήμερα όλες οι μονομαχίες σού δίνουν διπλά νομίσματα. Γύρνα πίσω στο παιχνίδι και άρχισε να γεμίζεις τις τσέπες σου τώρα!";
+
+"event_name_hidden_slugs" = "Συναγερμός για το κρυμμένο σαλιγκάρι!";
+"event_name_info_hidden_slugs" = "Είδαν ένα νέο σαλιγκάρι γύρω από το Κεφάλαιο %@, οπότε πήγαινε να το βρεις! Κέρδισε τη σωστή μονομαχία και ξεκλείδωσε το σαλιγκάρι τώρα!";
+
+"event_name_booster_sale" = "Δώσε στον ωθητήρα ώθηση!";
+"event_name_info_booster_sale" = "Όλοι οι ενισχυτές είναι φθηνότεροι σήμερα. Πάρε τους τώρα και άνοιξε το δρόμο σου στο παιχνίδι!";
+
+"event_name_coin_packs" = "Απόκτησε περισσότερα κέρματα!";
+"event_name_info_coin_packs" = "Τα πακέτα νομισμάτων περιέχουν επιπλέον νομίσματα σήμερα. Αγόρασε ένα πακέτο νομισμάτων τώρα και πάρε περισσότερα κέρματα από ποτέ!";
+
+"event_name_rare_slug" = "Συναγερμός για το σπάνιο σαλιγκάρι!";
+"event_name_info_rare_slug" = "Ένα σπάνιο σαλιγκάρι μόλις έφτασε, αλλά δεν θα μείνει για πολύ. Πήγαινε στο κατάστημα και πάρ’ το προτού να φύγει!";
+
+"event_name_engagement_drive" = "Ο αγώνας ταχύτητας των σαλιγκαριών ξεκινά!";
+"event_name_info_engagement_drive" = "Εάν παίζεις κάθε μέρα αυτή την εβδομάδα, θα πάρεις Χ ως ανταμοιβή. Μην το χάσεις! Γύρνα πίσω στο παιχνίδι τώρα!";
+
+"event_name_character_sales" = "Συνάντηση με νέο σαλιγκάρι! ";
+"event_name_info_character_sales" = "Το %@ είναι φθηνότερο στο κατάστημα σήμερα. Μπες στο κατάστημα για να δοκιμάσεις να παίξεις με ένα νέο χαρακτήρα σήμερα!";
+
+/* End Slug Events */
+
+
+/* Slug Info Box */
+
+// common
+"slug_info_box_level" = "Επίπεδο: %i";
+"slug_info_box_power" = "Δύναμη: %@";
+
+/* Slug Info */
+
+// burpy
+"slug_info_name_burpy" = "Ινφέρνους";
+"slug_info_power_burpy" = "Φωτιά";
+"slug_info_description_burpy" = "Ισχυρό και εξαιρετικά σπάνιο σαλιγκάρι, το Ινφέρνους επιτίθεται στον αντίπαλο με μια καταστροφική φλόγα.";
+
+// frost
+"slug_info_name_frost" = "Φρόστκρόουλερς";
+"slug_info_power_frost" = "Πάγος";
+"slug_info_description_frost" = "Το Φρόστκρόουλερς δημιουργεί μια ασπίδα από πάγο με τη Glaciator κίνησή του και επιτίθεται στον αντίπαλο με ένα παγωμένο καταστροφικό χτύπημα.";
+
+//tazer
+"slug_info_name_tazer" = "Τέιζερλινγκ";
+"slug_info_power_tazer" = "Ηλεκτρισμός";
+"slug_info_description_tazer" = "Το Τέιζερλινγκ ηλεκτρίζει τους αντιπάλους με την Tazerbolt κίνησή του, προκαλεί ζημιά και τους ακινητοποιεί.";
+
+//gas
+"slug_info_name_gas" = "Φλατουλορύγχους";
+"slug_info_power_gas" = "Τοξικό";
+"slug_info_description_gas" = "Το Φλατουλορύγχους χτυπάει τον αντίπαλο με μια επίθεση Blorfball, απελευθερώνοντας μεγάλη δυσωδία που προκαλεί ζημιά και εξαντλεί τα σαλιγκάρια του αντιπάλου.";
+
+//doc
+"slug_info_name_doc" = "Μπουν Ντοκ";
+"slug_info_power_doc" = "Φως";
+"slug_info_description_doc" = "Με τη Medici κίνησή του, το Μπουν Ντοκ σε θεραπεύει καθώς πετάει.";
+
+//arachnet
+"slug_info_name_arachnet" = "Αράκνετ";
+"slug_info_power_arachnet" = "Γη";
+"slug_info_description_arachnet" = "Χρήσιμο επιθετικό σαλιγκάρι, το Αράκνετ αποπροσανατολίζει τον αντίπαλο με ένα καταστροφικό χτύπημα και επιβραδύνει τα σαλιγκάρια του.";
+
+//enigmo
+"slug_info_name_enigmo" = "Ενίγκμο";
+"slug_info_power_enigmo" = "Φως";
+"slug_info_description_enigmo" = "Το Ενίγκμο συνδυάζει εικονίδια καθώς διασχίζει το πεδίο της μάχης.";
+
+//fandango
+"slug_info_name_fandango" = "Φαντάνγκο";
+"slug_info_power_fandango" = "Φως";
+"slug_info_description_fandango" = "Πλούσιο σε φυσική ενέργεια, το Φαντάνγκο φορτίζει όλα τα υπόλοιπα σαλιγκάρια σου καθώς πετάει.";
+
+//flaringo
+"slug_info_name_flaringo" = "Φλαρίνγκο";
+"slug_info_power_flaringo" = "Φωτιά";
+"slug_info_description_flaringo" = "Το Φλαρίνγκο χτυπάει τους αντιπάλους με την επίθεση Blastburst προκαλώντας μεγάλη ζημιά.";
+
+//geoshard
+"slug_info_name_fright" = "Χόβερμπαγκ";
+"slug_info_power_fright" = "Αέρας";
+"slug_info_description_fright" = "Το Χόβερμπαγκ δημιουργεί ένα τούνελ αέρα που επιτρέπει στα σαλιγκάρια σου να χτυπήσουν γρηγορότερα τον αντίπαλο.";
+
+//rammstone
+"slug_info_name_rammstone" = "Ράμστόουν";
+"slug_info_power_rammstone" = "Γη";
+"slug_info_description_rammstone" = "Το Ράμστόουν διαπερνάει μια ασπίδα ή ένα ισοδύναμο σαλιγκάρι με την Batterup επίθεσή του.";
+
+//yang
+"slug_info_name_yang" = "Νέγκασέιντ";
+"slug_info_power_yang" = "Υπερφυσικό";
+"slug_info_description_yang" = "Το Νέγκασέιντ μπερδεύει τους αντιπάλους σου σκοτεινιάζοντας την όρασή τους.";
+
+//grenuke
+"slug_info_name_grenuke" = "Γκρενούκερ";
+"slug_info_power_grenuke" = "Φωτιά";
+"slug_info_description_grenuke" = "Ρίχνει βόμβες μανιταριών που προκαλούν ζημιά στην ομάδα του αντιπάλου.";
+
+//midas
+"slug_info_name_midas" = "Midas";
+"slug_info_power_midas" = "Φως";
+"slug_info_description_midas" = "Το Midas παράγει νομίσματα για σένα καθώς διασχίζει το πεδίο της μάχης.";
+
+//aquabeek
+"slug_info_name_aquabeek" = "Άκουαμπικ";
+"slug_info_power_aquabeek" = "Νερό";
+"slug_info_description_aquabeek" = "Με την Aquajet επίθεσή του, το Άκουαμπικ πυροβολεί προς τον αντίπαλο με τεράστια ταχύτητα και προκαλεί ζημιά.";
+
+//makobreaker
+"slug_info_name_makobreaker" = "Μάκο Μπρέικερ";
+"slug_info_power_makobreaker" = "Νερό";
+"slug_info_description_makobreaker" = "Το Μάκο Μπρέικερ δυναμώνει τρώγοντας βολές ή κατωτέρου επιπέδου σαλιγκάρια με τα οποία μπορεί να συγκρουστεί.";
+
+//xmitter
+"slug_info_name_xmitter" = "Εξμίτερ";
+"slug_info_power_xmitter" = "Μέταλλο";
+"slug_info_description_xmitter" = "Θέτει σε αχρηστία την αντίπαλη δύναμη με ένα μαγνητικό παλμό.";
+
+//thresher
+"slug_info_name_thresher" = "Θρέσερ";
+"slug_info_power_thresher" = "Μέταλλο";
+"slug_info_description_thresher" = "Η επίθεση του Θρέσερ γίνεται πιο ισχυρή όταν ο Ηλάι είναι τραυματισμένος.";
+
+//lock
+"slug_info_name_lock" = "Βάιντριλ";
+"slug_info_power_lock" = "Φυτό";
+"slug_info_description_lock" = "Παγιδεύει τον αντίπαλο, κλειδώνοντας τα εικονίδια στη θέση τους.";
+
+//panic
+"slug_info_name_panic" = "Φράιγκάιστ";
+"slug_info_power_panic" = "Υπερφυσικό";
+"slug_info_description_panic" = "Τρομάζει τον αντίπαλο, κάνοντάς τον να πυροβολήσει εναντίον των ίδιων του των σαλιγκαριών.";
+
+//refresh
+"slug_info_name_refresh" = "Πινγκ";
+"slug_info_power_refresh" = "Φως";
+"slug_info_description_refresh" = "Επιτίθεται στον αντίπαλο ανταλλάσσοντας τα εικονίδια.";
+
+//reflect
+"slug_info_name_reflect" = "Μπαμπαλιόν";
+"slug_info_power_reflect" = "Νερό";
+"slug_info_description_reflect" = "Αντανακλά το σαλιγκάρι του αντιπάλου.";
+
+//tormato
+"slug_info_name_tormato" = "Τορμέιτο";
+"slug_info_power_tormato" = "Αέρας";
+"slug_info_description_tormato" = "Δημιουργεί μια ασπίδα αέρα που αποκρούει τα σαλιγκάρια του αντιπάλου.";
+
+//speedstinger
+"slug_info_name_speedstinger" = "Σπίντστίνγκερ";
+"slug_info_power_speedstinger" = "Μέταλλο";
+"slug_info_description_speedstinger" = "Επιτίθεται στον αντίπαλο πυροβολώντας με μεγάλη ταχύτητα.";
+
+//phosphoro
+"slug_info_name_phosphoro" = "Φώσφορο";
+"slug_info_power_phosphoro" = "Φως";
+"slug_info_description_phosphoro" = "Φορτίζει λίγο όλα τα σαλιγκάρια σου και προκαλεί ζημιά στον αντίπαλο.";
+
+//neotox
+"slug_info_name_neotox" = "Νεοτοξικό";
+"slug_info_power_neotox" = "Τοξικό";
+"slug_info_description_neotox" = "Προκαλεί μια τοξική έκρηξη που δηλητηριάζει τον αντίπαλο.";
+
+//jellyish
+"slug_info_name_jellyish" = "Τζέλις";
+"slug_info_power_jellyish" = "Νερό";
+"slug_info_description_jellyish" = "Επιτίθεται και επιβραδύνει τον αντίπαλο.";
+
+//Armashelt
+"slug_info_name_armashelt" = "Άρμασελτ";
+"slug_info_power_armashelt" = "Cannonball";
+"slug_info_description_armashelt" = "Ένα σαλιγκάρι με βαρύ και σκληρό χτύπημα, όταν ο Άρμασελτ συγκρούεται με ένα σαλιγκάρι του αντιπάλου, συνεχίζει σαν βλήμα χαμηλότερου επιπέδου.";
+
+//Hop Rock
+"slug_info_name_hoprock" = "Χοπ Ροκ";
+"slug_info_power_hoprock" = "Exploder";
+"slug_info_description_hoprock" = "Προσθέτει θανατηφόρες βόμβες στο σκάφος του αντιπάλου που προκαλούν ζημιά.";
+
+//Hypnogrif
+"slug_info_name_hypnogriff" = "Υπνόγκριφ";
+"slug_info_power_hypnogriff" = "Έκσταση";
+"slug_info_description_hypnogriff" = "Ο Υπνόγκριφ μπερδεύει τον αντίπαλο, αναγκάζοντάς τον να εξαπολύσει όλα τα σαλιγκάρια του ταυτόχρονα.";
+
+//Slicksilver
+"slug_info_name_slicksilver" = "Σλικσίλβερ";
+"slug_info_power_slicksilver" = "Μεταλλικό/Μαγνητικό Σαλιγκάρι";
+"slug_info_description_slicksilver" = "Εμποδίζει τον αντίπαλο να εξαπολύσει τα σαλιγκάρια του.";
+
+//SpeedStinger
+"slug_info_name_speedstringer" = "Σπίντστίνγκερ";
+"slug_info_power_speedstringer" = "Ρικοσέ";
+"slug_info_description_speedstringer" = "Ο Σπιντστίνγκερ κινείται γρήγορα προκαλώντας ζημιά.";
+
+//Crystalyd
+"slug_info_name_crystalyd" = "Κρύσταλιντ";
+"slug_info_power_crystalyd" = "Tunneler";
+"slug_info_description_crystalyd" = "Όταν ο Κρύσταλιντ χτυπά ένα σαλιγκάρι του αντιπάλου, συνεχίζει σαν βλήμα χαμηλότερου επιπέδου.";
+
+//Geoshard
+"slug_info_name_geoshard" = "Τζίοσαρντ";
+"slug_info_power_geoshard" = "Σαλιγκάρι κρυσταλλοποιητής";
+"slug_info_description_geoshard" = "Ο Τζίοσαρντ εξαπολύει μια ομοβροντία βολών καθώς ταξιδεύει στον αέρα.";
+
+//Slyren
+"slug_info_name_slyren" = "Σλάιρεν";
+"slug_info_power_slyren" = "Αέρας";
+"slug_info_description_slyren" = "O Σλάιρεν εξαπολύει υπερηχητικές βολές καθώς ταξιδεύει στον αέρα.";
+
+//Narwhaddle
+"slug_info_name_narwhaddle" = "Ναργουάντλ";
+"slug_info_power_narwhaddle" = "Πάγος";
+"slug_info_description_narwhaddle" = "Ο Ναργουάντλ δημιουργεί μία παγωμένη έκρηξη που επιταχύνει τις βολές των άλλων σαλιγκαριών, ενώ παγώνει τον αντίπαλο.";
+
+//Firenzar
+"slug_info_name_firenzar" = "Φιρένζαρ";
+"slug_info_power_firenzar" = "Φωτιά";
+"slug_info_description_firenzar" = "Ο Φιρένζαρ δημιουργεί ένα δαχτυλίδι φωτιάς που καταστρέφει τον αντίπαλο με την πάροδο του χρόνου.";
+
+//Thugglet
+"slug_info_name_thugglet" = "Θάγκλετ";
+"slug_info_power_thugglet" = "Υπερφυσικό";
+"slug_info_description_thugglet" = "Όταν ο Θάγκλετ επιτίθεται στον αντίπαλο, κλέβει τη δύναμη σαλιγκαριού του αντιπάλου.";
+
+//Gazzer
+"slug_info_name_gazzer" = "Γκάζερ";
+"slug_info_power_gazzer" = "Αέρας";
+"slug_info_description_gazzer" = "Ο Γκάζερ αδειάζει τη δύναμη σαλιγκαριού του αντιπάλου.";
+
+//Lariat
+"slug_info_name_lariat" = "Λαριάτ";
+"slug_info_power_lariat" = "Νερό";
+"slug_info_description_lariat" = "Ο Λαριάτ ρίχνει έναν κολλώδη ιστό που επιβραδύνει τα σαλιγκάρια του αντιπάλου.";
+
+//Hexlet
+"slug_info_name_hexlet" = "Χέξλετ";
+"slug_info_power_hexlet" = "Υπερφυσικό";
+"slug_info_description_hexlet" = "Ο Χέξλετ ταιριάζει πλακίδια καθώς πετάει στο πεδίο της μάχης.";
+
+/* Fusion Slug Info */
+
+//Negashade & Ping Fusion
+
+"slug_info_name_fuse_yang_refresh" = "Shadowray";
+"slug_info_power_fuse_yang_refresh" = "Υπερφυσικό";
+"slug_info_description_fuse_yang_refresh" = "Νέγκασέιντ και Πινγκ: Επιτίθεται και μπερδεύει τους αντιπάλους σκοτεινιάζοντας την όρασή τους, ενώ ανταλλάσσει τα εικονίδια.";
+
+//Doc and Gas Fusion
+"slug_info_name_fuse_doc_gas" = "Healotoxis";
+"slug_info_power_fuse_doc_gas" = "Ελαφρύ και Τοξικό";
+"slug_info_description_fuse_doc_gas" = "Μπουν Ντοκ και Φλατουλορύγχους: Θεραπεύει τον παίκτη και αντλεί τις δυνάμεις του σαλιγκαριού του αντιπάλου.";
+
+//Burpy & Tazerling Fusion
+"slug_info_name_fuse_burpy_tazer" = "Novabolt";
+"slug_info_power_fuse_burpy_tazer" = "Φωτιά και Ηλεκτρική ενέργεια";
+"slug_info_description_fuse_burpy_tazer" = "Μπέρμπι και Τέιζερλινγκ: Επιτίθεται και ζαλίζει τον αντίπαλο.";
+
+//Arachnet & Panic Fusion
+"slug_info_name_fuse_arachnet_panic" = "Arachnoshroud";
+"slug_info_power_fuse_arachnet_panic" = "Γη και Ψυχή";
+"slug_info_description_fuse_arachnet_panic" = "Αράκνετ και Φράιγκάιστ: Τρομάζει και επιβραδύνει τον αντίπαλο.";
+
+//Aquabeek & Fandango Fusion
+"slug_info_name_fuse_aquabeek_fandango" = "Aquaboost";
+"slug_info_power_fuse_aquabeek_fandango" = "Νερό και Φως";
+"slug_info_description_fuse_aquabeek_fandango" = "Άκουαμπικ και Φαντάνγκο: Γρήγορη επίθεση που φορτίζει τη δύναμη του σαλιγκαριού του παίκτη.";
+
+//Rammstone & Makobreaker Fusion
+
+"slug_info_name_fuse_rammstone_makobreaker" = "Rockchomp";
+"slug_info_power_fuse_rammstone_makobreaker" = "Γη και Ύδωρ";
+"slug_info_description_fuse_rammstone_makobreaker" = "Διαπερνάει μια ασπίδα ή ένα ισοδύναμο σαλιγκάρι και δυναμώνει τρώγοντας βολές.";
+
+//Xmitter and Vinedrill Fusion
+
+"slug_info_name_fuse_xmitter_vinedrill" = "Glitchsnare"; //Glitch is a malfunction equipment and Snare is a trap. For example trap or a net
+"slug_info_power_fuse_xmitter_vinedrill" = "Ηλεκτρισμός και Φυτό";
+"slug_info_description_fuse_xmitter_vinedrill" = "Επίθεση που απενεργοποιεί το blaster και μπερδεύει τα εικονίδια του αντιπάλου.";
+
+//Flaringo and Phosphoro Fusion
+
+"slug_info_name_fuse_flaringo_phosphoro" = "Sparkrain"; //Spark is the small fiery particle thrown off from a fire and rain is moisture condensed from the atmosphere that falls visibly in separate drops. For Example rainy weather.
+"slug_info_power_fuse_flaringo_phosphoro" = "Φωτιά και Φως";
+"slug_info_description_fuse_flaringo_phosphoro" = "Επιτίθεται με φωτιά και φορτίζει λίγο όλα σου τα σαλιγκάρια.";
+
+//Frostcrawler and Grenuke Fusion
+
+"slug_info_name_fuse_freeze_grenuke" = "Frostbomb"; // Small white ice crtystals formed on surfaces when the temperature falls below freezing. Bomb is an explosion.
+"slug_info_power_fuse_freeze_grenuke" = "Πάγος και Φωτιά";
+"slug_info_description_fuse_freeze_grenuke" = "Η επίθεση παγώνει τον αντίπαλο και προσθέτει αρκετές βόμβες  που προκαλούν ζημιά στην ομάδα του αντιπάλου.";
+
+//Neotox and Thresher Fusion
+
+"slug_info_name_fuse_neotox_thresher" = "Τοξικός χαυλιόδοντας"; // Toxic is poisonous. Tusk is a long pointed tooth, usually found on elephants, walrus or wild boars.
+"slug_info_power_fuse_neotox_thresher" = "Φυτό και Μέταλλο";
+"slug_info_description_fuse_neotox_thresher" = "Η επίθεση δηλητηριάζει τον αντίπαλο και γίνεται όλο και πιο ισχυρή όταν Ηλάι είναι τραυματισμένος.";
+
+//Tormato and Jellyish Fusion
+
+"slug_info_name_fuse_tormato_jellyish" = "Καταιγίδα γλίτσας"; // Slime is a moist, soft, and slippery substance. Storm is a violent disturbance of the atmosphere with strong winds.
+"slug_info_power_fuse_tormato_jellyish" = "Αέρας και Νερό";
+"slug_info_description_fuse_tormato_jellyish" = "Η βολή σύντηξης δημιουργεί μια ασπίδα αέρα, καταστρέφοντας τον αντίπαλο και επιβραδύνοντας τα σαλιγκάρια του.";
+
+//Narwhaddle and Slyren Fusion
+
+"slug_info_name_fuse_slyren_narwaddle" = "Μπερ Μπομπ "; // Hyper as in overactive and flash as in a brief shine.
+"slug_info_power_fuse_slyren_narwaddle" = "Σκοτεινή Σκιά";
+"slug_info_description_fuse_slyren_narwaddle" = "Ο Μπερ Μπομπ ρίχνει πολλές βόμβες στον αντίπαλο και επιβραδύνει τις βολές των σαλιγκαριών του. Τα σαλιγκάρια του παίκτη κλειδώνονται για λίγο.";
+
+//Hoverbug and Speedstinger Fusion
+
+"slug_info_name_fuse_hoverbug_speedstinger" = "Κινέτικ Στρικ"; //Kenetic as in Kinetic energy and streak as in a motion streak of moving very quickly
+"slug_info_power_fuse_hoverbug_speedstinger" = "Μέταλλο και Αέρας";
+"slug_info_description_fuse_hoverbug_speedstinger" = " Σπιντστίνγκερ και Χόβερμπαγκ: Χρησιμοποιεί πύλες και προκαλεί ζημιά στον αντίπαλο.";
+
+//Geoshard and Slicksilver Fusion
+
+"slug_info_name_fuse_geoshard_slicksilver" = "Μάγκνασχαρντ"; //Magna as in magnet and shard as in a small piece of broken glass
+"slug_info_power_fuse_geoshard_slicksilver" = "Μέταλλο και Γη";
+"slug_info_description_fuse_geoshard_slicksilver" = " Σλικσίλβερ και Τζίοσαρντ: Προκαλεί ζημιά στον αντίπαλο χρησιμοποιώντας 3 βλήματα και κλειδώνει τα σαλιγκάρια του αντιπάλου για περιορισμένο χρονικό διάστημα.";
+
+
+//Neurotox and Amperling Fusion
+
+"slug_info_name_fuse_ghoul_netox_ghoul_tazerling" = "Άμπερτοξ";
+"slug_info_power_fuse_ghoul_netox_ghoul_tazerling" = "Σκοτεινή Σκιά";
+"slug_info_description_fuse_ghoul_netox_ghoul_tazerling" = "Ακινητοποιεί τον αντίπαλο και τα σαλιγκάρια, ενώ αντιμετωπίζει τις ζημιές και αντλεί ενέργεια από τα σαλιγκάρια.";
+
+//Burpy and Flatulo Rex
+
+"slug_info_name_fuse_ghoul_burpy_ghoul_gas" = "Μπλόρφμπλαστ";
+"slug_info_power_fuse_ghoul_burpy_ghoul_gas" = "Φωτιά και Τοξικό";
+"slug_info_description_fuse_ghoul_burpy_ghoul_gas" = "Προκαλεί ζημιά ενώ απορροφά ενέργεια από τα σαλιγκάρια και κρύβει την ομάδα του αντιπάλου με νέφη αερίων.";
+
+//Photomo and Aquafreak Fusion
+
+"slug_info_name_fuse_ghoul_phosphoro_ghoul_aquabeek" = "Υδρόφλογος";
+"slug_info_power_fuse_ghoul_phosphoro_ghoul_aquabeek" = "Σκοτεινή Σκιά";
+"slug_info_description_fuse_ghoul_phosphoro_ghoul_aquabeek" = "Προκαλεί ζημιά στον αντίπαλο και ρίχνει μια μεγάλη ριπή ενέργειας σαλιγκαριού στον παίκτη, αντλώντας αργά την ενέργεια του σαλιγκαριού του.";
+
+//Briardrill and FrostFang Fusion
+
+"slug_info_name_fuse_ghoul_vinedrill_ghoul_frost" = "Μπράιαρσαρντ"; //Briar is a plant with prickly stems and Shard means broke peices or fragments
+"slug_info_power_fuse_ghoul_vinedrill_ghoul_frost" = "Βάιν και Σκοτεινός Πάγος";
+"slug_info_description_fuse_ghoul_vinedrill_ghoul_frost" = "Κλειδώνει και παγώνει το σκάφος του αντιπάλου του, ενώ κλειδώνει το σκάφος σου για σύντομο χρονικό διάστημα.";
+
+//Tempesto and Pyringo Fusion
+
+"slug_info_name_fuse_ghoul_tormato_ghoul_flaringo" = "Σκάι το Κύμα "; // Scythe is a tool used for cutting and a Wave is a ridge of air
+"slug_info_power_fuse_ghoul_tormato_ghoul_flaringo" = "Σκοτεινή Σκιά";
+"slug_info_description_fuse_ghoul_tormato_ghoul_flaringo" = "Ο Σκάι το Κύμα δημιουργεί έναν ανεμοστρόβιλο που προκαλεί μεγάλες ζημιές. Προκαλεί όμως ζημιά και στον παίκτη.";
+
+//Greneater and Attacknet Fusion
+
+"slug_info_name_fuse_ghoul_grenuke_ghoul_arachnet" = "Μπερ Μπομπ "; // Burr is a rough sound and Bomb is an explosion
+"slug_info_power_fuse_ghoul_grenuke_ghoul_arachnet" = "Σκοτεινή Σκιά";
+"slug_info_description_fuse_ghoul_grenuke_ghoul_arachnet" = "Ο Μπερ Μπομπ ρίχνει πολλές βόμβες στον αντίπαλο και επιβραδύνει τις βολές των σαλιγκαριών του. Τα σαλιγκάρια του παίκτη κλειδώνονται για λίγο.";
+
+/* Ghoul Slug Info */
+
+// Ghoul Burpy
+"slug_info_name_ghoul_burpy" = "Νταρκφέρνους";
+"slug_info_power_ghoul_burpy" = "Φωτιά";
+"slug_info_description_ghoul_burpy" = "Ισχυρό και εξαιρετικά σπάνιο σαλιγκάρι, το Νταρκφέρνους επιτίθεται στον αντίπαλο με μια φλόγα Darkpyre αλλά βλάπτει επίσης τον χαρακτήρα σου.";
+
+// Ghoul Frost
+"slug_info_name_ghoul_frost" = "Φρόστφανγκ";
+"slug_info_power_ghoul_frost" = "Σκοτεινός Πάγος";
+"slug_info_description_ghoul_frost" = "Το Φρόστφανγκ χρησιμοποιεί την Creepfreeze κίνησή του για να παγώσει τον αντίπαλό σου με ένα ισχυρό χτύπημα, αλλά δεν δημιουργεί τείχος πάγου.";
+
+// Ghoul Gas
+"slug_info_name_ghoul_gas" = "Φλάτουλο Ρεξ";
+"slug_info_power_ghoul_gas" = "Τοξική βρώμα";
+"slug_info_description_ghoul_gas" = "Το Φλάτουλο Ρεξ χτυπά τον αντίπαλο με μια επίθεση Stenchwall, απελευθερώνοντας μεγάλη δυσωδία που προκαλεί ζημιά και εξαντλεί τα σαλιγκάρια του αντιπάλου, ενώ κρύβει το σκάφος σου με νέφη αερίων.";
+
+// Ghoul Tazer
+"slug_info_name_ghoul_tazer" = "Άμπερλινγκ";
+"slug_info_power_ghoul_tazer" = "Zapper";
+"slug_info_description_ghoul_tazer" = "Το Άμπερλινγκ επιτίθεται με την Amperjolt κίνησή του, προκαλώντας μεγάλες ζημιές και σαστίζοντας τον αντίπαλο, ενώ κλειδώνει τα σαλιγκάρια σου για περιορισμένο χρονικό διάστημα.";
+
+// Ghoul Aquabeek
+"slug_info_name_ghoul_aquabeek" = "Άκουαφρικ";
+"slug_info_power_ghoul_aquabeek" = "Σκοτεινό Νερό";
+"slug_info_description_ghoul_aquabeek" = "Χρησιμοποιώντας την επίθεση Ακουαμπλέιντ, το Άκουαφρικ πυροβολεί προς τον αντίπαλο με τεράστια ταχύτητα και προκαλεί ζημιά, αλλά χρειάζεται περισσότερο χρόνο για να οπλίσει.";
+
+// Ghoul Arachnet
+"slug_info_name_ghoul_arachnet" = "Ατάκνετ";
+"slug_info_power_ghoul_arachnet" = "Σκοτεινός Ιστός";
+"slug_info_description_ghoul_arachnet" = "Το Ατάκνετ τυλίγει τους αντιπάλους, καταστρέφοντας τους και επιβραδύνοντας τα σαλιγκάρια τους, ενώ ακινητοποιεί επίσης και τα δικά σου σαλιγκάρια για περιορισμένο χρονικό διάστημα.";
+
+// Ghoul Flaringo
+"slug_info_name_ghoul_flaringo" = "Pyringo";
+"slug_info_power_ghoul_flaringo" = "Σκοτεινή Φλόγα";
+"slug_info_description_ghoul_flaringo" = "Ο Pyringo χτυπάει τους αντιπάλους με την επίθεση Μπιτσίκερ, αλλά προκαλεί μεγάλη ζημιά και στον χαρακτήρα σου.";
+
+
+// Ghoul Grenuke
+"slug_info_name_ghoul_grenuke" = "Γκρινίτερ";
+"slug_info_power_ghoul_grenuke" = "Σκοτεινή Βόμβα";
+"slug_info_description_ghoul_grenuke" = "Ο Γκρινίτερ προσθέτει αρκετές βόμβες Σπάικσπλοντερ που προκαλούν ζημιά στην ομάδα του αντιπάλου, αλλά χρειάζεται περισσότερο χρόνο για να οπλίσει.";
+
+//Ghoul Jellyish
+"slug_info_name_ghoul_jellyish" = "Τζόλιφιστ";
+"slug_info_power_ghoul_jellyish" = "Γκου";
+"slug_info_description_ghoul_jellyish" = "Ο Τζόλιφιστ χρησιμοποιεί την τοξική του κίνηση για να καταστρέψει και να επιβραδύνει τον αντίπαλο.";
+
+// Ghoul Lock
+"slug_info_name_ghoul_lock" = "Μπράιαντριλ";
+"slug_info_power_ghoul_lock" = "Βάιν";
+"slug_info_description_ghoul_lock" = "Ο Μπράιαντριλ χρησιμοποιεί την επίθεση Thornlash για να χτυπήσει την ομάδα του αντιπάλου με έλικες με καρφιά.";
+
+// Ghoul Neotox
+"slug_info_name_ghoul_neotox" = "Νευροτοξικό";
+"slug_info_power_ghoul_neotox" = "Σκοτεινή Τοξίνη";
+"slug_info_description_ghoul_neotox" = "Το Νευροτοξικό χρησιμοποιεί την κίνηση Τόξικλισμ για να προκαλέσει μία τοξική έκρηξη που δηλητηριάζει τον αντίπαλο, ενώ επίσης απορροφά ενέργεια από τα σαλιγκάρια σου.";
+
+// Ghoul Panic
+"slug_info_name_ghoul_panic" = "Νάιτγκαιστ";
+"slug_info_power_ghoul_panic" = "Σκοτεινή Σκιά";
+"slug_info_description_ghoul_panic" = "Ο Νάιτγκαιστ τρομάζει τον αντίπαλο, κάνοντάς τον να πυροβολήσει εναντίον των ίδιων του των σαλιγκαριών, ενώ αντλεί ενέργεια από τα δικά σου σαλιγκάρια.";
+
+// Ghoul Phosphoro
+"slug_info_name_ghoul_phosphoro" = "Photomo";
+"slug_info_power_ghoul_phosphoro" = "Σκοτεινό Φωτόνιο";
+"slug_info_description_ghoul_phosphoro" = "Ο Photomo απορροφά την ενέργεια των σαλιγκαριών σου ενώ πετάει, αλλά σου δίνει μια τεράστια έκρηξη ενέργειας σαλιγκαριών όταν καταστραφεί το αντίπαλο.";
+
+// Ghoul Rammstone
+"slug_info_name_ghoul_rammstone" = "Γκριμστόουν";
+"slug_info_power_ghoul_rammstone" = "Ροκ";
+"slug_info_description_ghoul_rammstone" = "Ο Γκριμστόουν αντανακλά το πρώτο σαλιγκάρι με το οποίο συγκρούεται, ενώ μετατρέπει μερικά από τα πλακίδια του παίκτη σε πέτρα για περιορισμένο χρονικό διάστημα.";
+
+// Ghoul Thresher
+"slug_info_name_ghoul_thresher" = "Θράσερ
+";
+"slug_info_power_ghoul_thresher" = "Κοπή και Τεμαχισμός";
+"slug_info_description_ghoul_thresher" = "Ο Θράσερ γίνεται πιο αδύναμος όσο ο Ηλάι είναι τραυματισμένος.";
+
+// Ghoul Tormato
+"slug_info_name_ghoul_tormato" = "Τεμπέστο";
+"slug_info_power_ghoul_tormato" = "Σκοτεινή Σκιά";
+"slug_info_description_ghoul_tormato" = "Ο Γκουν Ντοκ προκαλεί ζημιά στον παίκτη, αλλά επίσης θεραπεύει και τον παίκτη όταν συγκρούεται με σαλιγκάρια χαμηλότερου επιπέδου και όταν χτυπά τον αντίπαλο.";
+
+// Ghoul Doc
+"slug_info_name_ghoul_doc" = "Γκουν Ντοκ";
+"slug_info_power_ghoul_doc" = "Νταρκ";
+"slug_info_description_ghoul_doc" = "Ο Γκουν Ντοκ προκαλεί ζημιά στον παίκτη, αλλά επίσης θεραπεύει και τον παίκτη όταν συγκρούεται με σαλιγκάρια χαμηλότερου επιπέδου και όταν χτυπά τον αντίπαλο.";
+
+// Ghoul Makobreaker
+"slug_info_name_ghoul_makobreaker" = "Μεγκαμπρέικερ";
+"slug_info_power_ghoul_makobreaker" = "Σκοτεινό Νερό";
+"slug_info_description_ghoul_makobreaker" = "Ο Μεγκαμπρέικερ αυξάνει την δύναμή του τρώγοντας βολές και σαλιγκάρια μικρότερου επιπέδου, αλλά προκαλεί επίσης βλάβη στον παίκτη.";
+
+// Ghoul Yang
+//"slug_info_name_ghoul_yang" = "Negablade";
+//"slug_info_power_ghoul_yang" = "Shadow";
+//"slug_info_description_yang" = "Negablade uses its Darkwraith move to confuse opponents by clouding their vision.";
+
+/* Megamorphs */
+
+//Burpy Megamorph
+"slug_info_name_mega_burpy" = "Μέγκαμορφ Ινφέρνους";
+"slug_info_power_mega_burpy" = "Φωτιά";
+"slug_info_description_mega_burpy" = "Η απόλυτη εξέλιξη. Ο Μέγκαμορφ Ινφέρνους δημιουργεί μία θύελλα φωτιάς με ρουκέτες σε όλο το πεδίο της μάχης.";
+
+//Frost Megamorph
+"slug_info_name_mega_frost" = "Μέγκαμορφ Φροστκρόουλερς";
+"slug_info_power_mega_frost" = "Πάγος";
+"slug_info_description_mega_frost" = "Η απόλυτη εξέλιξη. Ο Μέγκαμορφ Φροστκρόουλερς δημιουργεί ένα αμυντικό τείχος πάγου, ενώ επίσης παγώνει τον αντίπαλο κατά την πρόσκρουση.";
+
+//Tazerling Megamorph
+"slug_info_name_mega_tazer" = "Μέγκαμορφ Τέιζερλινγκ";
+"slug_info_power_mega_tazer" = "Ηλεκτρισμός";
+"slug_info_description_mega_tazer" = "Η απόλυτη εξέλιξη. Ο Μέγκαμορφ Τέιζερλινγκ δημιουργεί μια ισχυρή ηλεκτρική καταιγίδα όπως κινείται στο πεδίο της μάχης και προκαλεί μεγάλη ζημιά και ζαλίζει τον αντίπαλο.";
+
+//Flatulorhinkus Megamorph
+"slug_info_name_mega_gas" = "Μέγκαμορφ Φλατουλορύγχους";
+"slug_info_power_mega_gas" = "Τοξικό";
+"slug_info_description_mega_gas" = "Η απόλυτη εξέλιξη. Ο Μέγκαμορφ Φλατουλορύγχους χρησιμοποιεί εσωτερική πίεση και ρίχνει ρουκέτες στο πεδίο της μάχης και απελευθερώνει ένα τοξικό νέφος που βλάπτει τον αντίπαλο.";
+
+//Megamorph Arachnet
+"slug_info_name_mega_arachnet" = "Μέγκαμορφ Αράκνετ";
+"slug_info_power_mega_arachnet" = "Γη";
+"slug_info_description_mega_arachnet" = "Η απόλυτη εξέλιξη, ο Μέγκαμορφ Αράκνετ δημιουργεί έναν ιστό που προκαλεί μεγάλη βλάβη και επιβραδύνει δραστικά τα σαλιγκάρια του αντιπάλου.";
+
+//Megamorph Tormato
+"slug_info_name_mega_tormato" = "Μέγκαμορφ Τορμέιτο ";
+"slug_info_power_mega_tormato" = "Γη";
+"slug_info_description_mega_tormato" = "Η απόλυτη εξέλιξη, ο Μέγκαμορφ Τορμέιτο αντικατοπτρίζει τα σαλιγκάρια του αντιπάλου.";
+
+//Megamorph Grenuke
+"slug_info_name_mega_grenuke" = "Μέγκαμορφ Γκρενούκερ";
+"slug_info_power_mega_grenuke" = "Φωτιά";
+"slug_info_description_mega_grenuke" = "Η απόλυτη εξέλιξη, ο Μέγκαμορφ Γκρενούκερ προσθέτει βόμβες στο ταμπλό του αντιπάλου που προκαλούν μεγάλες ζημιές αν δεν αφαιρεθούν εγκαίρως.";
+
+//Megamorph Thresher
+"slug_info_name_mega_thresher" = "Μέγκαμορφ Θρέσερ";
+"slug_info_power_mega_thresher" = "Μέταλλο";
+"slug_info_description_mega_thresher" = "Η απόλυτη εξέλιξη, ο Μέγκαμορφ Θρέσερ γίνεται πολύ πιο ισχυρός όταν τραυματίζεται ο παίκτης.";
+
+//Megamorph Boon Doc
+"slug_info_name_mega_doc" = "Μέγκαμορφ Μπουν Ντοκ";
+"slug_info_power_mega_doc" = "Φως";
+"slug_info_description_mega_doc" = "Η απόλυτη εξέλιξη, ο Μέγκαμορφ Μπουν Ντοκ χρησιμοποιεί τη θεραπευτική του δύναμη για να θεραπεύει τον παίκτη καθώς πετάει.";
+
+
+/* End Slug Info Box */
+
+/* Booster Info */
+
+// blaster_damage
+"booster_info_name_blaster_damage" = "Ζημιά Εκτοξευτή";
+"booster_info_description_blaster_damage" = "Οι βολές του εκτοξευτή σου προκαλούν μεγαλύτερη ζημιά.";
+
+"booster_info_name_blaster_velocity" = "Ταχύτητα Εκτοξευτή";
+"booster_info_description_blaster_velocity" = "Τα σαλιγκάρια και οι βολές σου πετάνε γρηγορότερα.";
+
+"booster_info_name_autocharge" = "Φορτιστής Σαλιγκαριών";
+"booster_info_description_autocharge" = "Τα σαλιγκάρια φορτίζουν αυτόματα κατά την αναμέτρηση.";
+
+"booster_info_name_pre_igniter" = "Προ-φόρτιση";
+"booster_info_description_pre_igniter" = "Στην αρχή του αγώνα τα σαλιγκάρια σου είναι τελείως φορτισμένα.";
+
+"booster_info_name_max_level" = "Ενισχυτής Σαλιγκαριού";
+"booster_info_description_max_level" = "Τα σαλιγκάρια σου πήγαν στο επίπεδο 3 για έναν αγώνα.";
+
+/* End Booster Info */
+
+
+/* Game Mod */
+
+"gamemod_info_name_blaster_damage" = "Ζημιά Εκτοξευτή";
+"gamemod_info_name_blaster_damage_one" = "Ζημιά Εκτοξευτή";
+"gamemod_info_description_blaster_damage" = "Διπλή ζημιά σε όλες τις βολές";
+
+"gamemod_info_name_autocharge" = "Φορτιστής";
+"gamemod_info_name_autocharge_one" = "Φορτιστής Επίπεδο 1";
+"gamemod_info_name_autocharge_two" = "Φορτιστής Επίπεδο 2";
+"gamemod_info_name_autocharge_three" = "Φορτιστής Επίπεδο 3";
+"gamemod_info_description_autocharge" = "Τα σαλιγκάρια φορτίζουν αυτόματα";
+
+"gamemod_info_name_pre_igniter" = "Προ-φόρτιση";
+"gamemod_info_name_pre_igniter_one" = "Προ-φόρτιση";
+"gamemod_info_description_pre_igniter" = "Τα σαλιγκάρια ξεκινάνε εντελώς φορτισμένα.";
+
+"gamemod_info_name_blaster_velocity" = "Ταχύτητα Εκτοξευτή";
+"gamemod_info_name_blaster_velocity_one" = "Ταχύτητα Εκτοξευτή";
+"gamemod_info_description_blaster_velocity" = "Όλες οι βολές κινούνται με αυξημένη ταχύτητα";
+
+"gamemod_info_name_no_blasters" = "Χωρίς εκτοξευτές";
+"gamemod_info_name_no_blasters_one" = "Χωρίς εκτοξευτές";
+"gamemod_info_description_no_blasters" = "Χωρίς Εικονίδια Εκτοξευτών στο παιχνίδι";
+
+"gamemod_info_name_no_health" = "Χωρίς Εικονίδια Υγείας";
+"gamemod_info_name_no_health_one" = "Χωρίς Εικονίδια Υγείας";
+"gamemod_info_description_no_health" = "Χωρίς Εικονίδια Υγείας στο παιχνίδι";
+
+/* End Game Mod */
+
+
+/* Basic Shot Info */
+
+"basic_shot_info_name_basicShot" = "Βασική βολή";
+"basic_shot_info_name_acidGreen" = "Όξινο Πράσινο";
+"basic_shot_info_name_lightning" = "Κεραυνός";
+"basic_shot_info_name_majorLazer" = "Λέιζερ";
+"basic_shot_info_name_sonicBoom" = "Κρότος";
+"basic_shot_info_name_snot" = "Όξινη Κηλίδα";
+"basic_shot_info_name_sparkleBlade" = "Κοφτερή Λεπίδα";
+"basic_shot_info_name_pinkerton" = "Φούσκα";
+"basic_shot_info_name_blueBird" = "Μπλε Πουλί";
+"basic_shot_info_name_violentRed" = "Κόκκινος Πύραυλος";
+"basic_shot_info_name_mellowYellow" = "Κίτρινη Ηρεμία";
+"basic_shot_info_name_royalPurple" = "Μωβ Δύναμη";
+"basic_shot_info_name_oranges" = "Πορτοκαλί Συναγερμός";
+"basic_shot_info_name_tealBerry" = "Μπλε Μούρο";
+
+/* End Basic Shot Info */
+
+
+/* Character Names */
+
+"char_eli_name" = "Eli Shane";
+
+/* End Character Names */
+
+
+/* Destructible Character Names */
+
+"char_dummy_name" = "Dummy";
+"char_ghoulstation_name" = "Ο Σταθμός των Γκουλ";
+"char_trixiecage_name" = "Το Κλουβί της Τρίξι Στίνγκ";
+"char_door_name" = "";
+
+/* End Destructible Character Names */
+
+
+/* Opponent Names */
+
+"char_arclight_name" = "Σόκγουάιρ";
+"char_guardbig1_name" = "Κύριος Orange";
+"char_bigguard3_name" = "Han del Bar";
+"char_billy_name" = "Μπίλι";
+"char_blakk_name" = "Δόκτωρ Μπλάκ";
+"char_cajun_name" = "Jaques";
+"char_fav_name" = "Φαβ";
+"char_fire_name" = "Φλέιμ";
+"char_frost_name" = "Φροστ";
+"char_gabe_name" = "Γκέιμπ";
+"char_glasses_name" = "Γυαλάκιας";
+"char_goon2_name" = "Λoκ";
+"char_goon3_name" = "Λoντ";
+"char_goon4_name" = "Boon the Goon";
+"char_goon_name" = "Sid the Kid";
+"char_guard_name" = "Χειριστής Δέλτα";
+"char_jackbull_name" = "John Bull";
+"char_kingofsling_name" = "Βασιλιάς των Όπλων";
+"char_kord_name" = "Κόρντ";
+"char_marcus_name" = "Marcus";
+"char_mrsaturday_name" = "Κος Σάββατο";
+"char_munch_name" = "Μαντς";
+"char_nacho_name" = "Nacho";
+"char_pronto_name" = "Πρόντο";
+"char_robo2_name" = "Doombot 2.0";
+"char_robo_name" = "Doombot 1.0";
+"char_sedo_name" = "Σίντο";
+"char_shadow_name" = "Φυλή των Σκιών";
+"char_shorty_name" = "Κοντούλα";
+"char_trixie_name" = "Τρίξι Στίνγκ";
+"char_turret_name" = "Turret";
+"char_mei_name" = "Μέι";
+
+
+// Chapter 6
+"char_voodoo_name" = "Hudu Vudu";
+"char_zombieguard_name" = "Φύλακας Ζόμπι";
+"char_securitygun_name" = "Αυτόματο Κανόνι";
+"char_zombiechef_name" = "Σεφ Ζόμπι";
+"char_inmate_name" = "Snitch";
+"char_inmate2_name" = "Dead-Eye";
+"char_turtle_name" = "Turtleton";
+"char_horn_name" = "Minotaurus";
+"char_spirex_name" = "Spirex";
+"char_madmax_name" = "Max the Madder";
+
+"char_angryblakk_name" = "Θυμωμένος Δόκτωρ Μπλάκ";
+"char_dunno_name" = "Σφάλμα";
+
+/* Chapter 7 */
+"char_guard_mech_name" = "Μοίρα Όμικρον";
+"char_boat_pirates_name" = "Karl & Charlie";
+"char_pirate1_name" = "Matey Nate";
+"char_pirate_girl_name" = "Καπετάνιος Ridley";
+"char_shark_name" = "Gunther ο Καρχαρίας";
+"char_pirate2_name" = "Avaster Plume";
+"char_cannon_name" = "Κανονιέρης Boo";
+"char_gator_name" = "Gator";
+"char_fang_name" = "Fang";
+"char_watts_name" = "Γουάτς";
+"char_drake_name" = "Μαλβόλιο Ντρέικ";
+"char_eli_mech_name" = "Eli Shane";
+
+/* Chapter 8*/
+"char_evileli_name" = "Alias";
+"char_evilkord_name" = "Jeen";
+"char_eviltrixie_name" = "Trapsie";
+"char_mechamole_name" = "Ρόμπο Mole";
+
+/* Chapter 9*/
+"char_will_name" ="Γουίλ Σέιν";
+"char_fakeduelist_name" = "Ο Περιπλανώμενος Μαχητής";
+"char_shanai_name" = "Ανίκητος Αφέντης";
+"char_twist_name" = "Τουίστ";
+"char_young_blakk_name" = "Μπλάκ";
+"char_blakk_gat_name" = "Δόκτωρ Μπλάκ
+";
+"char_master_name" = "Ανίκητος Αφέντης";
+
+/* Chapter 10*/
+"char_scrapheepgang01_name" = "Μόνγκο";
+"char_scrapheepgang02_name" = "Στράγκους";
+"char_scrapheepgang03_name" = "Welder Walter";
+"char_scrapheepgang04_name" = "Lil Stevie";
+"char_bossember_name" = "Αρχηγός Έμπερ";
+"char_angrybossember_name" = "Θυμωμένος Έμπερ";
+
+/* Chapter 12*/
+"char_guard2_name" = "Χειριστής Δέλτα";
+"char_darkbane_soldier1_name" = "Νταρκμπέιν Murg";
+"char_darkbane_soldier2_name" = "Νταρκμπέιν Drek";
+"char_darkbane_soldier3_name" = "Νταρκμπέιν Hartag";
+"char_shadowclanleader_name" = "Φύλακας Φυλής";
+"char_darkbane_soldier4_name" = "Νταρκμπέιν Grog";
+"char_darkbane_soldier5_name" = "Νταρκμπέιν Stragg";
+"char_darkbane_prison_guard_name" = "Δεσμοφύλακας";
+"char_darkbane_nacho_name" = "Καπετάν Νταρκμπέιν";
+
+/* Chapter 13*/
+"char_darkbane_soldier6_name" = "Νταρκμπέιν Blarg";
+"char_darkbane_soldier_elite1_name" = "Νταρκμπέιν Elite 1";
+"char_darkbane_soldier_elite2_name" = "Νταρκμπέιν Elite 2";
+"char_behemoth_name" = "Behemoth";
+"char_darkbanebrimstone_name" = "Μπρίμστόουν";
+"char_angrynacho_name" = "Νάτσος";
+
+/* Chapter 15*/
+"char_hostile_miner_name" = "Θυμωμένος Ανθρακωρύχος";
+"char_foreman_name" = "Εργοδηγός";
+"char_viggo_minion1_name" = "Αμετακίνητος";
+"char_viggo_minion2_name" = "Αρουραίος";
+"char_viggo_name" = "Γενναίος Μαχητής";
+"char_viggo1_name" = "Αμετακίνητος";
+"char_viggo2_name" = "Αρουραίος";
+
+/* Chapter 16*/
+"char_titan_name" = "Τιτάνας";
+"char_guard3_name" = "Μπομπ ο Φρουρός";
+
+/*Chapter 17*/
+"char_redhook_name" = "Ρεντ Χουκ";
+"char_technician_name" = "Τεχνικός";
+
+/* End Opponent Names */
+
+
+
+/***** Game *****/
+
+/* Game Common */
+
+// score screen coin breakdown
+// the amount of coins earned per encounter is broken down into sections:
+// eg. "Victory   10 coins"
+//     "Badges     5 coins"
+//     "Bonus      5 coins"
+"game_coins_breakdown_victory" = "Νίκη";     // story
+"game_coins_breakdown_badges" = "Μετάλλια";       // story, bonus
+"game_coins_breakdown_achievements" = "Βραβεία"; // story
+"game_coins_breakdown_bonus" = "Παίρνεις";         // endless
+"game_coins_breakdown_base" = "Βάση";           // treasure
+"game_coins_breakdown_damage" = "Ζημιά";       // treasure
+"game_coins_breakdown_destroy" = "Καταστροφή";     // treasure
+"game_coins_breakdown_total" = "ΣΥΝΟΛΟ";         // ΣΥΝΟΛΟ
+
+/* End Game Common */
+
+
+
+/* Tutorials */
+
+"game_tutorial_tip_match" = "Συνδυασμός"; // displayed on a tip box, informing the player to match some number of tiles
+"game_tutorial_tip_move_1" = "Κούνησε 1 εικονίδιο!"; // tip telling the player to move 1 tile
+"game_tutorial_tip_move_n" = "Κούνησε %i εικονίδια!"; // tip telling player to move more than 1 tile.
+"game_tutorial_tip_survive" = "για να επιζήσεις!";
+
+/* End Tutorials */
+
+
+
+/* Treasure Game */
+
+//"game_treasure_times_up" = "Time's Up!";
+//"game_treasure_well_done" = "Well Done!";
+
+/* End Treasure Game */
+
+/***** Local Push Notification *****/
+//Haven't logged in for 1 week: 500 coins
+"log_in_1_week" = "Τα σαλιγκάρια σου έχουν ένα δώρο για εσένα! Συνδέσου για ΔΩΡΕΑΝ νομίσματα!!!";
+//Haven't logged in for 1 week: 800 coins
+"log_in_2_week" = "Τα σαλιγκάρια σου έχουν ένα δώρο για εσένα! Συνδέσου για ΔΩΡΕΑΝ νομίσματα!!!";
+//Haven't logged in for 1 week: 1500 coins
+"log_in_1_month" = "Τα σαλιγκάρια σου έχουν ένα δώρο για εσένα! Συνδέσου για ΔΩΡΕΑΝ νομίσματα!!!";
+//Haven't logged in for 1 week: 3000 coins
+"log_in_2_month" = "Τα σαλιγκάρια σου έχουν ένα δώρο για εσένα! Συνδέσου για ΔΩΡΕΑΝ νομίσματα!!!";
+//Haven't logged in for 1 week: 5000 coins
+"log_in_6_month" = "Τα σαλιγκάρια σου έχουν ένα δώρο για εσένα! Συνδέσου για ΔΩΡΕΑΝ νομίσματα!!!";
+
+"localpush_reward_popup" = "Τα σαλιγκάρια έχουν ένα δώρο για σένα!";
+"localpush_reward_coins" = "νομίσματα";
+
+/***** Daily Gifts Notification *****/
+"daily_challenges_now" = "Καθημερινές προκλήσεις! Παίξε για μια ευκαιρία να κερδίσεις ΔΩΡΕΑΝ σαλιγκάρια!";
+"daily_gift_coins" = "Καθημερινά δώρα! Συνδέσου για ΔΩΡΕΑΝ νομίσματα!";
+"daily_gift_boosters" = "Καθημερινά δώρα! Συνδέσου για ΔΩΡΕΑΝ ενισχυτή!";
+"daily_gift_blaster_damage" = "Καθημερινά δώρα! Συνδέσου για ΔΩΡΕΑΝ ενισχυτή Blaster Damage!";
+"daily_gift_blaster_speed" = "Καθημερινά δώρα! Συνδέσου για ΔΩΡΕΑΝ ενισχυτή Blaster Speed!";
+"daily_gift_auto_charger" = "Καθημερινά δώρα! Συνδέσου για ΔΩΡΕΑΝ Slug Auto-Charger!";
+"daily_gift_pre_igniter" = "Τα σαλιγκάρια σου έχουν ένα δώρο για εσένα! Συνδέσου για ένα ΔΩΡΕΑΝ Pre-Igniter!";
+"slug_gift_coins" = "Τα σαλιγκάρια σου έχουν ένα δώρο για εσένα! Συνδέσου για ΔΩΡΕΑΝ νομίσματα!!!";
+
+/***** Video Ad Confirmation Box *****/
+"video_ad_title" = "";
+"video_ad_description" = "Θέλεις να δεις ένα βίντεο και να κερδίσεις επιπλέον νομίσματα;";
+"video_ad_watch_button" = "Ναι!";
+"video_ad_thank_you" = "Συγχαρητήρια! Κέρδισες";
+"video_ad_150_coins" = "Δες ένα βίντεο και πάρε δώρο 150 νομίσματα!";
+"video_ad_200_coins" = "Δες ένα βίντεο και πάρε δώρο 200 νομίσματα!";
+
+/***** SlugSeeker *****/
+
+"name_cavern_slug_seeker_name" = "Slug Seeker";
+
+/* Cavern 1 */
+"cv_cavern1_name" = "Herringbone Cavern";
+"cv_cavern1_subtitle" = "";
+
+//Encounter 1
+"enc_cv1e1_title" = "Συμπλοκή 1";
+
+//Encounter 2
+"enc_cv1e2_title" = "Συμπλοκή 2";
+
+//Encounter 3
+"enc_cv1e3_title" = "Συμπλοκή 3";
+
+//Encounter 4
+"enc_cv1e4_title" = "Συμπλοκή 4";
+
+//Encounter 5
+"enc_cv1e5_title" = "Γύρος Μπόνους";
+
+//Encounter 6
+"enc_cv1e6_title" = "Συμπλοκή 6";
+
+//Encounter 7
+"enc_cv1e7_title" = "Συμπλοκή 7";
+
+//Encounter 8
+"enc_cv1e8_title" = "Συμπλοκή 8";
+
+//Encounter 9
+"enc_cv1e9_title" = "Συμπλοκή 9";
+
+//Encounter 10
+"enc_cv1e10_title" = "Γύρος Μπόνους";
+
+//Encounter 11
+"enc_cv1e11_title" = "Συμπλοκή 11";
+
+//Encounter 12
+"enc_cv1e12_title" = "Συμπλοκή 12";
+
+//Encounter 13
+"enc_cv1e13_title" = "Συμπλοκή 13";
+
+//Encounter 14
+"enc_cv1e14_title" = "Συμπλοκή 14";
+
+//Encounter 15
+"enc_cv1e15_title" = "Γύρος Μπόνους";
+
+/* End Cavern 1 */
+
+/* Cavern 2 */
+"cv_cavern2_name" = "Σκοτεινή Περιφέρεια";
+"cv_cavern2_subtitle" = "";
+
+//Encounter 1
+"enc_cv2e1_title" = "Συμπλοκή 1";
+
+//Encounter 2
+"enc_cv2e2_title" = "Συμπλοκή 2";
+
+//Encounter 3
+"enc_cv2e3_title" = "Συμπλοκή 3";
+
+//Encounter 4
+"enc_cv2e4_title" = "Συμπλοκή 4";
+
+//Encounter 5
+"enc_cv2e5_title" = "Γύρος Μπόνους";
+
+//Encounter 6
+"enc_cv2e6_title" = "Συμπλοκή 6";
+
+//Encounter 7
+"enc_cv2e7_title" = "Συμπλοκή 7";
+
+//Encounter 8
+"enc_cv2e8_title" = "Συμπλοκή 8";
+
+//Encounter 9
+"enc_cv2e9_title" = "Συμπλοκή 9";
+
+//Encounter 10
+"enc_cv2e10_title" = "Γύρος Μπόνους";
+
+//Encounter 11
+"enc_cv2e11_title" = "Συμπλοκή 11";
+
+//Encounter 12
+"enc_cv2e12_title" = "Συμπλοκή 12";
+
+//Encounter 13
+"enc_cv2e13_title" = "Συμπλοκή 13";
+
+//Encounter 14
+"enc_cv2e14_title" = "Συμπλοκή 14";
+
+//Encounter 15
+"enc_cv2e15_title" = "Γύρος Μπόνους";
+
+/* End Cavern 2 */
+
+/* Cavern 3 */
+"cv_cavern3_name" = "Deep Caverns";
+"cv_cavern3_subtitle" = "";
+
+//Encounter 1
+"enc_cv3e1_title" = "Συμπλοκή 1";
+
+//Encounter 2
+"enc_cv3e2_title" = "Συμπλοκή 2";
+
+//Encounter 3
+"enc_cv3e3_title" = "Συμπλοκή 3";
+
+//Encounter 4
+"enc_cv3e4_title" = "Συμπλοκή 4";
+
+//Encounter 5
+"enc_cv3e5_title" = "Γύρος Μπόνους";
+
+//Encounter 6
+"enc_cv3e6_title" = "Συμπλοκή 6";
+
+//Encounter 7
+"enc_cv3e7_title" = "Συμπλοκή 7";
+
+//Encounter 8
+"enc_cv3e8_title" = "Συμπλοκή 8";
+
+//Encounter 9
+"enc_cv3e9_title" = "Συμπλοκή 9";
+
+//Encounter 10
+"enc_cv3e10_title" = "Γύρος Μπόνους";
+
+//Encounter 11
+"enc_cv3e11_title" = "Συμπλοκή 11";
+
+//Encounter 12
+"enc_cv3e12_title" = "Συμπλοκή 12";
+
+//Encounter 13
+"enc_cv3e13_title" = "Συμπλοκή 13";
+
+//Encounter 14
+"enc_cv3e14_title" = "Συμπλοκή 14";
+
+//Encounter 15
+"enc_cv3e15_title" = "Γύρος Μπόνους";
+
+/* End Cavern 3 */
+
+/* Cavern 4 */
+"cv_cavern4_name" = "Σαλιγαρουγεννιάτικος χιονοχορός";
+"cv_cavern4_subtitle" = "";
+
+//Encounter 1
+"enc_cv4e1_title" = "Συμπλοκή 1";
+
+//Encounter 2
+"enc_cv4e2_title" = "Συμπλοκή 2";
+
+//Encounter 3
+"enc_cv4e3_title" = "Συμπλοκή 3";
+
+//Encounter 4
+"enc_cv4e4_title" = "Συμπλοκή 4";
+
+//Encounter 5
+"enc_cv4e5_title" = "Γύρος Μπόνους";
+
+//Encounter 6
+"enc_cv4e6_title" = "Συμπλοκή 6";
+
+//Encounter 7
+"enc_cv4e7_title" = "Συμπλοκή 7";
+
+//Encounter 8
+"enc_cv4e8_title" = "Συμπλοκή 8";
+
+//Encounter 9
+"enc_cv4e9_title" = "Συμπλοκή 9";
+
+//Encounter 10
+"enc_cv4e10_title" = "Γύρος Μπόνους";
+
+//Encounter 11
+"enc_cv4e11_title" = "Συμπλοκή 11";
+
+//Encounter 12
+"enc_cv4e12_title" = "Συμπλοκή 12";
+
+//Encounter 13
+"enc_cv4e13_title" = "Συμπλοκή 13";
+
+//Encounter 14
+"enc_cv4e14_title" = "Συμπλοκή 14";
+
+//Encounter 15
+"enc_cv4e15_title" = "Γύρος Μπόνους";
+
+/* End Cavern 4 */
+
+
+/* Cavern 5 */
+"cv_cavern5_name" = "Ντόγιαν Γκρότο";
+"cv_cavern5_subtitle" = "";
+
+//Encounter 1
+"enc_cv5e1_title" = "Συμπλοκή 1";
+
+//Encounter 2
+"enc_cv5e2_title" = "Συμπλοκή 2";
+
+//Encounter 3
+"enc_cv5e3_title" = "Συμπλοκή 3";
+
+//Encounter 4
+"enc_cv5e4_title" = "Συμπλοκή 4";
+
+//Encounter 5
+"enc_cv5e5_title" = "Γύρος Μπόνους";
+
+//Encounter 6
+"enc_cv5e6_title" = "Συμπλοκή 6";
+
+//Encounter 7
+"enc_cv5e7_title" = "Συμπλοκή 7";
+
+//Encounter 8
+"enc_cv5e8_title" = "Συμπλοκή 8";
+
+//Encounter 9
+"enc_cv5e9_title" = "Συμπλοκή 9";
+
+//Encounter 10
+"enc_cv5e10_title" = "Γύρος Μπόνους";
+
+//Encounter 11
+"enc_cv5e11_title" = "Συμπλοκή 11";
+
+//Encounter 12
+"enc_cv5e12_title" = "Συμπλοκή 12";
+
+//Encounter 13
+"enc_cv5e13_title" = "Συμπλοκή 13";
+
+//Encounter 14
+"enc_cv5e14_title" = "Συμπλοκή 14";
+
+//Encounter 15
+"enc_cv5e15_title" = "Γύρος Μπόνους";
+
+/* End Cavern 5 */
+
+/* Cavern 6 */
+"cv_cavern6_name" = "Το Σπήλαιο των Άγριων Σπόρων";
+"cv_cavern6_subtitle" = "";
+
+//Encounter 1
+"enc_cv6e1_title" = "Συμπλοκή 1";
+
+//Encounter 2
+"enc_cv6e2_title" = "Συμπλοκή 2";
+
+//Encounter 3
+"enc_cv6e3_title" = "Συμπλοκή 3";
+
+//Encounter 4
+"enc_cv6e4_title" = "Συμπλοκή 4";
+
+//Encounter 5
+"enc_cv6e5_title" = "Γύρος Μπόνους";
+
+//Encounter 6
+"enc_cv6e6_title" = "Συμπλοκή 6";
+
+//Encounter 7
+"enc_cv6e7_title" = "Συμπλοκή 7";
+
+//Encounter 8
+"enc_cv6e8_title" = "Συμπλοκή 8";
+
+//Encounter 9
+"enc_cv6e9_title" = "Συμπλοκή 9";
+
+//Encounter 10
+"enc_cv6e10_title" = "Γύρος Μπόνους";
+
+//Encounter 11
+"enc_cv6e11_title" = "Συμπλοκή 11";
+
+//Encounter 12
+"enc_cv6e12_title" = "Συμπλοκή 12";
+
+//Encounter 13
+"enc_cv6e13_title" = "Συμπλοκή 13";
+
+//Encounter 14
+"enc_cv6e14_title" = "Συμπλοκή 14";
+
+//Encounter 15
+"enc_cv6e15_title" = "Γύρος Μπόνους";
+
+/* End Cavern 6 */
+
+/* Cavern 7 */
+"cv_cavern7_name" = "Σπήλαιο Του Ρεύματος";
+"cv_cavern7_subtitle" = "";
+
+//Encounter 1
+"enc_cv7e1_title" = "Συμπλοκή 1";
+
+//Encounter 2
+"enc_cv7e2_title" = "Συμπλοκή 2";
+
+//Encounter 3
+"enc_cv7e3_title" = "Συμπλοκή 3";
+
+//Encounter 4
+"enc_cv7e4_title" = "Συμπλοκή 4";
+
+//Encounter 5
+"enc_cv7e5_title" = "Γύρος Μπόνους";
+
+//Encounter 6
+"enc_cv7e6_title" = "Συμπλοκή 6";
+
+//Encounter 7
+"enc_cv7e7_title" = "Συμπλοκή 7";
+
+//Encounter 8
+"enc_cv7e8_title" = "Συμπλοκή 8";
+
+//Encounter 9
+"enc_cv7e9_title" = "Συμπλοκή 9";
+
+//Encounter 10
+"enc_cv7e10_title" = "Γύρος Μπόνους";
+
+//Encounter 11
+"enc_cv7e11_title" = "Συμπλοκή 11";
+
+//Encounter 12
+"enc_cv7e12_title" = "Συμπλοκή 12";
+
+//Encounter 13
+"enc_cv7e13_title" = "Συμπλοκή 13";
+
+//Encounter 14
+"enc_cv7e14_title" = "Συμπλοκή 14";
+
+//Encounter 15
+"enc_cv7e15_title" = "Γύρος Μπόνους";
+
+/* End Cavern 7 */
+
+
+
+/***** Story *****/
+
+/* Treasure Chapter */
+
+//"ch_treasure_name" = "Treasure";
+//"ch_treasure_subtitle" = "";
+
+// encounters
+//"enc_treasure_large_title" = "Treasure Chamber";
+//"enc_treasure_small_title" = "Treasure Den";
+
+/* End Treasure Chapter */
+
+/* Chapter 1 */
+"ch_chapter1_name" = "Κεφάλαιο 1";
+"ch_chapter1_subtitle" = "Εκπαίδευση";
+
+//Encounter 1
+"enc_c1e1_title" = "Τρολ των Σπηλαίων";
+
+//Encounter 2
+"enc_c1e2_title" = "Ανάρρωση";
+
+//Encounter 3
+"enc_c1e3_title" = "Μαχητής";
+
+//Encounter 4
+"enc_c1e4_title" = "Πρόντο ο Εξοχότατος";
+
+/* End Chapter 1 */
+
+
+
+/* Chapter 2 */
+
+"ch_chapter2_name" = "Κεφάλαιο 2";
+"ch_chapter2_subtitle" = "Το Τουρνουά";
+
+//Encounter 1
+"enc_c2e1_title" = "Πρώτος Γύρος";
+
+//Encounter 2
+"enc_c2e2_title" = "Κρυολογήματα";
+
+//Encounter 3
+"enc_c2e3_title" = "Φώτα, Κάμερα, Πάμε!";
+
+//Encounter 4
+"enc_c2e4_title" = "Αλεξικέραυνο";
+
+//Encounter 5
+"enc_c2e5_title" = "Βασιλιάς Απατεώνας";
+
+//Encounter 6
+"enc_c2e6_title" = "Τελική Τετράδα";
+
+//Encounter 7
+"enc_c2e7_title" = "Τριπλό Χτύπημα";
+
+
+
+//Encounter 8
+"enc_c2e8_title" = "Προειδοποίηση!";
+
+//Encounter 9
+"enc_c2e9_title" = "Γύρος Μπόνους";
+
+//Encounter 10
+"enc_c2e10_title" = "Ιντερλούδιο";
+
+//Encounter 11
+"enc_c2e11_title" = "Ο Ταύρος";
+
+/* End Chapter 2 */
+
+
+
+/* Chapter 3 */
+"ch_chapter3_name" = "Κεφάλαιο 3";
+"ch_chapter3_subtitle" = "Οι Χούλιγκαν";
+
+//Encounter 1
+"enc_c3e1_title" = "Απαγωγή";
+
+//Encounter 2
+"enc_c3e2_title" = "Πληγωμένοι Χαμένοι";
+
+
+
+//Encounter 3
+"enc_c3e3_title" = "Σκονισμένο Φαράγγι";
+
+//Encounter 4
+"enc_c3e4_title" = "Μισθοφόρος";
+
+//Encounter 5
+"enc_c3e5_title" = "Τυφλοπόντικας";
+
+//Encounter 6
+"enc_c3e6_title" = "Το Τέλος του Κόσμου";
+
+//Encounter 7
+"enc_c3e7_title" = "Σπασμένα Γυαλιά";
+
+//Encounter 8
+"enc_c3e8_title" = "Προετοιμασίες";
+
+//Encounter 9
+"enc_c3e9_title" = "Οι Χούλιγκαν";
+
+
+
+//Encounter 10
+"enc_c3e10_title" = "Γύρος Μπόνους";
+
+//Encounter 11
+"enc_c3e11_title" = "Ιεραρχία";
+
+
+/* End Chapter 3 */
+
+
+
+/* Chapter 4 */
+
+"ch_chapter4_name" = "Κεφάλαιο 4";
+"ch_chapter4_subtitle" = "Μέσα από τις Φλόγες";
+
+//Encounter 1
+"enc_c4e1_title" = "Φυλή των Σκιών";
+
+//Encounter 2
+"enc_c4e2_title" = "Ανασυγκρότηση";
+
+//Encounter 3
+"enc_c4e3_title" = "Ώρα για μπέργκερ";
+
+//Encounter 4
+"enc_c4e4_title" = "Doombot 1.0";
+
+//Encounter 5
+"enc_c4e5_title" = "Λατομείο";
+
+//Encounter 6
+"enc_c4e6_title" = "Δύναμη της φωτιάς";
+
+//Encounter 7
+"enc_c4e7_title" = "Οδόφραγμα";
+
+//Encounter 8
+"enc_c4e8_title" = "Σκιές";
+
+//Encounter 9
+"enc_c4e9_title" = "Λυπημένη Ημέρα";
+
+//Encounter 10
+"enc_c4e10_title" = "Δεξί Χέρι";
+
+//Encounter 11
+"enc_c4e11_title" = "Γύρος Μπόνους";
+
+/* End Chapter 4 */
+
+
+
+/* Chapter 5 */
+
+"ch_chapter5_name" = "Κεφάλαιο 5";
+"ch_chapter5_subtitle" = "Τα Νερά του Μπλάκ";
+
+//Encounter 1
+"enc_c5e1_title" = "Άγγιγμα Γιατρειάς";
+
+//Encounter 2
+"enc_c5e2_title" = "Ο Πλειοδότης";
+
+//Encounter 3
+"enc_c5e3_title" = "Ατέρμονη Διαμάχη";
+
+//Encounter 4
+"enc_c5e4_title" = "Νέο και Βελτιωμένο";
+
+//Encounter 5
+"enc_c5e5_title" = "Προειδοποίηση";
+
+//Encounter 6
+"enc_c5e6_title" = "Οργανωμένο Έγκλημα";
+
+
+
+//Encounter 7
+"enc_c5e7_title" = "Τραγάνισμα";
+
+//Encounter 8
+"enc_c5e8_title" = "Ο Λoκ και το Κλειδί";
+
+
+//Encounter 9
+"enc_c5e9_title" = "Τέρατα";
+
+//Encounter 10
+"enc_c5e10_title" = "Μπλακάουτ";
+
+
+/* End Chapter 5 */
+
+
+
+/* Chapter 6 */
+
+"ch_chapter6_name" = "Κεφάλαιο 6";
+"ch_chapter6_subtitle" = "Η Ημέρα της Κρίσης";
+
+//Encounter 1
+"enc_c6e1_title" = "Παραπλάνηση";
+
+//Encounter 2
+"enc_c6e2_title" = "Γύρος Μπόνους";
+
+//Encounter 3
+"enc_c6e3_title" = "Δραπέτευση";
+
+//Encounter 4
+"enc_c6e4_title" = "Ρήγμα Ασφαλείας";
+
+//Encounter 5
+"enc_c6e5_title" = "Δείπνο";
+
+//Encounter 6
+"enc_c6e6_title" = "Αντίδραση!";
+
+//Encounter 7
+"enc_c6e7_title" = "Εκδίκηση";
+
+//Encounter 8
+"enc_c6e8_title" = "Δυνάμεις Πλασμάτων";
+
+
+
+//Encounter 9
+"enc_c6e9_title" = "Παράνοια";
+
+//Encounter 10
+"enc_c6e10_title" = "Δοκιμή με Φωτιά";
+
+/* End Chapter 6 */
+
+/* Chapter 7 */
+
+"ch_chapter7_name" = "Κεφάλαιο 7";
+"ch_chapter7_subtitle" = "Σαλπάρουμε";
+
+//Encounter 1
+"enc_c7e1_title" = "Οι υδραγωγοί";
+
+//Encounter 2
+"enc_c7e2_title" = "Πειρατές!";
+
+//Encounter 3
+"enc_c7e3_title" = "Στροφή προς τη Νίκη";
+
+//Encounter 4
+"enc_c7e4_title" = "Μεγάλος Αρχηγός";
+
+//Encounter 5
+"enc_c7e5_title" = "Ο Πρώτος Καπετάνιος";
+
+//Encounter 6
+"enc_c7e6_title" = "Καρχαρίες στο Νερό";
+
+//Encounter 7
+"enc_c7e7_title" = "Κανονιά";
+
+//Encounter 8
+"enc_c7e8_title" = "Γύρος Μπόνους";
+
+//Encounter 9
+"enc_c7e9_title" = "Οι Προβλήτες";
+
+//Encounter 10
+"enc_c7e10_title" = "Καπετάν Μαλβόλιο Ντρέικ";
+
+
+
+/* End Chapter 7 */
+
+/* Chapter 8 */
+
+"ch_chapter8_name" = "Κεφάλαιο 8";
+"ch_chapter8_subtitle" = "Ο Νέος Βασιλιάς";
+
+//Encounter 1
+"enc_c8e1_title" = "Το Μήνυμα";
+
+//Encounter 2
+"enc_c8e2_title" = "Πληροφορία";
+
+//Encounter 3
+"enc_c8e3_title" = "Μπαμ Μπουμ";
+
+//Encounter 4
+"enc_c8e4_title" = "Το Βασίλειο Μολενόιντ";
+
+//Encounter 5
+"enc_c8e5_title" = "Η Συμμορία του Πόνου";
+
+//Encounter 6
+"enc_c8e6_title" = "Κατεργάρης";
+
+//Encounter 7
+"enc_c8e7_title" = "Τι Ντροπή";
+
+//Encounter 8
+"enc_c8e8_title" = "Γύρος Μπόνους";
+
+//Encounter 9
+"enc_c8e9_title" = "Διεκδικώντας το Θρόνο";
+
+//Encounter 10
+"enc_c8e10_title" = "Δύναμη Τυφλοπόντικα";
+
+/* End Chapter 8 */
+
+/* Chapter 9 */
+
+"ch_chapter9_name" = "Κεφάλαιο 9";
+"ch_chapter9_subtitle" = "Αήττητη";
+
+//Encounter 1 - The Trips
+"enc_c9e1_title" = "Τρεις ανταγωνιστές";
+
+//Encounter 2
+"enc_c9e2_title" = "Γύρος Μπόνους";
+
+//Encounter 3 - Sid the Kid
+"enc_c9e3_title" = "Ανάξιος";
+
+//Encounter 4 - King of Sling
+"enc_c9e4_title" = "Βασιλιάς ή Αφέντης";
+
+//Encounter 5 - Trixie
+"enc_c9e5_title" = "Τέτοιοι Φίλοι";
+
+//Encounter 6 - Fake Duelist
+"enc_c9e6_title" = "Μυστηριώδης  Άντρας";
+
+//Encounter 7 - Unbeatable Master
+"enc_c9e7_title" = "Η Δοκιμασία";
+
+//Encounter 8 - Young Dr. Blakk
+"enc_c9e8_title" = "Πριν Πολύ Καιρό";
+
+//Encounter 9 - Twist
+"enc_c9e9_title" = "Μπερδεμένος";
+
+//Encounter 10 - Dr. Blakk
+"enc_c9e10_title" = "Μετά την Αφέντρα";
+
+/* End Chapter 9 */
+
+/* Chapter 10 */
+
+"ch_chapter10_name" = "Κεφάλαιο 10";
+"ch_chapter10_subtitle" = "Αποθήκη";
+
+//Encounter 1 - Broken Auto-Cannon
+"enc_c10e1_title" = "Στοίβα Σκουπιδιών";
+
+//Encounter 2 - Doombot 1.0 & Doombot 2.0
+"enc_c10e2_title" = "Η επιστροφή";
+
+//Encounter 3 - Mecha-Mole
+"enc_c10e3_title" = "Ρομπο-Τέρας";
+
+//Encounter 4 - Tough Guy Gang Member #1 -
+"enc_c10e4_title" = "Συσπείρωση";
+
+//Encounter 5 - Tough Guy Gang Member #2 - Welder
+"enc_c10e5_title" = "Εχθρικά Εδάφη";
+
+//Encounter 6 - Tough Guy Gang Member #3 - Neckbrace
+"enc_c10e6_title" = "Πολύτιμο Σκουπίδι";
+
+//Encounter 7 - Tough Guy Gang Member #4 - Troll
+"enc_c10e7_title" = "Ο Πιο Σκληρός";
+
+//Encounter 8 - Boss Ember
+"enc_c10e8_title" = "Το Αφεντικό";
+
+//Encounter 9
+"enc_c10e9_title" = "Γύρος Μπόνους";
+
+//Encounter 10 - Angry Boss Ember
+"enc_c10e10_title" = "Το Μεγάλο Αφεντικό";
+
+/* End Chapter 10 */
+
+/* Chapter 11 */
+
+"ch_chapter11_name" = "Κεφάλαιο 11";
+"ch_chapter11_subtitle" = "Οι Ταραξίες της Σκουριασμένης Πόρπης";
+
+//Encounter 1 - Glasses
+"enc_c11e1_title" = "Φιστίκια!";
+
+//Encounter 2 - Shorty
+"enc_c11e2_title" = "Ψιλοκομμένος";
+
+//Encounter 3 - Billy
+"enc_c11e3_title" = "Η διατροφή του Μπίλι";
+
+//Encounter 4 - Jeen
+"enc_c11e4_title" = "Ασκήσεις επί πάγκου";
+
+//Encounter 5 - Trapsie
+"enc_c11e5_title" = "Παγιδευμένος";
+
+//Encounter 6 - Alias
+"enc_c11e6_title" = "Ο πιο ωραίος";
+
+//Encounter 7 - Welder Walter and Lil Stevie
+"enc_c11e7_title" = "Βιογραφικό κακοποιού";
+
+//Encounter 8 - Mongo
+"enc_c11e8_title" = "Εθελοντισμός";
+
+//Encounter 9 - Straggus
+"enc_c11e9_title" = "Λάμπες";
+
+//Encounter 10 - Billy, Alias and Straggus
+"enc_c11e10_title" = "Η δύναμη της φιλίας";
+
+/* End Chapter 11 */
+
+/* Chapter 12 */
+
+"ch_chapter12_name" = "Κεφάλαιο 12";
+"ch_chapter12_subtitle" = "Το Βαθύ Σκοτεινό";
+
+//Encounter 1 - Blakk Soldier & John Bull
+"enc_c12e1_title" = "Στριμωγμένος";
+
+//Encounter 2 - Nacho
+"enc_c12e2_title" = "Υψοφοβικός";
+
+//Encounter 3 - Darkbane Soldier 1
+"enc_c12e3_title" = "Πύρινες βολίδες";
+
+//Encounter 4 - Darkbane Soldier 2
+"enc_c12e4_title" = "Wraaaooorrrr!";
+
+//Encounter 5 - Darkbane Soldier 3
+"enc_c12e5_title" = "Περισσότερες πύρινες βολίδες!";
+
+//Encounter 6 - Shadow Clan Protector
+"enc_c12e6_title" = "Φύλακες";
+
+//Encounter 7 - Prison Door
+"enc_c12e7_title" = "Σκληρές επιλογές";
+
+//Encounter 8 - Prison Guards
+"enc_c12e8_title" = "Συναγερμός";
+
+//Encounter 9 - Prison Warden
+"enc_c12e9_title" = "Ποίηση Φυλακής";
+
+//Encounter 10 - Darkbane Nacho
+"enc_c12e10_title" = "Δεξί Χέρι";
+
+/* End Chapter 12 */
+
+
+/* Chapter 13 */
+
+"ch_chapter13_name" = "Κεφάλαιο 13";
+"ch_chapter13_subtitle" = "Φωτιά και Θειάφι";
+
+//Encounter 1 - Darkbane 1
+"enc_c13e1_title" = "Στο Σκοτάδι";
+
+//Encounter 2 - Darkbane 2
+"enc_c13e2_title" = "Δοκιμή με βολίδες";
+
+//Encounter 3 - Darkbane 3
+"enc_c13e3_title" = "Μεταλλικό γάντι";
+
+//Encounter 4 - Prison Warden
+"enc_c13e4_title" = "Το Χειρότερο Ποίημα";
+
+//Encounter 5 - Bonus Round - Brimstone's Throne
+"enc_c13e5_title" = "Γύρος Μπόνους";
+
+//Encounter 6 - Darkbane Elite 1 & 2
+"enc_c13e6_title" = "Ελίτ";
+
+//Encounter 7 - Darkbane Nacho
+"enc_c13e7_title" = "Μαύρη Μαγεία";
+
+//Encounter 8 - Angry Nacho
+"enc_c13e8_title" = "Μυστικά";
+
+//Encounter 9 - Behemoth
+"enc_c13e9_title" = "Ισχυρογνώμων";
+
+//Encounter 10 - Brimstone
+"enc_c13e10_title" = "Πεπρωμένο";
+
+/* End Chapter 13 */
+
+
+/* Chapter 14 */
+
+"ch_chapter14_name" = "Κεφάλαιο 14";
+"ch_chapter14_subtitle" = "Συνάντηση στα Όνειρα";
+
+//Encounter 1 - Pronto, Kord and Trixie
+"enc_c14e1_title" = "Ξεκούραση";
+
+//Encounter 2 - Dr.Blakk
+"enc_c14e2_title" = "Αμνησία";
+
+//Encounter 3 - Spirex
+"enc_c14e3_title" = "Ιστοί";
+
+//Encounter 4 - Eli
+"enc_c14e4_title" = "Πρόσωπο με Πρόσωπο";
+
+//Encounter 5 - Young Blakk
+"enc_c14e5_title" = "Χτύπημα από το Παρελθόν";
+
+//Encounter 6 - Behemoth
+"enc_c14e6_title" = "Ο Μεγάλος";
+
+//Encounter 7 - Angry Blakk
+"enc_c14e7_title" = "Ψυχραιμία";
+
+//Encounter 8 - Unbeatable Master
+"enc_c14e8_title" = "Αληθινή Σοφία";
+
+//Encounter 9 - Gat Blakk
+"enc_c14e9_title" = "Επίθεση";
+
+//Encounter 10 - Will Shane
+"enc_c14e10_title" = "Επανένωση";
+
+/* End Chapter 14 */
+
+/* Chapter 15 */
+
+"ch_chapter15_name" = "Κεφάλαιο 15";
+"ch_chapter15_subtitle" = "Πίσω στον Μπλακ";
+
+//Encounter 1 - Dr.Blakk
+"enc_c15e1_title" = "Πολύ παλιά";
+
+//Encounter 2 -
+"enc_c15e2_title" = "Δύσκολες Εποχές";
+
+//Encounter 3 -
+"enc_c15e3_title" = "Εργασία";
+
+//Encounter 4 -
+"enc_c15e4_title" = "Εκβιασμός";
+
+//Encounter 5 - Will Shane
+"enc_c15e5_title" = "Το Λάθος Στρατόπεδο";
+
+//Encounter 6 -
+"enc_c15e6_title" = "Κατάκτηση Εξουσίας";
+
+//Encounter 7 - Will Shane
+"enc_c15e7_title" = "Πρόοδος";
+
+//Encounter 8 - Behemoth
+"enc_c15e8_title" = "Σκοτεινή Γνώση";
+
+//Encounter 9 - Bonus
+"enc_c15e9_title" = "Γύρος Μπόνους";
+
+//Encounter 10 - Will Shane
+"enc_c15e10_title" = "Πεπρωμένο";
+
+//Encounter 11 - Dr.Blakk
+"enc_c15e11_title" = "Ένα κομμάτι του παζλ";
+
+/* End Chapter 15 */
+
+/* Chapter 16 */
+
+"ch_chapter16_name" = "Κεφάλαιο 16";
+"ch_chapter16_subtitle" = "Το Πέρασμα της Σκιάς";
+
+//Encounter 1 - Blakk Guard
+"enc_c16e1_title" = "Δύναμη Άλφα";
+
+//Encounter 2 - Doombot
+"enc_c16e2_title" = "Battle Bot";
+
+//Encounter 3 - Elite Blakk Guard
+"enc_c16e3_title" = "Δύναμη Δέλτα";
+
+//Encounter 4 - Locke and Lode
+"enc_c16e4_title" = "Εκτροπές";
+
+//Encounter 5 - Darkbane Hartag and Darkbane Drek
+"enc_c16e5_title" = "Οι φίλοι του εχθρού μου";
+
+//Encounter 6 - Darkbane Prison Warden
+"enc_c16e6_title" = "Φωτεινή Φωτιά";
+
+//Encounter 7 - Nacho
+"enc_c16e7_title" = "Συμμαχίες";
+
+//Encounter 8 - Bonus
+"enc_c16e8_title" = "Γύρος Μπόνους";
+
+//Encounter 9 - Titan
+"enc_c16e9_title" = "Ανοιχτήρι";
+
+//Encounter 10 - Nacho
+"enc_c16e10_title" = "Προετοίμασε τον δρόμο";
+
+/* End Chapter 16 */
+
+/* Chapter 17 */
+
+"ch_chapter17_name" = "Κεφάλαιο 17";
+"ch_chapter17_subtitle" = "Σκοτεινός σαν τη νύχτα";
+
+//Encounter 1 - Red Hook
+"enc_c17e1_title" = "Δύναμη της φωτιάς";
+
+//Encounter 2 - Elite Blakk Guard
+"enc_c17e2_title" = "Νέες συμμαχίες";
+
+//Encounter 3 - Nacho
+"enc_c17e3_title" = "Πράκτορας του Σκότους";
+
+//Encounter 4 - Technician
+"enc_c17e4_title" = "Σκοτεινή Επιστήμη";
+
+//Encounter 5 - Bonus
+"enc_c17e5_title" = "Μαζική διαφθορά";
+
+//Encounter 6 - Elite Blakk Guard
+"enc_c17e6_title" = "Η καρδιά του οχυρού";
+
+//Encounter 7 - Dr. Blakk
+"enc_c17e7_title" = "Παλιοί φίλοι";
+
+//Encounter 8 - Darkbane
+"enc_c17e8_title" = "Η πύλη ανοίγει 1";
+
+//Encounter 8 - Darkbane
+"enc_c17e9_title" = "Η πύλη ανοίγει 2";
+
+//Encounter 9 - Dr. Blakk
+"enc_c17e10_title" = "Σκοτεινός σαν τη νύχτα";
+
+//Encounter 10 - Bonus
+"enc_c17e11_title" = "Φωτεινός σαν τη μέρα";
+
+/* End Chapter 17 */

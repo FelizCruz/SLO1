@@ -1,0 +1,2468 @@
+/*
+ Localizable.strings
+ Slugterra: Slug it Out!
+ 
+ Created by Jeremy Peterson on 13-01-31.
+ 
+ Main localized strings table for the game.
+ 
+ */
+
+
+/* Common UI */
+
+"dialog_button_ok" = "ОК"; // Confirmation button text.
+"dialog_button_yes" = "Да"; // Confirmation button text.
+"dialog_button_no" = "Нет"; // Confirmation button text.
+//"button_ok" = "OK"; // Confirmation button text.
+"button_cancel" = "Отмена"; // Confirmation button text.
+//"button_accept" = "Accept"; // Confirmation button text.
+//"button_exit" = "Exit"; // Confirmation button text.
+//"button_nav_next" = "Next"; // Confirmation button text.
+//"button_nav_back" = "Back"; // Confirmation button text.
+//"button_go_now" = "Go Now!"; // Confirmation button text.
+/* End Common UI */
+
+
+
+/* Top HUD */
+
+"tophud_button_get_more_coins" = "КУПИТЬ МОНЕТЫ";
+
+/* End Top HUD */
+
+/* Chapter 1 */
+
+//Encounter 1
+"enc_c1e1o1_dialog_1a" = "Круто! Пещерный тролль. Всегда мечтал встретиться с таким.";
+"enc_c1e1o1_dialog_2a" = "Я — Корд Зейн. А ты не местный, да?";
+"enc_c1e1o1_dialog_2b" = "Мне следовало бы научить тебя защищаться. Смотри на сетку плиток внизу.";
+"enc_c1e1o1_dialog_3a" = "Перемещай плитки, касаясь их и перетаскивая на смежные плитки.";
+"enc_c1e1o1_dialog_4a" = "Молодец! Ну все, хватит.";
+"enc_c1e1o1_dialog_5a" = "Теперь, Элай, я покажу тебе, как подбирать плитки.";
+"enc_c1e1o1_dialog_6a" = "Посмотрим, сможешь ли ты подобрать три одинаковых плитки бластера.";
+"enc_c1e1o1_dialog_7a" = "Ты что, никогда бластер в руках не держал?! Да ты ни за что бы в меня не попал.";
+"enc_c1e1o1_dialog_7b" = "Могу поспорить, ты снова промажешь.";
+"enc_c1e1o1_dialog_8a" = "Перемести плитки бластера, чтобы подобрать их.";
+"enc_c1e1o1_dialog_9a" = "Ой! Ну ладно, ты неплохой стрелок... но бластер есть не только у тебя. Сразимся на поединке!";
+"enc_c1e1o1_dialog_10a" = "Ай! Ой! Ой! За что ты меня так? А, точно, я сам напросился...";
+
+//Encounter 2
+"enc_c1e2o1_dialog_1a" = "Молодчина! Следующий шаг: исцеление.";
+"enc_c1e2o1_dialog_2a" = "Подбери три зеленые плитки, чтобы восстановить здоровье.";
+"enc_c1e2o1_dialog_3a" = "Уже получше? Хорошо.";
+"enc_c1e2o1_dialog_4a" = "Извини, мой бластер слишком чувствителен. Поправь-ка здоровье еще раз.";
+"enc_c1e2o1_dialog_5a" = "Подбери эти четыре плитки здоровья.";
+"enc_c1e2o1_dialog_6a" = "Чем больше плиток ты подберешь за один ход, тем лучше.";
+"enc_c1e2o1_dialog_6b" = "Теперь посмотрим, как долго ты продержишься на поединке.";
+"enc_c1e2o1_dialog_7a" = "Черт. Победа была так близко.";
+"enc_c1e2o1_dialog_8a" = "Вообще-то ты собирался учить меня.";
+"enc_c1e2o1_dialog_9a" = "Да, точно. А... это была проверка. И ты ее прошел!";
+
+//Encounter 3
+"enc_c1e3o1_dialog_1a" = "Парень! Что тут у тебя? Инфернус?";
+"enc_c1e3o1_dialog_2a" = "Его зовут Берпи. Он — чудо.";
+"enc_c1e3o1_dialog_3a" = "Слаги Инфернус превращаются в мощных огненных созданий.";
+"enc_c1e3o1_dialog_4a" = "Берпи говорит, что он не прочь потренироваться в превращении.";
+"enc_c1e3o1_dialog_5a" = "Подбери несколько плиток с огнем, чтобы придать Берпи силы для атаки.";
+"enc_c1e3o1_dialog_6a" = "Продолжай! Ему нужно больше энергии.";
+"enc_c1e3o1_dialog_7a" = "Подбери пять плиток за один раз, чтобы зарядить Берпи на один уровень.";
+"enc_c1e3o1_dialog_8a" = "Теперь Берпи полон энергии. Коснись слага, чтобы раскрыть его новую силу!";
+"enc_c1e3o1_dialog_9a" = "Ой-ой-ой. Похоже, ты уже освоился. Поединок!";
+"enc_c1e3o1_dialog_10a" = "Ох! В следующий раз постарайся не поджечь мои штаны.";
+"enc_c1e3o1_dialog_10b" = "Я думаю, ты готов к своему первому настоящему поединку. ПРОНТО!!!";
+
+/* End Chapter 1 */
+
+/* Slug Seeker Cavern */
+
+"name_cavern_seeker_catch_name" = "Отправься за уловом в пещеры Охотников за слагами!";
+
+"name_cavern_seeker_watch_video_name" = "Просмотри видео, чтобы разблокировать эту пещеру прямо сейчас!";
+
+"name_cavern_seeker_chest_reward_name" = "Нажми сундук, чтобы получить свою награду!";
+
+"name_cavern_seeker_lose_booster_name" = "Нужна помощь? Попробуй еще раз с бонусом!";
+
+"name_cavern_seeker_lose_name" = "Не сдавайся! Победи, чтобы получить заслуженные награды!";
+
+"name_cavern_seeker_win_coins_name" = "Поздравляем с победой! Твои призовые монеты: 12 <Coin Variable> !";
+
+"name_cavern_seeker_win_slugs_name" = "Поздравляем с новым слагом!";
+
+"name_cavern_seeker_win_characters_name" = "Поздравляем с новым персонажем!";
+
+"name_cavern_seeker_win_boosters_name" = "Поздравляем с новым бонусом!";
+
+"name_cavern_seeker_unlocked_name" = "Пещера Охотников за слагами открыта! Исследуй ее и находи БЕСПЛАТНЫХ редких слагов!";
+
+"main_menu_play_adventure_mode" = "приключений";
+
+"name_cavern_slug_seeker_name" = "Охотник за слагами";
+
+"name_cavern_seeker_encounter_name" = "Поединок:";
+
+"name_cavern_seeker_play_name" = "Играть!";
+
+/* End Slug Seeker Cavern */
+
+/* Tutorial Popups */
+"tutorial_popup_starting_msg2" = "Коснись кнопки \"Купить\", чтобы получить нового слага!";
+"tutorial_popup_starting_msg3" = "Перетащи слага в контейнер, чтобы зарядить его. Теперь все готово для поединка!";
+"tutorial_popup_starting_msg4" = "Слаг %@ открыт. Получи его!"; // %@ will be replaced with the name of a slug.
+"tutorial_popup_starting_msg_coin" = "Бонус";
+
+
+/* End Tutorial Popups */
+
+/* Challenge Mode */
+
+/* Gridlock */
+
+//Encounter 1 - Tutorial
+"name_gridlock_challenge" = "Под замком";
+"enc_gridlock_e1_dialog_1a" = "Что здесь происходит?";
+"enc_gridlock_e1_dialog_2a" = "Это особое соревнование. Твои противники очень сильны, но их здоровье постепенно слабеет. Тебе нужно лишь достаточно продержаться!";
+"enc_gridlock_e1_dialog_3a" = "Некоторые плитки на доске заблокированы, будь начеку!";
+"enc_gridlock_e1_dialog_4a" = "Начнем!";
+"enc_gridlock_e1_dialog_1b" = "Превосходно! Но не расслабляйся, следующие дуэли будут сложнее!";
+"enc_gridlock_e1_dialog_2b" = "Ты получишь грандиозную награду, если победишь во всех дуэлях. Ты сможешь!";
+
+/* Bombastic */
+
+//Encounter 1 - Tutorial
+"name_bombs_challenge" = "Бомбежка";
+"enc_bombastic_e1_dialog_1a" = "Что здесь происходит?";
+"enc_bombastic_e1_dialog_2a" = "Это особое соревнование. Твой бластер переведен в спецрежим и слаги выстреливаются автоматически. Чем больше плиток ты подберешь, тем сильнее будет выстрел!";
+"enc_bombastic_e1_dialog_3a" = "Твои противники очень сильны, но их здоровье постепенно слабеет. Тебе нужно лишь достаточно продержаться. И учти еще кое-что: БОМБЫ!";
+"enc_bombastic_e1_dialog_4a" = "Начнем!";
+"enc_bombastic_e1_dialog_1b" = "Превосходно! Но не расслабляйся, следующие дуэли будут сложнее!";
+"enc_bombastic_e1_dialog_2b" = "Ты получишь грандиозную награду, если победишь во всех дуэлях. Ты сможешь!";
+
+
+/* Draino */
+
+//Encounter 1 - Tutorial
+"name_draino_challenge" = "Утечка энергии";
+"enc_draino_e1_dialog_1a" = "Что здесь происходит?";
+"enc_draino_e1_dialog_2a" = "Это особое соревнование. Твои слаги постепенно лишаются энергии. Молниеносно подбирай плитки, чтобы поддерживать слагов заряженными!";
+"enc_draino_e1_dialog_3a" = "Начнем!";
+"enc_draino_e1_dialog_1b" = "Превосходно! Но не расслабляйся, следующие дуэли будут сложнее!";
+"enc_draino_e1_dialog_2b" = "Ты получишь грандиозную награду, если победишь во всех дуэлях. Ты сможешь!";
+
+
+/* Stunlock */
+
+//Encounter 1 - Tutorial
+"name_stunlock_challenge" = "В оцепенении";
+"enc_stunlock_e1_dialog_1a" = "Что здесь происходит?";
+"enc_stunlock_e1_dialog_2a" = "Это особое соревнование. Твои противники очень сильны, но их здоровье постепенно слабеет. Тебе нужно лишь достаточно продержаться!";
+"enc_stunlock_e1_dialog_3a" = "Начнем!";
+"enc_stunlock_e1_dialog_1b" = "Превосходно! Но не расслабляйся, следующие дуэли будут сложнее!";
+"enc_stunlock_e1_dialog_2b" = "Ты получишь грандиозную награду, если победишь во всех дуэлях. Ты сможешь!";
+
+/* Sudden Death */
+
+//Encounter 1 - Tutorial
+"name_sudden_death_challenge" = "Внезапная смерть";
+"enc_sudden_e1_dialog_1a" = "Что здесь происходит?";
+"enc_sudden_e1_dialog_2a" = "Это особое соревнование. Слушай внимательно: не дай в себя попасть! Одно попадание — и дуэль проиграна. Так что будь начеку и не дай никому ускользнуть!";
+
+"enc_sudden_e1_dialog_2a2" = "Это особое соревнование. Будь осторожен! Ты очень слаб, так что избегай ранений и поправляй здоровье при каждой возможности.";
+"enc_sudden_e1_dialog_3a" = "Твой бластер переведен в спецрежим и слаги выстреливаются автоматически. Чем больше плиток ты подберешь, тем сильнее будет выстрел!";
+"enc_sudden_e1_dialog_4a" = "Начнем!";
+"enc_sudden_e1_dialog_1b" = "Превосходно! Но не расслабляйся, следующие дуэли будут сложнее!";
+"enc_sudden_e1_dialog_2b" = "Ты получишь грандиозную награду, если победишь во всех дуэлях. Ты сможешь!";
+
+
+/* Mixed Bag */
+
+//Encounter 1 - Tutorial
+"name_mixed_bag_challenge" = "Смешанная картина";
+"name_initiation_challenge" = "Посвящение";
+"enc_mix_e1_dialog_1a" = "Что здесь происходит?";
+"enc_mix_e1_dialog_2a" = "У этих дуэлей нет особых правил. Они просто НЕРЕАЛЬНО трудные! Ну что, готов?";
+"enc_mix_e1_dialog_3a" = "Начнем!";
+"enc_mix_e1_dialog_1b" = "Превосходно! Но не расслабляйся, следующие дуэли будут сложнее!";
+"enc_mix_e1_dialog_2b" = "Ты получишь грандиозную награду, если победишь во всех дуэлях. Ты сможешь!";
+
+/* Challenge Mode end */
+
+/* Equipment Scenes */
+
+// common
+"equip_active" = "Активный";
+"equip_dialog_insufficient_coins_title" = "Не хватает на \"%@\"!"; // Error message for purchase of virtual item. %@ will be replaced with the item name.
+"equip_dialog_insufficient_coins_msg" = "Недостаточно монет для этой покупки: \"%@\".\nПолучить монеты?"; // Error message for purchase of virtual item. %@ will be replaced with the item name.
+"equip_dialog_purchase_confirm_title" = "Купить \"%@\"?"; // Confirmation text for purchase of virtual item. %@ will be replaced with the item name.
+"equip_dialog_purchase_confirm_msg" = "%@ стоит столько монет: %i. Купить?"; // Confirmation text for purchase of virtual item. %@ will be replaced with the item name.
+
+// boosters page title
+"equip_boosters_title" = "Бонусы"; // Бонусы are game upgrades, like power-ups.
+
+// slugs page title
+"equip_slugs_title" = "Слаги"; // Use glossary.
+"equip_slugs_dialog_condition" = "Открывается в режиме \"История\""; // Telling the user that a slug is earned through playing story mode.
+"equip_slugs_slug_seeker_condition" = "Открывается в режиме \"Охотник за слагами\""; // Telling the user that a slug is earned through playing slug seeker mode.
+"equip_slugs_sale" = "Распродажа"; // Over top of slug when its on a sale
+
+// avatars page title
+"equip_avatars_title" = "Персонажи"; // Used to denote character skins for players to select.
+"equip_avatars_unlock" = "Победи столько врагов в бесконечном режиме: %i";
+
+// basic shots page title
+"equip_basic_shots_title" = "Спец. выстрелы";
+
+// game mods page title
+"equip_gamemods_title" = "Модули"; // Game mods modify certain game conditions for both players in a multiplayer match.
+
+/* End Equipment Scenes */
+
+
+
+/* In-App Purchases */
+"iap_coin_small_name" = "5000 монет";
+"iap_coin_small_description" = " "; // Do not translate this string, leave as a single space.
+
+"iap_coin_large_name" = "10 000 монет";
+"iap_coin_large_description" = "Бонус 25%";
+
+"iap_coin_huge_name" = "25 000 монет";
+"iap_coin_huge_description" = "Бонус 50%";
+
+"iap_coin_massive_name" = "100 000 монет";
+"iap_coin_massive_description" = "Бонус 75%";
+
+//"iap_slug_midas_name" = "Midas";
+//"iap_slug_midas_description" = "More Coins in Battle";
+
+/* End In-App Purchases */
+
+
+
+/* Chapter Select Scene */
+
+// scene title
+"chapter_select_title" = "Выбор главы";
+
+// dialog: player requires 4 slugs to enter a treasure encounter
+"chapter_select_dialog_treasure_slugs_required_title" = "Необходимо четыре слага";
+"chapter_select_dialog_treasure_slugs_required_msg" = "Чтобы сразиться за сокровища, нужно зарядить 4-х слагов";
+
+/* End Chapter Select Scene */
+
+
+
+/* Cut Scene */
+
+"cutscene_button_skip" = "Пропустить"; // Button text for skipping cut scenes.
+//"cutscene_button_ok" = " OK"; // Button text for skipping cut scenes.
+
+/* End Cut Scene */
+
+
+/* Challenge Select Scene */
+"challenge_mode_select" = "Выбери соревнование";
+"challenge_number" = "Соревнование %i";
+"challenge_expiration" = "Закончилось";
+"challenge_exit_expired" = "Это соревнование вот-вот закончится! Точно выйти?";
+"challenge_quit_encounter" = "Штрафная дуэль? Тебе придется раскошелиться, чтобы повторить попытку!";
+"challenge_win_overlay" = "Открыт новый сундук! Победи во всех дуэлях, чтобы получить заслуженные награды.";
+"challenge_reward_screen" = "Победа! Получи заслуженные награды!";
+"challenge_slug_lock" = "Слаги заблокированы";
+"challenge_lose_screen" = "Не сдавайся! Победи во всех дуэлях, чтобы получить заслуженные награды.";
+/* End Challenge Select Scene */
+
+
+
+/* In-App Purchase Scene */
+
+// store scene title
+"store_title" = "Магазин монет";
+
+// currently for 'sale' badge in coin shop
+"store_sale" = "Акция";
+
+// restore button
+//"store_restore_label" = "Restore";
+
+// dialog: store access restricted by device settings
+"store_dialog_access_restricted_title" = "Покупки из приложения отключены";
+"store_dialog_access_restricted_msg" = "Покупки из приложения отключены в настройках устройства.";
+
+// dialog: network has been locally disabled in device settings
+"store_dialog_no_network_title" = "Нет доступа к сети";
+"store_dialog_no_network_msg" = "Подключись к Интернету и повтори попытку.";
+
+// dialog: could not establish connection to the Apple Servers
+"store_dialog_connection_failed_title" = "Ошибка подключения к магазину";
+"store_dialog_connection_failed_msg" = "Не удалось подключиться к магазину. Проверь настройки подключения и повтори попытку позже.";
+
+// dialog: retrieval of In-App Purchase product info failed
+"store_dialog_update_failed_title" = "Ошибка извлечения данных о продукте";
+"store_dialog_update_failed_msg" = "Не удалось получить информацию о продукте с сервера. Повторить попытку?";
+
+// dialog: this iTunes account is not authorized for payment
+"store_dialog_payment_not_authorized_title" = "Платеж не авторизован";
+"store_dialog_payment_not_authorized_msg" = "Твой аккаунт App Store не авторизован для платежей.";
+
+// dialog: transaction was successfully completed
+"store_dialog_transaction_success_title" = "Готово!";
+"store_dialog_transaction_success_msg" = "Покупка \"%@\" завершена!";
+
+// dialog: there was an error during the payment transaction
+"store_dialog_transaction_failed_title" = "Ошибка транзакции";
+"store_dialog_transaction_failed_msg" = "Не удалось выполнить транзакцию: %@";
+
+/* end In-App Purchase Scene */
+
+
+
+/* Code Redeem Scene */
+
+// scene title
+"coderedeem_title" = "ВВЕСТИ КОД";
+
+"coderedeem_statement" = "Найди промокоды в официальных игрушках Слагтерры, введи их здесь — и открой классный игровой контент!";
+
+// code enter box labels
+"coderedeem_codebox_title" = "Используй промо-код"; // "Promo" is short for "promotional". These promotional codes are 6-letter codes packaged with toys.
+"coderedeem_codebox_instructions" = "Введи промо-код, чтобы открыть крутое игровое содержимое!"; // "Promo" is short for "promotional". These promotional codes are 6-letter codes packaged with toys.
+//"coderedeem_codebox_button_ok" = "OK!";
+"coderedeem_codebox_textfield_placeholder" = "Введи код";
+
+// prize display box
+"coderedeem_prizebox_congrats" = "Поздравляем!";
+"coderedeem_prizebox_you_just_revealed" = "Уже открыто";
+
+// Unlocking characters in Use Code screen.
+"coderedeem_character" = "%1$d %2$@"; // Do not translate.
+"coderedeem_character_singular" = "Персонаж";
+"coderedeem_character_plural" = "Персонажи";
+"coderedeem_character_description" = "Играй разными персонажами!";
+"coderedeem_none_title" = "У тебя уже все есть!";
+"coderedeem_none_message" = "Подари свой код другу, который играет в эту игру.";
+
+// Error messages for Use Code screen.
+"coderedeem_fail_network_title" = "Ошибка сети";
+"coderedeem_fail_network_message" = "Ошибка подключения к сети. Проверь подключение к Интернету и повтори попытку.";
+"coderedeem_fail_used_title" = "Код уже использован";
+"coderedeem_fail_used_message" = "Этот код уже использован. Его нельзя использовать повторно. Если нужна помощь по этому вопросу, напиши нам на interactive.support@dhxmedia.com.";
+"coderedeem_fail_server_title" = "Ошибка сервера";
+"coderedeem_fail_server_message" = "Удаленному серверу не удалось завершить запрос. Проверь подключение к Интернету и повтори попытку.";
+"coderedeem_fail_invalid_title" = "Недействительный код";
+"coderedeem_fail_invalid_message" = "Этот код недействителен. Если ты считаешь, что это ошибка, свяжись с нами: interactive.support@dhxmedia.com";
+
+/* End Code Redeem Scene */
+
+
+
+/* Versus Scene */
+
+"versus_loading" = "Загрузка...";
+"versus_fight" = "Битва!";
+"versus_multiplayer_waiting" = "Ожидается...";
+"versus_slugs_replaced_chapter6" = "Похищение!";
+"versus_slugs_has_been_replaced_chapter6" = "Мистер Сэтудей похитил Берпи! Верни его!";
+/* End Versus Scene */
+
+/* Ghoul Scene */
+
+"ghoul_equip_unleash_text" = "Вооружись сгалами-гулами и раскрой их неудержимую силу!";
+"ghoul_slugs_text" = "Слаги-гулы";
+"ghoul_get_now_text" = "Скачай прямо сейчас!";
+"ghoul_slugs_only_text" = "Только гулы";
+"ghoul_slug_only_extended_text" = "Только слаги-гулы!";
+"ghoul_slug_replace_extended_text" = "Слаги заменены!";
+"ghoul_slug_replace_text" = "Слаги заменены!";
+
+/* End Ghoul Scene */
+
+
+
+/* Score Scene */
+
+"score_time_label" = "ВРЕМЯ %i:%02i";
+//"score_button_retry" = "Retry";
+
+/* End Score Scene */
+
+
+
+/* Slug Unlock Sequence */
+
+"slug_unlock_level" = "Уровень %i";
+
+/* End Slug Unlock Sequence */
+
+
+
+/* Main Menu */
+
+"main_menu_play_story_mode" = "История";
+"main_menu_play_adventure_mode" = "Приключения";
+"main_menu_play_challenge_mode" = "Соревнование";
+"main_menu_play_multiplayer" = "Мультиплеер";
+
+"main_menu_challenge_mode_locked_title" = "Режим \"Соревнование\" разблокирован!";
+"main_menu_challenge_mode_locked_msg" = "Для игры в режиме \"Соревнование\" нужно не менее 4-х слагов.";
+
+"main_menu_multiplayer_mode_locked_title" = "Режим \"Мультиплеер\" разблокирован!";
+"main_menu_multiplayer_mode_locked_msg" = "Для игры в режиме \"Мультиплеер\" нужно не менее 4-х слагов.";
+
+"main_menu_adventure_mode_locked_title" = "Режим \"Приключения\" заблокирован!";
+"main_menu_adventure_mode_locked_msg" = "Для игры в режиме \"Приключения\" нужно не менее 4-х слагов.";
+
+"main_menu_button_play" = "Играть!";
+"main_menu_button_use_code" = "Ввести код";
+
+/* End Main Menu */
+
+
+
+/* Pause Menu */
+
+//"pause_menu_button_quit" = "Quit";
+//"pause_menu_button_restart" = "Restart";
+//"pause_menu_button_resume" = "Resume";
+
+"pause_menu_dialog_confirm_quit_title" = "Выйти";
+"pause_menu_dialog_confirm_quit_msg" = "Действительно выйти?";
+
+"pause_menu_dialog_confirm_restart_title" = "Заново";
+"pause_menu_dialog_confirm_restart_msg" = "Действительно начать заново?";
+
+/* End Pause Menu */
+
+
+
+/* Defeat Scene */
+
+//"defeat_button_retry" = "Retry";
+//"defeat_button_booster" = "Go Now!";
+//"defeat_label_need_boost" = "Need A Boost?";
+
+/* Defeat and Victory Scene THIS NEEDS TO BE IMPLEMENTED IN OTHER LOCALIZATION */
+"defeat_label_booster_msg" = "Примени бонус и пробей себе путь на новый уровень!";
+"defeat_label_skin_msg" = "Играй любимым персонажем!";
+"win_lose_buy_btn_msg" = "Получить!";
+"win_lose_upgrade_btn_msg" = "Обновить сейчас!";
+
+/* End Defeat Scene */
+
+
+
+/* Story End Scene */
+"story_end_button_play_multiplayer" = "Играть в мультиплеер";
+"story_end_title" = "Поединки с друзьями";
+"story_end_msg_1" = "Это еще не конец!";
+"story_end_msg_2" = "Сражайся на поединках в режиме мультиплеера!";
+
+/* End Story End Scene */
+
+
+
+
+/* Options Scene */
+
+"options_title" = "ПАРАМЕТРЫ";
+
+//"options_button_reset_data" = "Reset Story";
+"options_button_credits" = "Авторы";
+
+"options_dialog_reset_data_title" = "Продолжить?";
+"options_dialog_reset_data_msg" = "Все достижения в режиме \"История\" будут удалены! Монеты и покупки останутся без изменений. Продолжить?";
+
+/* End Options Scene */
+
+
+
+/* News Scene */
+
+"news_title" = "Новости";
+
+/* End News Scene */
+
+
+
+/* Endless (Custom Loadout) Scene */
+
+"endless_congrats" = "Поздравляем!";
+"endless_local_highscore" = "Локальный рекорд!";
+
+"endless_leaderboard_tab_gamecenter" = "Game Center";
+"endless_leaderboard_tab_local" = "Локально";
+
+"endless_dialog_leaderboard_title" = "Введи имя!";
+"endless_dialog_leaderboard_msg" = "Введи свое имя для локальной таблицы лидеров.";
+
+"endless_local_highscore_textfield_placeholder" = "Введи имя";
+
+//"endless_button_quit" = "Quit";
+//"endless_button_replay" = "Replay";
+
+"endless_title" = "Соревнование";
+
+"endless_mode" = "Бесконечно";
+
+"endless_local_leaderboard_title" = "Рекорды";
+
+"endless_label_results" = "Счет: %d  Монеты: %d";
+
+/* End Endless (Custom Loadout) Scene */
+
+
+/* Challenge Mode */
+
+"encounter_win" = "Сундук открыт! Пройди все дуэли, чтобы получить заслуженную награду!";
+
+"replay_encounter" = "Повторить дуэль? Это обойдется в столько монет: Х.";
+
+"quit_encounter" = "Продолжить? Тебе придется раскошелиться, чтобы повторить эту дуэль позже.";
+
+"completed_challenges" = "Поздравляем! Тебе удалось пройти все соревнования. Возвращайся позже, чтобы поучаствовать в новых!";
+
+/* End Challenge Mode */
+
+/* Treasure Select Scene */
+
+//"treasure_select_title" = "Treasure Vault";
+
+/* End Treasure Select Scene */
+
+
+
+/* Busy Layer */
+
+"busy_layer_please_wait" = "Пожалуйста, подожди...";
+
+/* End Busy Layer */
+
+
+
+/* Game Center */
+
+"game_center_dialog_title" = "Вход в Game Center не выполнен";
+"game_center_dialog_message" = "Войди в Game Center, чтобы получить доступ к достижениям, таблицам лидеров и режиму мультиплеера.";
+"google_play_dialog_title" = "Вход в Google Play не выполнен";
+"google_play_dialog_message" = "Войди в Google Play, чтобы получить доступ к достижениям, таблицам лидеров и режиму мультиплеера.";
+"game_center_dialog_no" = "Позже";
+"game_center_dialog_yes" = "Да!";
+
+/* End Game Center */
+
+
+
+/* Multiplayer Screens */
+
+"multiplayer_header_title" = "Мультиплеер";
+
+"multiplayer_end_screen_you_won" = "ПОБЕДА!";
+"multiplayer_end_screen_you_lost" = "ПОРАЖЕНИЕ";
+"multiplayer_end_screen_label_coins" = "Монеты: +%i";
+"multiplayer_end_screen_label_points" = "Очки: +%i";
+"multiplayer_end_screen_label_rank" = "Рейтинг:";
+"multiplayer_end_screen_ok" = "ОК";
+"multiplayer_end_screen_label_rank_formatted" = "Рейтинг: %d";
+
+"multiplayer_lobby_label_welcome" = "Добро пожаловать, %@!"; // %@ will be replaced with the player's Game Center name.
+"multiplayer_lobby_label_wins" = "ПОБЕДЫ";
+//"multiplayer_lobby_button_back" = "Back";
+//"multiplayer_lobby_button_play" = "Play";
+//"multiplayer_lobby_button_leave" = "Leave";
+//"multiplayer_lobby_leave_title" = "";
+"multiplayer_lobby_leave_message" = "Действительно выйти?";
+//"multiplayer_lobby_button_ready" = "Ready";
+"multiplayer_lobby_button_not_ready" = "Отмена";
+"multiplayer_lobby_message_waiting" = "Ожидание соперника...";
+"multiplayer_lobby_message_loading" = "Загрузка игры...";
+"multiplayer_lobby_message_synchronizing" = "Синхронизация...";
+
+"multiplayer_game_message_syncing" = "Синхронизация статуса игры...";
+//"multiplayer_game_label_leave" = "Leave";
+
+"multiplayer_tabpane_games_played" = "Всего игр: %i";
+"multiplayer_tabpane_games_won" = "Выиграно: %i";
+"multiplayer_tabpane_longest_streak" = "Самая длит. серия: %i";
+"multiplayer_tabpane_current_streak" = "Текущая серия: %i";
+"multiplayer_tabpane_header_game_center" = "Game Center";
+"multiplayer_tabpane_header_google_play" = "Google Play";
+"multiplayer_tabpane_header_stats" = "Статистика";
+"multiplayer_tabpane_no_data" = "Нет данных";
+
+"multiplayer_remote_state_connecting" = "Подключается...";
+"multiplayer_remote_state_disconnected" = "Отключен";
+"multiplayer_remote_state_getting_ready" = "Готовится";
+"multiplayer_remote_state_ready" = "Вперед";
+"multiplayer_remote_state_loading_game" = "Загрузка игры...";
+"multiplayer_remote_state_loaded_waiting" = "Загружен и ожидает";
+"multiplayer_remote_state_choosing_slugs" = "Выбирает слагов";
+"multiplayer_remote_state_choosing_game_mods" = "Выбирает модуль";
+//"multiplayer_remote_state_choosing_emoticon" = "Choosing Emoticon";
+"multiplayer_remote_state_playing_game" = "В игре";
+"multiplayer_remote_state_viewing_score" = "Просмотр счета";
+
+"multiplayer_interrupt_network_error_formatted" = "Ошибка сети: \n%@"; // The "\n" represents a new line character. Please use it in the translation to separate the two lines of text.
+"multiplayer_interrupt_network_error_unknown" = "Ошибка сети:\nнеизвестная ошибка."; // The "\n" represents a new line character. Please use it in the translation to separate the two lines of text.
+"multiplayer_interrupt_disconnected_title" = "Игрок отключился";
+"multiplayer_interrupt_disconnected_message" = "Пропало соединение с игроком %@.";
+"multiplayer_interrupt_left_title" = "Игрок вышел из игры";
+"multiplayer_interrupt_left_message" = "Игрок %@ вышел из игры.";
+"multiplayer_interrupt_lobby_title" = "Игрок вернулся в зал ожидания ";
+"multiplayer_interrupt_lobby_message" = "Игрок %@ вернулся в зал ожидания мультиплеера.";
+"multiplayer_interrupt_laggy_title" = "Слабый сигнал подключения";
+"multiplayer_interrupt_laggy_message" = "Плохое сетевое соединение между тобой и соперником.\nВ таких условиях игра не может нормально функционировать."; // The "\n" represents a new line character. Please use it in the translation to separate the two lines of text.
+
+/* End Multiplayer Screens */
+
+
+
+/* Credits */
+
+"credits_title_intro" = "В создании участвовали:";
+"credits_title_creative_lead" = "Идейный вдохновитель";
+"credits_title_project_manager" = "Менеджер проектов";
+"credits_title_lead_programmer" = "Ведущий программист";
+"credits_title_lead_artist" = "Ведущий художник";
+"credits_title_programming" = "Программист";
+"credits_title_art" = "Графика";
+"credits_title_level_design" = "Дизайн уровней";
+"credits_title_sound_engineering" = "Звуковая обработка";
+"credits_title_music" = "Музыка";
+"credits_title_voice_acting" = "Голосовое сопровождение";
+"credits_title_special_thanks" = "Особая благодарность";
+"credits_title_executive_producers" = "Исполнительный продюсер";
+"credits_title_producer" = "Продюсер";
+"credits_title_head_of_licensing" = "Руковод. по глоб. лиценз. и рекламе";
+"credits_title_director_of_brand" = "Директор по развитию бренда";
+"credits_title_marketing_manager" = "Директор по маркетингу";
+"credits_title_director_finance" = "Финансовый директор";
+"credits_title_general_counsel" = "Главный юрисконсульт";
+"credits_title_it" = "ИТ";
+"credits_title_many_thanks" = "Большое спасибо участникам разработки";
+
+/* End Credits */
+
+
+/* Slug Events */
+
+"event_name_double_coins" = "Двойной куш";
+"event_name_info_double_coins" = "Сегодня за все поединки начисляется двойная награда. Вернись в игру и начни набивать карманы прямо сейчас!";
+
+"event_name_hidden_slugs" = "Спрятанный слаг";
+"event_name_info_hidden_slugs" = "В главе %@ замечен новый слаг. Найди его! Победи в нужном поединке и разблокируй слага прямо сейчас!";
+
+"event_name_booster_sale" = "Прокачка бластера";
+"event_name_info_booster_sale" = "Сегодня все бластеры дешевле. Купи их прямо сейчас и пробей себе путь к победе!";
+
+"event_name_coin_packs" = "Бонусные монеты";
+"event_name_info_coin_packs" = "Сегодня к пакетам монет прилагаются бонусные монеты. Купи пакет прямо сейчас и получи небывалую прибыль!";
+
+"event_name_rare_slug" = "Редкий слаг";
+"event_name_info_rare_slug" = "В магазине ненадолго появился редкий слаг. Поспеши, чтобы успеть купить его!";
+
+"event_name_engagement_drive" = "Стартует слагатон!";
+"event_name_info_engagement_drive" = "Играй ежедневно всю эту неделю и получи в награду \"X\". Не пропусти! Вернись в игру прямо сейчас.";
+
+"event_name_character_sales" = "Встречай нового слагслингера! ";
+"event_name_info_character_sales" = "%@ сегодня дешевле, чем обычно. Поспеши в магазин, чтобы сыграть новым персонажем уже сейчас!";
+
+/* End Slug Events */
+
+
+/* Slug Info Box */
+
+// common
+"slug_info_box_level" = "Уровень: %i";
+"slug_info_box_power" = "Сила: %@";
+
+/* Slug Info */
+
+// burpy
+"slug_info_name_burpy" = "Инфернус";
+"slug_info_power_burpy" = "Огонь";
+"slug_info_description_burpy" = "Могущественный огненный слаг. Очень редкий вид. Инфернус поражает противника взрывной волной.";
+
+// frost
+"slug_info_name_frost" = "Фросткраулер";
+"slug_info_power_frost" = "Лед";
+"slug_info_description_frost" = "Фросткраулер с помощью гласиатора создает для героя защитную ледяную стену и поражает противника замораживающим бластом.";
+
+//tazer
+"slug_info_name_tazer" = "Тайзерлинг";
+"slug_info_power_tazer" = "Электричество";
+"slug_info_description_tazer" = "Тайзерлинг поджаривает противника тайзерболтом, причиняя ущерб и оглушая противника.";
+
+//gas
+"slug_info_name_gas" = "Флатулорхникус";
+"slug_info_power_gas" = "Яд";
+"slug_info_description_gas" = "Флатулорхникус поражает противника зловонным блорфболом, причиняя ущерб и ослабляя слагов противника.";
+
+//doc
+"slug_info_name_doc" = "Бун Док";
+"slug_info_power_doc" = "Молния";
+"slug_info_description_doc" = "Пролетая, исцеляет хозяина своим медици.";
+
+//arachnet
+"slug_info_name_arachnet" = "Арахнет";
+"slug_info_power_arachnet" = "Земля";
+"slug_info_description_arachnet" = "Полезный атакующий слаг. Арахнет запутывает противника поражающим бластом и замедляет его слагов.";
+
+//enigmo
+"slug_info_name_enigmo" = "Энигмо";
+"slug_info_power_enigmo" = "Молния";
+"slug_info_description_enigmo" = "Энигмо подбирает одинаковые плитки, пролетая над полем битвы.";
+
+//fandango
+"slug_info_name_fandango" = "Фанданго";
+"slug_info_power_fandango" = "Молния";
+"slug_info_description_fandango" = "Фанданго полон естественной энергии слагов и, пролетая, заряжает всех остальных слагов хозяина.";
+
+//flaringo
+"slug_info_name_flaringo" = "Фларинго";
+"slug_info_power_flaringo" = "Огонь";
+"slug_info_description_flaringo" = "Фларинго поражает противника своим бластбюрстом.";
+
+//geoshard
+"slug_info_name_fright" = "Хавербуг";
+"slug_info_power_fright" = "Воздух";
+"slug_info_description_fright" = "Хавербуг создает аэродинамическую трубу, позволяя слагам хозяина скорее достичь противника.";
+
+//rammstone
+"slug_info_name_rammstone" = "Рэмстоун";
+"slug_info_power_rammstone" = "Земля";
+"slug_info_description_rammstone" = "Рэмстоун пробивает щит противника или аналогичного слага своим баттерапом.";
+
+//yang
+"slug_info_name_yang" = "Негашейд";
+"slug_info_power_yang" = "Психика";
+"slug_info_description_yang" = "Негашейд сбивает с толку противника, затуманивая видимость.";
+
+//grenuke
+"slug_info_name_grenuke" = "Гренук";
+"slug_info_power_grenuke" = "Огонь";
+"slug_info_description_grenuke" = "Добавляет машбум-бомбы, чтобы нанести ущерб игровому полю противника.";
+
+//midas
+"slug_info_name_midas" = "Мидас";
+"slug_info_power_midas" = "Молния";
+"slug_info_description_midas" = "Мидас рассыпает монеты, пролетая над полем битвы.";
+
+//aquabeek
+"slug_info_name_aquabeek" = "АкваБик";
+"slug_info_power_aquabeek" = "Вода";
+"slug_info_description_aquabeek" = "АкваБик поражает противника, стреляя в него сверхскоростным акваджетом.";
+
+//makobreaker
+"slug_info_name_makobreaker" = "Макобрейкер";
+"slug_info_power_makobreaker" = "Вода";
+"slug_info_description_makobreaker" = "Макобрейкер крепнет, проглатывая выстрелы из бластера, и снижает уровень слагов, с которыми сталкивается.";
+
+//xmitter
+"slug_info_name_xmitter" = "Иксмитер";
+"slug_info_power_xmitter" = "Металл";
+"slug_info_description_xmitter" = "Выводит из строя бластер противника магнитным импульсом. ";
+
+//thresher
+"slug_info_name_thresher" = "Трешер";
+"slug_info_power_thresher" = "Металл";
+"slug_info_description_thresher" = "Атака Трешера становится сильнее, когда Элай ранен.";
+
+//lock
+"slug_info_name_lock" = "Вайндрил";
+"slug_info_power_lock" = "Растения";
+"slug_info_description_lock" = "Ловит противника в сети, блокируя плитки на игровом поле.";
+
+//panic
+"slug_info_name_panic" = "Фрайтгейст";
+"slug_info_power_panic" = "Психика";
+"slug_info_description_panic" = "Пугает противника, заставляя выстрелить всеми слагами сразу.";
+
+//refresh
+"slug_info_name_refresh" = "Пинг";
+"slug_info_power_refresh" = "Молния";
+"slug_info_description_refresh" = "Атакует противника, меняя местами плитки на игровом поле.";
+
+//reflect
+"slug_info_name_reflect" = "Бубалеон";
+"slug_info_power_reflect" = "Вода";
+"slug_info_description_reflect" = "Отражает атаки слагов противника.";
+
+//tormato
+"slug_info_name_tormato" = "Тормато";
+"slug_info_power_tormato" = "Воздух";
+"slug_info_description_tormato" = "Формирует защитный экран, отражающий атаки слагов противника.";
+
+//speedstinger
+"slug_info_name_speedstringer" = "Спидстингер";
+"slug_info_power_speedstringer" = "Металл";
+"slug_info_description_speedstringer" = "Генерирует высокоскоростной выстрел в противника.";
+
+//phosphoro
+"slug_info_name_phosphoro" = "Фосфоро";
+"slug_info_power_phosphoro" = "Молния";
+"slug_info_description_phosphoro" = "Немного подзаряжает слагов хозяина и причиняет ущерб противнику.";
+
+//neotox
+"slug_info_name_neotox" = "Неотокс";
+"slug_info_power_neotox" = "Яд";
+"slug_info_description_neotox" = "Создает ядовитый взрыв, отравляющий противника.";
+
+//jellyish
+"slug_info_name_jellyish" = "Джелиш";
+"slug_info_power_jellyish" = "Вода";
+"slug_info_description_jellyish" = "Атакует и замедляет противника.";
+
+//Armashelt
+"slug_info_name_armashelt" = "Армашелт";
+"slug_info_power_armashelt" = "Кэннонбол";
+"slug_info_description_armashelt" = "Тяжелый слаг, который наносит жесткий удар. При столкновении со слагом противника Армашелт продолжает движение как снаряд более низкого уровня.";
+
+//Hop Rock
+"slug_info_name_hoprock" = "Хоп Рок";
+"slug_info_power_hoprock" = "Детонатор";
+"slug_info_description_hoprock" = "Расставляет смертоносные бомбы на поле противника, наносят ему ущерб.";
+
+//Hypnogrif
+"slug_info_name_hypnogriff" = "Гипногриф";
+"slug_info_power_hypnogriff" = "Транс";
+"slug_info_description_hypnogriff" = "Гипногриф сбивает с толку противника, заставляя его выстрелить всеми слагами сразу.";
+
+//Slicksilver
+"slug_info_name_slicksilver" = "Сликсилвер";
+"slug_info_power_slicksilver" = "Металический/магнитный слаг";
+"slug_info_description_slicksilver" = "Не дает противнику выстрелить слагами.";
+
+//SpeedStinger
+"slug_info_name_speedstringer" = "Спидстингер";
+"slug_info_power_speedstringer" = "Рикошет";
+"slug_info_description_speedstringer" = "Спидстингер молниеносно движется, нанося ущерб.";
+
+//Crystalyd
+"slug_info_name_crystalyd" = "Кристалид";
+"slug_info_power_crystalyd" = "Проходчик";
+"slug_info_description_crystalyd" = "Попав в слага противника, Кристалид пролетает дальше как низкоуровневый снаряд.";
+
+//Geoshard
+"slug_info_name_geoshard" = "Гиошард";
+"slug_info_power_geoshard" = "Кристализирующий слаг";
+"slug_info_description_geoshard" = "Гиошард стреляет залпом, пролетая по воздуху.";
+
+//Slyren
+"slug_info_name_slyren" = "Слурен";
+"slug_info_power_slyren" = "Воздух";
+"slug_info_description_slyren" = "Слурен, пролетая по воздуху, стреляет залпом гиперсоников.";
+
+//Narwhaddle
+"slug_info_name_narwhaddle" = "Нэрвэддл";
+"slug_info_power_narwhaddle" = "Лед";
+"slug_info_description_narwhaddle" = "Нэрвэддл создает ледяной бласт, ускоряющий других слагов и замораживающий противника.";
+
+//Firenzar
+"slug_info_name_firenzar" = "Файерензер";
+"slug_info_power_firenzar" = "Огонь";
+"slug_info_description_firenzar" = "Файерензер создает огненное кольцо, которое со временем наносит поражения противнику.";
+
+//Thugglet
+"slug_info_name_thugglet" = "Таглет";
+"slug_info_power_thugglet" = "Психика";
+"slug_info_description_thugglet" = "Атакуя противника, Таглет крадет силу его слагов.";
+
+//Gazzer
+"slug_info_name_gazzer" = "Газер";
+"slug_info_power_gazzer" = "Воздух";
+"slug_info_description_gazzer" = "Газер обессиливает слагов противника.";
+
+//Lariat
+"slug_info_name_lariat" = "Лэриат";
+"slug_info_power_lariat" = "Вода";
+"slug_info_description_lariat" = "Лэриат выстреливает липкую сеть, которая замедляет слагов противника.";
+
+//Hexlet
+"slug_info_name_hexlet" = "Хекслет";
+"slug_info_power_hexlet" = "Психика";
+"slug_info_description_hexlet" = "Хекслет подбирает одинаковые плитки, пролетая над полем битвы.";
+
+/* Fusion Slug Info */
+
+//Negashade & Ping Fusion
+
+"slug_info_name_fuse_yang_refresh" = "Шэдоурэй";
+"slug_info_power_fuse_yang_refresh" = "Психика";
+"slug_info_description_fuse_yang_refresh" = "Негашейд и Пинг атакуют и сбивают с толку противника, затуманивая видимость и меняя ваши плитки на доске.";
+
+//Doc and Gas Fusion
+"slug_info_name_fuse_doc_gas" = "Хилотоксик";
+"slug_info_power_fuse_doc_gas" = "Молния и яд";
+"slug_info_description_fuse_doc_gas" = "Бун Док и Флатулорхникус: исцеляет игрока и ослабляет слагов противника.";
+
+//Burpy & Tazerling Fusion
+"slug_info_name_fuse_burpy_tazer" = "Новаболт";
+"slug_info_power_fuse_burpy_tazer" = "Огонь и электричество";
+"slug_info_description_fuse_burpy_tazer" = "Берпи и Тайзерлинг: атакует и оглушает противника.";
+
+//Arachnet & Panic Fusion
+"slug_info_name_fuse_arachnet_panic" = "Арахношруд";
+"slug_info_power_fuse_arachnet_panic" = "Земля и психика";
+"slug_info_description_fuse_arachnet_panic" = "Арахнет и Фрайтгейст: пугает и замедляет оппонента.";
+
+//Aquabeek & Fandango Fusion
+"slug_info_name_fuse_aquabeek_fandango" = "Аквабуст";
+"slug_info_power_fuse_aquabeek_fandango" = "Вода и молния";
+"slug_info_description_fuse_aquabeek_fandango" = "Аквабик и Фанданго: быстрая атака, которая придает силы слагам игрока.";
+
+//Rammstone & Makobreaker Fusion
+
+"slug_info_name_fuse_rammstone_makobreaker" = "Рокчомп";
+"slug_info_power_fuse_rammstone_makobreaker" = "Земля и вода";
+"slug_info_description_fuse_rammstone_makobreaker" = "Пробивает защиту противника или сокрушает равносильного слага и набирается сил, поедая снаряды бластера.";
+
+//Xmitter and Vinedrill Fusion
+
+"slug_info_name_fuse_xmitter_vinedrill" = "Глитчснер"; //Glitch is a malfunction equipment and Snare is a trap. For example trap or a net
+"slug_info_power_fuse_xmitter_vinedrill" = "Электричество и растения";
+"slug_info_description_fuse_xmitter_vinedrill" = "Выводит из строя бластер противника и спутывает плитки на доске.";
+
+//Flaringo and Phosphoro Fusion
+
+"slug_info_name_fuse_flaringo_phosphoro" = "Спаркрейн"; //Spark is the small fiery particle thrown off from a fire and rain is moisture condensed from the atmosphere that falls visibly in separate drops. For Example rainy weather.
+"slug_info_power_fuse_flaringo_phosphoro" = "Огонь и молнии";
+"slug_info_description_fuse_flaringo_phosphoro" = "Наносит противнику огневое поражение и слегка подзаряжает всех твоих слагов.";
+
+//Frostcrawler and Grenuke Fusion
+
+"slug_info_name_fuse_freeze_grenuke" = "Фростбомб"; // Small white ice crtystals formed on surfaces when the temperature falls below freezing. Bomb is an explosion.
+"slug_info_power_fuse_freeze_grenuke" = "Огонь и лед";
+"slug_info_description_fuse_freeze_grenuke" = "Замораживает противника и подбрасывает на его доску несколько разрушительных бомб.";
+
+//Neotox and Thresher Fusion
+
+"slug_info_name_fuse_neotox_thresher" = "Токсиктаск"; // Toxic is poisonous. Tusk is a long pointed tooth, usually found on elephants, walrus or wild boars.
+"slug_info_power_fuse_neotox_thresher" = "Растения и метал";
+"slug_info_description_fuse_neotox_thresher" = "Ударная волна отравляет противника и становится мощнее, если Элай ранен.";
+
+//Tormato and Jellyish Fusion
+
+"slug_info_name_fuse_tormato_jellyish" = "Слаймсторм"; // Slime is a moist, soft, and slippery substance. Storm is a violent disturbance of the atmosphere with strong winds.
+"slug_info_power_fuse_tormato_jellyish" = "Воздух и вода";
+"slug_info_description_fuse_tormato_jellyish" = "Этот выстрел из смеси двух стихий создает ветрозащиту, наносит вред противнику и замедляет его слагов.";
+
+//Narwhaddle and Slyren Fusion
+
+"slug_info_name_fuse_slyren_narwaddle" = "Гиперфлэш "; // Hyper as in overactive and flash as in a brief shine.
+"slug_info_power_fuse_slyren_narwaddle" = "Лед и воздух";
+"slug_info_description_fuse_slyren_narwaddle" = "Ледяной бласт: ускоряет других слагов, стреляя залпом гиперсоников.";
+
+//Hoverbug and Speedstinger Fusion
+
+"slug_info_name_fuse_hoverbug_speedstinger" = "Кинет-стрик"; //Kenetic as in Kinetic energy and streak as in a motion streak of moving very quickly
+"slug_info_power_fuse_hoverbug_speedstinger" = "Метал и воздух";
+"slug_info_description_fuse_hoverbug_speedstinger" = " Спидстингер и Хавербуг: использует порталы и наносит повреждения противнику";
+
+//Geoshard and Slicksilver Fusion
+
+"slug_info_name_fuse_geoshard_slicksilver" = "Мэгнешард"; //Magna as in magnet and shard as in a small piece of broken glass
+"slug_info_power_fuse_geoshard_slicksilver" = "Метал и земля";
+"slug_info_description_fuse_geoshard_slicksilver" = " Сликсилвер и Гиошард: наносит повреждения противнику тремя снарядами и на некоторое время блокирует слагов противника.";
+
+
+//Neurotox and Amperling Fusion
+
+"slug_info_name_fuse_ghoul_netox_ghoul_tazerling" = "Ампертокс";
+"slug_info_power_fuse_ghoul_netox_ghoul_tazerling" = "Темная тень";
+"slug_info_description_fuse_ghoul_netox_ghoul_tazerling" = "Оглушение блокирует противника и слагов, причиняя ущерб и обессиливая слагов противника.";
+
+//Burpy and Flatulo Rex
+
+"slug_info_name_fuse_ghoul_burpy_ghoul_gas" = "Блорфбласт";
+"slug_info_power_fuse_ghoul_burpy_ghoul_gas" = "Огонь и яд";
+"slug_info_description_fuse_ghoul_burpy_ghoul_gas" = "Причиняет ущерб, обессиливая слагов и скрывая доску противника за газовыми облаками.";
+
+//Photomo and Aquafreak Fusion
+
+"slug_info_name_fuse_ghoul_phosphoro_ghoul_aquabeek" = "Гидрофлер";
+"slug_info_power_fuse_ghoul_phosphoro_ghoul_aquabeek" = "Темная тень";
+"slug_info_description_fuse_ghoul_phosphoro_ghoul_aquabeek" = "Поражает противника и дает игроку мощный поток энергии слагов, при этом немного обессиливая слагов противника.";
+
+//Briardrill and FrostFang Fusion
+
+"slug_info_name_fuse_ghoul_vinedrill_ghoul_frost" = "Брайершард"; //Briar is a plant with prickly stems and Shard means broke peices or fragments
+"slug_info_power_fuse_ghoul_vinedrill_ghoul_frost" = "Лоза и темный лед";
+"slug_info_description_fuse_ghoul_vinedrill_ghoul_frost" = "Блокирует и замораживает поле противника, на мгновение блокируя собственное поле.";
+
+//Tempesto and Pyringo Fusion
+
+"slug_info_name_fuse_ghoul_tormato_ghoul_flaringo" = "Скайт Вэйв"; // Scythe is a tool used for cutting and a Wave is a ridge of air
+"slug_info_power_fuse_ghoul_tormato_ghoul_flaringo" = "Темная тень";
+"slug_info_description_fuse_ghoul_tormato_ghoul_flaringo" = "Скайт Вэйв образует торнадо, нанося огромный ущерб, в том числе самому игроку.";
+
+//Greneater and Attacknet Fusion
+
+"slug_info_name_fuse_ghoul_grenuke_ghoul_arachnet" = "Бурр Бомб"; // Burr is a rough sound and Bomb is an explosion
+"slug_info_power_fuse_ghoul_grenuke_ghoul_arachnet" = "Темная тень";
+"slug_info_description_fuse_ghoul_grenuke_ghoul_arachnet" = "Бурр Бомб подкидывает парочку бомб на поле противника, замедляя его слагов. При этом слаги игрока на какое-то время блокируются.";
+
+/* Ghoul Slug Info */
+
+// Ghoul Burpy
+"slug_info_name_ghoul_burpy" = "Даркфернус";
+"slug_info_power_ghoul_burpy" = "Огонь";
+"slug_info_description_ghoul_burpy" = "Даркфернус — могущественный и чрезвычайно редкий слаг. Поражает противника даркпайр-бластом, но при этом наносит вред и твоему персонажу.";
+
+// Ghoul Frost
+"slug_info_name_ghoul_frost" = "Фростфэнг";
+"slug_info_power_ghoul_frost" = "Темный лед";
+"slug_info_description_ghoul_frost" = "Фростфэнг делает крипфриз, чтобы заморозить противника мощным бластом, но не создает ледяную стену.";
+
+// Ghoul Gas
+"slug_info_name_ghoul_gas" = "Флатуло Рекс";
+"slug_info_power_ghoul_gas" = "Ядовитое зловоние";
+"slug_info_description_ghoul_gas" = "Флатуло Рекс поражает противника зловонным стенчволом, который повреждает и обессиливает слагов противника, при этом скрывая вашу доску за газовыми облаками.";
+
+// Ghoul Tazer
+"slug_info_name_ghoul_tazer" = "Амперлинг";
+"slug_info_power_ghoul_tazer" = "Заппер";
+"slug_info_description_ghoul_tazer" = "Амперлинг атакует противника амперольтом, оглушая его и причиняя серьезный ущерб. При этом твои слаги временно блокируются.";
+
+// Ghoul Aquabeek
+"slug_info_name_ghoul_aquabeek" = "Аквафрик";
+"slug_info_power_ghoul_aquabeek" = "Темная вода";
+"slug_info_description_ghoul_aquabeek" = "Аквафрик молниеносно атакует противника акваблейдом, ослабляя его и замедляя подзарядку.";
+
+// Ghoul Arachnet
+"slug_info_name_ghoul_arachnet" = "Атакнит";
+"slug_info_power_ghoul_arachnet" = "Темная сеть";
+"slug_info_description_ghoul_arachnet" = "Атакнит использует констриктор, чтобы спутать и ослабить противника, замедлить его слагов и временно заморозить слагов хозяина.";
+
+// Ghoul Flaringo
+"slug_info_name_ghoul_flaringo" = "Пиринго";
+"slug_info_power_ghoul_flaringo" = "Темное пламя";
+"slug_info_description_ghoul_flaringo" = "Пиринго поражает противника битсикером, ослабляя не только его, но и хозяина.";
+
+
+// Ghoul Grenuke
+"slug_info_name_ghoul_grenuke" = "Гренитер";
+"slug_info_power_ghoul_grenuke" = "Темная бомба";
+"slug_info_description_ghoul_grenuke" = "Гренитер подбрасывает несколько бомб-спайксплодеров, повреждая поле противника и замедляя подзарядку.";
+
+//Ghoul Jellyish
+"slug_info_name_ghoul_jellyish" = "Джолифист";
+"slug_info_power_ghoul_jellyish" = "Слизь";
+"slug_info_description_ghoul_jellyish" = "Джолифист поражает и замедляет противника своим экзо-токсом.";
+
+// Ghoul Lock
+"slug_info_name_ghoul_lock" = "Бриардрил";
+"slug_info_power_ghoul_lock" = "Лоза";
+"slug_info_description_ghoul_lock" = "Бриардрил атакует поле противника торнлэшем, пуская лозы с шипами.";
+
+// Ghoul Neotox
+"slug_info_name_ghoul_neotox" = "Нейротокс";
+"slug_info_power_ghoul_neotox" = "Темный яд";
+"slug_info_description_ghoul_neotox" = "Нейротокс испускает ядовитый токсиклизм, отравляя противника и ослабляя слагов хозяина.";
+
+// Ghoul Panic
+"slug_info_name_ghoul_panic" = "Найтгейст";
+"slug_info_power_ghoul_panic" = "Темная тень";
+"slug_info_description_ghoul_panic" = "Найтгейст пугает противника, заставляя выстрелить всеми слагами сразу, при этом обессиливая твоих собственных слагов.";
+
+// Ghoul Phosphoro
+"slug_info_name_ghoul_phosphoro" = "Фотомо";
+"slug_info_power_ghoul_phosphoro" = "Темный фотон";
+"slug_info_description_ghoul_phosphoro" = "Пролетая, Фотомо разряжает слагов хозяина, но дает им мощный поток энергии, когда поражает противника.";
+
+// Ghoul Rammstone
+"slug_info_name_ghoul_rammstone" = "Гримстоун";
+"slug_info_power_ghoul_rammstone" = "Камень";
+"slug_info_description_ghoul_rammstone" = "Гримстоун отражает первого слага, с которым сталкивается, при этом превращая часть плиток игрока в камень на некоторое время.";
+
+// Ghoul Thresher
+"slug_info_name_ghoul_thresher" = "Трэшер";
+"slug_info_power_ghoul_thresher" = "Кромсание и поедание";
+"slug_info_description_ghoul_thresher" = "Трэшер теряет силу, когда Элай получает ранения.";
+
+// Ghoul Tormato
+"slug_info_name_ghoul_tormato" = "Темпесто";
+"slug_info_power_ghoul_tormato" = "Темная тень";
+"slug_info_description_ghoul_tormato" = "Поражая противника, создает торнадо, которое отражает одного из выстреленных слагов противника.";
+
+// Ghoul Doc
+"slug_info_name_ghoul_doc" = "Гун Док";
+"slug_info_power_ghoul_doc" = "Темный";
+"slug_info_description_ghoul_doc" = "Гун Док может причинить вред игроку, но может и исцелить его, столкнувшись со слагами более низкого уровня или ударив противника.";
+
+// Ghoul Makobreaker
+"slug_info_name_ghoul_makobreaker" = "Мегабрейкер";
+"slug_info_power_ghoul_makobreaker" = "Темная вода";
+"slug_info_description_ghoul_makobreaker" = "Мегабрейкер причиняет вред игроку, и его сила растет, когда он поедает выстрелы бластера и слагов более низкого уровня.";
+
+// Ghoul Yang
+//"slug_info_name_ghoul_yang" = "Negablade";
+//"slug_info_power_ghoul_yang" = "Shadow";
+//"slug_info_description_yang" = "Negablade uses its Darkwraith move to confuse opponents by clouding their vision.";
+
+/* Megamorphs */
+
+//Burpy Megamorph
+"slug_info_name_mega_burpy" = "Мегаморф Инфернус";
+"slug_info_power_mega_burpy" = "Огонь";
+"slug_info_description_mega_burpy" = "Верх эволюции — мегаморф Инфернус — создает плавящий огонь, который проносится над полем битвы.";
+
+//Frost Megamorph
+"slug_info_name_mega_frost" = "Мегаморф Фросткраулер";
+"slug_info_power_mega_frost" = "Лед";
+"slug_info_description_mega_frost" = "Верх эволюции — мегаморф Фросткраулер — создает защитную ледяную стену и замораживает противника при столкновении.";
+
+//Tazerling Megamorph
+"slug_info_name_mega_tazer" = "Мегаморф Тайзерлинг";
+"slug_info_power_mega_tazer" = "Электричество";
+"slug_info_description_mega_tazer" = "Верх эволюции — мегаморф Тайзерлинг — проносится над полем битвы, создавая мощную электрическую бурю, нанося тяжелые повреждения и оглушая противника.";
+
+//Flatulorhinkus Megamorph
+"slug_info_name_mega_gas" = "Мегаморф Флатулорхникус";
+"slug_info_power_mega_gas" = "Яд";
+"slug_info_description_mega_gas" = "Верх эволюции — мегаморф Флатулорхникус — проносится над полем битвы, используя внутреннее давление, и испускает ядовитое облако, повреждающее противника.";
+
+//Megamorph Arachnet
+"slug_info_name_mega_arachnet" = "Мегаморф Арахнет";
+"slug_info_power_mega_arachnet" = "Земля";
+"slug_info_description_mega_arachnet" = "Венец эволюции, Мегаморф Арахнет выпускает запутанную паутину, которая причиняет ощутимый вред противнику и замедляет его слагов.";
+
+//Megamorph Tormato
+"slug_info_name_mega_tormato" = "Мегаморф Тормато ";
+"slug_info_power_mega_tormato" = "Земля";
+"slug_info_description_mega_tormato" = "Венец эволюции, Мегаморф Тормато отражает слагов противника.";
+
+//Megamorph Grenuke
+"slug_info_name_mega_grenuke" = "Мегаморф Гренук";
+"slug_info_power_mega_grenuke" = "Огонь";
+"slug_info_description_mega_grenuke" = "Венец эволюции, Мегаморф Гренук подбрасывает бомбы на поле противника, которые нанесут серьезный ущерб, если их вовремя не убрать.";
+
+//Megamorph Thresher
+"slug_info_name_mega_thresher" = "Мегаморф Трешер";
+"slug_info_power_mega_thresher" = "Металл";
+"slug_info_description_mega_thresher" = "Венец эволюции, Мегаморф Трешер. его силы крепчают, когда игрок получает повреждения.";
+
+//Megamorph Boon Doc
+"slug_info_name_mega_doc" = "Мегаморф Бун Док";
+"slug_info_power_mega_doc" = "Молния";
+"slug_info_description_mega_doc" = "Венец эволюции, Мегаморф Бун Док использует свои медицинские силы, чтобы исцелить игрока, пролетая над ним.";
+
+
+/* End Slug Info Box */
+
+/* Booster Info */
+
+// blaster_damage
+"booster_info_name_blaster_damage" = "Повреждения";
+"booster_info_description_blaster_damage" = "Выстрелы из бластера причиняют больше вреда.";
+
+"booster_info_name_blaster_velocity" = "Скорость";
+"booster_info_description_blaster_velocity" = "Ускоряются слаги и выстрелы из бластера.";
+
+"booster_info_name_autocharge" = "Автозарядка для слагов";
+"booster_info_description_autocharge" = "Слаги автоматически заряжаются во время поединка.";
+
+"booster_info_name_pre_igniter" = "Поджигатель слагов";
+"booster_info_description_pre_igniter" = "Слаги полностью заряжены уже в начале поединка.";
+
+"booster_info_name_max_level" = "Усилитель слагов";
+"booster_info_description_max_level" = "Слаги переводятся на 3-й уровень за одну подобранную линию.";
+
+/* End Booster Info */
+
+
+/* Game Mod */
+
+"gamemod_info_name_blaster_damage" = "Повреждения";
+"gamemod_info_name_blaster_damage_one" = "Повреждения";
+"gamemod_info_description_blaster_damage" = "Все основные выстрелы причиняют двойной ущерб.";
+
+"gamemod_info_name_autocharge" = "Автозарядка";
+"gamemod_info_name_autocharge_one" = "Автозарядка 1";
+"gamemod_info_name_autocharge_two" = "Автозарядка 2";
+"gamemod_info_name_autocharge_three" = "Автозарядка 3";
+"gamemod_info_description_autocharge" = "Слаги заряжаются автоматически";
+
+"gamemod_info_name_pre_igniter" = "Поджигатель слагов";
+"gamemod_info_name_pre_igniter_one" = "Поджигатель слагов";
+"gamemod_info_description_pre_igniter" = "Слаги полностью заряжены уже на старте.";
+
+"gamemod_info_name_blaster_velocity" = "Скорость";
+"gamemod_info_name_blaster_velocity_one" = "Скорость";
+"gamemod_info_description_blaster_velocity" = "Все выстрелы ускоряются";
+
+"gamemod_info_name_no_blasters" = "Нет бластеров";
+"gamemod_info_name_no_blasters_one" = "Нет бластеров";
+"gamemod_info_description_no_blasters" = "На игровом поле нет плиток бластеров";
+
+"gamemod_info_name_no_health" = "Нет плиток здоровья";
+"gamemod_info_name_no_health_one" = "Нет плиток здоровья";
+"gamemod_info_description_no_health" = "На игровом поле нет плиток здоровья";
+
+/* End Game Mod */
+
+
+/* Basic Shot Info */
+
+"basic_shot_info_name_basicShot" = "Основной выстрел";
+"basic_shot_info_name_acidGreen" = "Кислотно-зеленый";
+"basic_shot_info_name_lightning" = "Молния";
+"basic_shot_info_name_majorLazer" = "Главный лазер";
+"basic_shot_info_name_sonicBoom" = "Звуковая волна";
+"basic_shot_info_name_snot" = "Кислотный всплеск";
+"basic_shot_info_name_sparkleBlade" = "Острые искры";
+"basic_shot_info_name_pinkerton" = "Пузырьковый бласт";
+"basic_shot_info_name_blueBird" = "Синяя птица";
+"basic_shot_info_name_violentRed" = "Красная ракета";
+"basic_shot_info_name_mellowYellow" = "Желтая аэрация";
+"basic_shot_info_name_royalPurple" = "Фиолетовая энергия";
+"basic_shot_info_name_oranges" = "Оранжевый сигнал";
+"basic_shot_info_name_tealBerry" = "Синяя ягода";
+
+/* End Basic Shot Info */
+
+
+/* Character Names */
+
+"char_eli_name" = "Элай Шейн";
+
+/* End Character Names */
+
+
+/* Destructible Character Names */
+
+"char_dummy_name" = "Дамми";
+"char_ghoulstation_name" = "Гулинг Стейшн";
+"char_trixiecage_name" = "Трикси Кейдж";
+"char_door_name" = "";
+
+/* End Destructible Character Names */
+
+
+/* Opponent Names */
+
+"char_arclight_name" = "Шоквир";
+"char_guardbig1_name" = "Мистер Ориндж";
+"char_bigguard3_name" = "Хэн-дель-Бар";
+"char_billy_name" = "Билли";
+"char_blakk_name" = "Доктор Блэк";
+"char_cajun_name" = "Жак";
+"char_fav_name" = "Фав";
+"char_fire_name" = "Флейм";
+"char_frost_name" = "Фрост";
+"char_gabe_name" = "Гэйб";
+"char_glasses_name" = "Гласес";
+"char_goon2_name" = "Локи";
+"char_goon3_name" = "Лод";
+"char_goon4_name" = "Бун Гун";
+"char_goon_name" = "Сид Кид";
+"char_guard_name" = "Дельта-оператор";
+"char_jackbull_name" = "Джон Булл";
+"char_kingofsling_name" = "Кинг-оф-Слинг";
+"char_kord_name" = "Корд";
+"char_marcus_name" = "Маркус";
+"char_mrsaturday_name" = "Мистер Сэтудей";
+"char_munch_name" = "Мюнк";
+"char_nacho_name" = "Начо";
+"char_pronto_name" = "Пронто";
+"char_robo2_name" = "Думбот 2.0";
+"char_robo_name" = "Думбот 1.0";
+"char_sedo_name" = "Седо";
+"char_shadow_name" = "Шэдоу Клэн";
+"char_shorty_name" = "Коротышка";
+"char_trixie_name" = "Трикси";
+"char_turret_name" = "Таррет";
+"char_mei_name" = "Мэй";
+
+// Chapter 6
+"char_voodoo_name" = "Худу Вуду";
+"char_zombieguard_name" = "Зомби Гард";
+"char_securitygun_name" = "Автокэннон";
+"char_zombiechef_name" = "Зомби Чиф";
+"char_inmate_name" = "Снитч";
+"char_inmate2_name" = "Дэд Ай";
+"char_turtle_name" = "Тартлетон";
+"char_horn_name" = "Минотавр";
+"char_spirex_name" = "Спайрекс";
+"char_madmax_name" = "Макс Мэддер";
+
+"char_angryblakk_name" = "Злой Доктор Блэк";
+"char_dunno_name" = "Ошибка";
+
+/* Chapter 7 */
+"char_guard_mech_name" = "Омикрон Сквадрон";
+"char_boat_pirates_name" = "Карл и Чарли";
+"char_pirate1_name" = "Мэйти Нэйт";
+"char_pirate_girl_name" = "Капитан Ридли";
+"char_shark_name" = "Гантер Шарк";
+"char_pirate2_name" = "Авастер Плюм";
+"char_cannon_name" = "Кэннонир Бу";
+"char_gator_name" = "Гэйтор";
+"char_fang_name" = "Фэнг";
+"char_watts_name" = "Ватс";
+"char_drake_name" = "Мэлволио Дрейк";
+"char_eli_mech_name" = "Элай Шейн";
+
+/* Chapter 8*/
+"char_evileli_name" = "Эйлиес";
+"char_evilkord_name" = "Джин";
+"char_eviltrixie_name" = "Трэпси";
+"char_mechamole_name" = "Мека Мол";
+
+/* Chapter 9*/
+"char_will_name" ="Уилл Шейн";
+"char_fakeduelist_name" = "Бродячий дуэлянт";
+"char_shanai_name" = "Учитель";
+"char_twist_name" = "Твист";
+"char_young_blakk_name" = "Янг Блэк";
+"char_blakk_gat_name" = "Доктор Блэк";
+"char_master_name" = "Учитель";
+
+/* Chapter 10*/
+"char_scrapheepgang01_name" = "Монго";
+"char_scrapheepgang02_name" = "Страгус";
+"char_scrapheepgang03_name" = "Вельдер Вальтер";
+"char_scrapheepgang04_name" = "Лил Стиви";
+"char_bossember_name" = "Босс Эмбер";
+"char_angrybossember_name" = " Злой Босс Эмбер";
+
+/* Chapter 12*/
+"char_guard2_name" = "Гвардия Боба";
+"char_darkbane_soldier1_name" = "Даркбэйн Марг";
+"char_darkbane_soldier2_name" = "Даркбэйн Дрек";
+"char_darkbane_soldier3_name" = "Даркбэйн Хэртэг";
+"char_shadowclanleader_name" = "Защитник Клэна";
+"char_darkbane_soldier4_name" = "Даркбэйн Грог";
+"char_darkbane_soldier5_name" = "Даркбэйн Страгг";
+"char_darkbane_prison_guard_name" = "надзиратель";
+"char_darkbane_nacho_name" = "Капитан Даркбэйн";
+
+/* Chapter 13*/
+"char_darkbane_soldier6_name" = "Даркбэйн Бларг";
+"char_darkbane_soldier_elite1_name" = "Даркбэйн элит 1";
+"char_darkbane_soldier_elite2_name" = "Даркбэйн элит 2";
+"char_behemoth_name" = "Бегемот";
+"char_darkbanebrimstone_name" = "Бримстоун";
+"char_angrynacho_name" = "Начо";
+
+/* Chapter 15*/
+"char_hostile_miner_name" = "Злой шахтер";
+"char_foreman_name" = "Прораб";
+"char_viggo_minion1_name" = "Толстяк";
+"char_viggo_minion2_name" = "Крыса";
+"char_viggo_name" = "Смельчак";
+"char_viggo1_name" = "Толстяк";
+"char_viggo2_name" = "Крыса";
+
+/* Chapter 16*/
+"char_titan_name" = "Титан";
+"char_guard3_name" = "Гвардия Боба";
+
+/* Chapter 17*/
+"char_redhook_name" = "красный";
+"char_technician_name" = "техник";
+
+/* End Opponent Names */
+
+
+
+/***** Game *****/
+
+/* Game Common */
+
+// score screen coin breakdown
+// the amount of coins earned per encounter is broken down into sections:
+// eg. "Victory   10 coins"
+//     "Badges     5 coins"
+//     "Bonus      5 coins"
+"game_coins_breakdown_victory" = "Победа";     // story
+"game_coins_breakdown_badges" = "Бейджи";       // story, bonus
+"game_coins_breakdown_achievements" = "Награды"; // story
+"game_coins_breakdown_bonus" = "Бонус";         // endless
+"game_coins_breakdown_base" = "База";           // treasure
+"game_coins_breakdown_damage" = "Поврежд.";       // treasure
+"game_coins_breakdown_destroy" = "Уничтож.";     // treasure
+"game_coins_breakdown_total" = "ВСЕГО";         // ВСЕГО
+
+/* End Game Common */
+
+
+
+/* Tutorials */
+
+"game_tutorial_tip_match" = "Подбери"; // displayed on a tip box, informing the player to match some number of tiles
+"game_tutorial_tip_move_1" = "Передвинь 1 плитку!"; // tip telling the player to move 1 tile
+"game_tutorial_tip_move_n" = "Передвинь плитки (%i)!"; // tip telling player to move more than 1 tile.
+"game_tutorial_tip_survive" = "для того, чтобы выжить";
+
+/* End Tutorials */
+
+
+
+/* Treasure Game */
+
+//"game_treasure_times_up" = "Time's Up!";
+//"game_treasure_well_done" = "Well Done!";
+
+/* End Treasure Game */
+
+/***** Local Push Notification *****/
+//Haven't logged in for 1 week: 500 coins
+"log_in_1_week" = "Слаги припасли для тебя подарок! Войди, чтобы получить БЕСПЛАТНЫЕ монеты!";
+//Haven't logged in for 1 week: 800 coins
+"log_in_2_week" = "Слаги припасли для тебя подарок! Войди, чтобы получить БЕСПЛАТНЫЕ монеты!";
+//Haven't logged in for 1 week: 1500 coins
+"log_in_1_month" = "Слаги припасли для тебя подарок! Войди, чтобы получить БЕСПЛАТНЫЕ монеты!";
+//Haven't logged in for 1 week: 3000 coins
+"log_in_2_month" = "Слаги припасли для тебя подарок! Войди, чтобы получить БЕСПЛАТНЫЕ монеты!";
+//Haven't logged in for 1 week: 5000 coins
+"log_in_6_month" = "Слаги припасли для тебя подарок! Войди, чтобы получить БЕСПЛАТНЫЕ монеты!";
+
+"localpush_reward_popup" = "Ваши слаги приготовили вам подарок!";
+"localpush_reward_coins" = "монет";
+
+/***** Daily Gifts Notification *****/
+"daily_challenges_now" = "Доступны ежедневные соревнования! Сыграй, чтобы получить возможность выиграть БЕСПЛАТНЫХ слагов!";
+"daily_gift_coins" = "Доступен ежедневный подарок! Войди, чтобы получить БЕСПЛАТНЫЕ монеты!";
+"daily_gift_boosters" = "Доступен ежедневный подарок! Войди, чтобы получить БЕСПЛАТНЫЙ бонус!";
+"daily_gift_blaster_damage" = "Доступен ежедневный подарок! Войди, чтобы получить БЕСПЛАТНЫЙ бонус \"Повреждения\"!";
+"daily_gift_blaster_speed" = "Доступен ежедневный подарок! Войди, чтобы получить БЕСПЛАТНЫЙ бонус \"Скорость\"!";
+"daily_gift_auto_charger" = "Доступен ежедневный подарок! Войди, чтобы получить БЕСПЛАТНУЮ автозарядку для слагов!";
+"daily_gift_pre_igniter" = "Слаги припасли для тебя подарок! Войди, чтобы получить БЕСПЛАТНЫЙ поджигатель!";
+"slug_gift_coins" = "Слаги припасли для тебя подарок! Войди, чтобы получить БЕСПЛАТНЫЕ монеты!";
+
+/***** Video Ad Confirmation Box *****/
+"video_ad_title" = "";
+"video_ad_description" = "Посмотреть видео, чтобы получить дополнительные монеты?";
+"video_ad_watch_button" = "Да!";
+"video_ad_thank_you" = "Поздравляем! Твой выигрыш:";
+"video_ad_150_coins" = "Посмотри видео, чтобы получить 150 бесплатных монет!";
+"video_ad_200_coins" = "Просмотри видео, чтобы получить 200 бесплатных монет!";
+
+/***** SlugSeeker *****/
+
+"name_cavern_slug_seeker_name" = "Охотник за слагами";
+
+/* Cavern 1 */
+"cv_cavern1_name" = "Хребтовидная пещера";
+"cv_cavern1_subtitle" = "";
+
+//Encounter 1
+"enc_cv1e1_title" = "Поединок 1";
+
+//Encounter 2
+"enc_cv1e2_title" = "Поединок 2";
+
+//Encounter 3
+"enc_cv1e3_title" = "Поединок 3";
+
+//Encounter 4
+"enc_cv1e4_title" = "Поединок 4";
+
+//Encounter 5
+"enc_cv1e5_title" = "Бонусный раунд";
+
+//Encounter 6
+"enc_cv1e6_title" = "Поединок 6";
+
+//Encounter 7
+"enc_cv1e7_title" = "Поединок 7";
+
+//Encounter 8
+"enc_cv1e8_title" = "Поединок 8";
+
+//Encounter 9
+"enc_cv1e9_title" = "Поединок 9";
+
+//Encounter 10
+"enc_cv1e10_title" = "Бонусный раунд";
+
+//Encounter 11
+"enc_cv1e11_title" = "Поединок 11";
+
+//Encounter 12
+"enc_cv1e12_title" = "Поединок 12";
+
+//Encounter 13
+"enc_cv1e13_title" = "Поединок 13";
+
+//Encounter 14
+"enc_cv1e14_title" = "Поединок 14";
+
+//Encounter 15
+"enc_cv1e15_title" = "Бонусный раунд";
+
+/* End Cavern 1 */
+
+/* Cavern 2 */
+"cv_cavern2_name" = "Темная окраина";
+"cv_cavern2_subtitle" = "";
+
+//Encounter 1
+"enc_cv2e1_title" = "Поединок 1";
+
+//Encounter 2
+"enc_cv2e2_title" = "Поединок 2";
+
+//Encounter 3
+"enc_cv2e3_title" = "Поединок 3";
+
+//Encounter 4
+"enc_cv2e4_title" = "Поединок 4";
+
+//Encounter 5
+"enc_cv2e5_title" = "Бонусный раунд";
+
+//Encounter 6
+"enc_cv2e6_title" = "Поединок 6";
+
+//Encounter 7
+"enc_cv2e7_title" = "Поединок 7";
+
+//Encounter 8
+"enc_cv2e8_title" = "Поединок 8";
+
+//Encounter 9
+"enc_cv2e9_title" = "Поединок 9";
+
+//Encounter 10
+"enc_cv2e10_title" = "Бонусный раунд";
+
+//Encounter 11
+"enc_cv2e11_title" = "Поединок 11";
+
+//Encounter 12
+"enc_cv2e12_title" = "Поединок 12";
+
+//Encounter 13
+"enc_cv2e13_title" = "Поединок 13";
+
+//Encounter 14
+"enc_cv2e14_title" = "Поединок 14";
+
+//Encounter 15
+"enc_cv2e15_title" = "Бонусный раунд";
+
+/* End Cavern 2 */
+
+/* Cavern 3 */
+"cv_cavern3_name" = "Глубокие пещеры";
+"cv_cavern3_subtitle" = "";
+
+//Encounter 1
+"enc_cv3e1_title" = "Поединок 1";
+
+//Encounter 2
+"enc_cv3e2_title" = "Поединок 2";
+
+//Encounter 3
+"enc_cv3e3_title" = "Поединок 3";
+
+//Encounter 4
+"enc_cv3e4_title" = "Поединок 4";
+
+//Encounter 5
+"enc_cv3e5_title" = "Бонусный раунд";
+
+//Encounter 6
+"enc_cv3e6_title" = "Поединок 6";
+
+//Encounter 7
+"enc_cv3e7_title" = "Поединок 7";
+
+//Encounter 8
+"enc_cv3e8_title" = "Поединок 8";
+
+//Encounter 9
+"enc_cv3e9_title" = "Поединок 9";
+
+//Encounter 10
+"enc_cv3e10_title" = "Бонусный раунд";
+
+//Encounter 11
+"enc_cv3e11_title" = "Поединок 11";
+
+//Encounter 12
+"enc_cv3e12_title" = "Поединок 12";
+
+//Encounter 13
+"enc_cv3e13_title" = "Поединок 13";
+
+//Encounter 14
+"enc_cv3e14_title" = "Поединок 14";
+
+//Encounter 15
+"enc_cv3e15_title" = "Бонусный раунд";
+
+/* End Cavern 3 */
+
+/* Cavern 4 */
+"cv_cavern4_name" = "Слагмес Сноуданс";
+"cv_cavern4_subtitle" = "";
+
+//Encounter 1
+"enc_cv4e1_title" = "Поединок 1";
+
+//Encounter 2
+"enc_cv4e2_title" = "Поединок 2";
+
+//Encounter 3
+"enc_cv4e3_title" = "Поединок 3";
+
+//Encounter 4
+"enc_cv4e4_title" = "Поединок 4";
+
+//Encounter 5
+"enc_cv4e5_title" = "Бонусный раунд";
+
+//Encounter 6
+"enc_cv4e6_title" = "Поединок 6";
+
+//Encounter 7
+"enc_cv4e7_title" = "Поединок 7";
+
+//Encounter 8
+"enc_cv4e8_title" = "Поединок 8";
+
+//Encounter 9
+"enc_cv4e9_title" = "Поединок 9";
+
+//Encounter 10
+"enc_cv4e10_title" = "Бонусный раунд";
+
+//Encounter 11
+"enc_cv4e11_title" = "Поединок 11";
+
+//Encounter 12
+"enc_cv4e12_title" = "Поединок 12";
+
+//Encounter 13
+"enc_cv4e13_title" = "Поединок 13";
+
+//Encounter 14
+"enc_cv4e14_title" = "Поединок 14";
+
+//Encounter 15
+"enc_cv4e15_title" = "Бонусный раунд";
+
+/* End Cavern 4 */
+
+
+/* Cavern 5 */
+"cv_cavern5_name" = "Грот Доджан";
+"cv_cavern5_subtitle" = "";
+
+//Encounter 1
+"enc_cv5e1_title" = "Поединок 1";
+
+//Encounter 2
+"enc_cv5e2_title" = "Поединок 2";
+
+//Encounter 3
+"enc_cv5e3_title" = "Поединок 3";
+
+//Encounter 4
+"enc_cv5e4_title" = "Поединок 4";
+
+//Encounter 5
+"enc_cv5e5_title" = "Бонусный раунд";
+
+//Encounter 6
+"enc_cv5e6_title" = "Поединок 6";
+
+//Encounter 7
+"enc_cv5e7_title" = "Поединок 7";
+
+//Encounter 8
+"enc_cv5e8_title" = "Поединок 8";
+
+//Encounter 9
+"enc_cv5e9_title" = "Поединок 9";
+
+//Encounter 10
+"enc_cv5e10_title" = "Бонусный раунд";
+
+//Encounter 11
+"enc_cv5e11_title" = "Поединок 11";
+
+//Encounter 12
+"enc_cv5e12_title" = "Поединок 12";
+
+//Encounter 13
+"enc_cv5e13_title" = "Поединок 13";
+
+//Encounter 14
+"enc_cv5e14_title" = "Поединок 14";
+
+//Encounter 15
+"enc_cv5e15_title" = "Бонусный раунд";
+
+/* End Cavern 5 */
+
+/* Cavern 6 */
+"cv_cavern6_name" = "Пещера Диких спор";
+"cv_cavern6_subtitle" = "";
+
+//Encounter 1
+"enc_cv6e1_title" = "Поединок 1";
+
+//Encounter 2
+"enc_cv6e2_title" = "Поединок 2";
+
+//Encounter 3
+"enc_cv6e3_title" = "Поединок 3";
+
+//Encounter 4
+"enc_cv6e4_title" = "Поединок 4";
+
+//Encounter 5
+"enc_cv6e5_title" = "Бонусный раунд";
+
+//Encounter 6
+"enc_cv6e6_title" = "Поединок 6";
+
+//Encounter 7
+"enc_cv6e7_title" = "Поединок 7";
+
+//Encounter 8
+"enc_cv6e8_title" = "Поединок 8";
+
+//Encounter 9
+"enc_cv6e9_title" = "Поединок 9";
+
+//Encounter 10
+"enc_cv6e10_title" = "Бонусный раунд";
+
+//Encounter 11
+"enc_cv6e11_title" = "Поединок 11";
+
+//Encounter 12
+"enc_cv6e12_title" = "Поединок 12";
+
+//Encounter 13
+"enc_cv6e13_title" = "Поединок 13";
+
+//Encounter 14
+"enc_cv6e14_title" = "Поединок 14";
+
+//Encounter 15
+"enc_cv6e15_title" = "Бонусный раунд";
+
+/* End Cavern 6 */
+
+/* Cavern 7 */
+"cv_cavern7_name" = "Пещера подводных течений";
+"cv_cavern7_subtitle" = "";
+
+//Encounter 1
+"enc_cv7e1_title" = "Поединок 1";
+
+//Encounter 2
+"enc_cv7e2_title" = "Поединок 2";
+
+//Encounter 3
+"enc_cv7e3_title" = "Поединок 3";
+
+//Encounter 4
+"enc_cv7e4_title" = "Поединок 4";
+
+//Encounter 5
+"enc_cv7e5_title" = "Бонусный раунд";
+
+//Encounter 6
+"enc_cv7e6_title" = "Поединок 6";
+
+//Encounter 7
+"enc_cv7e7_title" = "Поединок 7";
+
+//Encounter 8
+"enc_cv7e8_title" = "Поединок 8";
+
+//Encounter 9
+"enc_cv7e9_title" = "Поединок 9";
+
+//Encounter 10
+"enc_cv7e10_title" = "Бонусный раунд";
+
+//Encounter 11
+"enc_cv7e11_title" = "Поединок 11";
+
+//Encounter 12
+"enc_cv7e12_title" = "Поединок 12";
+
+//Encounter 13
+"enc_cv7e13_title" = "Поединок 13";
+
+//Encounter 14
+"enc_cv7e14_title" = "Поединок 14";
+
+//Encounter 15
+"enc_cv7e15_title" = "Бонусный раунд";
+
+/* End Cavern 7 */
+
+
+
+/***** Story *****/
+
+/* Treasure Chapter */
+
+//"ch_treasure_name" = "Treasure";
+//"ch_treasure_subtitle" = "";
+
+// encounters
+//"enc_treasure_large_title" = "Treasure Chamber";
+//"enc_treasure_small_title" = "Treasure Den";
+
+/* End Treasure Chapter */
+
+/* Chapter 1 */
+"ch_chapter1_name" = "Глава 1";
+"ch_chapter1_subtitle" = "Тренировка";
+
+//Encounter 1
+"enc_c1e1_title" = "Пещера троллей";
+
+//Encounter 2
+"enc_c1e2_title" = "Исцеление";
+
+//Encounter 3
+"enc_c1e3_title" = "Слагслингер";
+
+//Encounter 4
+"enc_c1e4_title" = "Великий Пронто";
+
+/* End Chapter 1 */
+
+
+
+/* Chapter 2 */
+
+"ch_chapter2_name" = "Глава 2";
+"ch_chapter2_subtitle" = "Турнир";
+
+//Encounter 1
+"enc_c2e1_title" = "Первый раунд";
+
+//Encounter 2
+"enc_c2e2_title" = "Простуда";
+
+//Encounter 3
+"enc_c2e3_title" = "Свет, камера, мотор!";
+
+//Encounter 4
+"enc_c2e4_title" = "Молниеотвод";
+
+//Encounter 5
+"enc_c2e5_title" = "Шуты и короли";
+
+//Encounter 6
+"enc_c2e6_title" = "Четвертьфиналы";
+
+//Encounter 7
+"enc_c2e7_title" = "В тройном экземпляре";
+
+
+
+//Encounter 8
+"enc_c2e8_title" = "Предупреждение!";
+
+//Encounter 9
+"enc_c2e9_title" = "Бонусный раунд";
+
+//Encounter 10
+"enc_c2e10_title" = "Антракт";
+
+//Encounter 11
+"enc_c2e11_title" = "Бугай";
+
+/* End Chapter 2 */
+
+
+
+/* Chapter 3 */
+"ch_chapter3_name" = "Глава 3";
+"ch_chapter3_subtitle" = "Банда";
+
+//Encounter 1
+"enc_c3e1_title" = "Похищение";
+
+//Encounter 2
+"enc_c3e2_title" = "Слабаки";
+
+
+
+//Encounter 3
+"enc_c3e3_title" = "Грязное ущелье";
+
+//Encounter 4
+"enc_c3e4_title" = "Наемник";
+
+//Encounter 5
+"enc_c3e5_title" = "Перепутанные кроты";
+
+//Encounter 6
+"enc_c3e6_title" = "Потусторонний мир";
+
+//Encounter 7
+"enc_c3e7_title" = "Битый Гласес";
+
+//Encounter 8
+"enc_c3e8_title" = "Подготовка";
+
+//Encounter 9
+"enc_c3e9_title" = "Банда";
+
+
+
+//Encounter 10
+"enc_c3e10_title" = "Бонусный раунд";
+
+//Encounter 11
+"enc_c3e11_title" = "Иерархия";
+
+
+/* End Chapter 3 */
+
+
+
+/* Chapter 4 */
+
+"ch_chapter4_name" = "Глава 4";
+"ch_chapter4_subtitle" = "Сквозь пламя";
+
+//Encounter 1
+"enc_c4e1_title" = "Шэдоу Клэн";
+
+//Encounter 2
+"enc_c4e2_title" = "Реванш";
+
+//Encounter 3
+"enc_c4e3_title" = "Время бургеров";
+
+//Encounter 4
+"enc_c4e4_title" = "Думбот 1.0";
+
+//Encounter 5
+"enc_c4e5_title" = "Яма с лавой";
+
+//Encounter 6
+"enc_c4e6_title" = "Сила огня";
+
+//Encounter 7
+"enc_c4e7_title" = "Препятствие";
+
+//Encounter 8
+"enc_c4e8_title" = "Тени темной воды";
+
+//Encounter 9
+"enc_c4e9_title" = "День скорби";
+
+//Encounter 10
+"enc_c4e10_title" = "Незаменимый помощник";
+
+//Encounter 11
+"enc_c4e11_title" = "Бонусный раунд";
+
+/* End Chapter 4 */
+
+
+
+/* Chapter 5 */
+
+"ch_chapter5_name" = "Глава 5";
+"ch_chapter5_subtitle" = "Воды Блэка";
+
+//Encounter 1
+"enc_c5e1_title" = "Коррупция";
+
+//Encounter 2
+"enc_c5e2_title" = "Лидеры торгов";
+
+//Encounter 3
+"enc_c5e3_title" = "Вечный конфликт";
+
+//Encounter 4
+"enc_c5e4_title" = "Новее и совершеннее";
+
+//Encounter 5
+"enc_c5e5_title" = "кукольный";
+
+//Encounter 6
+"enc_c5e6_title" = "Охрана Гэнглэнда";
+
+
+
+//Encounter 7
+"enc_c5e7_title" = "капитан";
+
+//Encounter 8
+"enc_c5e8_title" = "Локи и ключ";
+
+
+//Encounter 9
+"enc_c5e9_title" = "Монстры";
+
+//Encounter 10
+"enc_c5e10_title" = "Затемнение";
+
+
+/* End Chapter 5 */
+
+
+
+/* Chapter 6 */
+
+"ch_chapter6_name" = "Глава 6";
+"ch_chapter6_subtitle" = "Судный день";
+
+//Encounter 1
+"enc_c6e1_title" = "Обман";
+
+//Encounter 2
+"enc_c6e2_title" = "Бонусный раунд";
+
+//Encounter 3
+"enc_c6e3_title" = "Побег из заключения";
+
+//Encounter 4
+"enc_c6e4_title" = "Брешь в защите";
+
+//Encounter 5
+"enc_c6e5_title" = "Ужин";
+
+//Encounter 6
+"enc_c6e6_title" = "Ответный удар!";
+
+//Encounter 7
+"enc_c6e7_title" = "Месть";
+
+//Encounter 8
+"enc_c6e8_title" = "Фильм ужасов";
+
+
+
+//Encounter 9
+"enc_c6e9_title" = "Безумие";
+
+//Encounter 10
+"enc_c6e10_title" = "Боевое крещение";
+
+/* End Chapter 6 */
+
+/* Chapter 7 */
+
+"ch_chapter7_name" = "Глава 7";
+"ch_chapter7_subtitle" = "Привет кораблям";
+
+//Encounter 1
+"enc_c7e1_title" = "Фламс";
+
+//Encounter 2
+"enc_c7e2_title" = "Пираты!";
+
+//Encounter 3
+"enc_c7e3_title" = "Шаг к победе";
+
+//Encounter 4
+"enc_c7e4_title" = "Верхняя мачта";
+
+//Encounter 5
+"enc_c7e5_title" = "Первый капитан";
+
+//Encounter 6
+"enc_c7e6_title" = "Воды с акулами";
+
+//Encounter 7
+"enc_c7e7_title" = "Пушечное ядро";
+
+//Encounter 8
+"enc_c7e8_title" = "Бонусный раунд";
+
+//Encounter 9
+"enc_c7e9_title" = "Причалы";
+
+//Encounter 10
+"enc_c7e10_title" = "Капитан Мелволио Дрейк";
+
+
+
+/* End Chapter 7 */
+
+/* Chapter 8 */
+
+"ch_chapter8_name" = "Глава 8";
+"ch_chapter8_subtitle" = "Новый король";
+
+//Encounter 1
+"enc_c8e1_title" = "Сообщение";
+
+//Encounter 2
+"enc_c8e2_title" = "Информация";
+
+//Encounter 3
+"enc_c8e3_title" = "Кабум и Каблам";
+
+//Encounter 4
+"enc_c8e4_title" = "Царство кротов";
+
+//Encounter 5
+"enc_c8e5_title" = "Позорная банда";
+
+//Encounter 6
+"enc_c8e6_title" = "Жулик";
+
+//Encounter 7
+"enc_c8e7_title" = "Стыд и позор";
+
+//Encounter 8
+"enc_c8e8_title" = "Бонусный раунд";
+
+//Encounter 9
+"enc_c8e9_title" = "Король везде и всюду";
+
+//Encounter 10
+"enc_c8e10_title" = "Сила кротов";
+
+/* End Chapter 8 */
+
+/* Chapter 9 */
+
+"ch_chapter9_name" = "Глава 9";
+"ch_chapter9_subtitle" = "Непобедимый";
+
+//Encounter 1 - The Trips
+"enc_c9e1_title" = "Три претендента";
+
+//Encounter 2
+"enc_c9e2_title" = "Бонусный раунд";
+
+//Encounter 3 - Sid the Kid
+"enc_c9e3_title" = "Недостойный";
+
+//Encounter 4 - King of Sling
+"enc_c9e4_title" = "Король или Учитель";
+
+//Encounter 5 - Trixie
+"enc_c9e5_title" = "Закадычные друзья";
+
+//Encounter 6 - Fake Duelist
+"enc_c9e6_title" = "Фокусник";
+
+//Encounter 7 - Unbeatable Master
+"enc_c9e7_title" = "Проверка";
+
+//Encounter 8 - Young Dr. Blakk
+"enc_c9e8_title" = "Давным-давно";
+
+//Encounter 9 - Twist
+"enc_c9e9_title" = "Сплетенные";
+
+//Encounter 10 - Dr. Blakk
+"enc_c9e10_title" = "По стопам Учителя";
+
+/* End Chapter 9 */
+
+/* Chapter 10 */
+
+"ch_chapter10_name" = "Глава 10";
+"ch_chapter10_subtitle" = "Глубокое хранилище";
+
+//Encounter 1 - Broken Auto-Cannon
+"enc_c10e1_title" = "Свалка";
+
+//Encounter 2 - Doombot 1.0 & Doombot 2.0
+"enc_c10e2_title" = "Роботы: ответный удар";
+
+//Encounter 3 - Mecha-Mole
+"enc_c10e3_title" = "Механический монстр";
+
+//Encounter 4 - Tough Guy Gang Member #1 -
+"enc_c10e4_title" = "Банда в сборе";
+
+//Encounter 5 - Tough Guy Gang Member #2 - Welder
+"enc_c10e5_title" = "Вражеская территория";
+
+//Encounter 6 - Tough Guy Gang Member #3 - Neckbrace
+"enc_c10e6_title" = "Цена на металлолом";
+
+//Encounter 7 - Tough Guy Gang Member #4 - Troll
+"enc_c10e7_title" = "Крепкий орешек";
+
+//Encounter 8 - Boss Ember
+"enc_c10e8_title" = "Большой Босс";
+
+//Encounter 9
+"enc_c10e9_title" = "Бонусный раунд";
+
+//Encounter 10 - Angry Boss Ember
+"enc_c10e10_title" = "Главный Босс";
+
+/* End Chapter 10 */
+
+/* Chapter 11 */
+
+"ch_chapter11_name" = "Глава 11";
+"ch_chapter11_subtitle" = "Хулиганы из Расти Бакл";
+
+//Encounter 1 - Glasses
+"enc_c11e1_title" = "Арахис!";
+
+//Encounter 2 - Shorty
+"enc_c11e2_title" = "На мелкие кусочки";
+
+//Encounter 3 - Billy
+"enc_c11e3_title" = "Рацион Билли";
+
+//Encounter 4 - Jeen
+"enc_c11e4_title" = "Жим лежа";
+
+//Encounter 5 - Trapsie
+"enc_c11e5_title" = "В ловушке";
+
+//Encounter 6 - Alias
+"enc_c11e6_title" = "Самый-самый";
+
+//Encounter 7 - Welder Walter and Lil Stevie
+"enc_c11e7_title" = "Резюме злодея";
+
+//Encounter 8 - Mongo
+"enc_c11e8_title" = "Добровольцы";
+
+//Encounter 9 - Straggus
+"enc_c11e9_title" = "Тусклые лампы";
+
+//Encounter 10 - Billy, Alias and Straggus
+"enc_c11e10_title" = "Сила дружбы";
+
+/* End Chapter 11 */
+
+/* Chapter 12 */
+
+"ch_chapter12_name" = "Глава 12";
+"ch_chapter12_subtitle" = "Непроглядная тьма";
+
+//Encounter 1 - Blakk Soldier & John Bull
+"enc_c12e1_title" = "Загнанный в угол";
+
+//Encounter 2 - Nacho
+"enc_c12e2_title" = "Страх высоты";
+
+//Encounter 3 - Darkbane Soldier 1
+"enc_c12e3_title" = "Огнешары";
+
+//Encounter 4 - Darkbane Soldier 2
+"enc_c12e4_title" = "Вооооииин!";
+
+//Encounter 5 - Darkbane Soldier 3
+"enc_c12e5_title" = "Больше огнешаров!";
+
+//Encounter 6 - Shadow Clan Protector
+"enc_c12e6_title" = "Стражники";
+
+//Encounter 7 - Prison Door
+"enc_c12e7_title" = "Трудный выбор";
+
+//Encounter 8 - Prison Guards
+"enc_c12e8_title" = "Тревога!";
+
+//Encounter 9 - Prison Warden
+"enc_c12e9_title" = "Поэзия в неволе";
+
+//Encounter 10 - Darkbane Nacho
+"enc_c12e10_title" = "Незаменимый помощник";
+
+/* End Chapter 12 */
+
+
+/* Chapter 13 */
+
+"ch_chapter13_name" = "Глава 13";
+"ch_chapter13_subtitle" = "Огонь и Бримстоун";
+
+//Encounter 1 - Darkbane 1
+"enc_c13e1_title" = "В темноте";
+
+//Encounter 2 - Darkbane 2
+"enc_c13e2_title" = "Испытание огнешарами";
+
+//Encounter 3 - Darkbane 3
+"enc_c13e3_title" = "Строй";
+
+//Encounter 4 - Prison Warden
+"enc_c13e4_title" = "Худшая поэма";
+
+//Encounter 5 - Bonus Round - Brimstone's Throne
+"enc_c13e5_title" = "Бонусный раунд";
+
+//Encounter 6 - Darkbane Elite 1 & 2
+"enc_c13e6_title" = "Знать";
+
+//Encounter 7 - Darkbane Nacho
+"enc_c13e7_title" = "Черная магия";
+
+//Encounter 8 - Angry Nacho
+"enc_c13e8_title" = "Секреты";
+
+//Encounter 9 - Behemoth
+"enc_c13e9_title" = "Упрямство";
+
+//Encounter 10 - Brimstone
+"enc_c13e10_title" = "Судьба";
+
+/* End Chapter 13 */
+
+
+/* Chapter 14 */
+
+"ch_chapter14_name" = "Глава 14";
+"ch_chapter14_subtitle" = "Найденные в снах";
+
+//Encounter 1 - Pronto, Kord and Trixie
+"enc_c14e1_title" = "Затишье";
+
+//Encounter 2 - Dr.Blakk
+"enc_c14e2_title" = "Амнезия";
+
+//Encounter 3 - Spirex
+"enc_c14e3_title" = "Паутины";
+
+//Encounter 4 - Eli
+"enc_c14e4_title" = "Лицом к лицу";
+
+//Encounter 5 - Young Blakk
+"enc_c14e5_title" = "Бласт из прошлого";
+
+//Encounter 6 - Behemoth
+"enc_c14e6_title" = "Великан";
+
+//Encounter 7 - Angry Blakk
+"enc_c14e7_title" = "Крутой нрав";
+
+//Encounter 8 - Unbeatable Master
+"enc_c14e8_title" = "Истинная мудрость";
+
+//Encounter 9 - Gat Blakk
+"enc_c14e9_title" = "Атака Гэта";
+
+//Encounter 10 - Will Shane
+"enc_c14e10_title" = "Воссоединение";
+
+/* End Chapter 14 */
+
+/* Chapter 15 */
+
+"ch_chapter15_name" = "Глава 15";
+"ch_chapter15_subtitle" = "И снова Блэк";
+
+//Encounter 1 - Dr.Blakk
+"enc_c15e1_title" = "Давным-давно";
+
+//Encounter 2 -
+"enc_c15e2_title" = "Тяжелые времена";
+
+//Encounter 3 -
+"enc_c15e3_title" = "Забастовка";
+
+//Encounter 4 -
+"enc_c15e4_title" = "Встряска";
+
+//Encounter 5 - Will Shane
+"enc_c15e5_title" = "На чужой стороне";
+
+//Encounter 6 -
+"enc_c15e6_title" = "Переворот";
+
+//Encounter 7 - Will Shane
+"enc_c15e7_title" = "Прогресс";
+
+//Encounter 8 - Behemoth
+"enc_c15e8_title" = "Темные знания";
+
+//Encounter 9 - Bonus
+"enc_c15e9_title" = "Бонусный раунд";
+
+//Encounter 10 - Will Shane
+"enc_c15e10_title" = "Судьба";
+
+//Encounter 11 - Dr.Blakk
+"enc_c15e11_title" = "Часть головоломки";
+
+/* End Chapter 15 */
+
+/* Chapter 16 */
+
+"ch_chapter16_name" = "Глава 16";
+"ch_chapter16_subtitle" = "Пересечение теней";
+
+//Encounter 1 - Blakk Guard
+"enc_c16e1_title" = "Отряд Альфа";
+
+//Encounter 2 - Doombot
+"enc_c16e2_title" = "Боевой робот";
+
+//Encounter 3 - Elite Blakk Guard
+"enc_c16e3_title" = "Отряд Дельта";
+
+//Encounter 4 - Locke and Lode
+"enc_c16e4_title" = "Диверсии";
+
+//Encounter 5 - Darkbane Hartag and Darkbane Drek
+"enc_c16e5_title" = "Друзья моего врага";
+
+//Encounter 6 - Darkbane Prison Warden
+"enc_c16e6_title" = "Яркое пламя";
+
+//Encounter 7 - Nacho
+"enc_c16e7_title" = "Альянсы";
+
+//Encounter 8 - Bonus
+"enc_c16e8_title" = "Бонусный раунд";
+
+//Encounter 9 - Titan
+"enc_c16e9_title" = "Открывашка";
+
+//Encounter 10 - Nacho
+"enc_c16e10_title" = "Подготовка пути";
+
+/* End Chapter 16 */
+
+/* Chapter 17 */
+
+"ch_chapter17_name" = "Глава 17";
+"ch_chapter17_subtitle" = "Темнее ночи";
+
+//Encounter 1 - Red Hook
+"enc_c17e1_title" = "Сила огня";
+
+//Encounter 2 - Elite Blakk Guard
+"enc_c17e2_title" = "Новые союзы";
+
+//Encounter 3 - Nacho
+"enc_c17e3_title" = "Агент тьмы";
+
+//Encounter 4 - Technician
+"enc_c17e4_title" = "Наука тьмы";
+
+//Encounter 5 - Bonus
+"enc_c17e5_title" = "Полный упадок";
+
+//Encounter 6 - Elite Blakk Guard
+"enc_c17e6_title" = "Сердце цитадели";
+
+//Encounter 7 - Dr. Blakk
+"enc_c17e7_title" = "Старые друзья";
+
+//Encounter 8 - Darkbane
+"enc_c17e8_title" = "Открытые врата 1";
+
+//Encounter 8 - Darkbane
+"enc_c17e9_title" = "Открытые врата 2";
+
+//Encounter 9 - Dr. Blakk
+"enc_c17e10_title" = "Темнее ночи";
+
+//Encounter 10 - Bonus
+"enc_c17e11_title" = "Светлее дня";
+
+/* End Chapter 17 */

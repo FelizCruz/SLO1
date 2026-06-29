@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>cavern/bg.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,2},{1000,750}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{1000,750}}</string>
+                <key>sourceSize</key>
+                <string>{1000,750}</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>2</integer>
+            <key>realTextureFileName</key>
+            <string>ss_cavern2-hd.pvr.ccz</string>
+            <key>size</key>
+            <string>{1024,1024}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:27efe459a6a0e8067132b3d7dadafba7:bd5915dca3067e5c44e31d34b2118ee6:26874772fe01c5964c5b0434b6d2b50c$</string>
+            <key>textureFileName</key>
+            <string>ss_cavern2-hd.pvr.ccz</string>
+        </dict>
+    </dict>
+</plist>

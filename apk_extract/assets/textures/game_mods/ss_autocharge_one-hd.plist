@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>game_mods/autocharge_one/graphic.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,2},{209,209}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{209,209}}</string>
+                <key>sourceSize</key>
+                <string>{209,209}</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>2</integer>
+            <key>realTextureFileName</key>
+            <string>ss_autocharge_one-hd.pvr.ccz</string>
+            <key>size</key>
+            <string>{256,256}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:573e68fe6399f508955e8ecda79818c6:3caf3ff768d0b7f53439d76d972dee96:034df908edf9c437d4822187195eee87$</string>
+            <key>textureFileName</key>
+            <string>ss_autocharge_one-hd.pvr.ccz</string>
+        </dict>
+    </dict>
+</plist>

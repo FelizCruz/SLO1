@@ -1,0 +1,84 @@
+/* 
+  Dialogue.strings
+  slugpuzzle
+
+  Created by Dennis Leong on 2014-07-15.
+
+*/
+
+/* Cavern 1 */
+
+//Cavern 1
+"name_cavern1_name" = "Herringbone Cavern";
+/* End Cavern 1 */
+
+/* Cavern 2 */
+
+//Cavern 2
+"name_cavern2_name" = "Ai margini oscuri";
+/* End Cavern 2 */
+
+/* Cavern 3 */
+
+//Cavern 3
+"name_cavern3_name" = "Deep Caverns";
+//* End Cavern 3 */
+
+/* Cavern 4 */
+
+//Cavern 4
+"name_cavern4_name" = "Caverna Slugmas Snowdance";
+/* End Cavern 4 */
+
+/* Cavern 5 */
+
+//Cavern 5
+"name_cavern5_name" = "Dojang Grotto";
+/* End Cavern 5 */
+
+/* Chapter 1 */
+
+//Encounter 1
+"enc_c1e1o1_dialog_1a" = "WOW! Un troll delle caverne. Ho sempre desiderato conoscerne uno!";
+"enc_c1e1o1_dialog_2a" = "Sono Kord Zane. Non sei di queste parti, vero?";
+"enc_c1e1o1_dialog_2b" = "Meglio che ti insegni come difenderti. Osserva la griglia qui sotto.";
+"enc_c1e1o1_dialog_3a" = "Prova a spostare le tessere toccandole e trascinandole.";
+"enc_c1e1o1_dialog_4a" = "Ottimo lavoro. Basta così.";
+"enc_c1e1o1_dialog_5a" = "OK Eli, adesso ti faccio vedere come abbinare le tessere.";
+"enc_c1e1o1_dialog_6a" = "Adesso vediamo se riesci ad abbinare tre tessere blaster.";
+"enc_c1e1o1_dialog_7a" = "Ouch! Ed era la tua prima volta!?! Non avresti dovuto riuscire a colpirmi!";
+"enc_c1e1o1_dialog_7b" = "Scommetto che non riesci a rifarlo, però.";
+"enc_c1e1o1_dialog_8a" = "Sposta le tessere blaster per creare un altro abbinamento!";
+"enc_c1e1o1_dialog_9a" = "Ahia! OK, è evidente che te la cavi bene... ma non sei l'unico ad avere un blaster! Ti sfido!";
+"enc_c1e1o1_dialog_10a" = "Ohi! Ahia! Ohi! Ma perché fai così? Ah già, te l'ho detto io...";
+
+//Encounter 2
+"enc_c1e2o1_dialog_1a" = "Ottimo lavoro! Passo successivo: curarti.";
+"enc_c1e2o1_dialog_2a" = "Abbina tre tessere verdi per ripristinare la barra salute.";
+"enc_c1e2o1_dialog_3a" = "Va meglio? Molto bene!";
+"enc_c1e2o1_dialog_4a" = "Scusa, il mio blaster è un po' troppo sensibile. Ti conviene curarti un altro po'.";
+"enc_c1e2o1_dialog_5a" = "Prova ad abbinare quattro tessere cura.";
+"enc_c1e2o1_dialog_6a" = "Più tessere riesci ad abbinare in un'unica mossa, meglio è.";
+"enc_c1e2o1_dialog_6b" = "Ora vediamo quanto duri in un duello.";
+"enc_c1e2o1_dialog_7a" = "Mannaggia, stavo quasi per batterti!";
+"enc_c1e2o1_dialog_8a" = "Ma tu non dovresti farmi da insegnante?";
+"enc_c1e2o1_dialog_9a" = "Ah già. Ok... era un test... e l'hai superato!";
+
+//Encounter 3
+"enc_c1e3o1_dialog_1a" = "Ehi! È forse uno slug Infuocato quello che hai lì?";
+"enc_c1e3o1_dialog_2a" = "Si chiama Burpy. È incredibile.";
+"enc_c1e3o1_dialog_3a" = "Gli slug Infurnus si trasformano in potenti creature di fuoco.";
+"enc_c1e3o1_dialog_4a" = "Burpy dice che vuole fare pratica con la trasformazione.";
+"enc_c1e3o1_dialog_5a" = "Prova ad abbinare un po' di tessere fuoco per caricare l'attacco di Burpy!";
+"enc_c1e3o1_dialog_6a" = "Continua, gli serve più potenza!";
+"enc_c1e3o1_dialog_7a" = "Abbinando cinque tessere fuoco contemporaneamente Burpy si caricherà di un livello.";
+"enc_c1e3o1_dialog_8a" = "Ora che Burpy è carico, tocca lo slug per liberare tutta la potenza del suo nuovo attacco!";
+"enc_c1e3o1_dialog_9a" = "Ohi ohi ohi. OK. Mi pare che tu ci stia prendendo la mano. Duello!";
+"enc_c1e3o1_dialog_10a" = "AHIA! La prossima volta magari prova a non mandarmi a fuoco!";
+"enc_c1e3o1_dialog_10b" = "Penso che sia arrivato il momento del tuo primo duello! PRONTO!";
+
+//Encounter 4
+"enc_c1e4o1_dialog_1a" = "Pronto il Magnifico non ti risparmierà neanche un colpo! Preparati a venire umiliato!";
+"enc_c1e4o1_dialog_2a" = "Ah...";
+"enc_c1e4o1_dialog_3a" = "Sei pronto, mio giovane amico! È ora di partecipare al torneo!";
+"enc_c1e4o1_dialog_4a" = "...";

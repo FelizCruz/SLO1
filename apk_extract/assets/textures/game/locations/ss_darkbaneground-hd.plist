@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>location/darkbaneground/bg.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,2},{980,735}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{980,735}}</string>
+                <key>sourceSize</key>
+                <string>{980,735}</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>2</integer>
+            <key>realTextureFileName</key>
+            <string>ss_darkbaneground-hd.pvr.ccz</string>
+            <key>size</key>
+            <string>{1024,1024}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:9af338df54380d6cc4385b0724f822c8:b81e8e19b28b22990a5f8f0cdd3f5ca4:a1346ae691f9e28fc73efc7c7caf4a03$</string>
+            <key>textureFileName</key>
+            <string>ss_darkbaneground-hd.pvr.ccz</string>
+        </dict>
+    </dict>
+</plist>

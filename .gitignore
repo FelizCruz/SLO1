@@ -1,0 +1,12 @@
+# Xcode
+build/
+*.pbxproj
+*.xcworkspace
+xcuserdata/
+DerivedData/
+
+# OS X
+.DS_Store
+
+# Large files
+slugitout.apk

@@ -1,0 +1,56 @@
+/*
+ Dialogue.strings
+ slugpuzzle
+ 
+ Created by Dennis Leong on 2014-07-15.
+ 
+ */
+
+/* Cavern 1 */
+
+//Cavern 1
+"name_cavern1_name" = "人字形岩洞";
+
+/* End Cavern 1 */
+
+/* Cavern 2 */
+
+//Cavern 2
+"name_cavern2_name" = "黑暗边缘";
+
+/* End Cavern 2 */
+
+/* Cavern 3 */
+
+//Cavern 3
+"name_cavern3_name" = "深层岩洞";
+
+/* End Cavern 3 */
+
+/* Cavern 4 */
+
+//Cavern 4
+"name_cavern4_name" = "精灵雪舞";
+
+/* End Cavern 4 */
+
+/* Cavern 5 */
+
+//Cavern 5
+"name_cavern5_name" = "道场岩洞";
+
+/* End Cavern 5 */
+
+
+/* Chapter 1 */
+
+//Encounter 4
+/*
+"enc_c1e4o1_dialog_1a" = "The most Magnificent Pronto will not hold back for training purposes! Prepare for ultimate defeat!";
+"enc_c1e4o1_dialog_2a" = "Right...";
+"enc_c1e4o1_dialog_3a" = "It is an honour to serve with such a talented slugslinger. Pronto will lend you his favourite slug, Stinky!";
+"enc_c1e4o1_dialog_4a" = "Yech... I mean, thank you Pronto!"; 
+ 
+ */
+
+/* End Chapter 1 */

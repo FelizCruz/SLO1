@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>reward_slug_pack/ghoulSlugsSmall.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,2},{267,265}}</string>
+                <key>offset</key>
+                <string>{-1,-2}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{17,4},{267,265}}</string>
+                <key>sourceSize</key>
+                <string>{303,269}</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>2</integer>
+            <key>realTextureFileName</key>
+            <string>ss_reward_packs-hd.pvr.ccz</string>
+            <key>size</key>
+            <string>{512,512}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:b6c700c08d25445f460ea4b36c1c7b4d:b8b2d110833bdccee8dfe86a615d0f5a:749e8f478fd81a35cf33107ab22fb6cd$</string>
+            <key>textureFileName</key>
+            <string>ss_reward_packs-hd.pvr.ccz</string>
+        </dict>
+    </dict>
+</plist>

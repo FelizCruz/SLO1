@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>location/dream_white/bg.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,2},{500,375}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{500,375}}</string>
+                <key>sourceSize</key>
+                <string>{500,375}</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>2</integer>
+            <key>realTextureFileName</key>
+            <string>ss_dream_white.pvr.ccz</string>
+            <key>size</key>
+            <string>{512,512}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:aec46c0a2c7cc776041458318d0abf07:d0c7e6eed7898a4e104ea14f96d3cb60:07838d57aad72b4f1220500185e0d0ff$</string>
+            <key>textureFileName</key>
+            <string>ss_dream_white.pvr.ccz</string>
+        </dict>
+    </dict>
+</plist>

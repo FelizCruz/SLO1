@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>fang/VS.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,2},{500,472}}</string>
+                <key>offset</key>
+                <string>{-6,-71}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,142},{500,472}}</string>
+                <key>sourceSize</key>
+                <string>{512,614}</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>2</integer>
+            <key>realTextureFileName</key>
+            <string>ss_fang-hd.pvr.ccz</string>
+            <key>size</key>
+            <string>{512,512}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:499fb563ddb243f0efdf60f7bee3dcaf:4985b172c536244779cdbdd5ec2e02ba:2aa124b80c8d142c22751cc3b09a67ef$</string>
+            <key>textureFileName</key>
+            <string>ss_fang-hd.pvr.ccz</string>
+        </dict>
+    </dict>
+</plist>

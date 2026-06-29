@@ -1,0 +1,319 @@
+<html>
+<body>
+  <div class='content'>
+    <div class='content-column'>
+      <h2>Open Source</h2>
+      <br>
+      <p>
+        Apportable is powered by
+        <a href="http://www.fsf.org/">Free and Open Source Software</a>.
+      </p>
+      <p>
+        We are making portions of our platform available under an
+        <a href="http://www.gnu.org/licenses/lgpl.html">LGPLv3</a>
+        license so that others may
+        use and improve upon our code. These libraries
+        can be dynamically linked to proprietary software and are
+        distributed as separate binaries in Apportable applications.
+      </p>
+      <h2><a href="https://github.com/apportableinc/openal-soft">Fixed Point OpenAL-soft</a></h2>
+      <p>
+        We forked
+        <a href="http://repo.or.cz/w/openal-soft.git">OpenAL-soft</a>
+        and improved audio performance on Android by
+        replacing floating point operations with fixed point operations.
+      </p>
+      <h2><a href="https://github.com/apportableinc/Foundation">Apportable Foundation</a></h2>
+      <p>
+        We have developed our own version of the
+        NeXTSTEP/OpenStep Foundation APIs, combining code from the
+        <a href="http://www.gnustep.org/">GNUstep</a>
+        and
+        <a href="http://www.cocotron.org/">Cocotron</a>
+        projects.
+      </p>
+      <div class='clr'></div>
+      <p>
+        If you would to purchase a commercial license that includes email
+        support, email support@apportable.com.
+      </p>
+      <br>
+      <h2>How Can I Contribute?</h2>
+      <br>
+      <p>
+        First, send an email to opensource@apportable.com saying which project you would like to contribute to and give some information like your physical mailing address. Within a few days we will give you a contributor agreement to sign. Once we receive your agreement, we can accept your code into the repository or give you write access to the repository if you wish.
+      </p>
+      <br>
+    </div>
+    <div class='content-column'>
+      <h2>Credits</h2>
+      <br>
+      <p>The following other open source projects are also used by the Apportable platform:</p>
+      <p>
+        <ul>
+          <li>
+            <a href="ftp://download.nvidia.com/developer/GPU_Gems/CD_Image/Image_Processing/Image_Processing_Framework/LIBS/src/nv_dds/nv_dds.cpp">DDS decoder</a>
+            (NVIDIA general license)
+            This software contains source code provided by NVIDIA Corporation.
+          </li>
+          <li>
+            <a href="http://www.opensource.apple.com/source/CommonCrypto/">CommonCrypto</a>
+            (APSL license)
+          </li>
+          <li>
+            <a href="http://www.gnustep.org">GNUstep Objective-C runtime</a>
+            (MIT license)
+          </li>
+          <li>
+            <a href="http://www.cocotron.org">Cocotron</a>
+            (MIT license)
+          </li>
+          <li>
+            <a href="https://github.com/stig/json-framework/">JSON</a>
+            (new BSD license)
+          </li>
+          <li>
+            <a href="http://www.freebsd.org/cgi/cvsweb.cgi/src/lib/libc/">BSD libc</a>
+            (BSD license)
+          </li>
+          <li>
+            <a href="http://xiph.org/vorbis/">libvorbis</a>
+            (BSD license)
+          </li>
+          <li>
+            <a href="http://www.freetype.org/">FreeType</a>
+            (FreeType license)
+          </li>
+          <li>
+            <a href="http://source.android.com/source/">Android SDK/NDK</a>
+            (Apache Software License 2.0)
+          </li>
+          <li>
+            <a href="http://www.libpng.org/pub/png/libpng.html">libpng</a>
+            (zlib license)
+          </li>
+          <li>
+            <a href="http://zlib.net/">zlib</a>
+            (zlib license)
+          </li>
+          <li>
+            <a href="http://uriparser.sourceforge.net">uriparser</a>
+            (new BSD license)
+          </li>
+          <li>
+            <a href="http://libdispatch.macosforge.org/">libdispatch</a>
+            (Apache Software License 2.0)
+          </li>
+          <li>
+            <a href="http://mark.heily.com/project/libpthread_workqueue">libpthread_workqueue</a>
+            (BSD license)
+          </li>
+          <li>
+            <a href="http://mark.heily.com/project/libkqueue/">libkqueue</a>
+            (BSD license)
+          </li>
+          <li>
+            <a href="http://www.openssl.org/">openssl</a>
+            (OpenSSL license)
+          </li>
+          <li>
+            <a href="http://xmlsoft.org/">libxml2</a>
+            (MIT license)
+          </li>
+          <li>
+            <a href="http://clang.llvm.org/">Clang</a>
+            (LLVM license)
+          </li>
+          <li>
+            <a href="https://github.com/Kazade/kazmath">kazmath</a>
+            (BSD license)
+          </li>
+          <li>
+            <a href="http://sourceforge.net/projects/libtarga/">libtarga</a>
+            (MIT license)
+          </li>
+          <li>
+            <a href="http://stig.github.com/json-framework/">SBJSON</a>
+            (BSD license)
+          </li>
+          <li>
+            <a href="http://www.sqlite.org/">SQLite</a>
+            (public domain)
+          </li>
+          <li>
+            <a href="ftp://download.nvidia.com/developer/GPU_Gems/CD_Image/Image_Processing/Image_Processing_Framework/LIBS/src/nv_dds/nv_dds.cpp">DDS decoder</a>
+            (NVIDIA general license)
+          </li>
+          <li>
+            <a href="http://www.opensource.apple.com/source/CommonCrypto/">CommonCrypto</a>
+            (APSL license)
+          </li>
+          <li>
+            <a href="http://www.gnustep.org">GNUstep Objective-C runtime</a>
+            (MIT license)
+          </li>
+          <li>
+            <a href="http://www.cocotron.org">Cocotron</a>
+            (MIT license)
+          </li>
+          <li>
+            <a href="https://github.com/stig/json-framework/">JSON</a>
+            (new BSD license)
+          </li>
+          <li>
+            <a href="http://www.freebsd.org/cgi/cvsweb.cgi/src/lib/libc/">BSD libc</a>
+            (BSD license)
+          </li>
+          <li>
+            <a href="http://xiph.org/vorbis/">libvorbis</a>
+            (BSD license)
+          </li>
+          <li>
+            <a href="http://www.freetype.org/">FreeType</a>
+            (FreeType license)
+          </li>
+          <li>
+            <a href="http://source.android.com/source/">Android SDK/NDK</a>
+            (Apache Software License 2.0)
+          </li>
+          <li>
+            <a href="http://www.libpng.org/pub/png/libpng.html">libpng</a>
+            (zlib license)
+          </li>
+          <li>
+            <a href="http://zlib.net/">zlib</a>
+            (zlib license)
+          </li>
+          <li>
+            <a href="http://uriparser.sourceforge.net">uriparser</a>
+            (new BSD license)
+          </li>
+          <li>
+            <a href="http://libdispatch.macosforge.org/">libdispatch</a>
+            (Apache Software License 2.0)
+          </li>
+          <li>
+            <a href="http://mark.heily.com/project/libpthread_workqueue">libpthread_workqueue</a>
+            (BSD license)
+          </li>
+          <li>
+            <a href="http://mark.heily.com/project/libkqueue/">libkqueue</a>
+            (BSD license)
+          </li>
+          <li>
+            <a href="http://www.openssl.org/">openssl</a>
+            (OpenSSL license)
+          </li>
+          <li>
+            <a href="http://xmlsoft.org/">libxml2</a>
+            (MIT license)
+          </li>
+          <li>
+            <a href="http://clang.llvm.org/">Clang</a>
+            (LLVM license)
+          </li>
+          <li>
+            <a href="https://github.com/Kazade/kazmath">kazmath</a>
+            (BSD license)
+          </li>
+          <li>
+            <a href="http://sourceforge.net/projects/libtarga/">libtarga</a>
+            (MIT license)
+          </li>
+          <li>
+            <a href="http://stig.github.com/json-framework/">SBJSON</a>
+            (BSD license)
+          </li>
+          <li>
+            <a href="http://www.sqlite.org/">SQLite</a>
+            (public domain)
+          </li>
+          <li>
+            <a href="https://github.com/facebook/facebook-ios-sdk">Facebook SDK</a>
+            (Apache Software License 2.0)
+          </li>
+          <li>
+            <a href="https://github.com/zynga/FontLabel">ZFont</a>
+            (Apache Software License 2.0)
+          </li>
+          <li>
+            <a href="http://opensource.apple.com/source/CF/CF-635.21/">Apple CFLite</a>
+            (APSL license)
+          </li>
+          <li>
+            <a href="http://www.opensource.apple.com/source/xnu/xnu-1456.1.26/">Apple XNU</a>
+            (APSL license)
+          </li>
+          <li>
+            <a href="http://www.boost.org/">Boost</a>
+            (Boost License)
+          </li>
+          <li>
+            <a href="https://code.google.com/p/gles2-bc/">gles2-bc</a>
+            (Apache Software License 2.0)
+          </li>
+          <li>
+            <a href="https://code.google.com/p/google-breakpad/">Breakpad</a>
+            (BSD License)
+          </li>
+          <li>
+            <a href="http://curl.haxx.se/libcurl/">libcurl</a>
+            (Curl License)
+          </li>
+          <li>
+            <a href="http://expat.sourceforge.net/">libexpat</a>
+            (MIT License)
+          </li>
+          <li>
+            <a href="http://sourceforge.net/projects/giflib/">GIFLIB</a>
+            (MIT License)
+          </li>
+          <li>
+            <a href="http://libjpeg.sourceforge.net/">libjpeg</a>
+            (libjpeg License)
+          </li>
+          <li>
+            <a href="http://www.libtiff.org/">libtiff</a>
+            (MIT License)
+          </li>
+          <li>
+            <a href="http://www.kernel.org/pub/linux/utils/util-linux/v2.21/">libuuid</a>
+            (Modified BSD License)
+          </li>
+          <li>
+            <a href="https://code.google.com/p/skia/">Skia</a>
+            (Apache Software License 2.0)
+          </li>
+          <li>
+            <a href="http://jmdns.sourceforge.net/">JMDNS</a>
+            (Apache Software License 2.0)
+          </li>
+          <li>
+            <a href="http://www.khronos.org/opengles/">OpenGLES</a>
+            (SGI Free Software B License Version 2.0)
+          </li>
+          <li>
+            <a href="http://developer.android.com/sdk/exploring.html">Google Market APK Expansion Library</a>
+            (Apache Software License 2.0)
+          </li>
+          <li>
+            <a href="https://github.com/sbarron/parsebridge">ParseBridge</a>
+            (MIT License)
+          </li>
+          <li>
+            <a href="http://kissfft.sf.net">Kiss FFT</a>
+            (BSD License)
+          </li>
+          <li>
+            <a href="http://www.opensource.apple.com/source/bzip2/bzip2-29/">bzip2</a>
+            <a href="http://www.opensource.apple.com/source/bzip2/bzip2-29/bzip2/LICENSE">(Custom License)</a>
+        </ul>
+      </p>
+      <p>
+        We thank the thousands of contributors who have made these projects possible.
+      </p>
+    </div>
+    <div class='clr'></div>
+  </div>
+</body>
+</html>

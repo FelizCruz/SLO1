@@ -1,0 +1,11 @@
+{
+  "v": 1,
+  "depth": 0,
+  "scope": "architecture",
+  "type": "decision",
+  "title": "Use Swift/SpriteKit for MVP instead of Android Emulator",
+  "preview": "Decided to build a native iOS clone in Swift instead of emulating Android.",
+  "summary": "The user wanted to play the old Android game 'Slugterra' on iOS. We evaluated emulating Android via LiveContainer/UTM, but the performance overhead (Linux kernel emulation + OpenGL to Metal translation) makes a fast-paced match-3 game unplayable. Instead, we are building a vertical slice (MVP) natively in Swift/SpriteKit that perfectly mirrors the core mechanics, and we will extract the original assets from the APK.",
+  "status": "active",
+  "tool": "Antigravity"
+}

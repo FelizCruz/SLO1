@@ -1,0 +1,99 @@
+/* 
+  Dialogue.strings
+  slugpuzzle
+
+  Created by Gaurav Sharma on 2014-08-01.
+
+*/
+
+/* Cavern 1 */
+
+//Cavern 1
+"name_cavern1_name" = "Herringbone Cavern";
+
+/* End Cavern 1 */
+
+/* Cavern 2 */
+
+//Cavern 2
+"name_cavern2_name" = "Arredores Sombrios";
+
+/* End Cavern 2 */
+
+/* Cavern 3 */
+
+//Cavern 3
+"name_cavern3_name" = "Deep Caverns";
+
+/* End Cavern 3 */
+
+/* Cavern 4 */
+
+//Cavern 4
+"name_cavern4_name" = "Carverna Natal na Neve";
+
+/* End Cavern 4 */
+
+/* Cavern 5 */
+
+//Cavern 5
+"name_cavern5_name" = "Gruta Dojang";
+
+/* End Cavern 5 */
+
+/* Chapter 1 */
+
+//Encounter 1
+"enc_c1e1o1_dialog_1a" = "Legal! Um ogro das cavernas. Eu sempre quis conhecer um!";
+"enc_c1e1o1_dialog_2a" = "Sou Kord Zane. Você não é daqui, não é mesmo?";
+"enc_c1e1o1_dialog_2b" = "É melhor eu ensinar a você como se defender. Observe a grade de peças abaixo.";
+"enc_c1e1o1_dialog_3a" = "Mova as peças tocando em uma delas e arrastando-a para o campo adjacente.";
+"enc_c1e1o1_dialog_4a" = "Bom trabalho, jovem. Já está bom.";
+"enc_c1e1o1_dialog_5a" = "Certo, Eli, agora vou mostrar como combinar as peças.";
+"enc_c1e1o1_dialog_6a" = "Veja se você consegue combinar três peças de lançador.";
+"enc_c1e1o1_dialog_7a" = "Ufa! Esse foi seu primeiro tiro de lançador?!? Ninguém diria que você pudesse me atingir.";
+"enc_c1e1o1_dialog_7b" = "Aposto que não consegue fazer isso de novo.";
+"enc_c1e1o1_dialog_8a" = "Mova as peças de lançador para fazer outra combinação.";
+"enc_c1e1o1_dialog_9a" = "Ui! Certo, você é bom atirando... mas não é o único que tem um lançador. Vamos duelar!";
+"enc_c1e1o1_dialog_10a" = "Oh! Ah! Ufa! Para que você fez isso? Certo, eu disse a você...";
+
+/* End Cavern 6 */
+
+/* Cavern 7 */
+
+/*Cavern 7*/
+"name_cavern7_name" = "";
+//Encounter 1
+"enc_cv7e1o1_dialog_1a" = "";
+//Encounter 2
+"enc_c1e2o1_dialog_1a" = "Bom trabalho, jovem! Próximo passo: curar.";
+"enc_c1e2o1_dialog_2a" = "Combine três peças verdes de energia para restaurar sua barra de energia.";
+"enc_c1e2o1_dialog_3a" = "Está se sentindo melhor? Bom!";
+"enc_c1e2o1_dialog_4a" = "Desculpe, meu lançador é um pouco sensível. É melhor você curar de novo.";
+"enc_c1e2o1_dialog_5a" = "Tente combinar aquelas quatro peças de energia.";
+"enc_c1e2o1_dialog_6a" = "Quanto mais peças você combinar em um só movimento, melhor.";
+"enc_c1e2o1_dialog_6b" = "Vamos ver quanto tempo você aguenta no duelo.";
+"enc_c1e2o1_dialog_7a" = "Droga. Eu estava quase vencendo.";
+"enc_c1e2o1_dialog_8a" = "Você não deveria estar me ensinando?";
+"enc_c1e2o1_dialog_9a" = "Hã... certo. Foi um teste... e você passou!";
+
+//Encounter 3
+"enc_c1e3o1_dialog_1a" = "Cara! Isso aí é uma lesma Infurnus? ";
+"enc_c1e3o1_dialog_2a" = "O nome dele é Burpy. Ele é incrível.";
+"enc_c1e3o1_dialog_3a" = "As lesmas Infurnus se transformam em poderosas criaturas de fogo.";
+"enc_c1e3o1_dialog_4a" = "Burpy está dizendo que quer treinar transformação.";
+"enc_c1e3o1_dialog_5a" = "Combine algumas peças de fogo para melhorar o ataque do Burpy!";
+"enc_c1e3o1_dialog_6a" = "Continue! Ele precisa de mais vitamina.";
+"enc_c1e3o1_dialog_7a" = "Se você combinar cinco peças de uma vez, Burpy vai carregar um nível.";
+"enc_c1e3o1_dialog_8a" = "Agora que Burpy está carregado, toque sua lesma para liberar o novo ataque!";
+"enc_c1e3o1_dialog_9a" = "Ôu ôu ôu ôu. Tudo bem. Acho que você pegou o jeito. Duelo!";
+"enc_c1e3o1_dialog_10a" = "Ai! Da próxima vez, tente não incendiar minhas calças!";
+"enc_c1e3o1_dialog_10b" = "Acho que você está pronto para seu primeiro duelo de verdade. PRONTO!!!!!!";
+
+//Encounter 4
+"enc_c1e4o1_dialog_1a" = "O Magnífico pronto não vai facilitar o treinamento de ninguém. Prepare-se para uma grande derrota!";
+"enc_c1e4o1_dialog_2a" = "Certo...";
+"enc_c1e4o1_dialog_3a" = "É uma honra servir um lançador de lesmas tão talentoso. Pronto lhe dará a lesma favorita dele, Stinky,";
+"enc_c1e4o1_dialog_4a" = "Eca... quero dizer, obrigado Pronto!";
+
+/* End Chapter 1 */

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>location/prisoncells/bg.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,2},{490,368}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{490,368}}</string>
+                <key>sourceSize</key>
+                <string>{490,368}</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>2</integer>
+            <key>realTextureFileName</key>
+            <string>ss_prisoncells.pvr.ccz</string>
+            <key>size</key>
+            <string>{512,512}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:1b39a397b2c565b868e6d96133646fcb:6cb5cbbc35d7688c691cd380fb4b81a1:962512e1b4222918613e709798f5ce53$</string>
+            <key>textureFileName</key>
+            <string>ss_prisoncells.pvr.ccz</string>
+        </dict>
+    </dict>
+</plist>

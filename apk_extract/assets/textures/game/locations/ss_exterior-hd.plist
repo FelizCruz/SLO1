@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>location/exterior/bg.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,2},{980,735}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{980,735}}</string>
+                <key>sourceSize</key>
+                <string>{980,735}</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>2</integer>
+            <key>realTextureFileName</key>
+            <string>ss_exterior-hd.pvr.ccz</string>
+            <key>size</key>
+            <string>{1024,1024}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:9bc280188829fe12eb5f25f7d8d013c3:8df2e9b8e375a34ee25cbac4c021b63d:c7a18071976f5f6f51be2d411039b1b0$</string>
+            <key>textureFileName</key>
+            <string>ss_exterior-hd.pvr.ccz</string>
+        </dict>
+    </dict>
+</plist>

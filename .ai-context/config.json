@@ -1,0 +1,16 @@
+{
+  "default_load_depth": 0,
+  "log_rotation": "monthly",
+  "obsidian": {
+    "enabled": true,
+    "project_folder": null,
+    "sync_depths": [
+      0,
+      1
+    ],
+    "vault_folder": "AI Context"
+  },
+  "privacy_mode": "local-private",
+  "project_name": "fervent-faraday",
+  "v": 1
+}

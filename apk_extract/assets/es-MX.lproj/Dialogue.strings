@@ -1,0 +1,96 @@
+/* 
+  Dialogue.strings
+  slugpuzzle
+
+  Created by Dennis Leong on 2014-07-15.
+
+*/
+
+/* Cavern 1 */
+
+//Cavern 1
+"name_cavern1_name" = "Herringbone Cavern";
+
+/* End Cavern 1 */
+
+
+/* Cavern 2 */
+
+//Cavern 2
+"name_cavern2_name" = "Orillas en Penumbra";
+
+/* End Cavern 2 */
+
+
+/* Cavern 3 */
+
+//Cavern 3
+"name_cavern3_name" = "Cavernas Profundas";
+
+/* End Cavern 3 */
+
+
+/* Cavern 4 */
+
+//Cavern 4
+"name_cavern4_name" = "Caverna de las Babosas Navideñas";
+
+/* End Cavern 4 */
+
+
+/* Cavern 5 */
+
+//Cavern 5
+"name_cavern5_name" = "Gruta Dojang";
+
+/* End Cavern 5 */
+
+
+/* Chapter 1 */
+
+//Encounter 1
+"enc_c1e1o1_dialog_1a" = "¡Genial! Un troll de las cavernas. ¡Siempre quise conocer a uno!";
+"enc_c1e1o1_dialog_2a" = "Me llamo Kord Zane. ¿No eres de por aquí, verdad?";
+"enc_c1e1o1_dialog_2b" = "Creo que mejor te enseño a defenderte. Observa abajo la cuadrícula con fichas.";
+"enc_c1e1o1_dialog_3a" = "Intenta mover una ficha tocándola y arrastrándola hacia una ficha contigua.";
+"enc_c1e1o1_dialog_4a" = "Buen trabajo, muchacho. Es suficiente por ahora.";
+"enc_c1e1o1_dialog_5a" = "Bien Eli, ahora te mostraré cómo conectar fichas.";
+"enc_c1e1o1_dialog_6a" = "Veamos si puedes conectar tres fichas de lanzadoras.";
+"enc_c1e1o1_dialog_7a" = "¡Uf! ¿Es la primera vez que disparas una lanzadora? ¡Me parece imposible que hayas podido atinarme!";
+"enc_c1e1o1_dialog_7b" = "Te apuesto a que no podrás hacerlo de nuevo.";
+"enc_c1e1o1_dialog_8a" = "¡Mueve las fichas de lanzadoras para conectarlas!";
+"enc_c1e1o1_dialog_9a" = "¡Ouch! Vaya, veo que eres bastante bueno disparando ... ¡pero no eres el único con una lanzadora! ¡Batámonos en duelo!";
+"enc_c1e1o1_dialog_10a" = "¡Oh! ¡Ay! ¡Uf! ¿Para qué hiciste eso? Ah, claro, sí, yo te dije...";
+
+//Encounter 2
+"enc_c1e2o1_dialog_1a" = "¡Excelente trabajo, muchacho! El siguiente paso es saber cómo sanar.";
+"enc_c1e2o1_dialog_2a" = "Conecta tres fichas verdes de salud para restaurar tu barra de salud.";
+"enc_c1e2o1_dialog_3a" = "¿Ya te sientes mejor? ¡Perfecto!";
+"enc_c1e2o1_dialog_4a" = "Lo siento, mi lanzadora es algo quisquillosa. Creo que deberías volver a sanar.";
+"enc_c1e2o1_dialog_5a" = "Intenta conectar esas cuatro fichas de salud.";
+"enc_c1e2o1_dialog_6a" = "Mientras más fichas puedas conectar en un solo movimiento, mejor.";
+"enc_c1e2o1_dialog_6b" = "Veamos ahora cuánto puedes durar en un duelo.";
+"enc_c1e2o1_dialog_7a" = "Diablos. Estaba a punto de ganar.";
+"enc_c1e2o1_dialog_8a" = "¿No se supone que deberías estar enseñándome?";
+"enc_c1e2o1_dialog_9a" = "Ah, cierto. Bueno, era una prueba y ... ¡la pasaste!";
+
+//Encounter 3
+"enc_c1e3o1_dialog_1a" = "¡Oye! ¿Qué llevas ahí, es acaso una babosa Infierno?";
+"enc_c1e3o1_dialog_2a" = "Se llama Burpy y es genial.";
+"enc_c1e3o1_dialog_3a" = "Las babosas Infierno se transforman en poderosas criaturas de fuego.";
+"enc_c1e3o1_dialog_4a" = "Burpy dice que le gustaría practicar una transformación.";
+"enc_c1e3o1_dialog_5a" = "¡Intenta conectar algunas fichas de fuego para energizar el ataque de Burpy!";
+"enc_c1e3o1_dialog_6a" = "¡Sigue intentando! Necesita más energía.";
+"enc_c1e3o1_dialog_7a" = "Si conectas cinco fichas de fuego a la vez, Burpy se cargará un nivel.";
+"enc_c1e3o1_dialog_8a" = "Ahora que Burpy está energizado, ¡pulsa en tu babosa para desatar su nuevo ataque!";
+"enc_c1e3o1_dialog_9a" = "Ay ay ay ay ay. Ya veo, creo que ya le agarraste. ¡A duelo!";
+"enc_c1e3o1_dialog_10a" = "¡Ouch! ¡La siguiente vez trata de no prenderle fuego a mis pantalones!";
+"enc_c1e3o1_dialog_10b" = "¡Creo que ya estás listo para tu primer duelo real! ¡¡¡¡¡¡PRONTO!!!!!!";
+
+//Encounter 4
+"enc_c1e4o1_dialog_1a" = "¡Pronto, el Más Magnífico, no disminuirá su poder para fines de entrenamiento! ¡Prepárate para la peor de tus derrotas!";
+"enc_c1e4o1_dialog_2a" = "Pues sí...";
+"enc_c1e4o1_dialog_3a" = "¡Ya estás listo, mi joven amigo! ¡Es hora de inscribirse al torneo!";
+"enc_c1e4o1_dialog_4a" = "...";
+
+/* End Chapter 1 */

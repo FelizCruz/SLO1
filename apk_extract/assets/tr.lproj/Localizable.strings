@@ -1,0 +1,2468 @@
+/*
+ Localizable.strings
+ Slugterra: Slug it Out!
+ 
+ Created by Jeremy Peterson on 13-01-31.
+ 
+ Main localized strings table for the game.
+ 
+ */
+
+
+/* Common UI */
+
+"dialog_button_ok" = "Tamam"; // Confirmation button text.
+"dialog_button_yes" = "Evet"; // Confirmation button text.
+"dialog_button_no" = "Hayır"; // Confirmation button text.
+//"button_ok" = "OK"; // Confirmation button text.
+"button_cancel" = "İptal"; // Confirmation button text.
+//"button_accept" = "Accept"; // Confirmation button text.
+//"button_exit" = "Exit"; // Confirmation button text.
+//"button_nav_next" = "Next"; // Confirmation button text.
+//"button_nav_back" = "Back"; // Confirmation button text.
+//"button_go_now" = "Go Now!"; // Confirmation button text.
+/* End Common UI */
+
+
+
+/* Top HUD */
+
+"tophud_button_get_more_coins" = "DAHA FAZLA JETON AL";
+
+/* End Top HUD */
+
+/* Chapter 1 */
+
+//Encounter 1
+"enc_c1e1o1_dialog_1a" = "Harika! Bir mağara trolü. Hep bir mağara trolüyle tanışmak istemişimdir!";
+"enc_c1e1o1_dialog_2a" = "Ben Kord Zane. Sen buralardan değilsin, değil mi?";
+"enc_c1e1o1_dialog_2b" = "Sana kendini nasıl savunacağını öğretsem iyi olur. Aşağıdaki taş bloklarına bak.";
+"enc_c1e1o1_dialog_3a" = "Bir taşa dokunarak ve onu yanındaki taşın yerine sürükleyerek taşları hareket ettirmeye çalış.";
+"enc_c1e1o1_dialog_4a" = "Aferin, evlat. Yeterli.";
+"enc_c1e1o1_dialog_5a" = "Pekala Eli, şimdi sana taşları nasıl eşleyeceğini göstereceğim.";
+"enc_c1e1o1_dialog_6a" = "Bakalım üç fırlatıcı taşını eşleyebilecek misin?";
+"enc_c1e1o1_dialog_7a" = "Oof! Bu senin ateşlediğin ilk fırlatıcıydı!?! Beni vurabilmiş olmana imkan yok.";
+"enc_c1e1o1_dialog_7b" = "Eminim bunu bir kez daha yapamazsın.";
+"enc_c1e1o1_dialog_8a" = "Bir eşleştirme daha yapmak için fırlatıcı taşlarını hareket ettir!";
+"enc_c1e1o1_dialog_9a" = "Ah! Tamam, demek atış konusunda oldukça iyisin… ama buradaki tek fırlatıcı sen değilsin! Hadi düello yapalım!";
+"enc_c1e1o1_dialog_10a" = "Ay! Oh! Of! Bunu neden yaptın? Doğru ya, ben demiştim...";
+
+//Encounter 2
+"enc_c1e2o1_dialog_1a" = "İyi iş çıkardın evlat! Sıradaki adım, iyileşme";
+"enc_c1e2o1_dialog_2a" = "Sağlık çubuğunu doldurmak için üç yeşil sağlık taşını eşle.";
+"enc_c1e2o1_dialog_3a" = "Kendini daha iyi hissediyor musun? Güzel!";
+"enc_c1e2o1_dialog_4a" = "Üzgünüm, fırlatıcım biraz hassas. Tekrar iyileşsen iyi olur.";
+"enc_c1e2o1_dialog_5a" = "Bu dört sağlık taşını eşleştirmeye çalış.";
+"enc_c1e2o1_dialog_6a" = "Bir hamlede ne kadar  fazla taş eşleştirebilirsen o kadar iyi.";
+"enc_c1e2o1_dialog_6b" = "Bakalım düelloda kendini ne kadar koruyabileceksin.";
+"enc_c1e2o1_dialog_7a" = "Tüh. Kazanmaya çok yakındım.";
+"enc_c1e2o1_dialog_8a" = "Bana öğretiyor olman gerekmiyor mu?";
+"enc_c1e2o1_dialog_9a" = "Şey, doğru. Bu bir testti… ve sen geçtin!";
+
+//Encounter 3
+"enc_c1e3o1_dialog_1a" = "Dostum! O gördüğüm bir Yakıcı sülük mü?";
+"enc_c1e3o1_dialog_2a" = "Onun adı Kundakçı. O müthiştir.";
+"enc_c1e3o1_dialog_3a" = "Yakıcı sülükler güçlü ateş yaratıklarına dönüşürler.";
+"enc_c1e3o1_dialog_4a" = "Kundakçı dönüşüm antrenmanı yapmak istediğini söylüyor.";
+"enc_c1e3o1_dialog_5a" = "Kundakçı’yı saldırıya hazır hale getirmek için ateş taşlarını eşleştirmeye çalış!";
+"enc_c1e3o1_dialog_6a" = "Devam et! Daha fazla meyve suyuna ihtiyacı var.";
+"enc_c1e3o1_dialog_7a" = "Bir defada beş ateş taşını eşleşleştirmek Kundakçı’yı birinci seviyede şarj eder.";
+"enc_c1e3o1_dialog_8a" = "Artık Kundakçı hazır hale geldi, yeni saldırısını yapması için sülüğüne dokun!";
+"enc_c1e3o1_dialog_9a" = "Ah ah ah ah. Tamam. Bence işi kavradın. Düello!";
+"enc_c1e3o1_dialog_10a" = "Ah! Bir dahaki sefere pantolonumu tutuşturmamaya çalış!";
+"enc_c1e3o1_dialog_10b" = "Bence ilk gerçek düellonu yapmaya hazırsın! PRONTO!!!!";
+
+/* End Chapter 1 */
+
+/* Slug Seeker Cavern */
+
+"name_cavern_seeker_catch_name" = "Sülük Arayıcı mağaralarında yakala!";
+
+"name_cavern_seeker_watch_video_name" = "Bu mağaranın kilidini açmak için bir video izle!";
+
+"name_cavern_seeker_chest_reward_name" = "Ödülünü almak için bir sandığa tıkla!";
+
+"name_cavern_seeker_lose_booster_name" = "Destek mi lazım? Bir güçlendirici ile tekrar dene!";
+
+"name_cavern_seeker_lose_name" = "Pes etme! Ödüllerini almak için kazan!";
+
+"name_cavern_seeker_win_coins_name" = "Tebrikler!  <Coin Variable> jetonları kazandın!";
+
+"name_cavern_seeker_win_slugs_name" = "Tebrikler! Yeni bir sülük buldun!";
+
+"name_cavern_seeker_win_characters_name" = "Tebrikler! Yeni bir karakter buldun!";
+
+"name_cavern_seeker_win_boosters_name" = "Tebrikler! Bir güçlendirici buldun!";
+
+"name_cavern_seeker_unlocked_name" = "Bir Sülük Arayıcı mağarası açıldı! Şimdi keşfet ve ÜCRETSİZ  nadir sülükler bul!";
+
+"main_menu_play_adventure_mode" = "Macera Modu";
+
+"name_cavern_slug_seeker_name" = "Sülük Arayıcı";
+
+"name_cavern_seeker_encounter_name" = "Karşılaşma:";
+
+"name_cavern_seeker_play_name" = "Hemen Oyna!";
+
+/* End Slug Seeker Cavern */
+
+/* Tutorial Popups */
+"tutorial_popup_starting_msg2" = "Yeni bir sülüğe sahip olmak için \"Satın Al\" düğmesine bas!";
+"tutorial_popup_starting_msg3" = "Sülüğü kullanmak için onu boş alana sürükle! Şimdi düelloya hazırsın!";
+"tutorial_popup_starting_msg4" = "%@ kilidi açıldı! Şimdi satın al ve sülüklerini tamamla!"; // %@ will be replaced with the name of a slug.
+"tutorial_popup_starting_msg_coin" = "Bonus";
+
+
+/* End Tutorial Popups */
+
+/* Challenge Mode */
+
+/* Gridlock */
+
+//Encounter 1 - Tutorial
+"name_gridlock_challenge" = "Tıkanıklık";
+"enc_gridlock_e1_dialog_1a" = "Burada neler oluyor?";
+"enc_gridlock_e1_dialog_2a" = "Bu özel bir görev. Rakipleriniz çok güçlü, fakat yavaş yavaş canlarını kaybediyorlar. Sadece yeterince dayanıp, hayatta kalmanız gerekiyor!";
+"enc_gridlock_e1_dialog_3a" = "Taşlardan bazıları yerlerinde kilitli, o nedenle dikkat et!";
+"enc_gridlock_e1_dialog_4a" = "Pekâlâ, işe koyulalım!";
+"enc_gridlock_e1_dialog_1b" = "Harika bir iş çıkardınız! Ancak dikkatli olun, önünüzdeki düellolarda işler daha zor olacak!";
+"enc_gridlock_e1_dialog_2b" = "Tüm düelloları hakladığınızda sizi epik ödüller bekliyor olacak! Bunu başarabilirsiniz!";
+
+/* Bombastic */
+
+//Encounter 1 - Tutorial
+"name_bombs_challenge" = "Bombastik";
+"enc_bombastic_e1_dialog_1a" = "Burada neler oluyor?";
+"enc_bombastic_e1_dialog_2a" = "Bu özel bir görev. Fırlatıcınız hızlı çalışmaya ayarlı ve sülükleriniz otomatik olarak ateşlenir. Eşleştirdiğiniz taşların sayısı ne kadar çoksa, atışlarınız da o kadar güçlü olur!";
+"enc_bombastic_e1_dialog_3a" = "Bu özel bir görev. Rakipleriniz çok güçlü, fakat yavaş yavaş canlarını kaybediyorlar. Sadece yeterince dayanıp, hayatta kalmanız gerekiyor! Bir şey daha: BOMBALAR!";
+"enc_bombastic_e1_dialog_4a" = "Pekâlâ, işe koyulalım!";
+"enc_bombastic_e1_dialog_1b" = "Harika bir iş çıkardınız! Ancak dikkatli olun, önünüzdeki düellolarda işler daha zor olacak!";
+"enc_bombastic_e1_dialog_2b" = "Tüm düelloları hakladığınızda sizi epik ödüller bekliyor olacak! Bunu başarabilirsiniz!";
+
+
+/* Draino */
+
+//Encounter 1 - Tutorial
+"name_draino_challenge" = "Emici";
+"enc_draino_e1_dialog_1a" = "Burada neler oluyor?";
+"enc_draino_e1_dialog_2a" = "Bu özel bir görev. Sülük enerjiniz yavaş yavaş boşalıyor! Sülüklerinizi şarjlı tutmak için taşları gerçekten hızlı bir şekilde eşleştirmelisiniz!";
+"enc_draino_e1_dialog_3a" = "Pekâlâ, işe koyulalım!";
+"enc_draino_e1_dialog_1b" = "Harika bir iş çıkardınız! Ancak dikkatli olun, önünüzdeki düellolarda işler daha zor olacak!";
+"enc_draino_e1_dialog_2b" = "Tüm düelloları hakladığınızda sizi epik ödüller bekliyor olacak! Bunu başarabilirsiniz!";
+
+
+/* Stunlock */
+
+//Encounter 1 - Tutorial
+"name_stunlock_challenge" = "Şok Kilidi";
+"enc_stunlock_e1_dialog_1a" = "Burada neler oluyor?";
+"enc_stunlock_e1_dialog_2a" = "Bu özel bir görev. Rakipleriniz çok güçlü, fakat yavaş yavaş canlarını kaybediyorlar. Sadece yeterince dayanıp, hayatta kalmanız gerekiyor!";
+"enc_stunlock_e1_dialog_3a" = "Pekâlâ, işe koyulalım!";
+"enc_stunlock_e1_dialog_1b" = "Harika bir iş çıkardınız! Ancak dikkatli olun, önünüzdeki düellolarda işler daha zor olacak!";
+"enc_stunlock_e1_dialog_2b" = "Tüm düelloları hakladığınızda sizi epik ödüller bekliyor olacak! Bunu başarabilirsiniz!";
+
+/* Sudden Death */
+
+//Encounter 1 - Tutorial
+"name_sudden_death_challenge" = "Ani Ölüm";
+"enc_sudden_e1_dialog_1a" = "Burada neler oluyor?";
+"enc_sudden_e1_dialog_2a" = "Bu özel bir görev. Dikkatle dinleyin: Vurulmayın! Bir kez vurulduğunuzda düelloyu kaybetmiş olursunuz. O nedenle tetikte olun ve haklanmayın! ";
+
+"enc_sudden_e1_dialog_2a2" = "Bu özel bir görev. Dikkat edin, sağlığınız çok düşük! Bu nedenle vurulmaktan kaçının ve imkân bulduğunuzda kendinizi iyileştirin!";
+"enc_sudden_e1_dialog_3a" = "Fırlatıcınız hızlı çalışmaya ayarlı ve sülükleriniz otomatik olarak ateşlenir. Eşleştirdiğiniz taşların sayısı ne kadar çoksa, atışlarınız da o kadar güçlü olur!";
+"enc_sudden_e1_dialog_4a" = "Pekâlâ, işe koyulalım!";
+"enc_sudden_e1_dialog_1b" = "Harika bir iş çıkardınız! Ancak dikkatli olun, önünüzdeki düellolarda işler daha zor olacak!";
+"enc_sudden_e1_dialog_2b" = "Tüm düelloları hakladığınızda sizi epik ödüller bekliyor olacak! Bunu başarabilirsiniz!";
+
+
+/* Mixed Bag */
+
+//Encounter 1 - Tutorial
+"name_mixed_bag_challenge" = "Ortaya Karışık";
+"name_initiation_challenge" = "Kabul Töreni";
+"enc_mix_e1_dialog_1a" = "Burada neler oluyor?";
+"enc_mix_e1_dialog_2a" = "Bu düellolarda özel kurallar yok. Sadece çok ama ÇOK zorlar. Hazır mısınız?";
+"enc_mix_e1_dialog_3a" = "Pekâlâ, işe koyulalım!";
+"enc_mix_e1_dialog_1b" = "Harika bir iş çıkardınız! Ancak dikkatli olun, önünüzdeki düellolarda işler daha zor olacak!";
+"enc_mix_e1_dialog_2b" = "Tüm düelloları hakladığınızda sizi epik ödüller bekliyor olacak! Bunu başarabilirsiniz!";
+
+/* Challenge Mode end */
+
+/* Equipment Scenes */
+
+// common
+"equip_active" = "Aktif";
+"equip_dialog_insufficient_coins_title" = "'%@' alamazsın!"; // Error message for purchase of virtual item. %@ will be replaced with the item name.
+"equip_dialog_insufficient_coins_msg" = "'%@' almak için yeterli jetonun yok.\nŞimdi daha fazla almak ister misin?"; // Error message for purchase of virtual item. %@ will be replaced with the item name.
+"equip_dialog_purchase_confirm_title" = "'%@' satın al?"; // Confirmation text for purchase of virtual item. %@ will be replaced with the item name.
+"equip_dialog_purchase_confirm_msg" = "%i jetona '%@' satın almak istiyor musun?"; // Confirmation text for purchase of virtual item. %@ will be replaced with the item name.
+
+// boosters page title
+"equip_boosters_title" = "Destekleyiciler"; // Destekleyiciler are game upgrades, like power-ups.
+
+// slugs page title
+"equip_slugs_title" = "Sülükler"; // Use glossary.
+"equip_slugs_dialog_condition" = "Kilidi Hikaye Modunda aç"; // Telling the user that a slug is earned through playing story mode.
+"equip_slugs_slug_seeker_condition" = "Sülük Arayıcı Modu'nda oynayarak aç"; // Telling the user that a slug is earned through playing slug seeker mode.
+"equip_slugs_sale" = "İndirim"; // Over top of slug when its on a sale
+
+// avatars page title
+"equip_avatars_title" = "Karakterler"; // Used to denote character skins for players to select.
+"equip_avatars_unlock" = "Sonsuz Modda %i Düşman Yen";
+
+// basic shots page title
+"equip_basic_shots_title" = "Özel Atışlar";
+
+// game mods page title
+"equip_gamemods_title" = "Takviyeler"; // Game mods modify certain game conditions for both players in a multiplayer match.
+
+/* End Equipment Scenes */
+
+
+
+/* In-App Purchases */
+"iap_coin_small_name" = "5000 Jeton";
+"iap_coin_small_description" = " "; // Do not translate this string, leave as a single space.
+
+"iap_coin_large_name" = "10.000 Jeton";
+"iap_coin_large_description" = "Ekstra %25";
+
+"iap_coin_huge_name" = "25.000 Jeton";
+"iap_coin_huge_description" = "Ekstra %50";
+
+"iap_coin_massive_name" = "100.000 Jeton";
+"iap_coin_massive_description" = "Ekstra %75";
+
+//"iap_slug_midas_name" = "Midas";
+//"iap_slug_midas_description" = "More Coins in Battle";
+
+/* End In-App Purchases */
+
+
+
+/* Chapter Select Scene */
+
+// scene title
+"chapter_select_title" = "Bölüm Seç";
+
+// dialog: player requires 4 slugs to enter a treasure encounter
+"chapter_select_dialog_treasure_slugs_required_title" = "Dört Sülük Gerekli";
+"chapter_select_dialog_treasure_slugs_required_msg" = "Hazine karşılaşmalarını oynamak için yanında 4 sülük olmalı";
+
+/* End Chapter Select Scene */
+
+
+
+/* Cut Scene */
+
+"cutscene_button_skip" = "Geç"; // Button text for skipping cut scenes.
+//"cutscene_button_ok" = " OK"; // Button text for skipping cut scenes.
+
+/* End Cut Scene */
+
+
+/* Challenge Select Scene */
+"challenge_mode_select" = "Görev Seçimi";
+"challenge_number" = "Görev %i";
+"challenge_expiration" = "Süresi sona erdi";
+"challenge_exit_expired" = "Görevin süresi sona ermek üzere! Çıkmak istediğinden emin misin?";
+"challenge_quit_encounter" = "Düellodan vazgeçilsin mi? Yeniden denemek için altın para harcaman gerekecek!";
+"challenge_win_overlay" = "Yeni sandık açıldı! Ödüllerini edinmek için her düelloyu kazan!";
+"challenge_reward_screen" = "Zafer! Ödüllerini talep et!";
+"challenge_slug_lock" = "Kilitli sülükler";
+"challenge_lose_screen" = "Vazgeçme! Ödüllerini edinmek için her düelloyu kazan!";
+/* End Challenge Select Scene */
+
+
+
+/* In-App Purchase Scene */
+
+// store scene title
+"store_title" = "Jeton Dükkanı";
+
+// currently for 'sale' badge in coin shop
+"store_sale" = "İndirim";
+
+// restore button
+//"store_restore_label" = "Restore";
+
+// dialog: store access restricted by device settings
+"store_dialog_access_restricted_title" = "Uygulama İçi Satın Alma Kapalı";
+"store_dialog_access_restricted_msg" = "Aygıt ayarlarında Uygulama İçi Alımlar kapatıldı";
+
+// dialog: network has been locally disabled in device settings
+"store_dialog_no_network_title" = "Ağ Erişimi Yok";
+"store_dialog_no_network_msg" = "Lütfen ağ bağlantını aç ve tekrar dene.";
+
+// dialog: could not establish connection to the Apple Servers
+"store_dialog_connection_failed_title" = "Mağazaya Bağlanılamadı";
+"store_dialog_connection_failed_msg" = "Mağaza’ya bir ağ bağlantısı sağlanamadı. Lütfen ağ ayarlarını kontrol et ve daha sonra tekrar dene.";
+
+// dialog: retrieval of In-App Purchase product info failed
+"store_dialog_update_failed_title" = "Ürün Bilgisi Alınamadı";
+"store_dialog_update_failed_msg" = "Ürün bilgisi sunucudan alınamadı. Tekrar denensin mi?";
+
+// dialog: this iTunes account is not authorized for payment
+"store_dialog_payment_not_authorized_title" = "Ödeme Yetkisi Yok";
+"store_dialog_payment_not_authorized_msg" = "Uygulama Mağazası hesabın ödemeler için yetkili değil.";
+
+// dialog: transaction was successfully completed
+"store_dialog_transaction_success_title" = "Başarılı";
+"store_dialog_transaction_success_msg" = "'%@' başarılı bir şekilde satın alındı!";
+
+// dialog: there was an error during the payment transaction
+"store_dialog_transaction_failed_title" = "İşlem Hatası";
+"store_dialog_transaction_failed_msg" = "İşlem başarısız: %@";
+
+/* end In-App Purchase Scene */
+
+
+
+/* Code Redeem Scene */
+
+// scene title
+"coderedeem_title" = "KODU KULLAN";
+
+"coderedeem_statement" = "Resmi Slugterra oyuncaklarında bulunan promosyon kodlarını buraya girerek muhteşem oyun içeriklerine eriş!";
+
+// code enter box labels
+"coderedeem_codebox_title" = "Promosyon Kodunu Kullan"; // "Promo" is short for "promotional". These promotional codes are 6-letter codes packaged with toys.
+"coderedeem_codebox_instructions" = "Müthiş oyun içeriğini açmak için promosyon kodunu buraya gir!"; // "Promo" is short for "promotional". These promotional codes are 6-letter codes packaged with toys.
+//"coderedeem_codebox_button_ok" = "OK!";
+"coderedeem_codebox_textfield_placeholder" = "Şifreli Yaz";
+
+// prize display box
+"coderedeem_prizebox_congrats" = "Tebrikler!";
+"coderedeem_prizebox_you_just_revealed" = "Açtın";
+
+// Unlocking characters in Use Code screen.
+"coderedeem_character" = "%1$d %2$@"; // Do not translate.
+"coderedeem_character_singular" = "Karakter";
+"coderedeem_character_plural" = "Karakterler";
+"coderedeem_character_description" = "Farklı karakterler olarak oyna!";
+"coderedeem_none_title" = "Zaten her şeye sahipsin!";
+"coderedeem_none_message" = "Oyununda kullanması için bu kodu bir arkadaşına ver!";
+
+// Error messages for Use Code screen.
+"coderedeem_fail_network_title" = "Ağ Hatası";
+"coderedeem_fail_network_message" = "Bir ağ hatası oluştu. Lütfen internete bağlı olduğundan emin ol ve tekrar dene.";
+"coderedeem_fail_used_title" = "Kod Zaten Kullanılmış";
+"coderedeem_fail_used_message" = "Bu kod zaten kullanılmış durumda ve tekrar kullanılamaz. Kodunuzla ilgili olarak yardıma ihtiyacınız varsa, lütfen interactive.support@dhxmedia.com üzerinden bizimle iletişime geçin.";
+"coderedeem_fail_server_title" = "Sunucu Hatası";
+"coderedeem_fail_server_message" = "Uzak sunucu isteği tamamlayamadı. Lütfen internete bağlı olduğundan emin ol ve tekrar dene.";
+"coderedeem_fail_invalid_title" = "Kod Geçerli Değil";
+"coderedeem_fail_invalid_message" = "Bu kod çalışmıyor. Bu kodun çalışıyor olması gerektiğine inanıyorsanız, lütfen interactive.support@dhxmedia.com üzerinden bizimle iletişime geçin.";
+
+/* End Code Redeem Scene */
+
+
+
+/* Versus Scene */
+
+"versus_loading" = "Yükleniyor...";
+"versus_fight" = "Savaş!";
+"versus_multiplayer_waiting" = "Bekleniyor...";
+"versus_slugs_replaced_chapter6" = "Kaçırıldı!";
+"versus_slugs_has_been_replaced_chapter6" = "Kundakçı, Bay Cumartesi tarafından kaçırıldı! Gidip onu geri al!";
+/* End Versus Scene */
+
+/* Ghoul Scene */
+
+"ghoul_equip_unleash_text" = "Dört hortlak sülüğü donatın ve onların ölümcül gücünü serbest bırakın!";
+"ghoul_slugs_text" = "Hortlak Sülükler";
+"ghoul_get_now_text" = "Onları Şimdi Edinin!";
+"ghoul_slugs_only_text" = "Sadece Hortlaklar";
+"ghoul_slug_only_extended_text" = "Sadece Hortlak Sülükler!";
+"ghoul_slug_replace_extended_text" = "Sülükler değiştirildi!";
+"ghoul_slug_replace_text" = "Sülükler değiştirildi!";
+
+/* End Ghoul Scene */
+
+
+
+/* Score Scene */
+
+"score_time_label" = "ZAMAN %i:%02i";
+//"score_button_retry" = "Retry";
+
+/* End Score Scene */
+
+
+
+/* Slug Unlock Sequence */
+
+"slug_unlock_level" = "Seviye %i";
+
+/* End Slug Unlock Sequence */
+
+
+
+/* Main Menu */
+
+"main_menu_play_story_mode" = "Hikaye Modu";
+"main_menu_play_adventure_mode" = "Macera Modu";
+"main_menu_play_challenge_mode" = "Kapışma Modu";
+"main_menu_play_multiplayer" = "Çoklu Oyuncu";
+
+"main_menu_challenge_mode_locked_title" = "Kapışma Modu Kilitli!";
+"main_menu_challenge_mode_locked_msg" = "Kapışma Modu’nda oynamak için en az 4 sülüğe ihtiyacın var.";
+
+"main_menu_multiplayer_mode_locked_title" = "Çoklu Oyuncu Modu Kilitli!";
+"main_menu_multiplayer_mode_locked_msg" = "Çoklu Oyuncu Modu’nda oynamak için en az 4 sülüğe ihtiyacın var.";
+
+"main_menu_adventure_mode_locked_title" = "Macera Modu Kilitli!";
+"main_menu_adventure_mode_locked_msg" = "Macera Modu'nda oynamak için en az 4 sülüğe ihtiyacın var.";
+
+"main_menu_button_play" = "Oyna!";
+"main_menu_button_use_code" = "Kodu Kullan";
+
+/* End Main Menu */
+
+
+
+/* Pause Menu */
+
+//"pause_menu_button_quit" = "Quit";
+//"pause_menu_button_restart" = "Restart";
+//"pause_menu_button_resume" = "Resume";
+
+"pause_menu_dialog_confirm_quit_title" = "Çık";
+"pause_menu_dialog_confirm_quit_msg" = "Çıkmak istediğinden emin misin?";
+
+"pause_menu_dialog_confirm_restart_title" = "Tekrar Başla";
+"pause_menu_dialog_confirm_restart_msg" = "Tekrar başlamak istediğinden emin misin?";
+
+/* End Pause Menu */
+
+
+
+/* Defeat Scene */
+
+//"defeat_button_retry" = "Retry";
+//"defeat_button_booster" = "Go Now!";
+//"defeat_label_need_boost" = "Need A Boost?";
+
+/* Defeat and Victory Scene THIS NEEDS TO BE IMPLEMENTED IN OTHER LOCALIZATION */
+"defeat_label_booster_msg" = "Bir destekleyici kullan ve bir sonraki raunt için mücadele et!";
+"defeat_label_skin_msg" = "Favori karakterinle oyna!";
+"win_lose_buy_btn_msg" = "Şimdi Al!";
+"win_lose_upgrade_btn_msg" = "Seviye Yükselt!";
+
+/* End Defeat Scene */
+
+
+
+/* Story End Scene */
+"story_end_button_play_multiplayer" = "Çoklu Oyuncu ile Oyna";
+"story_end_title" = "Arkadaşlarınla duello yap!";
+"story_end_msg_1" = "Burada Bitmedi!";
+"story_end_msg_2" = "Çoklu Oyuncu Modunda Düello Yapmaya Devam Et!";
+
+/* End Story End Scene */
+
+
+
+
+/* Options Scene */
+
+"options_title" = "SEÇENEKLER";
+
+//"options_button_reset_data" = "Reset Story";
+"options_button_credits" = "Katkıda Bulunanlar";
+
+"options_dialog_reset_data_title" = "Emin misin?";
+"options_dialog_reset_data_msg" = "Bu, hikaye modunda geldiğin aşamaya kadar olan kısmı silecek! Jetonlarını ya da satın aldığın hiçbir şeyi kaybetmeyeceksin. Bunu yapmak istediğinden emin misin?";
+
+/* End Options Scene */
+
+
+
+/* News Scene */
+
+"news_title" = "Haberler";
+
+/* End News Scene */
+
+
+
+/* Endless (Custom Loadout) Scene */
+
+"endless_congrats" = "Tebrikler!";
+"endless_local_highscore" = "Bölgesel En Yüksek Skor!";
+
+"endless_leaderboard_tab_gamecenter" = "Oyun Merkezi";
+"endless_leaderboard_tab_local" = "Bölgesel";
+
+"endless_dialog_leaderboard_title" = "Adını gir!";
+"endless_dialog_leaderboard_msg" = "Lütfen Bölgesel Sıralama Tablosu için adını gir.";
+
+"endless_local_highscore_textfield_placeholder" = "İsim Gir";
+
+//"endless_button_quit" = "Quit";
+//"endless_button_replay" = "Replay";
+
+"endless_title" = "Kapışma Modu";
+
+"endless_mode" = "Sonsuz";
+
+"endless_local_leaderboard_title" = "En Yüksek Skorlar";
+
+"endless_label_results" = "Skor: %d  Jeton: %d";
+
+/* End Endless (Custom Loadout) Scene */
+
+
+/* Challenge Mode */
+
+"encounter_win" = "Sandığın kilidi açıldı! Ödülünüzü almak için tüm düelloları bitirin!";
+
+"replay_encounter" = "Bu düelloyu yeniden oynamak için X jeton harcamak ister misiniz?";
+
+"quit_encounter" = "Emin misiniz? Bu düelloyu daha sonra yeniden oynamak için jeton harcamanız gerekecek.";
+
+"completed_challenges" = "Tebrikler, tüm görevlerini yerine getirdin! Daha sonra yenileri için tekrar gel! ";
+
+/* End Challenge Mode */
+
+/* Treasure Select Scene */
+
+//"treasure_select_title" = "Treasure Vault";
+
+/* End Treasure Select Scene */
+
+
+
+/* Busy Layer */
+
+"busy_layer_please_wait" = "Lütfen Bekle...";
+
+/* End Busy Layer */
+
+
+
+/* Game Center */
+
+"game_center_dialog_title" = "Oyun Merkezine Giriş Yapılmadı";
+"game_center_dialog_message" = "Başarılar, sıralama tabloları ve çoklu oyuncuya erişim için Oyun Merkezi’ne giriş yap.";
+"google_play_dialog_title" = "Google Play'e Giriş Yapılmadı";
+"google_play_dialog_message" = "Başarılar, sıralama tabloları ve çoklu oyuncuya erişim için Google Play'e giriş yap.";
+"game_center_dialog_no" = "Şimdi değil";
+"game_center_dialog_yes" = "Evet!";
+
+/* End Game Center */
+
+
+
+/* Multiplayer Screens */
+
+"multiplayer_header_title" = "Çoklu Oyuncu";
+
+"multiplayer_end_screen_you_won" = "KAZANDIN!";
+"multiplayer_end_screen_you_lost" = "KAYBETTİN";
+"multiplayer_end_screen_label_coins" = "Jetonlar: +%i";
+"multiplayer_end_screen_label_points" = "Puanlar: +%i";
+"multiplayer_end_screen_label_rank" = "Sıralamadaki Yer:";
+"multiplayer_end_screen_ok" = "Tamam";
+"multiplayer_end_screen_label_rank_formatted" = "Sıralamadaki Yer: %d";
+
+"multiplayer_lobby_label_welcome" = "Hoş Geldin, %@!"; // %@ will be replaced with the player's Game Center name.
+"multiplayer_lobby_label_wins" = "GALİBİYETLER";
+//"multiplayer_lobby_button_back" = "Back";
+//"multiplayer_lobby_button_play" = "Play";
+//"multiplayer_lobby_button_leave" = "Leave";
+//"multiplayer_lobby_leave_title" = "";
+"multiplayer_lobby_leave_message" = "Ayrılmak istediğinden emin misin?";
+//"multiplayer_lobby_button_ready" = "Ready";
+"multiplayer_lobby_button_not_ready" = "İptal";
+"multiplayer_lobby_message_waiting" = "Rakip Bekleniyor...";
+"multiplayer_lobby_message_loading" = "Oyun Yükleniyor...";
+"multiplayer_lobby_message_synchronizing" = "Eşitleniyor...";
+
+"multiplayer_game_message_syncing" = "Oyun Durumu Eşitleniyor...";
+//"multiplayer_game_label_leave" = "Leave";
+
+"multiplayer_tabpane_games_played" = "Oynanan Oyunlar: %i";
+"multiplayer_tabpane_games_won" = "Kazanılan Oyunlar: %i";
+"multiplayer_tabpane_longest_streak" = "En Uzun Seri: %i";
+"multiplayer_tabpane_current_streak" = "Şu Anki Seri: %i";
+"multiplayer_tabpane_header_game_center" = "Oyun Merkezi";
+"multiplayer_tabpane_header_google_play" = "Google Play";
+"multiplayer_tabpane_header_stats" = "İstatistik";
+"multiplayer_tabpane_no_data" = "Veri Yok";
+
+"multiplayer_remote_state_connecting" = "Bağlanıyor...";
+"multiplayer_remote_state_disconnected" = "Bağlantı Kesildi";
+"multiplayer_remote_state_getting_ready" = "Hazırlanıyor";
+"multiplayer_remote_state_ready" = "Hazır";
+"multiplayer_remote_state_loading_game" = "Oyun Yükleniyor...";
+"multiplayer_remote_state_loaded_waiting" = "Yüklendi ve Bekleniyor";
+"multiplayer_remote_state_choosing_slugs" = "Sülükler Seçiliyor";
+"multiplayer_remote_state_choosing_game_mods" = "Takviye Seçiliyor";
+//"multiplayer_remote_state_choosing_emoticon" = "Choosing Emoticon";
+"multiplayer_remote_state_playing_game" = "Oyun Oynanıyor";
+"multiplayer_remote_state_viewing_score" = "Skor Görüntüleniyor";
+
+"multiplayer_interrupt_network_error_formatted" = "Bir ağ hatası gerçekleşti:\n%@"; // The "\n" represents a new line character. Please use it in the translation to separate the two lines of text.
+"multiplayer_interrupt_network_error_unknown" = "Bir ağ hatası gerçekleşti:\nBilinmeyen hata."; // The "\n" represents a new line character. Please use it in the translation to separate the two lines of text.
+"multiplayer_interrupt_disconnected_title" = "Oyuncunun Bağlantısı Kesildi";
+"multiplayer_interrupt_disconnected_message" = "‘%@’e bağlantı kaybedildi.";
+"multiplayer_interrupt_left_title" = "Oyuncu Karşılaşmadan Ayrıldı";
+"multiplayer_interrupt_left_message" = "Oyuncu ‘%@’ oyundan ayrıldı.";
+"multiplayer_interrupt_lobby_title" = "Oyuncu Lobiye Döndü";
+"multiplayer_interrupt_lobby_message" = "Oyuncu '%@' çoklu oyuncu lobisine geri döndü";
+"multiplayer_interrupt_laggy_title" = "Zayıf Bağlantı";
+"multiplayer_interrupt_laggy_message" = "Rakibinle arandaki ağ bağlantısı çok zayıf.\nBu koşullarda oynanış işlevini düzgün bir şekilde yerine getiremiyor."; // The "\n" represents a new line character. Please use it in the translation to separate the two lines of text.
+
+/* End Multiplayer Screens */
+
+
+
+/* Credits */
+
+"credits_title_intro" = "Katılımıyla Üretildi";
+"credits_title_creative_lead" = "Yaratıcı Direktör";
+"credits_title_project_manager" = "Proje Müdürü";
+"credits_title_lead_programmer" = "Baş Programcı";
+"credits_title_lead_artist" = "Baş Çizer";
+"credits_title_programming" = "Programlama";
+"credits_title_art" = "Çizim";
+"credits_title_level_design" = "Bölüm Tasarımı";
+"credits_title_sound_engineering" = "Ses Mühendisliği";
+"credits_title_music" = "Müzik";
+"credits_title_voice_acting" = "Seslendirme";
+"credits_title_special_thanks" = "Teşekkürler";
+"credits_title_executive_producers" = "Uygulayıcı Yapımcılar";
+"credits_title_producer" = "Yapımcı";
+"credits_title_head_of_licensing" = "Global Lisans ve Promosyonlar Sorumlusu";
+"credits_title_director_of_brand" = "Marka Geliştirme Direktörü";
+"credits_title_marketing_manager" = "Pazarlama Müdürü";
+"credits_title_director_finance" = "Finans Direktörü";
+"credits_title_general_counsel" = "Genel Danışman";
+"credits_title_it" = "Bilgi Teknolojisi";
+"credits_title_many_thanks" = "Katkıları İçin Çok Teşekkürler";
+
+/* End Credits */
+
+
+/* Slug Events */
+
+"event_name_double_coins" = "Servetinizi ikiye katlayın!";
+"event_name_info_double_coins" = "Bugün tüm düellolarda iki kat jeton ödülü var. Oyuna geri dönün, ceplerinizi doldurmaya başlayın!";
+
+"event_name_hidden_slugs" = "Gizli Sülük Alarmı!";
+"event_name_info_hidden_slugs" = "%@. Bölüm civarında yeni bir sülük görülmüş, gidip onu bul! Doğru düelloyu kazan ve sülüğün kilidini aç!";
+
+"event_name_booster_sale" = "Fırlatıcınıza takviye yapın!";
+"event_name_info_booster_sale" = "Tüm takviyeler bugün indirimde. Hemen alın, oyundaki yolunuzu açın!";
+
+"event_name_coin_packs" = "Daha fazla jeton alın!";
+"event_name_info_coin_packs" = "Bugün jeton paketlerinde ekstra jeton var. Hemen bir jeton paketi alın, her zamankinden daha fazla jeton kazanın!";
+
+"event_name_rare_slug" = "Nadir Bulunan Sülük Alarmı!";
+"event_name_info_rare_slug" = "Nadir bulunan bir sülük geldi, ama her an bitebilir. Hemen mağazaya gidin ve bitmeden önce bir tane alın!";
+
+"event_name_engagement_drive" = "Sülük maratonu başladı!";
+"event_name_info_engagement_drive" = "Bu hafta oyunu her gün oynarsanız, ödül olarak X kazanacaksınız. Bu fırsatı kaçırmayın! Hemen oyuna geri dönün!";
+
+"event_name_character_sales" = "Yeni sülükşörle tanışın! ";
+"event_name_info_character_sales" = "%@ bugün mağazada indirimde. Hemen bugün yeni bir karakterle oynamayı denemek için mağazaya gidin!";
+
+/* End Slug Events */
+
+
+/* Slug Info Box */
+
+// common
+"slug_info_box_level" = "Seviye %i";
+"slug_info_box_power" = "Güç: %@";
+
+/* Slug Info */
+
+// burpy
+"slug_info_name_burpy" = "Yakıcı";
+"slug_info_power_burpy" = "Ateş";
+"slug_info_description_burpy" = "Güçlü ve son derece ender bulunan bir ateş sülüğü olan Yakıcı, rakibini zarar verici bir patlamayla vurur.";
+
+// frost
+"slug_info_name_frost" = "Buzul";
+"slug_info_power_frost" = "Buz";
+"slug_info_description_frost" = "Buzul, Buzulatör hareketiyle senin için koruyucu bir buz duvarı oluşturur, rakibini dondurucu ve zarar verici patlamalarla vurur.";
+
+//tazer
+"slug_info_name_tazer" = "Elektroling";
+"slug_info_power_tazer" = "Elektrik";
+"slug_info_description_tazer" = "Elektroling rakiplere Elektrobolt hareketiyle hücum eder, zarar verir ve rakibini sersemletir.";
+
+//gas
+"slug_info_name_gas" = "Gaz Topu";
+"slug_info_power_gas" = "Toksik";
+"slug_info_description_gas" = "Gaz Topu rakibini bir Öğürtü Topu saldırısıyla vurur, temas halinde rakibinin sülüklerini boşaltan ve onlara zarar veren pis bir koku yayar.";
+
+//doc
+"slug_info_name_doc" = "Antiseptik";
+"slug_info_power_doc" = "Işık";
+"slug_info_description_doc" = "Tedavi Topu hareketini kullanan Antiseptik, uçarken seni iyileştirir.";
+
+//arachnet
+"slug_info_name_arachnet" = "Arakna";
+"slug_info_power_arachnet" = "Toprak";
+"slug_info_description_arachnet" = "Yardımcı bir saldırı sülüğü olan Arakna, zarar verici bir patlamayla rakibe dolaşır ve sülüklerini yavaşlatır.";
+
+//enigmo
+"slug_info_name_enigmo" = "Enigmo";
+"slug_info_power_enigmo" = "Işık";
+"slug_info_description_enigmo" = "Enigmo savaş alanında uçarken taşları eşler.";
+
+//fandango
+"slug_info_name_fandango" = "Fandango";
+"slug_info_power_fandango" = "Işık";
+"slug_info_description_fandango" = "Sülük enerjisi bakımından zengin olan Fandango, uçarken diğer sülüklerini şarj eder.";
+
+//flaringo
+"slug_info_name_flaringo" = "Alevringo";
+"slug_info_power_flaringo" = "Ateş";
+"slug_info_description_flaringo" = "Alevringo, Çataçat saldırısıyla rakipleri vurarak onlara zarar verir.";
+
+//geoshard
+"slug_info_name_fright" = "Uçurtma";
+"slug_info_power_fright" = "Hava";
+"slug_info_description_fright" = "Uçurtma, sülüklerinin rakibini daha hızlı vurmasına olanak tanıyan bir rüzgar tüneli yaratır.";
+
+//rammstone
+"slug_info_name_rammstone" = "Koçbaşlı";
+"slug_info_power_rammstone" = "Toprak";
+"slug_info_description_rammstone" = "Koçbaşlı, Vurucu Güç saldırısıyla bir kalkanı ya da eşit seviyedeki bir sülüğü ezip geçer.";
+
+//yang
+"slug_info_name_yang" = "Hayalet";
+"slug_info_power_yang" = "Zihin Ötesi";
+"slug_info_description_yang" = "Hayalet, görüşlerini bulanıklaştırarak rakiplerinin kafasını karıştırır.";
+
+//grenuke
+"slug_info_name_grenuke" = "Bombacı";
+"slug_info_power_grenuke" = "Ateş";
+"slug_info_description_grenuke" = "Rakibinin paneline zarar vermek için birkaç Atobomba ekler.";
+
+//midas
+"slug_info_name_midas" = "Midas";
+"slug_info_power_midas" = "Işık";
+"slug_info_description_midas" = "Midas savaş alanında uçarken senin için jetonlar üretir.";
+
+//aquabeek
+"slug_info_name_aquabeek" = "Supido";
+"slug_info_power_aquabeek" = "Su";
+"slug_info_description_aquabeek" = "Fıskiye saldırısını kullanan Supido, rakibine doğru çok büyük bir hızla atış yapar ve ona zarar verir.";
+
+//makobreaker
+"slug_info_name_makobreaker" = "Azıdiş";
+"slug_info_power_makobreaker" = "Su";
+"slug_info_description_makobreaker" = "Azıdiş, her tür Fırlatıcı atışını ya da çarpıştığı düşük seviyeli sülükleri yiyerek güçlenir.";
+
+//xmitter
+"slug_info_name_xmitter" = "Verici";
+"slug_info_power_xmitter" = "Metal";
+"slug_info_description_xmitter" = "Manyetik bir patlamayla rakibin fırlatıcısını bozar.";
+
+//thresher
+"slug_info_name_thresher" = "Biçerdöver";
+"slug_info_power_thresher" = "Metal";
+"slug_info_description_thresher" = "Eli yaralandıkça Biçerdöver'ın saldırıları daha da güçlenir.";
+
+//lock
+"slug_info_name_lock" = "Asmadril";
+"slug_info_power_lock" = "Bitki";
+"slug_info_description_lock" = "Rakibin taşlarını kilitleyerek yerinden oynamalarını önler.";
+
+//panic
+"slug_info_name_panic" = "Korköcü";
+"slug_info_power_panic" = "Zihin Ötesi";
+"slug_info_description_panic" = "Düşmanı korkutarak bütün sülüklerini aynı anda ateşlemesine neden olur.";
+
+//refresh
+"slug_info_name_refresh" = "Ping";
+"slug_info_power_refresh" = "Işık";
+"slug_info_description_refresh" = "Rakibe saldırırken aynı zamanda taşlarınızın yerini değiştirir.";
+
+//reflect
+"slug_info_name_reflect" = "Şişgöbek";
+"slug_info_power_reflect" = "Su";
+"slug_info_description_reflect" = "Rakibin sülüğünü yansıtır.";
+
+//tormato
+"slug_info_name_tormato" = "Tornado";
+"slug_info_power_tormato" = "Hava";
+"slug_info_description_tormato" = "Rakibin sülüklerine karşı etrafınızda bir hava kalkanı oluşturur.";
+
+//speedstinger
+"slug_info_name_speedstringer" = "Kamikaze";
+"slug_info_power_speedstringer" = "Metal";
+"slug_info_description_speedstringer" = "Rakibinize yüksek hızla saldırır.";
+
+//phosphoro
+"slug_info_name_phosphoro" = "Fosforo";
+"slug_info_power_phosphoro" = "Işık";
+"slug_info_description_phosphoro" = "Rakibinize hasar verirken diğer sülüklerinizi de biraz şarj eder.";
+
+//neotox
+"slug_info_name_neotox" = "Neotoks";
+"slug_info_power_neotox" = "Toksik";
+"slug_info_description_neotox" = "Toksik bir duman ile rakibinizi zehirler.";
+
+//jellyish
+"slug_info_name_jellyish" = "Jelimsi";
+"slug_info_power_jellyish" = "Su";
+"slug_info_description_jellyish" = "Saldırılar rakibi yavaşlatır.";
+
+//Armashelt
+"slug_info_name_armashelt" = "Topkabuk";
+"slug_info_power_armashelt" = "Top Güllesi";
+"slug_info_description_armashelt" = "Ağır ve sert darbeli bir sülük olan Topkabuk bir rakip sülükle çarpıştığında, yoluna daha alt seviye bir mermi olarak devam eder.";
+
+//Hop Rock
+"slug_info_name_hoprock" = "Zıplayan Kaya";
+"slug_info_power_hoprock" = "Patlatıcı";
+"slug_info_description_hoprock" = "Rakiplerin paneline hasar veren ölümcül bombalar yerleştirir.";
+
+//Hypnogrif
+"slug_info_name_hypnogriff" = "Hipnozcu";
+"slug_info_power_hypnogriff" = "Trans";
+"slug_info_description_hypnogriff" = "Hipnozcu rakibin aklını karıştırır ve onları tüm sülüklerini birden ateşlemeye zorlar.";
+
+//Slicksilver
+"slug_info_name_slicksilver" = "Kaygan Gümüş";
+"slug_info_power_slicksilver" = "Metal/Mıknatıs Sülük";
+"slug_info_description_slicksilver" = "Rakibin sülüklerini ateşlemesini önler.";
+
+//SpeedStinger
+"slug_info_name_speedstringer" = "Kamikaze";
+"slug_info_power_speedstringer" = "Bumerang";
+"slug_info_description_speedstringer" = "Kamikaze hasar verirken hızlı hareket eder.";
+
+//Crystalyd
+"slug_info_name_crystalyd" = "Kristalit";
+"slug_info_power_crystalyd" = "Tunneler";
+"slug_info_description_crystalyd" = "Kristalit rakibin sülüğünü vurduktan sonra yoluna alçaktan uçan bir mermi olarak devam eder.";
+
+//Geoshard
+"slug_info_name_geoshard" = "Yer-Kristali";
+"slug_info_power_geoshard" = "Kristalleştirici Sülük";
+"slug_info_description_geoshard" = "Yer-Kristali havada yol alırken yaylım ateş açar.";
+
+//Slyren
+"slug_info_name_slyren" = "Siren";
+"slug_info_power_slyren" = "Hava";
+"slug_info_description_slyren" = "Siren havada yol alırken yaylım bir hipersonik atış yapar.";
+
+//Narwhaddle
+"slug_info_name_narwhaddle" = "Narvadel";
+"slug_info_power_narwhaddle" = "Buz";
+"slug_info_description_narwhaddle" = "Narvadel diğer sülük atışlarını hızlandırırken aynı zamanda rakibi donduran bir soğuk dalga yaratır.";
+
+//Firenzar
+"slug_info_name_firenzar" = "Firenzar";
+"slug_info_power_firenzar" = "Ateş";
+"slug_info_description_firenzar" = "Firenzar zamanla rakibe hasar veren bir ateş çemberi oluşturur.";
+
+//Thugglet
+"slug_info_name_thugglet" = "Haydut";
+"slug_info_power_thugglet" = "Zihin Ötesi";
+"slug_info_description_thugglet" = "Haydut rakibe saldırdığında onun sülük gücünü çalacaktır.";
+
+//Gazzer
+"slug_info_name_gazzer" = "Gıdık";
+"slug_info_power_gazzer" = "Hava";
+"slug_info_description_gazzer" = "Gıdık rakibin sülük göstergesini boşaltır.";
+
+//Lariat
+"slug_info_name_lariat" = "Kement";
+"slug_info_power_lariat" = "Su";
+"slug_info_description_lariat" = "Kement rakip sülükleri yavaşlatan yapışkan bir ağ fırlatır.";
+
+//Hexlet
+"slug_info_name_hexlet" = "Şansveto";
+"slug_info_power_hexlet" = "Zihin Ötesi";
+"slug_info_description_hexlet" = "Şansveto savaş alanında uçarken taşları eşler.";
+
+/* Fusion Slug Info */
+
+//Negashade & Ping Fusion
+
+"slug_info_name_fuse_yang_refresh" = "Gölge Işını";
+"slug_info_power_fuse_yang_refresh" = "Zihin Ötesi";
+"slug_info_description_fuse_yang_refresh" = "Hayalet ve Ping: Rakiplere saldırır ve onların görüşünü bulandırarak senin taşlarının yerini değiştirir.";
+
+//Doc and Gas Fusion
+"slug_info_name_fuse_doc_gas" = "Şifalı Zehir";
+"slug_info_power_fuse_doc_gas" = "Işık ve Zehir";
+"slug_info_description_fuse_doc_gas" = "Antiseptik ve Gaz Topu: Oyuncuyu iyileştirir ve rakibin sülük güçlerini azaltır.";
+
+//Burpy & Tazerling Fusion
+"slug_info_name_fuse_burpy_tazer" = "Novabolt";
+"slug_info_power_fuse_burpy_tazer" = "Ateş ve Elektrik";
+"slug_info_description_fuse_burpy_tazer" = "Kundakçı ve Elektroling: Rakibe saldırır ve şok eder.";
+
+//Arachnet & Panic Fusion
+"slug_info_name_fuse_arachnet_panic" = "Örümcek Kefeni";
+"slug_info_power_fuse_arachnet_panic" = "Toprak ve Zihin Ötesi";
+"slug_info_description_fuse_arachnet_panic" = "Arakna ve Korköcü";
+
+//Aquabeek & Fandango Fusion
+"slug_info_name_fuse_aquabeek_fandango" = "Su Takviyesi";
+"slug_info_power_fuse_aquabeek_fandango" = "Su ve Işık";
+"slug_info_description_fuse_aquabeek_fandango" = "Sulu Gaga ve Fandango: Oyuncunun sülük güçlerini dolduran hızlı saldırı.";
+
+//Rammstone & Makobreaker Fusion
+
+"slug_info_name_fuse_rammstone_makobreaker" = "Kayalop";
+"slug_info_power_fuse_rammstone_makobreaker" = "Toprak ve Su";
+"slug_info_description_fuse_rammstone_makobreaker" = " Bir kalkanı ya da eşit seviyedeki bir sülüğü ezip geçer ve fırlatıcı atışlarını yiyerek güçlenir.";
+
+//Xmitter and Vinedrill Fusion
+
+"slug_info_name_fuse_xmitter_vinedrill" = "Arızatuzak"; //Glitch is a malfunction equipment and Snare is a trap. For example trap or a net
+"slug_info_power_fuse_xmitter_vinedrill" = "Elektrik ve Santral";
+"slug_info_description_fuse_xmitter_vinedrill" = "Rakibin fırlatıcısını etkisizleştiren ve taşlarını karıştıran bir saldırı.";
+
+//Flaringo and Phosphoro Fusion
+
+"slug_info_name_fuse_flaringo_phosphoro" = "Kıvılcım Yağmuru"; //Spark is the small fiery particle thrown off from a fire and rain is moisture condensed from the atmosphere that falls visibly in separate drops. For Example rainy weather.
+"slug_info_power_fuse_flaringo_phosphoro" = "Ateş ve Işık";
+"slug_info_description_fuse_flaringo_phosphoro" = "Ateş hasarı ile saldırır ve tüm sülüklerinizi biraz şarj eder.";
+
+//Frostcrawler and Grenuke Fusion
+
+"slug_info_name_fuse_freeze_grenuke" = "Buz Bombası"; // Small white ice crtystals formed on surfaces when the temperature falls below freezing. Bomb is an explosion.
+"slug_info_power_fuse_freeze_grenuke" = "Buz ve Ateş";
+"slug_info_description_fuse_freeze_grenuke" = "Saldırı rakibi dondurur ve rakibin taşlarına hasar veren çok sayıda bomba ekler.";
+
+//Neotox and Thresher Fusion
+
+"slug_info_name_fuse_neotox_thresher" = "Toksik Diş"; // Toxic is poisonous. Tusk is a long pointed tooth, usually found on elephants, walrus or wild boars.
+"slug_info_power_fuse_neotox_thresher" = "Santral ve Metal";
+"slug_info_description_fuse_neotox_thresher" = "Saldırı patlaması rakibi zehirler ve Eli yaralı olduğunda daha da güçlü olur.";
+
+//Tormato and Jellyish Fusion
+
+"slug_info_name_fuse_tormato_jellyish" = "Sümük Fırtınası"; // Slime is a moist, soft, and slippery substance. Storm is a violent disturbance of the atmosphere with strong winds.
+"slug_info_power_fuse_tormato_jellyish" = "Su ve Hava";
+"slug_info_description_fuse_tormato_jellyish" = "Bu füzyon vuruşu rakibe zarar verip sülüklerini yavaşlatırken, savunma amaçlı bir rüzgâr kalkanı oluşturur. ";
+
+//Narwhaddle and Slyren Fusion
+
+"slug_info_name_fuse_slyren_narwaddle" = "Hiperşimşek "; // Hyper as in overactive and flash as in a brief shine.
+"slug_info_power_fuse_slyren_narwaddle" = "Buz ve Hava";
+"slug_info_description_fuse_slyren_narwaddle" = "Bir buz patlaması yaylım bir hipersonik ateş açarken, diğer sülükleri hızlandırır.";
+
+//Hoverbug and Speedstinger Fusion
+
+"slug_info_name_fuse_hoverbug_speedstinger" = "Kinetik İz"; //Kenetic as in Kinetic energy and streak as in a motion streak of moving very quickly
+"slug_info_power_fuse_hoverbug_speedstinger" = "Metal ve Hava";
+"slug_info_description_fuse_hoverbug_speedstinger" = " Kamikaze ve Uçurtma: Portallar kullanır ve rakibe zarar verir.";
+
+//Geoshard and Slicksilver Fusion
+
+"slug_info_name_fuse_geoshard_slicksilver" = "Mıknacam"; //Magna as in magnet and shard as in a small piece of broken glass
+"slug_info_power_fuse_geoshard_slicksilver" = "Metal ve Toprak";
+"slug_info_description_fuse_geoshard_slicksilver" = " Kaygan Gümüş ve Yer-Kristali: 3 mermi kullanarak rakibe zarar verir ve rakibin sülüklerini sınırlı bir süreyle kilitler.";
+
+
+//Neurotox and Amperling Fusion
+
+"slug_info_name_fuse_ghoul_netox_ghoul_tazerling" = "Ampertoks";
+"slug_info_power_fuse_ghoul_netox_ghoul_tazerling" = "Kara Gölge";
+"slug_info_description_fuse_ghoul_netox_ghoul_tazerling" = "Sersemletme rakibi ve sülükleri kilitlerken hasar verir ve sülük enerjisini boşaltır. ";
+
+//Burpy and Flatulo Rex
+
+"slug_info_name_fuse_ghoul_burpy_ghoul_gas" = "Şorolopbum";
+"slug_info_power_fuse_ghoul_burpy_ghoul_gas" = "Ateş ve Toksik";
+"slug_info_description_fuse_ghoul_burpy_ghoul_gas" = "Sülük enerjisini boşaltırken ve rakibin tahtasını gaz bulutlarıyla gizlerken hasar verir.";
+
+//Photomo and Aquafreak Fusion
+
+"slug_info_name_fuse_ghoul_phosphoro_ghoul_aquabeek" = "Hidro Ateştopu";
+"slug_info_power_fuse_ghoul_phosphoro_ghoul_aquabeek" = "Kara Gölge";
+"slug_info_description_fuse_ghoul_phosphoro_ghoul_aquabeek" = "Rakibe hasar verir ve aynı zamanda oyuncunun sülük enerjisini önce biraz boşaltırken, oyuncunun sülük enerjisine büyük bir takviye yapar.    ";
+
+//Briardrill and FrostFang Fusion
+
+"slug_info_name_fuse_ghoul_vinedrill_ghoul_frost" = "Dikendiş"; //Briar is a plant with prickly stems and Shard means broke peices or fragments
+"slug_info_power_fuse_ghoul_vinedrill_ghoul_frost" = "Sarmaşık ve Kara Buz";
+"slug_info_description_fuse_ghoul_vinedrill_ghoul_frost" = "Rakibin panelini kilitleyip dondururken, kendi panelini de kısa bir süre için kilitler.";
+
+//Tempesto and Pyringo Fusion
+
+"slug_info_name_fuse_ghoul_tormato_ghoul_flaringo" = "Tırpan Dalga"; // Scythe is a tool used for cutting and a Wave is a ridge of air
+"slug_info_power_fuse_ghoul_tormato_ghoul_flaringo" = "Kara Gölge";
+"slug_info_description_fuse_ghoul_tormato_ghoul_flaringo" = "Tırpan Dalga bir hortum yaratır ve ağır hasar verir. Aynı zamanda oyuncuya da zarar verir.";
+
+//Greneater and Attacknet Fusion
+
+"slug_info_name_fuse_ghoul_grenuke_ghoul_arachnet" = "Pıtrak Bomba"; // Burr is a rough sound and Bomb is an explosion
+"slug_info_power_fuse_ghoul_grenuke_ghoul_arachnet" = "Kara Gölge";
+"slug_info_description_fuse_ghoul_grenuke_ghoul_arachnet" = "Pıtrak Bomba rakibin paneline çok sayıda bomba ekler ve aynı zamanda onun sülük atışlarını yavaşlatır. Oyuncunun sülükleri sınırlı bir süreyle kilitlenir.";
+
+/* Ghoul Slug Info */
+
+// Ghoul Burpy
+"slug_info_name_ghoul_burpy" = "Darkfurnus";
+"slug_info_power_ghoul_burpy" = "Ateş";
+"slug_info_description_ghoul_burpy" = "Güçlü ve son derece nadir bir ateş sülüğü olan Darkfurnus rakibi bir Darkpyre patlamasıyla vurur ancak senin karakterine de zarar verir.";
+
+// Ghoul Frost
+"slug_info_name_ghoul_frost" = "Donarca";
+"slug_info_power_ghoul_frost" = "Kara Buz";
+"slug_info_description_ghoul_frost" = "Donarca rakibini güçlü bir patlamayla dondurmak için Sürüngendonduran hareketini kullanır ancak bir buz duvarı oluşturmaz.";
+
+// Ghoul Gas
+"slug_info_name_ghoul_gas" = "Foseptik";
+"slug_info_power_ghoul_gas" = "Toksik koku";
+"slug_info_description_ghoul_gas" = "Foseptik rakibi temas anında kötü bir koku bırakan bir Koku Duvarı saldırısıyla vurarak rakibin sülüklerini azatırken, aynı zamanda senin panelini de gaz bulutlarıyla gizler.";
+
+// Ghoul Tazer
+"slug_info_name_ghoul_tazer" = "Kısa Devre";
+"slug_info_power_ghoul_tazer" = "Şoklayıcı";
+"slug_info_description_ghoul_tazer" = "Kısa Devre Amperşok hareketiyle saldırır ve ağır hasar verip rakibi sersemletirken bir taraftan da senin sülüklerini belirli bir süre kilitler.";
+
+// Ghoul Aquabeek
+"slug_info_name_ghoul_aquabeek" = "Karamisu";
+"slug_info_power_ghoul_aquabeek" = "Karanlık Su";
+"slug_info_description_ghoul_aquabeek" = "Sukılıcı saldırısını kullanan Karamisu rakibe doğru çok yüksek hızlı bir atış yaparak hasar verirken, diğer taraftan şarj olmak için daha fazla süreye ihtiyaç duyar. ";
+
+// Ghoul Arachnet
+"slug_info_name_ghoul_arachnet" = "Ağkafa";
+"slug_info_power_ghoul_arachnet" = "Karanlık Ağ";
+"slug_info_description_ghoul_arachnet" = "Ağkafa rakiplerini düğümlemek için Boğucu hareketini kullanarak hasar verirken, bir taraftan da sınırlı bir süreyle sülüklerinizi kilitler.";
+
+// Ghoul Flaringo
+"slug_info_name_ghoul_flaringo" = "Fırıngo";
+"slug_info_power_ghoul_flaringo" = "Karanlık Alev";
+"slug_info_description_ghoul_flaringo" = "Fırıngo rakiplerini Darbearar saldırısıyla vurarak onlara hasar verirken size de hasar verir.";
+
+
+// Ghoul Grenuke
+"slug_info_name_ghoul_grenuke" = "Bombayer";
+"slug_info_power_ghoul_grenuke" = "Karanlık Bomba";
+"slug_info_description_ghoul_grenuke" = "Bombayer rakibin tablosuna hasar veren çok sayıda Patlarçivi bombası eklerken, diğer taraftan şarj olmak için daha fazla süreye ihtiyaç duyar.";
+
+//Ghoul Jellyish
+"slug_info_name_ghoul_jellyish" = "Tutkal";
+"slug_info_power_ghoul_jellyish" = "Yapışkan";
+"slug_info_description_ghoul_jellyish" = "Tutkal rakibe zarar vermek ve onu yavaşlatmak için Dış-toks hareketini kullanır.";
+
+// Ghoul Lock
+"slug_info_name_ghoul_lock" = "Dikendelgi";
+"slug_info_power_ghoul_lock" = "Sarmaşık";
+"slug_info_description_ghoul_lock" = "Dikendelgi rakibin panelini sivri uçlu filizlerle kaplamak için Dikenkamçı saldırısını kullanır. ";
+
+// Ghoul Neotox
+"slug_info_name_ghoul_neotox" = "Nörotoks";
+"slug_info_power_ghoul_neotox" = "Karanlık Toksin";
+"slug_info_description_ghoul_neotox" = "Nörotoks rakipleri zehirleyen toksik bir patlama oluşturmak için Toksiklizma hareketi kullanır ve bir taraftan sülüklerinizin  enerjisini de emer.";
+
+// Ghoul Panic
+"slug_info_name_ghoul_panic" = "Öcühort";
+"slug_info_power_ghoul_panic" = "Kara Gölge";
+"slug_info_description_ghoul_panic" = "Öcühort rakibi korkuturak, tüm sülüklerini aynı anda ateşlemesine neden olur ve aynı zamanda kendi sülüklerinin enerjilerini boşaltır.";
+
+// Ghoul Phosphoro
+"slug_info_name_ghoul_phosphoro" = "Fotomo";
+"slug_info_power_ghoul_phosphoro" = "Karanlık Foton";
+"slug_info_description_ghoul_phosphoro" = "Fotomoto uçuşu sırasında sülükleriniz boşaltır, fakat rakibe hasar verirken size büyük bir sülük enerjisi takviyesi yapar.";
+
+// Ghoul Rammstone
+"slug_info_name_ghoul_rammstone" = "Taçbaşlı";
+"slug_info_power_ghoul_rammstone" = "Kaya";
+"slug_info_description_ghoul_rammstone" = "Taçbaşlı çarpıştığı ilk sülüğü yansıtırken, bir taraftan da oyuncunun taşlarından bazılarını sınırlı bir süreyle ters çevirir.";
+
+// Ghoul Thresher
+"slug_info_name_ghoul_thresher" = "Ezergeçer";
+"slug_info_power_ghoul_thresher" = "Kesme ve Tıkınma";
+"slug_info_description_ghoul_thresher" = "Ezergeçer Eli yaralandığında daha zayıf olur.";
+
+// Ghoul Tormato
+"slug_info_name_ghoul_tormato" = "Tempesto";
+"slug_info_power_ghoul_tormato" = "Kara Gölge";
+"slug_info_description_ghoul_tormato" = "Rakibi vururken, ateşlendiğinde rakibin sülüklerinden birini yansıtan bir hortum yaratır.";
+
+// Ghoul Doc
+"slug_info_name_ghoul_doc" = "Mikrobik";
+"slug_info_power_ghoul_doc" = "Karanlık";
+"slug_info_description_ghoul_doc" = "Mikrobik oyuncuya hasar verir, ancak daha düşük seviye sülüklerle dövüşülürken ve rakibe vurulurken oyuncuyu iyileştirir de.";
+
+// Ghoul Makobreaker
+"slug_info_name_ghoul_makobreaker" = "Megakırıcı";
+"slug_info_power_ghoul_makobreaker" = "Karanlık Su";
+"slug_info_description_ghoul_makobreaker" = "Megakırıcı fırlatıcı atışlarını ve daha düşük seviyedeki sülükleri yiyerek gücünü artırır, fakat aynı zamanda oyuncuya da hasar verir.";
+
+// Ghoul Yang
+//"slug_info_name_ghoul_yang" = "Negablade";
+//"slug_info_power_ghoul_yang" = "Shadow";
+//"slug_info_description_yang" = "Negablade uses its Darkwraith move to confuse opponents by clouding their vision.";
+
+/* Megamorphs */
+
+//Burpy Megamorph
+"slug_info_name_mega_burpy" = "Megadönüşen Yakıcı";
+"slug_info_power_mega_burpy" = "Ateş";
+"slug_info_description_mega_burpy" = "Evrimde son nokta olan Megadönüşen Yakıcı savaş alanını roket gibi geçerken eriyikten bir ateş fırtınası oluşturur.";
+
+//Frost Megamorph
+"slug_info_name_mega_frost" = "Megadönüşen Buzul";
+"slug_info_power_mega_frost" = "Buz";
+"slug_info_description_mega_frost" = "Evrimde son nokta olan Megadönüşen Buzul savunma amaçlı bir buz duvarı oluşturur ve aynı zamanda temas ettiği rakibi dondurur. ";
+
+//Tazerling Megamorph
+"slug_info_name_mega_tazer" = "Megadönüşen Elektroling";
+"slug_info_power_mega_tazer" = "Elektrik";
+"slug_info_description_mega_tazer" = "Evrimde son nokta olan Megadönüşen Elektroling ağır hasar vermek ve rakibi sersemletmek için savaş alanından geçerken güçlü bir elektrik fırtınası oluşturur.";
+
+//Flatulorhinkus Megamorph
+"slug_info_name_mega_gas" = "Megadönüşen Gaz Topu";
+"slug_info_power_mega_gas" = "Toksik";
+"slug_info_description_mega_gas" = "Evrimde son nokta olan Megadönüşen Gaz Topu savaş alanının üzerinden roket gibi uçmak için iç basınç kullanır ve düşmana zarar veren bir toksik bulut bırakır.";
+
+//Megamorph Arachnet
+"slug_info_name_mega_arachnet" = "Megadönüşen Arakna";
+"slug_info_power_mega_arachnet" = "Toprak";
+"slug_info_description_mega_arachnet" = "Evrimde son nokta olan Megadönüşen Arakna ağır bir hasar veren ve rakibin sülüklerini son derece yavaşlatan yapışkan bir ağ oluşturur.";
+
+//Megamorph Tormato
+"slug_info_name_mega_tormato" = "Megadönüşen Tornado ";
+"slug_info_power_mega_tormato" = "Toprak";
+"slug_info_description_mega_tormato" = "Evrimde son nokta olan Megadönüşen Tornado rakibin sürdüklerini geri yansıtır.";
+
+//Megamorph Grenuke
+"slug_info_name_mega_grenuke" = "Megadönüşen Bombacı";
+"slug_info_power_mega_grenuke" = "Ateş";
+"slug_info_description_mega_grenuke" = "Evrimde son nokta olan Megamorph Bombacı, zamanında ortadan kaldırılmazlarsa rakibin paneline ağır hasar veren bombalar yerleştirir.";
+
+//Megamorph Thresher
+"slug_info_name_mega_thresher" = "Megadönüşen Biçerdöver";
+"slug_info_power_mega_thresher" = "Metal";
+"slug_info_description_mega_thresher" = "Evrimde son nokta olan Megadönüşen Biçerdöver oyuncu yaralandığında çok daha güçlü olur.";
+
+//Megamorph Boon Doc
+"slug_info_name_mega_doc" = "Megadönüşen Antiseptik";
+"slug_info_power_mega_doc" = "Işık";
+"slug_info_description_mega_doc" = "Evrimde son nokta olan Megadönüşen Antiseptik sahip olduğu Tedavi Topu gücünü kullanarak, uçarken oyuncuyu iyileştirir.";
+
+
+/* End Slug Info Box */
+
+/* Booster Info */
+
+// blaster_damage
+"booster_info_name_blaster_damage" = "Fırlatıcı Hasarı";
+"booster_info_description_blaster_damage" = "Senin fırlatıcı atışların daha fazla zarar verir.";
+
+"booster_info_name_blaster_velocity" = " Fırlatıcı Hızı ";
+"booster_info_description_blaster_velocity" = "Senin sülüklerin ve fırlatıcı atışların daha hızlı uçar.";
+
+"booster_info_name_autocharge" = "Otomatik Sülük Şarj Edici";
+"booster_info_description_autocharge" = "Karşılaşma sırasında sülükler otomatik şarj olur.";
+
+"booster_info_name_pre_igniter" = "Sülük Ön-Yükleyici";
+"booster_info_description_pre_igniter" = "Karşılaşmanın başında sülüklerin tamamen şarj olmuş durumdadır.";
+
+"booster_info_name_max_level" = "Sülük Yükselticisi";
+"booster_info_description_max_level" = "Sülüklerin bir karşılaşma için 3. seviyeye yapılır.";
+
+/* End Booster Info */
+
+
+/* Game Mod */
+
+"gamemod_info_name_blaster_damage" = "Fırlatıcı Hasarı";
+"gamemod_info_name_blaster_damage_one" = "Fırlatıcı Hasarı";
+"gamemod_info_description_blaster_damage" = "Tüm Temel Atışlarda İki Kat Hasar";
+
+"gamemod_info_name_autocharge" = "Otomatik Şarj Edici";
+"gamemod_info_name_autocharge_one" = "Otomatik Şarj Edici Seviye 1";
+"gamemod_info_name_autocharge_two" = " Otomatik Şarj Edici Seviye 2";
+"gamemod_info_name_autocharge_three" = " Otomatik Şarj Edici Seviye 3";
+"gamemod_info_description_autocharge" = "Sülükler Otomatik Şarj Ediliyor";
+
+"gamemod_info_name_pre_igniter" = "Sülük Ön-Yükleyici";
+"gamemod_info_name_pre_igniter_one" = "Sülük Ön-Yükleyici";
+"gamemod_info_description_pre_igniter" = "Sülükler Tamamen Şarj Olmuş Durumda Başlıyor.";
+
+"gamemod_info_name_blaster_velocity" = " Fırlatıcı Hızı ";
+"gamemod_info_name_blaster_velocity_one" = " Fırlatıcı Hızı ";
+"gamemod_info_description_blaster_velocity" = "Tüm Atışlar Arttırılmış Hızda Hareket Eder";
+
+"gamemod_info_name_no_blasters" = "Fırlatıcı Yok";
+"gamemod_info_name_no_blasters_one" = "Fırlatıcı Yok";
+"gamemod_info_description_no_blasters" = "Oyun Tablosunda Fırlatıcı Taşları Yok";
+
+"gamemod_info_name_no_health" = " Sağlık Taşları Yok ";
+"gamemod_info_name_no_health_one" = " Sağlık Taşları Yok ";
+"gamemod_info_description_no_health" = "Oyun Tablosunda Sağlık Taşları Yok";
+
+/* End Game Mod */
+
+
+/* Basic Shot Info */
+
+"basic_shot_info_name_basicShot" = "Temel Atış";
+"basic_shot_info_name_acidGreen" = "Asit Yeşili";
+"basic_shot_info_name_lightning" = "Çakan Şimşek";
+"basic_shot_info_name_majorLazer" = "Büyük Lazer";
+"basic_shot_info_name_sonicBoom" = "Ses Patlaması";
+"basic_shot_info_name_snot" = "Asit Sümüğü";
+"basic_shot_info_name_sparkleBlade" = "Kıvılcım Bıçağı";
+"basic_shot_info_name_pinkerton" = "Baloncuk Fırlatması";
+"basic_shot_info_name_blueBird" = "Mavi Kuş";
+"basic_shot_info_name_violentRed" = "Kırmızı Roket";
+"basic_shot_info_name_mellowYellow" = "Olgun Sarı";
+"basic_shot_info_name_royalPurple" = "Mor Güç";
+"basic_shot_info_name_oranges" = "Turuncu Alarm";
+"basic_shot_info_name_tealBerry" = "Mavi Yemiş";
+
+/* End Basic Shot Info */
+
+
+/* Character Names */
+
+"char_eli_name" = "Eli Shane";
+
+/* End Character Names */
+
+
+/* Destructible Character Names */
+
+"char_dummy_name" = "Sahte";
+"char_ghoulstation_name" = "Hortlaklaştırma Merkezi";
+"char_trixiecage_name" = "Trixie’nin Kafesi";
+"char_door_name" = "";
+
+/* End Destructible Character Names */
+
+
+/* Opponent Names */
+
+"char_arclight_name" = "Shockwire";
+"char_guardbig1_name" = "Bay Orange";
+"char_bigguard3_name" = "Han del Bar";
+"char_billy_name" = "Billy";
+"char_blakk_name" = "Doktor Blakk";
+"char_cajun_name" = "Jacques";
+"char_fav_name" = "Fav";
+"char_fire_name" = "Flame";
+"char_frost_name" = "Frost";
+"char_gabe_name" = "Gabe";
+"char_glasses_name" = "Dörtgöz";
+"char_goon2_name" = "Locke";
+"char_goon3_name" = "Lode";
+"char_goon4_name" = "Kiralık Boon";
+"char_goon_name" = "Sid the Kid";
+"char_guard_name" = "Delta Operatörü";
+"char_jackbull_name" = "John Bull";
+"char_kingofsling_name" = "Sülükşörler Kralı";
+"char_kord_name" = "Kord";
+"char_marcus_name" = "Marcus";
+"char_mrsaturday_name" = "Bay Cumartesi";
+"char_munch_name" = "Munch";
+"char_nacho_name" = "Nacho";
+"char_pronto_name" = "Pronto";
+"char_robo2_name" = "Doombot 2.0";
+"char_robo_name" = "Doombot 1.0";
+"char_sedo_name" = "Sedo";
+"char_shadow_name" = "Gölge Klanı";
+"char_shorty_name" = "Shorty";
+"char_trixie_name" = "Trixie";
+"char_turret_name" = "Taret";
+"char_mei_name" = "Mei";
+
+// Chapter 6
+"char_voodoo_name" = "Hudu Vudu";
+"char_zombieguard_name" = "Zombileştirilmiş Muhafız";
+"char_securitygun_name" = "Oto-Top";
+"char_zombiechef_name" = "Zombileştirilmiş Şef";
+"char_inmate_name" = "Snitch";
+"char_inmate2_name" = "Donuk Göz";
+"char_turtle_name" = "Turtleton";
+"char_horn_name" = "Minotarus";
+"char_spirex_name" = "Spireks";
+"char_madmax_name" = "Çatlak Max";
+
+"char_angryblakk_name" = "Kızgın Doktor Blakk";
+"char_dunno_name" = "Ben Hata";
+
+/* Chapter 7 */
+"char_guard_mech_name" = "Omikron Filosu";
+"char_boat_pirates_name" = "Karl & Charlie";
+"char_pirate1_name" = "Kanka Nate";
+"char_pirate_girl_name" = "Kaptan Ridley";
+"char_shark_name" = "Köpekbalığı Gunther";
+"char_pirate2_name" = "Durduran Tüy";
+"char_cannon_name" = "Topçu Boo";
+"char_gator_name" = "Gator";
+"char_fang_name" = "Fang";
+"char_watts_name" = "Watts";
+"char_drake_name" = "Malvolio Drake";
+"char_eli_mech_name" = "Eli Shane";
+
+/* Chapter 8*/
+"char_evileli_name" = "Alias";
+"char_evilkord_name" = "Jeen";
+"char_eviltrixie_name" = "Trapsie";
+"char_mechamole_name" = "Meka Köstebek";
+
+/* Chapter 9*/
+"char_will_name" ="Will Shane";
+"char_fakeduelist_name" = "Gezgin Sülükşör";
+"char_shanai_name" = "Yenİlmez Usta";
+"char_twist_name" = "Twist";
+"char_young_blakk_name" = "Genç Blakk";
+"char_blakk_gat_name" = "Doktor Blakk";
+"char_master_name" = "Yenİlmez Usta";
+
+/* Chapter 10*/
+"char_scrapheepgang01_name" = "Mongo";
+"char_scrapheepgang02_name" = "Straggus";
+"char_scrapheepgang03_name" = "Kaynakçı Walter";
+"char_scrapheepgang04_name" = "Küçük Stevie";
+"char_bossember_name" = "Patron Ember";
+"char_angrybossember_name" = "Kızgın Patron Ember";
+
+/* Chapter 12*/
+"char_guard2_name" = "Delta Operatörü";
+"char_darkbane_soldier1_name" = "Kara Kötülük Murg";
+"char_darkbane_soldier2_name" = "Kara Kötülük Drek";
+"char_darkbane_soldier3_name" = "Kara Kötülük Hartag";
+"char_shadowclanleader_name" = "Klan Koruyucusu";
+"char_darkbane_soldier4_name" = "Kara Kötülük Grog";
+"char_darkbane_soldier5_name" = "Kara Kötülük Stragg";
+"char_darkbane_prison_guard_name" = "Hapishane Müdürü";
+"char_darkbane_nacho_name" = "Kötülük Yüzbaşısı";
+
+/* Chapter 13*/
+"char_darkbane_soldier6_name" = "Kara Kötülük Blarg";
+"char_darkbane_soldier_elite1_name" = "Kara Kötülük Elit 1";
+"char_darkbane_soldier_elite2_name" = "Kara Kötülük Elit 2";
+"char_behemoth_name" = "Behemoth";
+"char_darkbanebrimstone_name" = "Brimstone";
+"char_angrynacho_name" = "Nacho";
+
+/* Chapter 15*/
+"char_hostile_miner_name" = "Kızgın Madenci";
+"char_foreman_name" = "Ustabaşı";
+"char_viggo_minion1_name" = "Ağır Adam";
+"char_viggo_minion2_name" = "Gammaz";
+"char_viggo_name" = "Cenko Gözüpek";
+"char_viggo1_name" = "Ağır Adam";
+"char_viggo2_name" = "Gammaz";
+
+/* Chapter 16*/
+"char_titan_name" = "Titan";
+"char_guard3_name" = "Muhafız Bob";
+
+/* Chapter 17*/
+"char_redhook_name" = "Kızıl Kanca";
+"char_technician_name" = "Teknisyen";
+
+/* End Opponent Names */
+
+
+
+/***** Game *****/
+
+/* Game Common */
+
+// score screen coin breakdown
+// the amount of coins earned per encounter is broken down into sections:
+// eg. "Victory   10 coins"
+//     "Badges     5 coins"
+//     "Bonus      5 coins"
+"game_coins_breakdown_victory" = "Zafer";     // story
+"game_coins_breakdown_badges" = "Rozetler";       // story, bonus
+"game_coins_breakdown_achievements" = "Başarılar"; // story
+"game_coins_breakdown_bonus" = "Bonus";         // endless
+"game_coins_breakdown_base" = "Üs";           // treasure
+"game_coins_breakdown_damage" = "Hasar";       // treasure
+"game_coins_breakdown_destroy" = "Yıkım";     // treasure
+"game_coins_breakdown_total" = "TOPLAM";         // TOPLAM
+
+/* End Game Common */
+
+
+
+/* Tutorials */
+
+"game_tutorial_tip_match" = "Eşleştir"; // displayed on a tip box, informing the player to match some number of tiles
+"game_tutorial_tip_move_1" = "1 taşı hareket ettir!"; // tip telling the player to move 1 tile
+"game_tutorial_tip_move_n" = "%i taşı hareket ettir!"; // tip telling player to move more than 1 tile.
+"game_tutorial_tip_survive" = "Hayatta kalmak için!";
+
+/* End Tutorials */
+
+
+
+/* Treasure Game */
+
+//"game_treasure_times_up" = "Time's Up!";
+//"game_treasure_well_done" = "Well Done!";
+
+/* End Treasure Game */
+
+/***** Local Push Notification *****/
+//Haven't logged in for 1 week: 500 coins
+"log_in_1_week" = "Sülüklerinin sana bir hediyesi var! ÜCRETSİZ jeton için oturum aç!!!";
+//Haven't logged in for 1 week: 800 coins
+"log_in_2_week" = "Sülüklerinin sana bir hediyesi var! ÜCRETSİZ jeton için oturum aç!!!";
+//Haven't logged in for 1 week: 1500 coins
+"log_in_1_month" = "Sülüklerinin sana bir hediyesi var! ÜCRETSİZ jeton için oturum aç!!!";
+//Haven't logged in for 1 week: 3000 coins
+"log_in_2_month" = "Sülüklerinin sana bir hediyesi var! ÜCRETSİZ jeton için oturum aç!!!";
+//Haven't logged in for 1 week: 5000 coins
+"log_in_6_month" = "Sülüklerinin sana bir hediyesi var! ÜCRETSİZ jeton için oturum aç!!!";
+
+"localpush_reward_popup" = "Sülüklerinin sana bir hediyesi var!";
+"localpush_reward_coins" = "jeton";
+
+/***** Daily Gifts Notification *****/
+"daily_challenges_now" = "Şimdi günlük görevler mevcut! ÜCRETSİZ sülükler kazanma şansı için oyna!";
+"daily_gift_coins" = "Şimdi günlük hediye mevcut! ÜCRETSİZ jetonlar için oturum aç!";
+"daily_gift_boosters" = "Şimdi günlük hediye mevcut! ÜCRETSİZ Güçlendirici için oturum aç!";
+"daily_gift_blaster_damage" = "Şimdi günlük hediye mevcut! ÜCRETSİZ Fırlatıcı Hasar Güçlendiricisi için oturum aç!";
+"daily_gift_blaster_speed" = "Şimdi günlük hediye mevcut! ÜCRETSİZ Fırlatıcı Hız Güçlendiricisi için oturum aç!";
+"daily_gift_auto_charger" = "Şimdi günlük hediye mevcut! ÜCRETSİZ Sülük Şarj Edici için oturum aç!";
+"daily_gift_pre_igniter" = "Şimdi günlük hediye mevcut! ÜCRETSİZ Ön-Yüleyici için oturum aç!";
+"slug_gift_coins" = "Sülüklerinin sana bir hediyesi var! ÜCRETSİZ jeton için oturum aç!!!";
+
+/***** Video Ad Confirmation Box *****/
+"video_ad_title" = "";
+"video_ad_description" = "Ekstra jeton kazanmak için bir video izler misiniz?";
+"video_ad_watch_button" = "Evet!";
+"video_ad_thank_you" = "Tebrikler! Şunu kazandın:";
+"video_ad_150_coins" = "150 ücretsiz jeton için bir video izle!";
+"video_ad_200_coins" = "200 ücretsiz jeton için bir video izle!";
+
+/***** SlugSeeker *****/
+
+"name_cavern_slug_seeker_name" = "Sülük Arayıcı";
+
+/* Cavern 1 */
+"cv_cavern1_name" = "Herringbone Cavern";
+"cv_cavern1_subtitle" = "";
+
+//Encounter 1
+"enc_cv1e1_title" = "Karşılaşma 1";
+
+//Encounter 2
+"enc_cv1e2_title" = "Karşılaşma 2";
+
+//Encounter 3
+"enc_cv1e3_title" = "Karşılaşma 3";
+
+//Encounter 4
+"enc_cv1e4_title" = "Karşılaşma 4";
+
+//Encounter 5
+"enc_cv1e5_title" = "Bonus Raunt";
+
+//Encounter 6
+"enc_cv1e6_title" = "Karşılaşma 6";
+
+//Encounter 7
+"enc_cv1e7_title" = "Karşılaşma 7";
+
+//Encounter 8
+"enc_cv1e8_title" = "Karşılaşma 8";
+
+//Encounter 9
+"enc_cv1e9_title" = "Karşılaşma 9";
+
+//Encounter 10
+"enc_cv1e10_title" = "Bonus Raunt";
+
+//Encounter 11
+"enc_cv1e11_title" = "Karşılaşma 11";
+
+//Encounter 12
+"enc_cv1e12_title" = "Karşılaşma 12";
+
+//Encounter 13
+"enc_cv1e13_title" = "Karşılaşma 13";
+
+//Encounter 14
+"enc_cv1e14_title" = "Karşılaşma 14";
+
+//Encounter 15
+"enc_cv1e15_title" = "Bonus Raunt";
+
+/* End Cavern 1 */
+
+/* Cavern 2 */
+"cv_cavern2_name" = "Karanlık Muhit";
+"cv_cavern2_subtitle" = "";
+
+//Encounter 1
+"enc_cv2e1_title" = "Karşılaşma 1";
+
+//Encounter 2
+"enc_cv2e2_title" = "Karşılaşma 2";
+
+//Encounter 3
+"enc_cv2e3_title" = "Karşılaşma 3";
+
+//Encounter 4
+"enc_cv2e4_title" = "Karşılaşma 4";
+
+//Encounter 5
+"enc_cv2e5_title" = "Bonus Raunt";
+
+//Encounter 6
+"enc_cv2e6_title" = "Karşılaşma 6";
+
+//Encounter 7
+"enc_cv2e7_title" = "Karşılaşma 7";
+
+//Encounter 8
+"enc_cv2e8_title" = "Karşılaşma 8";
+
+//Encounter 9
+"enc_cv2e9_title" = "Karşılaşma 9";
+
+//Encounter 10
+"enc_cv2e10_title" = "Bonus Raunt";
+
+//Encounter 11
+"enc_cv2e11_title" = "Karşılaşma 11";
+
+//Encounter 12
+"enc_cv2e12_title" = "Karşılaşma 12";
+
+//Encounter 13
+"enc_cv2e13_title" = "Karşılaşma 13";
+
+//Encounter 14
+"enc_cv2e14_title" = "Karşılaşma 14";
+
+//Encounter 15
+"enc_cv2e15_title" = "Bonus Raunt";
+
+/* End Cavern 2 */
+
+/* Cavern 3 */
+"cv_cavern3_name" = "Deep Caverns";
+"cv_cavern3_subtitle" = "";
+
+//Encounter 1
+"enc_cv3e1_title" = "Karşılaşma 1";
+
+//Encounter 2
+"enc_cv3e2_title" = "Karşılaşma 2";
+
+//Encounter 3
+"enc_cv3e3_title" = "Karşılaşma 3";
+
+//Encounter 4
+"enc_cv3e4_title" = "Karşılaşma 4";
+
+//Encounter 5
+"enc_cv3e5_title" = "Bonus Raunt";
+
+//Encounter 6
+"enc_cv3e6_title" = "Karşılaşma 6";
+
+//Encounter 7
+"enc_cv3e7_title" = "Karşılaşma 7";
+
+//Encounter 8
+"enc_cv3e8_title" = "Karşılaşma 8";
+
+//Encounter 9
+"enc_cv3e9_title" = "Karşılaşma 9";
+
+//Encounter 10
+"enc_cv3e10_title" = "Bonus Raunt";
+
+//Encounter 11
+"enc_cv3e11_title" = "Karşılaşma 11";
+
+//Encounter 12
+"enc_cv3e12_title" = "Karşılaşma 12";
+
+//Encounter 13
+"enc_cv3e13_title" = "Karşılaşma 13";
+
+//Encounter 14
+"enc_cv3e14_title" = "Karşılaşma 14";
+
+//Encounter 15
+"enc_cv3e15_title" = "Bonus Raunt";
+
+/* End Cavern 3 */
+
+/* Cavern 4 */
+"cv_cavern4_name" = "Sülük Noeli Kar Dansı";
+"cv_cavern4_subtitle" = "";
+
+//Encounter 1
+"enc_cv4e1_title" = "Karşılaşma 1";
+
+//Encounter 2
+"enc_cv4e2_title" = "Karşılaşma 2";
+
+//Encounter 3
+"enc_cv4e3_title" = "Karşılaşma 3";
+
+//Encounter 4
+"enc_cv4e4_title" = "Karşılaşma 4";
+
+//Encounter 5
+"enc_cv4e5_title" = "Bonus Raunt";
+
+//Encounter 6
+"enc_cv4e6_title" = "Karşılaşma 6";
+
+//Encounter 7
+"enc_cv4e7_title" = "Karşılaşma 7";
+
+//Encounter 8
+"enc_cv4e8_title" = "Karşılaşma 8";
+
+//Encounter 9
+"enc_cv4e9_title" = "Karşılaşma 9";
+
+//Encounter 10
+"enc_cv4e10_title" = "Bonus Raunt";
+
+//Encounter 11
+"enc_cv4e11_title" = "Karşılaşma 11";
+
+//Encounter 12
+"enc_cv4e12_title" = "Karşılaşma 12";
+
+//Encounter 13
+"enc_cv4e13_title" = "Karşılaşma 13";
+
+//Encounter 14
+"enc_cv4e14_title" = "Karşılaşma 14";
+
+//Encounter 15
+"enc_cv4e15_title" = "Bonus Raunt";
+
+/* End Cavern 4 */
+
+
+/* Cavern 5 */
+"cv_cavern5_name" = "Dojang Grotto";
+"cv_cavern5_subtitle" = "";
+
+//Encounter 1
+"enc_cv5e1_title" = "Karşılaşma 1";
+
+//Encounter 2
+"enc_cv5e2_title" = "Karşılaşma 2";
+
+//Encounter 3
+"enc_cv5e3_title" = "Karşılaşma 3";
+
+//Encounter 4
+"enc_cv5e4_title" = "Karşılaşma 4";
+
+//Encounter 5
+"enc_cv5e5_title" = "Bonus Raunt";
+
+//Encounter 6
+"enc_cv5e6_title" = "Karşılaşma 6";
+
+//Encounter 7
+"enc_cv5e7_title" = "Karşılaşma 7";
+
+//Encounter 8
+"enc_cv5e8_title" = "Karşılaşma 8";
+
+//Encounter 9
+"enc_cv5e9_title" = "Karşılaşma 9";
+
+//Encounter 10
+"enc_cv5e10_title" = "Bonus Raunt";
+
+//Encounter 11
+"enc_cv5e11_title" = "Karşılaşma 11";
+
+//Encounter 12
+"enc_cv5e12_title" = "Karşılaşma 12";
+
+//Encounter 13
+"enc_cv5e13_title" = "Karşılaşma 13";
+
+//Encounter 14
+"enc_cv5e14_title" = "Karşılaşma 14";
+
+//Encounter 15
+"enc_cv5e15_title" = "Bonus Raunt";
+
+/* End Cavern 5 */
+
+/* Cavern 6 */
+"cv_cavern6_name" = "Yaban Sporlar Mağarası";
+"cv_cavern6_subtitle" = "";
+
+//Encounter 1
+"enc_cv6e1_title" = "Karşılaşma 1";
+
+//Encounter 2
+"enc_cv6e2_title" = "Karşılaşma 2";
+
+//Encounter 3
+"enc_cv6e3_title" = "Karşılaşma 3";
+
+//Encounter 4
+"enc_cv6e4_title" = "Karşılaşma 4";
+
+//Encounter 5
+"enc_cv6e5_title" = "Bonus Raunt";
+
+//Encounter 6
+"enc_cv6e6_title" = "Karşılaşma 6";
+
+//Encounter 7
+"enc_cv6e7_title" = "Karşılaşma 7";
+
+//Encounter 8
+"enc_cv6e8_title" = "Karşılaşma 8";
+
+//Encounter 9
+"enc_cv6e9_title" = "Karşılaşma 9";
+
+//Encounter 10
+"enc_cv6e10_title" = "Bonus Raunt";
+
+//Encounter 11
+"enc_cv6e11_title" = "Karşılaşma 11";
+
+//Encounter 12
+"enc_cv6e12_title" = "Karşılaşma 12";
+
+//Encounter 13
+"enc_cv6e13_title" = "Karşılaşma 13";
+
+//Encounter 14
+"enc_cv6e14_title" = "Karşılaşma 14";
+
+//Encounter 15
+"enc_cv6e15_title" = "Bonus Raunt";
+
+/* End Cavern 6 */
+
+/* Cavern 7 */
+"cv_cavern7_name" = "Akıntı Mağarası";
+"cv_cavern7_subtitle" = "";
+
+//Encounter 1
+"enc_cv7e1_title" = "Karşılaşma 1";
+
+//Encounter 2
+"enc_cv7e2_title" = "Karşılaşma 2";
+
+//Encounter 3
+"enc_cv7e3_title" = "Karşılaşma 3";
+
+//Encounter 4
+"enc_cv7e4_title" = "Karşılaşma 4";
+
+//Encounter 5
+"enc_cv7e5_title" = "Bonus Raunt";
+
+//Encounter 6
+"enc_cv7e6_title" = "Karşılaşma 6";
+
+//Encounter 7
+"enc_cv7e7_title" = "Karşılaşma 7";
+
+//Encounter 8
+"enc_cv7e8_title" = "Karşılaşma 8";
+
+//Encounter 9
+"enc_cv7e9_title" = "Karşılaşma 9";
+
+//Encounter 10
+"enc_cv7e10_title" = "Bonus Raunt";
+
+//Encounter 11
+"enc_cv7e11_title" = "Karşılaşma 11";
+
+//Encounter 12
+"enc_cv7e12_title" = "Karşılaşma 12";
+
+//Encounter 13
+"enc_cv7e13_title" = "Karşılaşma 13";
+
+//Encounter 14
+"enc_cv7e14_title" = "Karşılaşma 14";
+
+//Encounter 15
+"enc_cv7e15_title" = "Bonus Raunt";
+
+/* End Cavern 7 */
+
+
+
+/***** Story *****/
+
+/* Treasure Chapter */
+
+//"ch_treasure_name" = "Treasure";
+//"ch_treasure_subtitle" = "";
+
+// encounters
+//"enc_treasure_large_title" = "Treasure Chamber";
+//"enc_treasure_small_title" = "Treasure Den";
+
+/* End Treasure Chapter */
+
+/* Chapter 1 */
+"ch_chapter1_name" = "Bölüm 1";
+"ch_chapter1_subtitle" = "Antrenman";
+
+//Encounter 1
+"enc_c1e1_title" = "Mağara Trolü";
+
+//Encounter 2
+"enc_c1e2_title" = "İyİleşme";
+
+//Encounter 3
+"enc_c1e3_title" = "Sülükşör";
+
+//Encounter 4
+"enc_c1e4_title" = "Muhteşem Pronto";
+
+/* End Chapter 1 */
+
+
+
+/* Chapter 2 */
+
+"ch_chapter2_name" = "Bölüm 2";
+"ch_chapter2_subtitle" = "Turnuva";
+
+//Encounter 1
+"enc_c2e1_title" = "Bİrİncİ Raunt";
+
+//Encounter 2
+"enc_c2e2_title" = "Soğuk Algınlığı";
+
+//Encounter 3
+"enc_c2e3_title" = "Işıklar Kamera Motor!";
+
+//Encounter 4
+"enc_c2e4_title" = "Paratoner";
+
+//Encounter 5
+"enc_c2e5_title" = "Soytarılar ve Krallar";
+
+//Encounter 6
+"enc_c2e6_title" = "Çeyrek Fİnaller";
+
+//Encounter 7
+"enc_c2e7_title" = "Üç Kopya";
+
+
+
+//Encounter 8
+"enc_c2e8_title" = "Bİr Uyarı!";
+
+//Encounter 9
+"enc_c2e9_title" = "Bonus Raunt";
+
+//Encounter 10
+"enc_c2e10_title" = "Ara";
+
+//Encounter 11
+"enc_c2e11_title" = "Bull";
+
+/* End Chapter 2 */
+
+
+
+/* Chapter 3 */
+"ch_chapter3_name" = "Bölüm 3";
+"ch_chapter3_subtitle" = "Holİgan Çetesİ";
+
+//Encounter 1
+"enc_c3e1_title" = "Kaçırıldı";
+
+//Encounter 2
+"enc_c3e2_title" = "Hep Kazananlar";
+
+
+
+//Encounter 3
+"enc_c3e3_title" = "Tozlu Vadİ";
+
+//Encounter 4
+"enc_c3e4_title" = "Paralı Asker";
+
+//Encounter 5
+"enc_c3e5_title" = "Köstebek Savaşı";
+
+//Encounter 6
+"enc_c3e6_title" = "Kral Geliyor";
+
+//Encounter 7
+"enc_c3e7_title" = "Kırık Gözlük";
+
+//Encounter 8
+"enc_c3e8_title" = "Hazırlıklar";
+
+//Encounter 9
+"enc_c3e9_title" = "Holİgan Çetesİ";
+
+
+
+//Encounter 10
+"enc_c3e10_title" = "Bonus Raunt";
+
+//Encounter 11
+"enc_c3e11_title" = "Komuta Zİncİrİ";
+
+
+/* End Chapter 3 */
+
+
+
+/* Chapter 4 */
+
+"ch_chapter4_name" = "Bölüm 4";
+"ch_chapter4_subtitle" = "Alevlerin Arasından";
+
+//Encounter 1
+"enc_c4e1_title" = "Gölge Klanı";
+
+//Encounter 2
+"enc_c4e2_title" = "Rövanş";
+
+//Encounter 3
+"enc_c4e3_title" = "Hamburger Zamanı";
+
+//Encounter 4
+"enc_c4e4_title" = "Doombot 1.0";
+
+//Encounter 5
+"enc_c4e5_title" = "Lav Çukuru";
+
+//Encounter 6
+"enc_c4e6_title" = "Ateş Gücü";
+
+//Encounter 7
+"enc_c4e7_title" = "Engel";
+
+//Encounter 8
+"enc_c4e8_title" = "Karanlık Su Gölgeleri";
+
+//Encounter 9
+"enc_c4e9_title" = "Cumar-dersİ";
+
+//Encounter 10
+"enc_c4e10_title" = "Right Hand";
+
+//Encounter 11
+"enc_c4e11_title" = "Bonus Raunt";
+
+/* End Chapter 4 */
+
+
+
+/* Chapter 5 */
+
+"ch_chapter5_name" = "Bölüm 5";
+"ch_chapter5_subtitle" = "Blakk Su";
+
+//Encounter 1
+"enc_c5e1_title" = "İyİleştİricİ Dokunuş";
+
+//Encounter 2
+"enc_c5e2_title" = "En Yüksek Teklİfİ Veren";
+
+//Encounter 3
+"enc_c5e3_title" = "Bİtmeyen Kavga";
+
+//Encounter 4
+"enc_c5e4_title" = "Yenİ ve Gelİşmİş";
+
+//Encounter 5
+"enc_c5e5_title" = "Gözetİm ve Uyarı";
+
+//Encounter 6
+"enc_c5e6_title" = "Yeraltı Dünyası Güvenlİğİ";
+
+
+
+//Encounter 7
+"enc_c5e7_title" = "Katır Kutur";
+
+//Encounter 8
+"enc_c5e8_title" = "Locke ve Anahtar";
+
+
+//Encounter 9
+"enc_c5e9_title" = "Canavarlar";
+
+//Encounter 10
+"enc_c5e10_title" = "Karartma";
+
+
+/* End Chapter 5 */
+
+
+
+/* Chapter 6 */
+
+"ch_chapter6_name" = "Bölüm 6";
+"ch_chapter6_subtitle" = "Hüküm Günü";
+
+//Encounter 1
+"enc_c6e1_title" = "Kandırılmış";
+
+//Encounter 2
+"enc_c6e2_title" = "Bonus Raunt";
+
+//Encounter 3
+"enc_c6e3_title" = "Fİrar";
+
+//Encounter 4
+"enc_c6e4_title" = "Güvenlİk İhlalİ";
+
+//Encounter 5
+"enc_c6e5_title" = "Akşam Yemeğİ";
+
+//Encounter 6
+"enc_c6e6_title" = "Beklenmedİk Sonuç";
+
+//Encounter 7
+"enc_c6e7_title" = "İntİkam";
+
+//Encounter 8
+"enc_c6e8_title" = "Yaratıklı Korku Fİlmİ";
+
+
+
+//Encounter 9
+"enc_c6e9_title" = "Çılgınlık";
+
+//Encounter 10
+"enc_c6e10_title" = "Zorlu Sınav";
+
+/* End Chapter 6 */
+
+/* Chapter 7 */
+
+"ch_chapter7_name" = "Bölüm 7";
+"ch_chapter7_subtitle" = "Gemiler Göründü";
+
+//Encounter 1
+"enc_c7e1_title" = "Kanallar";
+
+//Encounter 2
+"enc_c7e2_title" = "Korsanlar!";
+
+//Encounter 3
+"enc_c7e3_title" = "Zafere Dönüş";
+
+//Encounter 4
+"enc_c7e4_title" = "Dİrek Tepesİ";
+
+//Encounter 5
+"enc_c7e5_title" = "Bİrİncİ Kaptan";
+
+//Encounter 6
+"enc_c7e6_title" = "Sudakİ Köpek Balıkları";
+
+//Encounter 7
+"enc_c7e7_title" = "Top Mermİsİ";
+
+//Encounter 8
+"enc_c7e8_title" = "Bonus Raunt";
+
+//Encounter 9
+"enc_c7e9_title" = "Rıhtımlar";
+
+//Encounter 10
+"enc_c7e10_title" = "Kaptan Malvolİo Drake";
+
+
+
+/* End Chapter 7 */
+
+/* Chapter 8 */
+
+"ch_chapter8_name" = "Bölüm 8";
+"ch_chapter8_subtitle" = "Yeni Kral";
+
+//Encounter 1
+"enc_c8e1_title" = "MESAJ";
+
+//Encounter 2
+"enc_c8e2_title" = "İSTİHBARAT";
+
+//Encounter 3
+"enc_c8e3_title" = "KABOOM VE KABLAM";
+
+//Encounter 4
+"enc_c8e4_title" = "KÖSTEBEK KRALLIĞI";
+
+//Encounter 5
+"enc_c8e5_title" = "SHAME ÇETESİ";
+
+//Encounter 6
+"enc_c8e6_title" = "ŞAKACI";
+
+//Encounter 7
+"enc_c8e7_title" = "ÇOK YAZIK";
+
+//Encounter 8
+"enc_c8e8_title" = "Bonus Raunt";
+
+//Encounter 9
+"enc_c8e9_title" = "HER KÖŞEDE BİR KRAL";
+
+//Encounter 10
+"enc_c8e10_title" = "KÖSTEBEK GÜCÜ";
+
+/* End Chapter 8 */
+
+/* Chapter 9 */
+
+"ch_chapter9_name" = "Bölüm 9";
+"ch_chapter9_subtitle" = "Yenİlmez";
+
+//Encounter 1 - The Trips
+"enc_c9e1_title" = "Üç Sınav";
+
+//Encounter 2
+"enc_c9e2_title" = "Bonus Raunt";
+
+//Encounter 3 - Sid the Kid
+"enc_c9e3_title" = "Değersiz";
+
+//Encounter 4 - King of Sling
+"enc_c9e4_title" = "Kral ya da Efendi";
+
+//Encounter 5 - Trixie
+"enc_c9e5_title" = "Böyle Arkadaş";
+
+//Encounter 6 - Fake Duelist
+"enc_c9e6_title" = "Gizemli Adam";
+
+//Encounter 7 - Unbeatable Master
+"enc_c9e7_title" = "Sınav";
+
+//Encounter 8 - Young Dr. Blakk
+"enc_c9e8_title" = "Uzun Zaman Önce";
+
+//Encounter 9 - Twist
+"enc_c9e9_title" = "Çarpık";
+
+//Encounter 10 - Dr. Blakk
+"enc_c9e10_title" = "Ustadan Sonra";
+
+/* End Chapter 9 */
+
+/* Chapter 10 */
+
+"ch_chapter10_name" = "Bölüm 10";
+"ch_chapter10_subtitle" = "Derİn Depo";
+
+//Encounter 1 - Broken Auto-Cannon
+"enc_c10e1_title" = "Hurda Yığını";
+
+//Encounter 2 - Doombot 1.0 & Doombot 2.0
+"enc_c10e2_title" = "Robotların Dönüşü";
+
+//Encounter 3 - Mecha-Mole
+"enc_c10e3_title" = "Mekanİk Canavar";
+
+//Encounter 4 - Tough Guy Gang Member #1 -
+"enc_c10e4_title" = "Çeteleşme";
+
+//Encounter 5 - Tough Guy Gang Member #2 - Welder
+"enc_c10e5_title" = "Düşman Bölgesİ";
+
+//Encounter 6 - Tough Guy Gang Member #3 - Neckbrace
+"enc_c10e6_title" = "Hurda Fİyatı";
+
+//Encounter 7 - Tough Guy Gang Member #4 - Troll
+"enc_c10e7_title" = "En İrİ Yarı Adam";
+
+//Encounter 8 - Boss Ember
+"enc_c10e8_title" = "Büyük Patron";
+
+//Encounter 9
+"enc_c10e9_title" = "Bonus Raunt";
+
+//Encounter 10 - Angry Boss Ember
+"enc_c10e10_title" = "Kızgın Patron Ember";
+
+/* End Chapter 10 */
+
+/* Chapter 11 */
+
+"ch_chapter11_name" = "Bölüm 11";
+"ch_chapter11_subtitle" = "Paslı Toka Kavgacıları";
+
+//Encounter 1 - Glasses
+"enc_c11e1_title" = "Fıstıklar!";
+
+//Encounter 2 - Shorty
+"enc_c11e2_title" = "Kıyılmış";
+
+//Encounter 3 - Billy
+"enc_c11e3_title" = "Billy'nin Diyeti";
+
+//Encounter 4 - Jeen
+"enc_c11e4_title" = "Göğüs Presi";
+
+//Encounter 5 - Trapsie
+"enc_c11e5_title" = "Hapsedilmiş";
+
+//Encounter 6 - Alias
+"enc_c11e6_title" = "En Yakışıklı";
+
+//Encounter 7 - Welder Walter and Lil Stevie
+"enc_c11e7_title" = "Kötü Adam Özgeçmişi";
+
+//Encounter 8 - Mongo
+"enc_c11e8_title" = "Gönüllülük";
+
+//Encounter 9 - Straggus
+"enc_c11e9_title" = "Lambaları Kıs";
+
+//Encounter 10 - Billy, Alias and Straggus
+"enc_c11e10_title" = "Dostluğun Gücü";
+
+/* End Chapter 11 */
+
+/* Chapter 12 */
+
+"ch_chapter12_name" = "Bölüm 12";
+"ch_chapter12_subtitle" = "The Deep Dark";
+
+//Encounter 1 - Blakk Soldier & John Bull
+"enc_c12e1_title" = "Köşeye Kıstırılmış";
+
+//Encounter 2 - Nacho
+"enc_c12e2_title" = "Scared of Heights";
+
+//Encounter 3 - Darkbane Soldier 1
+"enc_c12e3_title" = "Fireballs";
+
+//Encounter 4 - Darkbane Soldier 2
+"enc_c12e4_title" = "Vraaaooorrrr!";
+
+//Encounter 5 - Darkbane Soldier 3
+"enc_c12e5_title" = "More Fireballs!";
+
+//Encounter 6 - Shadow Clan Protector
+"enc_c12e6_title" = "Guardians";
+
+//Encounter 7 - Prison Door
+"enc_c12e7_title" = "Hard Choices";
+
+//Encounter 8 - Prison Guards
+"enc_c12e8_title" = "Sound the Alarm";
+
+//Encounter 9 - Prison Warden
+"enc_c12e9_title" = "Prison Poetry";
+
+//Encounter 10 - Darkbane Nacho
+"enc_c12e10_title" = "Right Hand";
+
+/* End Chapter 12 */
+
+
+/* Chapter 13 */
+
+"ch_chapter13_name" = "Bölüm 13";
+"ch_chapter13_subtitle" = "Fire and Brimstone";
+
+//Encounter 1 - Darkbane 1
+"enc_c13e1_title" = "In the Dark";
+
+//Encounter 2 - Darkbane 2
+"enc_c13e2_title" = "Trial by Fireballs";
+
+//Encounter 3 - Darkbane 3
+"enc_c13e3_title" = "Gauntlet";
+
+//Encounter 4 - Prison Warden
+"enc_c13e4_title" = "The Worst Poem";
+
+//Encounter 5 - Bonus Round - Brimstone's Throne
+"enc_c13e5_title" = "Bonus Raunt";
+
+//Encounter 6 - Darkbane Elite 1 & 2
+"enc_c13e6_title" = "Elites";
+
+//Encounter 7 - Darkbane Nacho
+"enc_c13e7_title" = "Dark Magic";
+
+//Encounter 8 - Angry Nacho
+"enc_c13e8_title" = "Secrets";
+
+//Encounter 9 - Behemoth
+"enc_c13e9_title" = "Headstrong";
+
+//Encounter 10 - Brimstone
+"enc_c13e10_title" = "Destiny";
+
+/* End Chapter 13 */
+
+
+/* Chapter 14 */
+
+"ch_chapter14_name" = "Bölüm 14";
+"ch_chapter14_subtitle" = "Rüyaların İçinde";
+
+//Encounter 1 - Pronto, Kord and Trixie
+"enc_c14e1_title" = "Devre Dışı";
+
+//Encounter 2 - Dr.Blakk
+"enc_c14e2_title" = "Amnezi";
+
+//Encounter 3 - Spirex
+"enc_c14e3_title" = "Ağlar";
+
+//Encounter 4 - Eli
+"enc_c14e4_title" = "Yüz Yüze";
+
+//Encounter 5 - Young Blakk
+"enc_c14e5_title" = "Geçmişten Bir Anı";
+
+//Encounter 6 - Behemoth
+"enc_c14e6_title" = "Koca Adama";
+
+//Encounter 7 - Angry Blakk
+"enc_c14e7_title" = "Tavır Takınma";
+
+//Encounter 8 - Unbeatable Master
+"enc_c14e8_title" = "Gerçek Bilgelik";
+
+//Encounter 9 - Gat Blakk
+"enc_c14e9_title" = "Gat Saldırısı";
+
+//Encounter 10 - Will Shane
+"enc_c14e10_title" = "Tekrar Bir Arada";
+
+/* End Chapter 14 */
+
+/* Chapter 15 */
+
+"ch_chapter15_name" = "Bölüm 15";
+"ch_chapter15_subtitle" = "Blakk'e Dönüş";
+
+//Encounter 1 - Dr.Blakk
+"enc_c15e1_title" = "Uzun Zaman Önce";
+
+//Encounter 2 -
+"enc_c15e2_title" = "Zor Zamanlar";
+
+//Encounter 3 -
+"enc_c15e3_title" = "İş Üstünde";
+
+//Encounter 4 -
+"enc_c15e4_title" = "Silkelemek";
+
+//Encounter 5 - Will Shane
+"enc_c15e5_title" = "Yanlış Taraf";
+
+//Encounter 6 -
+"enc_c15e6_title" = "Ele Geçirme";
+
+//Encounter 7 - Will Shane
+"enc_c15e7_title" = "İlerleme";
+
+//Encounter 8 - Behemoth
+"enc_c15e8_title" = "Karanlık Bilgi";
+
+//Encounter 9 - Bonus
+"enc_c15e9_title" = "Bonus Raunt";
+
+//Encounter 10 - Will Shane
+"enc_c15e10_title" = "Destiny";
+
+//Encounter 11 - Dr.Blakk
+"enc_c15e11_title" = "Bulmacanın Bir Parçası";
+
+/* End Chapter 15 */
+
+/* Chapter 16 */
+
+"ch_chapter16_name" = "Bölüm 16";
+"ch_chapter16_subtitle" = "Gölge Geçidi";
+
+//Encounter 1 - Blakk Guard
+"enc_c16e1_title" = "Alfa Gücü";
+
+//Encounter 2 - Doombot
+"enc_c16e2_title" = "Savaş Robotu";
+
+//Encounter 3 - Elite Blakk Guard
+"enc_c16e3_title" = "Delta Gücü";
+
+//Encounter 4 - Locke and Lode
+"enc_c16e4_title" = "Şaşırtmacalar";
+
+//Encounter 5 - Darkbane Hartag and Darkbane Drek
+"enc_c16e5_title" = "Düşmanımın Dostları";
+
+//Encounter 6 - Darkbane Prison Warden
+"enc_c16e6_title" = "Parlak Ateş";
+
+//Encounter 7 - Nacho
+"enc_c16e7_title" = "İttifaklar";
+
+//Encounter 8 - Bonus
+"enc_c16e8_title" = "Bonus Raunt";
+
+//Encounter 9 - Titan
+"enc_c16e9_title" = "Konserve Açacağı";
+
+//Encounter 10 - Nacho
+"enc_c16e10_title" = "Yolu Hazırla";
+
+/* End Chapter 16 */
+
+/* Chapter 17 */
+
+"ch_chapter17_name" = "Bölüm 17";
+"ch_chapter17_subtitle" = "Gece Kadar Karanlık";
+
+//Encounter 1 - Red Hook
+"enc_c17e1_title" = "Ateş Gücü";
+
+//Encounter 2 - Elite Blakk Guard
+"enc_c17e2_title" = "Yeni İttifaklar";
+
+//Encounter 3 - Nacho
+"enc_c17e3_title" = "Karanlığın Elçisi";
+
+//Encounter 4 - Technician
+"enc_c17e4_title" = "Karanlık Bilimler";
+
+//Encounter 5 - Bonus
+"enc_c17e5_title" = "Toplu Çürüme";
+
+//Encounter 6 - Elite Blakk Guard
+"enc_c17e6_title" = "Hisarın Kalbi";
+
+//Encounter 7 - Dr. Blakk
+"enc_c17e7_title" = "Eski Dostlar";
+
+//Encounter 8 - Darkbane
+"enc_c17e8_title" = "Kapı Açılıyor 1";
+
+//Encounter 8 - Darkbane
+"enc_c17e9_title" = "Kapı Açılıyor 2";
+
+//Encounter 9 - Dr. Blakk
+"enc_c17e10_title" = "Gece Kadar Karanlık";
+
+//Encounter 10 - Bonus
+"enc_c17e11_title" = "Gündüz Kadar Aydınlık";
+
+/* End Chapter 17 */

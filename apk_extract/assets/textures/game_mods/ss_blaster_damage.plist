@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>game_mods/blaster_damage/graphic.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,2},{105,105}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{105,105}}</string>
+                <key>sourceSize</key>
+                <string>{105,105}</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>2</integer>
+            <key>realTextureFileName</key>
+            <string>ss_blaster_damage.pvr.ccz</string>
+            <key>size</key>
+            <string>{128,128}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:d07c48515f27350b2383b61713319d66:3caf3ff768d0b7f53439d76d972dee96:19c3e37d8871441dac6314ae2dcb316b$</string>
+            <key>textureFileName</key>
+            <string>ss_blaster_damage.pvr.ccz</string>
+        </dict>
+    </dict>
+</plist>

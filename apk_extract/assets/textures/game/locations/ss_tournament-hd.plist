@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>location/tournament/bg.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,2},{980,735}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{980,735}}</string>
+                <key>sourceSize</key>
+                <string>{980,735}</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>2</integer>
+            <key>realTextureFileName</key>
+            <string>ss_tournament-hd.pvr.ccz</string>
+            <key>size</key>
+            <string>{1024,1024}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:b898e95a850683954fc0e5674ea8fb80:b17a065f46ce9ccd219d94db99380a0d:07076e6ac08896b1768775c448d42b0f$</string>
+            <key>textureFileName</key>
+            <string>ss_tournament-hd.pvr.ccz</string>
+        </dict>
+    </dict>
+</plist>
