@@ -6,6 +6,10 @@ enum TileType: Int, CaseIterable {
     case plant = 3
     case electric = 4
     case earth = 5
+    
+    static func random() -> TileType {
+        return allCases.randomElement()!
+    }
 }
 
 class Tile: Hashable {

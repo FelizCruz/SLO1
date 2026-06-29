@@ -43,13 +43,16 @@ class Board {
         let tileA = swap.tileA
         let tileB = swap.tileB
         
-        tiles[tileA.column, tileA.row] = tileB
-        tileB.column = tileA.column
-        tileB.row = tileA.row
+        let columnA = tileA.column, rowA = tileA.row
+        let columnB = tileB.column, rowB = tileB.row
         
-        tiles[swap.tileB.column, swap.tileB.row] = tileA
-        tileA.column = swap.tileB.column
-        tileA.row = swap.tileB.row
+        tiles[columnA, rowA] = tileB
+        tiles[columnB, rowB] = tileA
+        
+        tileA.column = columnB
+        tileA.row = rowB
+        tileB.column = columnA
+        tileB.row = rowA
     }
     
     func isPossibleSwap(_ swap: Swap) -> Bool {
